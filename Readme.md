@@ -39,9 +39,9 @@ iso6393.all(); // A huge array with 7879 objects.
 
 See [the **datamap-interface** API](https://github.com/wooorm/datamap-interface).
 
-## Tags
+## Support
 
-See [Supported-tags.md](Supported-tags.md).
+See [Supported-codes.md](Supported-codes.md).
 
 ## License
 
