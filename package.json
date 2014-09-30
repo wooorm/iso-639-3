@@ -1,0 +1,47 @@
+{
+  "name": "iso-639-3",
+  "version": "0.0.1",
+  "description": "ISO-639-3 codes in an accessible format",
+  "license": "MIT",
+  "keywords": [
+    "iso-639-3",
+    "iso",
+    "639",
+    "3",
+    "language",
+    "code",
+    "name",
+    "information"
+  ],
+  "author": "Titus Wormer <tituswormer@gmail.com>",
+  "dependencies": {
+    "datamap-interface": "^0.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^0.8.0",
+    "istanbul": "^0.3.0",
+    "jscs": "^1.5.0",
+    "mocha": "^1.20.0",
+    "plain-text-data-to-json": "^0.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wooorm/iso-639-3.git"
+  },
+  "scripts": {
+    "test": "node_modules/.bin/_mocha --reporter spec --check-leaks -u exports spec/iso-639-3.spec.js",
+    "test-travis": "node_modules/.bin/istanbul cover node_modules/.bin/_mocha --report lcovonly -- --reporter spec --check-leaks -u exports spec/iso-639-3.spec.js",
+    "lint": "npm run lint-api && npm run lint-test && npm run lint-style",
+    "lint-api": "node_modules/.bin/eslint index.js build-data.js build-support.js --env node --env browser --rule 'quotes: [2, single]'",
+    "lint-test": "node_modules/.bin/eslint spec/iso-639-3.spec.js --env node --env mocha --rule 'quotes: [2, single]'",
+    "lint-style": "node_modules/.bin/jscs index.js build-data.js build-support.js spec/iso-639-3.spec.js --reporter=inline",
+    "scrape-data": "curl --connect-timeout 15 --max-time 20 -L http://www-01.sil.org/iso639%2D3/iso-639-3_Code_Tables_20140320.zip -o data/iso-639-3.zip || exit 0",
+    "unzip-data": "unzip -o -d data data/iso-639-3.zip || exit 0",
+    "clean-data": "mv data/iso-639-3_Code_Tables_20140320/iso-639-3_20140320.tab data/iso-639-3.txt && rm -rf data/iso-639-3_Code_Tables_20140320 || exit 0",
+    "build-data": "node build-data.js || exit 0",
+    "build-support": "node build-support.js",
+    "coverage": "node_modules/.bin/istanbul cover node_modules/.bin/_mocha -- -- spec/iso-639-3.spec.js",
+    "prepublish": "npm run scrape-data && npm run unzip-data && npm run clean-data && npm run build-data",
+    "make": "npm run lint && npm run coverage"
+  }
+}

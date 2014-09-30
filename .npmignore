@@ -1,0 +1,7 @@
+node_modules
+.DS_Store
+coverage
+.travis.yml
+*.log
+data/iso-639-3.zip
+data/iso-639-3.txt
