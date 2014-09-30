@@ -1,7886 +1,7882 @@
 Supported Codes
 =================
 
-Additionally to this list, there are also combinations returned, such as `NNP|VBN` for `England-born`.
-
-| ISO-639-3 | ISO-639-2B | ISO-639-2T | ISO-639-1 | scope | type |
-| :-------: | :--------: | :--------: | :-------: | :---: | :--: |
-| aaa |  |  |  | individual | living |
-| aab |  |  |  | individual | living |
-| aac |  |  |  | individual | living |
-| aad |  |  |  | individual | living |
-| aae |  |  |  | individual | living |
-| aaf |  |  |  | individual | living |
-| aag |  |  |  | individual | living |
-| aah |  |  |  | individual | living |
-| aai |  |  |  | individual | living |
-| aak |  |  |  | individual | living |
-| aal |  |  |  | individual | living |
-| aam |  |  |  | individual | living |
-| aan |  |  |  | individual | living |
-| aao |  |  |  | individual | living |
-| aap |  |  |  | individual | living |
-| aaq |  |  |  | individual | extinct |
-| aar | aar | aar | aa | individual | living |
-| aas |  |  |  | individual | living |
-| aat |  |  |  | individual | living |
-| aau |  |  |  | individual | living |
-| aaw |  |  |  | individual | living |
-| aax |  |  |  | individual | living |
-| aaz |  |  |  | individual | living |
-| aba |  |  |  | individual | living |
-| abb |  |  |  | individual | living |
-| abc |  |  |  | individual | living |
-| abd |  |  |  | individual | living |
-| abe |  |  |  | individual | extinct |
-| abf |  |  |  | individual | living |
-| abg |  |  |  | individual | living |
-| abh |  |  |  | individual | living |
-| abi |  |  |  | individual | living |
-| abj |  |  |  | individual | extinct |
-| abk | abk | abk | ab | individual | living |
-| abl |  |  |  | individual | living |
-| abm |  |  |  | individual | living |
-| abn |  |  |  | individual | living |
-| abo |  |  |  | individual | living |
-| abp |  |  |  | individual | living |
-| abq |  |  |  | individual | living |
-| abr |  |  |  | individual | living |
-| abs |  |  |  | individual | living |
-| abt |  |  |  | individual | living |
-| abu |  |  |  | individual | living |
-| abv |  |  |  | individual | living |
-| abw |  |  |  | individual | living |
-| abx |  |  |  | individual | living |
-| aby |  |  |  | individual | living |
-| abz |  |  |  | individual | living |
-| aca |  |  |  | individual | living |
-| acb |  |  |  | individual | living |
-| acd |  |  |  | individual | living |
-| ace | ace | ace |  | individual | living |
-| acf |  |  |  | individual | living |
-| ach | ach | ach |  | individual | living |
-| aci |  |  |  | individual | extinct |
-| ack |  |  |  | individual | extinct |
-| acl |  |  |  | individual | extinct |
-| acm |  |  |  | individual | living |
-| acn |  |  |  | individual | living |
-| acp |  |  |  | individual | living |
-| acq |  |  |  | individual | living |
-| acr |  |  |  | individual | living |
-| acs |  |  |  | individual | extinct |
-| act |  |  |  | individual | living |
-| acu |  |  |  | individual | living |
-| acv |  |  |  | individual | living |
-| acw |  |  |  | individual | living |
-| acx |  |  |  | individual | living |
-| acy |  |  |  | individual | living |
-| acz |  |  |  | individual | living |
-| ada | ada | ada |  | individual | living |
-| adb |  |  |  | individual | living |
-| add |  |  |  | individual | living |
-| ade |  |  |  | individual | living |
-| adf |  |  |  | individual | living |
-| adg |  |  |  | individual | living |
-| adh |  |  |  | individual | living |
-| adi |  |  |  | individual | living |
-| adj |  |  |  | individual | living |
-| adl |  |  |  | individual | living |
-| adn |  |  |  | individual | living |
-| ado |  |  |  | individual | living |
-| adp |  |  |  | individual | living |
-| adq |  |  |  | individual | living |
-| adr |  |  |  | individual | living |
-| ads |  |  |  | individual | living |
-| adt |  |  |  | individual | living |
-| adu |  |  |  | individual | living |
-| adw |  |  |  | individual | living |
-| adx |  |  |  | individual | living |
-| ady | ady | ady |  | individual | living |
-| adz |  |  |  | individual | living |
-| aea |  |  |  | individual | extinct |
-| aeb |  |  |  | individual | living |
-| aec |  |  |  | individual | living |
-| aed |  |  |  | individual | living |
-| aee |  |  |  | individual | living |
-| aek |  |  |  | individual | living |
-| ael |  |  |  | individual | living |
-| aem |  |  |  | individual | living |
-| aen |  |  |  | individual | living |
-| aeq |  |  |  | individual | living |
-| aer |  |  |  | individual | living |
-| aes |  |  |  | individual | extinct |
-| aeu |  |  |  | individual | living |
-| aew |  |  |  | individual | living |
-| aey |  |  |  | individual | living |
-| aez |  |  |  | individual | living |
-| afb |  |  |  | individual | living |
-| afd |  |  |  | individual | living |
-| afe |  |  |  | individual | living |
-| afg |  |  |  | individual | living |
-| afh | afh | afh |  | individual | constructed |
-| afi |  |  |  | individual | living |
-| afk |  |  |  | individual | living |
-| afn |  |  |  | individual | living |
-| afo |  |  |  | individual | living |
-| afp |  |  |  | individual | living |
-| afr | afr | afr | af | individual | living |
-| afs |  |  |  | individual | living |
-| aft |  |  |  | individual | living |
-| afu |  |  |  | individual | living |
-| afz |  |  |  | individual | living |
-| aga |  |  |  | individual | extinct |
-| agb |  |  |  | individual | living |
-| agc |  |  |  | individual | living |
-| agd |  |  |  | individual | living |
-| age |  |  |  | individual | living |
-| agf |  |  |  | individual | living |
-| agg |  |  |  | individual | living |
-| agh |  |  |  | individual | living |
-| agi |  |  |  | individual | living |
-| agj |  |  |  | individual | living |
-| agk |  |  |  | individual | living |
-| agl |  |  |  | individual | living |
-| agm |  |  |  | individual | living |
-| agn |  |  |  | individual | living |
-| ago |  |  |  | individual | living |
-| agq |  |  |  | individual | living |
-| agr |  |  |  | individual | living |
-| ags |  |  |  | individual | living |
-| agt |  |  |  | individual | living |
-| agu |  |  |  | individual | living |
-| agv |  |  |  | individual | living |
-| agw |  |  |  | individual | living |
-| agx |  |  |  | individual | living |
-| agy |  |  |  | individual | living |
-| agz |  |  |  | individual | living |
-| aha |  |  |  | individual | living |
-| ahb |  |  |  | individual | living |
-| ahg |  |  |  | individual | living |
-| ahh |  |  |  | individual | living |
-| ahi |  |  |  | individual | living |
-| ahk |  |  |  | individual | living |
-| ahl |  |  |  | individual | living |
-| ahm |  |  |  | individual | living |
-| ahn |  |  |  | individual | living |
-| aho |  |  |  | individual | extinct |
-| ahp |  |  |  | individual | living |
-| ahr |  |  |  | individual | living |
-| ahs |  |  |  | individual | living |
-| aht |  |  |  | individual | living |
-| aia |  |  |  | individual | living |
-| aib |  |  |  | individual | living |
-| aic |  |  |  | individual | living |
-| aid |  |  |  | individual | extinct |
-| aie |  |  |  | individual | living |
-| aif |  |  |  | individual | living |
-| aig |  |  |  | individual | living |
-| aih |  |  |  | individual | living |
-| aii |  |  |  | individual | living |
-| aij |  |  |  | individual | living |
-| aik |  |  |  | individual | living |
-| ail |  |  |  | individual | living |
-| aim |  |  |  | individual | living |
-| ain | ain | ain |  | individual | living |
-| aio |  |  |  | individual | living |
-| aip |  |  |  | individual | living |
-| aiq |  |  |  | individual | living |
-| air |  |  |  | individual | living |
-| ais |  |  |  | individual | living |
-| ait |  |  |  | individual | extinct |
-| aiw |  |  |  | individual | living |
-| aix |  |  |  | individual | living |
-| aiy |  |  |  | individual | living |
-| aja |  |  |  | individual | living |
-| ajg |  |  |  | individual | living |
-| aji |  |  |  | individual | living |
-| ajn |  |  |  | individual | living |
-| ajp |  |  |  | individual | living |
-| ajt |  |  |  | individual | living |
-| aju |  |  |  | individual | living |
-| ajw |  |  |  | individual | extinct |
-| ajz |  |  |  | individual | living |
-| aka | aka | aka | ak | macrolanguage | living |
-| akb |  |  |  | individual | living |
-| akc |  |  |  | individual | living |
-| akd |  |  |  | individual | living |
-| ake |  |  |  | individual | living |
-| akf |  |  |  | individual | living |
-| akg |  |  |  | individual | living |
-| akh |  |  |  | individual | living |
-| aki |  |  |  | individual | living |
-| akj |  |  |  | individual | extinct |
-| akk | akk | akk |  | individual | ancient |
-| akl |  |  |  | individual | living |
-| akm |  |  |  | individual | extinct |
-| ako |  |  |  | individual | living |
-| akp |  |  |  | individual | living |
-| akq |  |  |  | individual | living |
-| akr |  |  |  | individual | living |
-| aks |  |  |  | individual | living |
-| akt |  |  |  | individual | living |
-| aku |  |  |  | individual | living |
-| akv |  |  |  | individual | living |
-| akw |  |  |  | individual | living |
-| akx |  |  |  | individual | extinct |
-| aky |  |  |  | individual | extinct |
-| akz |  |  |  | individual | living |
-| ala |  |  |  | individual | living |
-| alc |  |  |  | individual | living |
-| ald |  |  |  | individual | living |
-| ale | ale | ale |  | individual | living |
-| alf |  |  |  | individual | living |
-| alh |  |  |  | individual | living |
-| ali |  |  |  | individual | living |
-| alj |  |  |  | individual | living |
-| alk |  |  |  | individual | living |
-| all |  |  |  | individual | living |
-| alm |  |  |  | individual | living |
-| aln |  |  |  | individual | living |
-| alo |  |  |  | individual | living |
-| alp |  |  |  | individual | living |
-| alq |  |  |  | individual | living |
-| alr |  |  |  | individual | living |
-| als |  |  |  | individual | living |
-| alt | alt | alt |  | individual | living |
-| alu |  |  |  | individual | living |
-| alw |  |  |  | individual | living |
-| alx |  |  |  | individual | living |
-| aly |  |  |  | individual | living |
-| alz |  |  |  | individual | living |
-| ama |  |  |  | individual | extinct |
-| amb |  |  |  | individual | living |
-| amc |  |  |  | individual | living |
-| ame |  |  |  | individual | living |
-| amf |  |  |  | individual | living |
-| amg |  |  |  | individual | living |
-| amh | amh | amh | am | individual | living |
-| ami |  |  |  | individual | living |
-| amj |  |  |  | individual | living |
-| amk |  |  |  | individual | living |
-| aml |  |  |  | individual | living |
-| amm |  |  |  | individual | living |
-| amn |  |  |  | individual | living |
-| amo |  |  |  | individual | living |
-| amp |  |  |  | individual | living |
-| amq |  |  |  | individual | living |
-| amr |  |  |  | individual | living |
-| ams |  |  |  | individual | living |
-| amt |  |  |  | individual | living |
-| amu |  |  |  | individual | living |
-| amv |  |  |  | individual | living |
-| amw |  |  |  | individual | living |
-| amx |  |  |  | individual | living |
-| amy |  |  |  | individual | living |
-| amz |  |  |  | individual | extinct |
-| ana |  |  |  | individual | extinct |
-| anb |  |  |  | individual | extinct |
-| anc |  |  |  | individual | living |
-| and |  |  |  | individual | living |
-| ane |  |  |  | individual | living |
-| anf |  |  |  | individual | living |
-| ang | ang | ang |  | individual | historical |
-| anh |  |  |  | individual | living |
-| ani |  |  |  | individual | living |
-| anj |  |  |  | individual | living |
-| ank |  |  |  | individual | living |
-| anl |  |  |  | individual | living |
-| anm |  |  |  | individual | living |
-| ann |  |  |  | individual | living |
-| ano |  |  |  | individual | living |
-| anp | anp | anp |  | individual | living |
-| anq |  |  |  | individual | living |
-| anr |  |  |  | individual | living |
-| ans |  |  |  | individual | extinct |
-| ant |  |  |  | individual | living |
-| anu |  |  |  | individual | living |
-| anv |  |  |  | individual | living |
-| anw |  |  |  | individual | living |
-| anx |  |  |  | individual | living |
-| any |  |  |  | individual | living |
-| anz |  |  |  | individual | living |
-| aoa |  |  |  | individual | living |
-| aob |  |  |  | individual | living |
-| aoc |  |  |  | individual | living |
-| aod |  |  |  | individual | living |
-| aoe |  |  |  | individual | living |
-| aof |  |  |  | individual | living |
-| aog |  |  |  | individual | living |
-| aoh |  |  |  | individual | extinct |
-| aoi |  |  |  | individual | living |
-| aoj |  |  |  | individual | living |
-| aok |  |  |  | individual | living |
-| aol |  |  |  | individual | living |
-| aom |  |  |  | individual | living |
-| aon |  |  |  | individual | living |
-| aor |  |  |  | individual | extinct |
-| aos |  |  |  | individual | living |
-| aot |  |  |  | individual | living |
-| aou |  |  |  | individual | living |
-| aox |  |  |  | individual | living |
-| aoz |  |  |  | individual | living |
-| apb |  |  |  | individual | living |
-| apc |  |  |  | individual | living |
-| apd |  |  |  | individual | living |
-| ape |  |  |  | individual | living |
-| apf |  |  |  | individual | living |
-| apg |  |  |  | individual | living |
-| aph |  |  |  | individual | living |
-| api |  |  |  | individual | living |
-| apj |  |  |  | individual | living |
-| apk |  |  |  | individual | living |
-| apl |  |  |  | individual | living |
-| apm |  |  |  | individual | living |
-| apn |  |  |  | individual | living |
-| apo |  |  |  | individual | living |
-| app |  |  |  | individual | living |
-| apq |  |  |  | individual | living |
-| apr |  |  |  | individual | living |
-| aps |  |  |  | individual | living |
-| apt |  |  |  | individual | living |
-| apu |  |  |  | individual | living |
-| apv |  |  |  | individual | extinct |
-| apw |  |  |  | individual | living |
-| apx |  |  |  | individual | living |
-| apy |  |  |  | individual | living |
-| apz |  |  |  | individual | living |
-| aqc |  |  |  | individual | living |
-| aqd |  |  |  | individual | living |
-| aqg |  |  |  | individual | living |
-| aqm |  |  |  | individual | living |
-| aqn |  |  |  | individual | living |
-| aqp |  |  |  | individual | extinct |
-| aqr |  |  |  | individual | living |
-| aqt |  |  |  | individual | living |
-| aqz |  |  |  | individual | living |
-| ara | ara | ara | ar | macrolanguage | living |
-| arb |  |  |  | individual | living |
-| arc | arc | arc |  | individual | ancient |
-| ard |  |  |  | individual | extinct |
-| are |  |  |  | individual | living |
-| arg | arg | arg | an | individual | living |
-| arh |  |  |  | individual | living |
-| ari |  |  |  | individual | living |
-| arj |  |  |  | individual | extinct |
-| ark |  |  |  | individual | living |
-| arl |  |  |  | individual | living |
-| arn | arn | arn |  | individual | living |
-| aro |  |  |  | individual | living |
-| arp | arp | arp |  | individual | living |
-| arq |  |  |  | individual | living |
-| arr |  |  |  | individual | living |
-| ars |  |  |  | individual | living |
-| aru |  |  |  | individual | extinct |
-| arv |  |  |  | individual | living |
-| arw | arw | arw |  | individual | living |
-| arx |  |  |  | individual | living |
-| ary |  |  |  | individual | living |
-| arz |  |  |  | individual | living |
-| asa |  |  |  | individual | living |
-| asb |  |  |  | individual | living |
-| asc |  |  |  | individual | living |
-| asd |  |  |  | individual | living |
-| ase |  |  |  | individual | living |
-| asf |  |  |  | individual | living |
-| asg |  |  |  | individual | living |
-| ash |  |  |  | individual | extinct |
-| asi |  |  |  | individual | living |
-| asj |  |  |  | individual | living |
-| ask |  |  |  | individual | living |
-| asl |  |  |  | individual | living |
-| asm | asm | asm | as | individual | living |
-| asn |  |  |  | individual | living |
-| aso |  |  |  | individual | living |
-| asp |  |  |  | individual | living |
-| asq |  |  |  | individual | living |
-| asr |  |  |  | individual | living |
-| ass |  |  |  | individual | living |
-| ast | ast | ast |  | individual | living |
-| asu |  |  |  | individual | living |
-| asv |  |  |  | individual | living |
-| asw |  |  |  | individual | living |
-| asx |  |  |  | individual | living |
-| asy |  |  |  | individual | living |
-| asz |  |  |  | individual | living |
-| ata |  |  |  | individual | living |
-| atb |  |  |  | individual | living |
-| atc |  |  |  | individual | extinct |
-| atd |  |  |  | individual | living |
-| ate |  |  |  | individual | living |
-| atg |  |  |  | individual | living |
-| ati |  |  |  | individual | living |
-| atj |  |  |  | individual | living |
-| atk |  |  |  | individual | living |
-| atl |  |  |  | individual | living |
-| atm |  |  |  | individual | living |
-| atn |  |  |  | individual | living |
-| ato |  |  |  | individual | living |
-| atp |  |  |  | individual | living |
-| atq |  |  |  | individual | living |
-| atr |  |  |  | individual | living |
-| ats |  |  |  | individual | living |
-| att |  |  |  | individual | living |
-| atu |  |  |  | individual | living |
-| atv |  |  |  | individual | living |
-| atw |  |  |  | individual | living |
-| atx |  |  |  | individual | living |
-| aty |  |  |  | individual | living |
-| atz |  |  |  | individual | living |
-| aua |  |  |  | individual | living |
-| aub |  |  |  | individual | living |
-| auc |  |  |  | individual | living |
-| aud |  |  |  | individual | living |
-| aue |  |  |  | individual | living |
-| aug |  |  |  | individual | living |
-| auh |  |  |  | individual | living |
-| aui |  |  |  | individual | living |
-| auj |  |  |  | individual | living |
-| auk |  |  |  | individual | living |
-| aul |  |  |  | individual | living |
-| aum |  |  |  | individual | living |
-| aun |  |  |  | individual | living |
-| auo |  |  |  | individual | extinct |
-| aup |  |  |  | individual | living |
-| auq |  |  |  | individual | living |
-| aur |  |  |  | individual | living |
-| aut |  |  |  | individual | living |
-| auu |  |  |  | individual | living |
-| auw |  |  |  | individual | living |
-| aux |  |  |  | individual | extinct |
-| auy |  |  |  | individual | living |
-| auz |  |  |  | individual | living |
-| ava | ava | ava | av | individual | living |
-| avb |  |  |  | individual | living |
-| avd |  |  |  | individual | living |
-| ave | ave | ave | ae | individual | ancient |
-| avi |  |  |  | individual | living |
-| avk |  |  |  | individual | constructed |
-| avl |  |  |  | individual | living |
-| avm |  |  |  | individual | extinct |
-| avn |  |  |  | individual | living |
-| avo |  |  |  | individual | extinct |
-| avs |  |  |  | individual | extinct |
-| avt |  |  |  | individual | living |
-| avu |  |  |  | individual | living |
-| avv |  |  |  | individual | living |
-| awa | awa | awa |  | individual | living |
-| awb |  |  |  | individual | living |
-| awc |  |  |  | individual | living |
-| awe |  |  |  | individual | living |
-| awg |  |  |  | individual | extinct |
-| awh |  |  |  | individual | living |
-| awi |  |  |  | individual | living |
-| awk |  |  |  | individual | extinct |
-| awm |  |  |  | individual | living |
-| awn |  |  |  | individual | living |
-| awo |  |  |  | individual | living |
-| awr |  |  |  | individual | living |
-| aws |  |  |  | individual | living |
-| awt |  |  |  | individual | living |
-| awu |  |  |  | individual | living |
-| awv |  |  |  | individual | living |
-| aww |  |  |  | individual | living |
-| awx |  |  |  | individual | living |
-| awy |  |  |  | individual | living |
-| axb |  |  |  | individual | extinct |
-| axe |  |  |  | individual | extinct |
-| axg |  |  |  | individual | extinct |
-| axk |  |  |  | individual | living |
-| axl |  |  |  | individual | extinct |
-| axm |  |  |  | individual | historical |
-| axx |  |  |  | individual | living |
-| aya |  |  |  | individual | living |
-| ayb |  |  |  | individual | living |
-| ayc |  |  |  | individual | living |
-| ayd |  |  |  | individual | extinct |
-| aye |  |  |  | individual | living |
-| ayg |  |  |  | individual | living |
-| ayh |  |  |  | individual | living |
-| ayi |  |  |  | individual | living |
-| ayk |  |  |  | individual | living |
-| ayl |  |  |  | individual | living |
-| aym | aym | aym | ay | macrolanguage | living |
-| ayn |  |  |  | individual | living |
-| ayo |  |  |  | individual | living |
-| ayp |  |  |  | individual | living |
-| ayq |  |  |  | individual | living |
-| ayr |  |  |  | individual | living |
-| ays |  |  |  | individual | living |
-| ayt |  |  |  | individual | living |
-| ayu |  |  |  | individual | living |
-| ayy |  |  |  | individual | extinct |
-| ayz |  |  |  | individual | living |
-| aza |  |  |  | individual | living |
-| azb |  |  |  | individual | living |
-| azd |  |  |  | individual | living |
-| aze | aze | aze | az | macrolanguage | living |
-| azg |  |  |  | individual | living |
-| azj |  |  |  | individual | living |
-| azm |  |  |  | individual | living |
-| azn |  |  |  | individual | living |
-| azo |  |  |  | individual | living |
-| azt |  |  |  | individual | living |
-| azz |  |  |  | individual | living |
-| baa |  |  |  | individual | living |
-| bab |  |  |  | individual | living |
-| bac |  |  |  | individual | living |
-| bae |  |  |  | individual | extinct |
-| baf |  |  |  | individual | living |
-| bag |  |  |  | individual | living |
-| bah |  |  |  | individual | living |
-| baj |  |  |  | individual | living |
-| bak | bak | bak | ba | individual | living |
-| bal | bal | bal |  | macrolanguage | living |
-| bam | bam | bam | bm | individual | living |
-| ban | ban | ban |  | individual | living |
-| bao |  |  |  | individual | living |
-| bap |  |  |  | individual | living |
-| bar |  |  |  | individual | living |
-| bas | bas | bas |  | individual | living |
-| bau |  |  |  | individual | living |
-| bav |  |  |  | individual | living |
-| baw |  |  |  | individual | living |
-| bax |  |  |  | individual | living |
-| bay |  |  |  | individual | living |
-| bba |  |  |  | individual | living |
-| bbb |  |  |  | individual | living |
-| bbc |  |  |  | individual | living |
-| bbd |  |  |  | individual | living |
-| bbe |  |  |  | individual | living |
-| bbf |  |  |  | individual | living |
-| bbg |  |  |  | individual | living |
-| bbh |  |  |  | individual | living |
-| bbi |  |  |  | individual | living |
-| bbj |  |  |  | individual | living |
-| bbk |  |  |  | individual | living |
-| bbl |  |  |  | individual | living |
-| bbm |  |  |  | individual | living |
-| bbn |  |  |  | individual | living |
-| bbo |  |  |  | individual | living |
-| bbp |  |  |  | individual | living |
-| bbq |  |  |  | individual | living |
-| bbr |  |  |  | individual | living |
-| bbs |  |  |  | individual | living |
-| bbt |  |  |  | individual | living |
-| bbu |  |  |  | individual | living |
-| bbv |  |  |  | individual | living |
-| bbw |  |  |  | individual | living |
-| bbx |  |  |  | individual | living |
-| bby |  |  |  | individual | living |
-| bbz |  |  |  | individual | living |
-| bca |  |  |  | individual | living |
-| bcb |  |  |  | individual | living |
-| bcc |  |  |  | individual | living |
-| bcd |  |  |  | individual | living |
-| bce |  |  |  | individual | living |
-| bcf |  |  |  | individual | living |
-| bcg |  |  |  | individual | living |
-| bch |  |  |  | individual | living |
-| bci |  |  |  | individual | living |
-| bcj |  |  |  | individual | living |
-| bck |  |  |  | individual | living |
-| bcl |  |  |  | individual | living |
-| bcm |  |  |  | individual | living |
-| bcn |  |  |  | individual | living |
-| bco |  |  |  | individual | living |
-| bcp |  |  |  | individual | living |
-| bcq |  |  |  | individual | living |
-| bcr |  |  |  | individual | living |
-| bcs |  |  |  | individual | living |
-| bct |  |  |  | individual | living |
-| bcu |  |  |  | individual | living |
-| bcv |  |  |  | individual | living |
-| bcw |  |  |  | individual | living |
-| bcy |  |  |  | individual | living |
-| bcz |  |  |  | individual | living |
-| bda |  |  |  | individual | living |
-| bdb |  |  |  | individual | living |
-| bdc |  |  |  | individual | living |
-| bdd |  |  |  | individual | living |
-| bde |  |  |  | individual | living |
-| bdf |  |  |  | individual | living |
-| bdg |  |  |  | individual | living |
-| bdh |  |  |  | individual | living |
-| bdi |  |  |  | individual | living |
-| bdj |  |  |  | individual | living |
-| bdk |  |  |  | individual | living |
-| bdl |  |  |  | individual | living |
-| bdm |  |  |  | individual | living |
-| bdn |  |  |  | individual | living |
-| bdo |  |  |  | individual | living |
-| bdp |  |  |  | individual | living |
-| bdq |  |  |  | individual | living |
-| bdr |  |  |  | individual | living |
-| bds |  |  |  | individual | living |
-| bdt |  |  |  | individual | living |
-| bdu |  |  |  | individual | living |
-| bdv |  |  |  | individual | living |
-| bdw |  |  |  | individual | living |
-| bdx |  |  |  | individual | living |
-| bdy |  |  |  | individual | living |
-| bdz |  |  |  | individual | living |
-| bea |  |  |  | individual | living |
-| beb |  |  |  | individual | living |
-| bec |  |  |  | individual | living |
-| bed |  |  |  | individual | living |
-| bee |  |  |  | individual | living |
-| bef |  |  |  | individual | living |
-| beg |  |  |  | individual | living |
-| beh |  |  |  | individual | living |
-| bei |  |  |  | individual | living |
-| bej | bej | bej |  | individual | living |
-| bek |  |  |  | individual | living |
-| bel | bel | bel | be | individual | living |
-| bem | bem | bem |  | individual | living |
-| ben | ben | ben | bn | individual | living |
-| beo |  |  |  | individual | living |
-| bep |  |  |  | individual | living |
-| beq |  |  |  | individual | living |
-| bes |  |  |  | individual | living |
-| bet |  |  |  | individual | living |
-| beu |  |  |  | individual | living |
-| bev |  |  |  | individual | living |
-| bew |  |  |  | individual | living |
-| bex |  |  |  | individual | living |
-| bey |  |  |  | individual | living |
-| bez |  |  |  | individual | living |
-| bfa |  |  |  | individual | living |
-| bfb |  |  |  | individual | living |
-| bfc |  |  |  | individual | living |
-| bfd |  |  |  | individual | living |
-| bfe |  |  |  | individual | living |
-| bff |  |  |  | individual | living |
-| bfg |  |  |  | individual | living |
-| bfh |  |  |  | individual | living |
-| bfi |  |  |  | individual | living |
-| bfj |  |  |  | individual | living |
-| bfk |  |  |  | individual | living |
-| bfl |  |  |  | individual | living |
-| bfm |  |  |  | individual | living |
-| bfn |  |  |  | individual | living |
-| bfo |  |  |  | individual | living |
-| bfp |  |  |  | individual | living |
-| bfq |  |  |  | individual | living |
-| bfr |  |  |  | individual | living |
-| bfs |  |  |  | individual | living |
-| bft |  |  |  | individual | living |
-| bfu |  |  |  | individual | living |
-| bfw |  |  |  | individual | living |
-| bfx |  |  |  | individual | living |
-| bfy |  |  |  | individual | living |
-| bfz |  |  |  | individual | living |
-| bga |  |  |  | individual | living |
-| bgb |  |  |  | individual | living |
-| bgc |  |  |  | individual | living |
-| bgd |  |  |  | individual | living |
-| bge |  |  |  | individual | living |
-| bgf |  |  |  | individual | living |
-| bgg |  |  |  | individual | living |
-| bgi |  |  |  | individual | living |
-| bgj |  |  |  | individual | living |
-| bgk |  |  |  | individual | living |
-| bgl |  |  |  | individual | living |
-| bgm |  |  |  | individual | living |
-| bgn |  |  |  | individual | living |
-| bgo |  |  |  | individual | living |
-| bgp |  |  |  | individual | living |
-| bgq |  |  |  | individual | living |
-| bgr |  |  |  | individual | living |
-| bgs |  |  |  | individual | living |
-| bgt |  |  |  | individual | living |
-| bgu |  |  |  | individual | living |
-| bgv |  |  |  | individual | living |
-| bgw |  |  |  | individual | living |
-| bgx |  |  |  | individual | living |
-| bgy |  |  |  | individual | living |
-| bgz |  |  |  | individual | living |
-| bha |  |  |  | individual | living |
-| bhb |  |  |  | individual | living |
-| bhc |  |  |  | individual | living |
-| bhd |  |  |  | individual | living |
-| bhe |  |  |  | individual | living |
-| bhf |  |  |  | individual | living |
-| bhg |  |  |  | individual | living |
-| bhh |  |  |  | individual | living |
-| bhi |  |  |  | individual | living |
-| bhj |  |  |  | individual | living |
-| bhl |  |  |  | individual | living |
-| bhm |  |  |  | individual | living |
-| bhn |  |  |  | individual | living |
-| bho | bho | bho |  | individual | living |
-| bhp |  |  |  | individual | living |
-| bhq |  |  |  | individual | living |
-| bhr |  |  |  | individual | living |
-| bhs |  |  |  | individual | living |
-| bht |  |  |  | individual | living |
-| bhu |  |  |  | individual | living |
-| bhv |  |  |  | individual | living |
-| bhw |  |  |  | individual | living |
-| bhx |  |  |  | individual | living |
-| bhy |  |  |  | individual | living |
-| bhz |  |  |  | individual | living |
-| bia |  |  |  | individual | living |
-| bib |  |  |  | individual | living |
-| bic |  |  |  | individual | living |
-| bid |  |  |  | individual | living |
-| bie |  |  |  | individual | living |
-| bif |  |  |  | individual | living |
-| big |  |  |  | individual | living |
-| bij |  |  |  | individual | living |
-| bik | bik | bik |  | macrolanguage | living |
-| bil |  |  |  | individual | living |
-| bim |  |  |  | individual | living |
-| bin | bin | bin |  | individual | living |
-| bio |  |  |  | individual | living |
-| bip |  |  |  | individual | living |
-| biq |  |  |  | individual | living |
-| bir |  |  |  | individual | living |
-| bis | bis | bis | bi | individual | living |
-| bit |  |  |  | individual | living |
-| biu |  |  |  | individual | living |
-| biv |  |  |  | individual | living |
-| biw |  |  |  | individual | living |
-| bix |  |  |  | individual | living |
-| biy |  |  |  | individual | living |
-| biz |  |  |  | individual | living |
-| bja |  |  |  | individual | living |
-| bjb |  |  |  | individual | extinct |
-| bjc |  |  |  | individual | living |
-| bje |  |  |  | individual | living |
-| bjf |  |  |  | individual | living |
-| bjg |  |  |  | individual | living |
-| bjh |  |  |  | individual | living |
-| bji |  |  |  | individual | living |
-| bjj |  |  |  | individual | living |
-| bjk |  |  |  | individual | living |
-| bjl |  |  |  | individual | living |
-| bjm |  |  |  | individual | living |
-| bjn |  |  |  | individual | living |
-| bjo |  |  |  | individual | living |
-| bjp |  |  |  | individual | living |
-| bjr |  |  |  | individual | living |
-| bjs |  |  |  | individual | living |
-| bjt |  |  |  | individual | living |
-| bju |  |  |  | individual | living |
-| bjv |  |  |  | individual | living |
-| bjw |  |  |  | individual | living |
-| bjx |  |  |  | individual | living |
-| bjy |  |  |  | individual | extinct |
-| bjz |  |  |  | individual | living |
-| bka |  |  |  | individual | living |
-| bkc |  |  |  | individual | living |
-| bkd |  |  |  | individual | living |
-| bkf |  |  |  | individual | living |
-| bkg |  |  |  | individual | living |
-| bkh |  |  |  | individual | living |
-| bki |  |  |  | individual | living |
-| bkj |  |  |  | individual | living |
-| bkk |  |  |  | individual | living |
-| bkl |  |  |  | individual | living |
-| bkm |  |  |  | individual | living |
-| bkn |  |  |  | individual | living |
-| bko |  |  |  | individual | living |
-| bkp |  |  |  | individual | living |
-| bkq |  |  |  | individual | living |
-| bkr |  |  |  | individual | living |
-| bks |  |  |  | individual | living |
-| bkt |  |  |  | individual | living |
-| bku |  |  |  | individual | living |
-| bkv |  |  |  | individual | living |
-| bkw |  |  |  | individual | living |
-| bkx |  |  |  | individual | living |
-| bky |  |  |  | individual | living |
-| bkz |  |  |  | individual | living |
-| bla | bla | bla |  | individual | living |
-| blb |  |  |  | individual | living |
-| blc |  |  |  | individual | living |
-| bld |  |  |  | individual | living |
-| ble |  |  |  | individual | living |
-| blf |  |  |  | individual | living |
-| blg |  |  |  | individual | living |
-| blh |  |  |  | individual | living |
-| bli |  |  |  | individual | living |
-| blj |  |  |  | individual | living |
-| blk |  |  |  | individual | living |
-| bll |  |  |  | individual | extinct |
-| blm |  |  |  | individual | living |
-| bln |  |  |  | individual | living |
-| blo |  |  |  | individual | living |
-| blp |  |  |  | individual | living |
-| blq |  |  |  | individual | living |
-| blr |  |  |  | individual | living |
-| bls |  |  |  | individual | living |
-| blt |  |  |  | individual | living |
-| blv |  |  |  | individual | living |
-| blw |  |  |  | individual | living |
-| blx |  |  |  | individual | living |
-| bly |  |  |  | individual | living |
-| blz |  |  |  | individual | living |
-| bma |  |  |  | individual | living |
-| bmb |  |  |  | individual | living |
-| bmc |  |  |  | individual | living |
-| bmd |  |  |  | individual | living |
-| bme |  |  |  | individual | living |
-| bmf |  |  |  | individual | living |
-| bmg |  |  |  | individual | living |
-| bmh |  |  |  | individual | living |
-| bmi |  |  |  | individual | living |
-| bmj |  |  |  | individual | living |
-| bmk |  |  |  | individual | living |
-| bml |  |  |  | individual | living |
-| bmm |  |  |  | individual | living |
-| bmn |  |  |  | individual | extinct |
-| bmo |  |  |  | individual | living |
-| bmp |  |  |  | individual | living |
-| bmq |  |  |  | individual | living |
-| bmr |  |  |  | individual | living |
-| bms |  |  |  | individual | living |
-| bmt |  |  |  | individual | living |
-| bmu |  |  |  | individual | living |
-| bmv |  |  |  | individual | living |
-| bmw |  |  |  | individual | living |
-| bmx |  |  |  | individual | living |
-| bmy |  |  |  | individual | living |
-| bmz |  |  |  | individual | living |
-| bna |  |  |  | individual | living |
-| bnb |  |  |  | individual | living |
-| bnc |  |  |  | macrolanguage | living |
-| bnd |  |  |  | individual | living |
-| bne |  |  |  | individual | living |
-| bnf |  |  |  | individual | living |
-| bng |  |  |  | individual | living |
-| bni |  |  |  | individual | living |
-| bnj |  |  |  | individual | living |
-| bnk |  |  |  | individual | living |
-| bnl |  |  |  | individual | living |
-| bnm |  |  |  | individual | living |
-| bnn |  |  |  | individual | living |
-| bno |  |  |  | individual | living |
-| bnp |  |  |  | individual | living |
-| bnq |  |  |  | individual | living |
-| bnr |  |  |  | individual | living |
-| bns |  |  |  | individual | living |
-| bnu |  |  |  | individual | living |
-| bnv |  |  |  | individual | living |
-| bnw |  |  |  | individual | living |
-| bnx |  |  |  | individual | living |
-| bny |  |  |  | individual | living |
-| bnz |  |  |  | individual | living |
-| boa |  |  |  | individual | living |
-| bob |  |  |  | individual | living |
-| bod | tib | bod | bo | individual | living |
-| boe |  |  |  | individual | living |
-| bof |  |  |  | individual | living |
-| bog |  |  |  | individual | living |
-| boh |  |  |  | individual | living |
-| boi |  |  |  | individual | extinct |
-| boj |  |  |  | individual | living |
-| bok |  |  |  | individual | living |
-| bol |  |  |  | individual | living |
-| bom |  |  |  | individual | living |
-| bon |  |  |  | individual | living |
-| boo |  |  |  | individual | living |
-| bop |  |  |  | individual | living |
-| boq |  |  |  | individual | living |
-| bor |  |  |  | individual | living |
-| bos | bos | bos | bs | individual | living |
-| bot |  |  |  | individual | living |
-| bou |  |  |  | individual | living |
-| bov |  |  |  | individual | living |
-| bow |  |  |  | individual | extinct |
-| box |  |  |  | individual | living |
-| boy |  |  |  | individual | living |
-| boz |  |  |  | individual | living |
-| bpa |  |  |  | individual | living |
-| bpb |  |  |  | individual | extinct |
-| bpd |  |  |  | individual | living |
-| bpg |  |  |  | individual | living |
-| bph |  |  |  | individual | living |
-| bpi |  |  |  | individual | living |
-| bpj |  |  |  | individual | living |
-| bpk |  |  |  | individual | living |
-| bpl |  |  |  | individual | living |
-| bpm |  |  |  | individual | living |
-| bpn |  |  |  | individual | living |
-| bpo |  |  |  | individual | living |
-| bpp |  |  |  | individual | living |
-| bpq |  |  |  | individual | living |
-| bpr |  |  |  | individual | living |
-| bps |  |  |  | individual | living |
-| bpt |  |  |  | individual | extinct |
-| bpu |  |  |  | individual | living |
-| bpv |  |  |  | individual | living |
-| bpw |  |  |  | individual | living |
-| bpx |  |  |  | individual | living |
-| bpy |  |  |  | individual | living |
-| bpz |  |  |  | individual | living |
-| bqa |  |  |  | individual | living |
-| bqb |  |  |  | individual | living |
-| bqc |  |  |  | individual | living |
-| bqd |  |  |  | individual | living |
-| bqf |  |  |  | individual | extinct |
-| bqg |  |  |  | individual | living |
-| bqh |  |  |  | individual | living |
-| bqi |  |  |  | individual | living |
-| bqj |  |  |  | individual | living |
-| bqk |  |  |  | individual | living |
-| bql |  |  |  | individual | living |
-| bqm |  |  |  | individual | living |
-| bqn |  |  |  | individual | living |
-| bqo |  |  |  | individual | living |
-| bqp |  |  |  | individual | living |
-| bqq |  |  |  | individual | living |
-| bqr |  |  |  | individual | living |
-| bqs |  |  |  | individual | living |
-| bqt |  |  |  | individual | living |
-| bqu |  |  |  | individual | living |
-| bqv |  |  |  | individual | living |
-| bqw |  |  |  | individual | living |
-| bqx |  |  |  | individual | living |
-| bqy |  |  |  | individual | living |
-| bqz |  |  |  | individual | living |
-| bra | bra | bra |  | individual | living |
-| brb |  |  |  | individual | living |
-| brc |  |  |  | individual | extinct |
-| brd |  |  |  | individual | living |
-| bre | bre | bre | br | individual | living |
-| brf |  |  |  | individual | living |
-| brg |  |  |  | individual | living |
-| brh |  |  |  | individual | living |
-| bri |  |  |  | individual | living |
-| brj |  |  |  | individual | living |
-| brk |  |  |  | individual | extinct |
-| brl |  |  |  | individual | living |
-| brm |  |  |  | individual | living |
-| brn |  |  |  | individual | living |
-| bro |  |  |  | individual | living |
-| brp |  |  |  | individual | living |
-| brq |  |  |  | individual | living |
-| brr |  |  |  | individual | living |
-| brs |  |  |  | individual | living |
-| brt |  |  |  | individual | living |
-| bru |  |  |  | individual | living |
-| brv |  |  |  | individual | living |
-| brw |  |  |  | individual | living |
-| brx |  |  |  | individual | living |
-| bry |  |  |  | individual | living |
-| brz |  |  |  | individual | living |
-| bsa |  |  |  | individual | living |
-| bsb |  |  |  | individual | living |
-| bsc |  |  |  | individual | living |
-| bse |  |  |  | individual | living |
-| bsf |  |  |  | individual | living |
-| bsg |  |  |  | individual | living |
-| bsh |  |  |  | individual | living |
-| bsi |  |  |  | individual | living |
-| bsj |  |  |  | individual | living |
-| bsk |  |  |  | individual | living |
-| bsl |  |  |  | individual | extinct |
-| bsm |  |  |  | individual | living |
-| bsn |  |  |  | individual | living |
-| bso |  |  |  | individual | living |
-| bsp |  |  |  | individual | living |
-| bsq |  |  |  | individual | living |
-| bsr |  |  |  | individual | living |
-| bss |  |  |  | individual | living |
-| bst |  |  |  | individual | living |
-| bsu |  |  |  | individual | living |
-| bsv |  |  |  | individual | extinct |
-| bsw |  |  |  | individual | living |
-| bsx |  |  |  | individual | living |
-| bsy |  |  |  | individual | living |
-| bta |  |  |  | individual | living |
-| btc |  |  |  | individual | living |
-| btd |  |  |  | individual | living |
-| bte |  |  |  | individual | extinct |
-| btf |  |  |  | individual | living |
-| btg |  |  |  | individual | living |
-| bth |  |  |  | individual | living |
-| bti |  |  |  | individual | living |
-| btj |  |  |  | individual | living |
-| btl |  |  |  | individual | living |
-| btm |  |  |  | individual | living |
-| btn |  |  |  | individual | living |
-| bto |  |  |  | individual | living |
-| btp |  |  |  | individual | living |
-| btq |  |  |  | individual | living |
-| btr |  |  |  | individual | living |
-| bts |  |  |  | individual | living |
-| btt |  |  |  | individual | living |
-| btu |  |  |  | individual | living |
-| btv |  |  |  | individual | living |
-| btw |  |  |  | individual | living |
-| btx |  |  |  | individual | living |
-| bty |  |  |  | individual | living |
-| btz |  |  |  | individual | living |
-| bua | bua | bua |  | macrolanguage | living |
-| bub |  |  |  | individual | living |
-| buc |  |  |  | individual | living |
-| bud |  |  |  | individual | living |
-| bue |  |  |  | individual | extinct |
-| buf |  |  |  | individual | living |
-| bug | bug | bug |  | individual | living |
-| buh |  |  |  | individual | living |
-| bui |  |  |  | individual | living |
-| buj |  |  |  | individual | living |
-| buk |  |  |  | individual | living |
-| bul | bul | bul | bg | individual | living |
-| bum |  |  |  | individual | living |
-| bun |  |  |  | individual | living |
-| buo |  |  |  | individual | living |
-| bup |  |  |  | individual | living |
-| buq |  |  |  | individual | living |
-| bus |  |  |  | individual | living |
-| but |  |  |  | individual | living |
-| buu |  |  |  | individual | living |
-| buv |  |  |  | individual | living |
-| buw |  |  |  | individual | living |
-| bux |  |  |  | individual | living |
-| buy |  |  |  | individual | living |
-| buz |  |  |  | individual | living |
-| bva |  |  |  | individual | living |
-| bvb |  |  |  | individual | living |
-| bvc |  |  |  | individual | living |
-| bvd |  |  |  | individual | living |
-| bve |  |  |  | individual | living |
-| bvf |  |  |  | individual | living |
-| bvg |  |  |  | individual | living |
-| bvh |  |  |  | individual | living |
-| bvi |  |  |  | individual | living |
-| bvj |  |  |  | individual | living |
-| bvk |  |  |  | individual | living |
-| bvl |  |  |  | individual | living |
-| bvm |  |  |  | individual | living |
-| bvn |  |  |  | individual | living |
-| bvo |  |  |  | individual | living |
-| bvp |  |  |  | individual | living |
-| bvq |  |  |  | individual | living |
-| bvr |  |  |  | individual | living |
-| bvt |  |  |  | individual | living |
-| bvu |  |  |  | individual | living |
-| bvv |  |  |  | individual | extinct |
-| bvw |  |  |  | individual | living |
-| bvx |  |  |  | individual | living |
-| bvy |  |  |  | individual | living |
-| bvz |  |  |  | individual | living |
-| bwa |  |  |  | individual | living |
-| bwb |  |  |  | individual | living |
-| bwc |  |  |  | individual | living |
-| bwd |  |  |  | individual | living |
-| bwe |  |  |  | individual | living |
-| bwf |  |  |  | individual | living |
-| bwg |  |  |  | individual | living |
-| bwh |  |  |  | individual | living |
-| bwi |  |  |  | individual | living |
-| bwj |  |  |  | individual | living |
-| bwk |  |  |  | individual | living |
-| bwl |  |  |  | individual | living |
-| bwm |  |  |  | individual | living |
-| bwn |  |  |  | individual | living |
-| bwo |  |  |  | individual | living |
-| bwp |  |  |  | individual | living |
-| bwq |  |  |  | individual | living |
-| bwr |  |  |  | individual | living |
-| bws |  |  |  | individual | living |
-| bwt |  |  |  | individual | living |
-| bwu |  |  |  | individual | living |
-| bww |  |  |  | individual | living |
-| bwx |  |  |  | individual | living |
-| bwy |  |  |  | individual | living |
-| bwz |  |  |  | individual | living |
-| bxa |  |  |  | individual | living |
-| bxb |  |  |  | individual | living |
-| bxc |  |  |  | individual | living |
-| bxd |  |  |  | individual | living |
-| bxe |  |  |  | individual | living |
-| bxf |  |  |  | individual | living |
-| bxg |  |  |  | individual | living |
-| bxh |  |  |  | individual | living |
-| bxi |  |  |  | individual | extinct |
-| bxj |  |  |  | individual | living |
-| bxk |  |  |  | individual | living |
-| bxl |  |  |  | individual | living |
-| bxm |  |  |  | individual | living |
-| bxn |  |  |  | individual | living |
-| bxo |  |  |  | individual | living |
-| bxp |  |  |  | individual | living |
-| bxq |  |  |  | individual | living |
-| bxr |  |  |  | individual | living |
-| bxs |  |  |  | individual | living |
-| bxu |  |  |  | individual | living |
-| bxv |  |  |  | individual | living |
-| bxw |  |  |  | individual | living |
-| bxx |  |  |  | individual | living |
-| bxz |  |  |  | individual | living |
-| bya |  |  |  | individual | living |
-| byb |  |  |  | individual | living |
-| byc |  |  |  | individual | living |
-| byd |  |  |  | individual | living |
-| bye |  |  |  | individual | living |
-| byf |  |  |  | individual | living |
-| byg |  |  |  | individual | extinct |
-| byh |  |  |  | individual | living |
-| byi |  |  |  | individual | living |
-| byj |  |  |  | individual | living |
-| byk |  |  |  | individual | living |
-| byl |  |  |  | individual | living |
-| bym |  |  |  | individual | living |
-| byn | byn | byn |  | individual | living |
-| byo |  |  |  | individual | living |
-| byp |  |  |  | individual | living |
-| byq |  |  |  | individual | extinct |
-| byr |  |  |  | individual | living |
-| bys |  |  |  | individual | living |
-| byt |  |  |  | individual | extinct |
-| byv |  |  |  | individual | living |
-| byw |  |  |  | individual | living |
-| byx |  |  |  | individual | living |
-| byy |  |  |  | individual | living |
-| byz |  |  |  | individual | living |
-| bza |  |  |  | individual | living |
-| bzb |  |  |  | individual | living |
-| bzc |  |  |  | individual | living |
-| bzd |  |  |  | individual | living |
-| bze |  |  |  | individual | living |
-| bzf |  |  |  | individual | living |
-| bzg |  |  |  | individual | living |
-| bzh |  |  |  | individual | living |
-| bzi |  |  |  | individual | living |
-| bzj |  |  |  | individual | living |
-| bzk |  |  |  | individual | living |
-| bzl |  |  |  | individual | living |
-| bzm |  |  |  | individual | living |
-| bzn |  |  |  | individual | living |
-| bzo |  |  |  | individual | living |
-| bzp |  |  |  | individual | living |
-| bzq |  |  |  | individual | living |
-| bzr |  |  |  | individual | extinct |
-| bzs |  |  |  | individual | living |
-| bzt |  |  |  | individual | constructed |
-| bzu |  |  |  | individual | living |
-| bzv |  |  |  | individual | living |
-| bzw |  |  |  | individual | living |
-| bzx |  |  |  | individual | living |
-| bzy |  |  |  | individual | living |
-| bzz |  |  |  | individual | living |
-| caa |  |  |  | individual | living |
-| cab |  |  |  | individual | living |
-| cac |  |  |  | individual | living |
-| cad | cad | cad |  | individual | living |
-| cae |  |  |  | individual | living |
-| caf |  |  |  | individual | living |
-| cag |  |  |  | individual | living |
-| cah |  |  |  | individual | living |
-| caj |  |  |  | individual | extinct |
-| cak |  |  |  | individual | living |
-| cal |  |  |  | individual | living |
-| cam |  |  |  | individual | living |
-| can |  |  |  | individual | living |
-| cao |  |  |  | individual | living |
-| cap |  |  |  | individual | living |
-| caq |  |  |  | individual | living |
-| car | car | car |  | individual | living |
-| cas |  |  |  | individual | living |
-| cat | cat | cat | ca | individual | living |
-| cav |  |  |  | individual | living |
-| caw |  |  |  | individual | living |
-| cax |  |  |  | individual | living |
-| cay |  |  |  | individual | living |
-| caz |  |  |  | individual | extinct |
-| cbb |  |  |  | individual | living |
-| cbc |  |  |  | individual | living |
-| cbd |  |  |  | individual | living |
-| cbe |  |  |  | individual | extinct |
-| cbg |  |  |  | individual | living |
-| cbh |  |  |  | individual | extinct |
-| cbi |  |  |  | individual | living |
-| cbj |  |  |  | individual | living |
-| cbk |  |  |  | individual | living |
-| cbl |  |  |  | individual | living |
-| cbn |  |  |  | individual | living |
-| cbo |  |  |  | individual | living |
-| cbr |  |  |  | individual | living |
-| cbs |  |  |  | individual | living |
-| cbt |  |  |  | individual | living |
-| cbu |  |  |  | individual | living |
-| cbv |  |  |  | individual | living |
-| cbw |  |  |  | individual | living |
-| cby |  |  |  | individual | living |
-| cca |  |  |  | individual | extinct |
-| ccc |  |  |  | individual | living |
-| ccd |  |  |  | individual | living |
-| cce |  |  |  | individual | living |
-| ccg |  |  |  | individual | living |
-| cch |  |  |  | individual | living |
-| ccj |  |  |  | individual | living |
-| ccl |  |  |  | individual | living |
-| ccm |  |  |  | individual | living |
-| cco |  |  |  | individual | living |
-| ccp |  |  |  | individual | living |
-| ccr |  |  |  | individual | extinct |
-| cda |  |  |  | individual | living |
-| cde |  |  |  | individual | living |
-| cdf |  |  |  | individual | living |
-| cdg |  |  |  | individual | living |
-| cdh |  |  |  | individual | living |
-| cdi |  |  |  | individual | living |
-| cdj |  |  |  | individual | living |
-| cdm |  |  |  | individual | living |
-| cdn |  |  |  | individual | living |
-| cdo |  |  |  | individual | living |
-| cdr |  |  |  | individual | living |
-| cds |  |  |  | individual | living |
-| cdy |  |  |  | individual | living |
-| cdz |  |  |  | individual | living |
-| cea |  |  |  | individual | extinct |
-| ceb | ceb | ceb |  | individual | living |
-| ceg |  |  |  | individual | living |
-| cek |  |  |  | individual | living |
-| cen |  |  |  | individual | living |
-| ces | cze | ces | cs | individual | living |
-| cet |  |  |  | individual | living |
-| cfa |  |  |  | individual | living |
-| cfd |  |  |  | individual | living |
-| cfg |  |  |  | individual | living |
-| cfm |  |  |  | individual | living |
-| cga |  |  |  | individual | living |
-| cgc |  |  |  | individual | living |
-| cgg |  |  |  | individual | living |
-| cgk |  |  |  | individual | living |
-| cha | cha | cha | ch | individual | living |
-| chb | chb | chb |  | individual | extinct |
-| chc |  |  |  | individual | extinct |
-| chd |  |  |  | individual | living |
-| che | che | che | ce | individual | living |
-| chf |  |  |  | individual | living |
-| chg | chg | chg |  | individual | extinct |
-| chh |  |  |  | individual | living |
-| chj |  |  |  | individual | living |
-| chk | chk | chk |  | individual | living |
-| chl |  |  |  | individual | living |
-| chm | chm | chm |  | macrolanguage | living |
-| chn | chn | chn |  | individual | living |
-| cho | cho | cho |  | individual | living |
-| chp | chp | chp |  | individual | living |
-| chq |  |  |  | individual | living |
-| chr | chr | chr |  | individual | living |
-| cht |  |  |  | individual | extinct |
-| chu | chu | chu | cu | individual | ancient |
-| chv | chv | chv | cv | individual | living |
-| chw |  |  |  | individual | living |
-| chx |  |  |  | individual | living |
-| chy | chy | chy |  | individual | living |
-| chz |  |  |  | individual | living |
-| cia |  |  |  | individual | living |
-| cib |  |  |  | individual | living |
-| cic |  |  |  | individual | living |
-| cid |  |  |  | individual | extinct |
-| cie |  |  |  | individual | living |
-| cih |  |  |  | individual | living |
-| cik |  |  |  | individual | living |
-| cim |  |  |  | individual | living |
-| cin |  |  |  | individual | living |
-| cip |  |  |  | individual | living |
-| cir |  |  |  | individual | living |
-| ciw |  |  |  | individual | living |
-| ciy |  |  |  | individual | living |
-| cja |  |  |  | individual | living |
-| cje |  |  |  | individual | living |
-| cjh |  |  |  | individual | extinct |
-| cji |  |  |  | individual | living |
-| cjk |  |  |  | individual | living |
-| cjm |  |  |  | individual | living |
-| cjn |  |  |  | individual | living |
-| cjo |  |  |  | individual | living |
-| cjp |  |  |  | individual | living |
-| cjs |  |  |  | individual | living |
-| cjv |  |  |  | individual | living |
-| cjy |  |  |  | individual | living |
-| ckb |  |  |  | individual | living |
-| ckh |  |  |  | individual | living |
-| ckl |  |  |  | individual | living |
-| ckn |  |  |  | individual | living |
-| cko |  |  |  | individual | living |
-| ckq |  |  |  | individual | living |
-| ckr |  |  |  | individual | living |
-| cks |  |  |  | individual | living |
-| ckt |  |  |  | individual | living |
-| cku |  |  |  | individual | living |
-| ckv |  |  |  | individual | living |
-| ckx |  |  |  | individual | living |
-| cky |  |  |  | individual | living |
-| ckz |  |  |  | individual | living |
-| cla |  |  |  | individual | living |
-| clc |  |  |  | individual | living |
-| cld |  |  |  | individual | living |
-| cle |  |  |  | individual | living |
-| clh |  |  |  | individual | living |
-| cli |  |  |  | individual | living |
-| clj |  |  |  | individual | living |
-| clk |  |  |  | individual | living |
-| cll |  |  |  | individual | living |
-| clm |  |  |  | individual | living |
-| clo |  |  |  | individual | living |
-| clt |  |  |  | individual | living |
-| clu |  |  |  | individual | living |
-| clw |  |  |  | individual | living |
-| cly |  |  |  | individual | living |
-| cma |  |  |  | individual | living |
-| cme |  |  |  | individual | living |
-| cmg |  |  |  | individual | historical |
-| cmi |  |  |  | individual | living |
-| cml |  |  |  | individual | living |
-| cmm |  |  |  | individual | extinct |
-| cmn |  |  |  | individual | living |
-| cmo |  |  |  | individual | living |
-| cmr |  |  |  | individual | living |
-| cms |  |  |  | individual | ancient |
-| cmt |  |  |  | individual | living |
-| cna |  |  |  | individual | living |
-| cnb |  |  |  | individual | living |
-| cnc |  |  |  | individual | living |
-| cng |  |  |  | individual | living |
-| cnh |  |  |  | individual | living |
-| cni |  |  |  | individual | living |
-| cnk |  |  |  | individual | living |
-| cnl |  |  |  | individual | living |
-| cno |  |  |  | individual | living |
-| cns |  |  |  | individual | living |
-| cnt |  |  |  | individual | living |
-| cnu |  |  |  | individual | living |
-| cnw |  |  |  | individual | living |
-| cnx |  |  |  | individual | historical |
-| coa |  |  |  | individual | living |
-| cob |  |  |  | individual | extinct |
-| coc |  |  |  | individual | living |
-| cod |  |  |  | individual | living |
-| coe |  |  |  | individual | living |
-| cof |  |  |  | individual | living |
-| cog |  |  |  | individual | living |
-| coh |  |  |  | individual | living |
-| coj |  |  |  | individual | extinct |
-| cok |  |  |  | individual | living |
-| col |  |  |  | individual | living |
-| com |  |  |  | individual | living |
-| con |  |  |  | individual | living |
-| coo |  |  |  | individual | living |
-| cop | cop | cop |  | individual | extinct |
-| coq |  |  |  | individual | extinct |
-| cor | cor | cor | kw | individual | living |
-| cos | cos | cos | co | individual | living |
-| cot |  |  |  | individual | living |
-| cou |  |  |  | individual | living |
-| cov |  |  |  | individual | living |
-| cow |  |  |  | individual | extinct |
-| cox |  |  |  | individual | living |
-| coy |  |  |  | individual | extinct |
-| coz |  |  |  | individual | living |
-| cpa |  |  |  | individual | living |
-| cpb |  |  |  | individual | living |
-| cpc |  |  |  | individual | living |
-| cpg |  |  |  | individual | extinct |
-| cpi |  |  |  | individual | living |
-| cpn |  |  |  | individual | living |
-| cpo |  |  |  | individual | living |
-| cps |  |  |  | individual | living |
-| cpu |  |  |  | individual | living |
-| cpx |  |  |  | individual | living |
-| cpy |  |  |  | individual | living |
-| cqd |  |  |  | individual | living |
-| cqu |  |  |  | individual | living |
-| cra |  |  |  | individual | living |
-| crb |  |  |  | individual | extinct |
-| crc |  |  |  | individual | living |
-| crd |  |  |  | individual | living |
-| cre | cre | cre | cr | macrolanguage | living |
-| crf |  |  |  | individual | extinct |
-| crg |  |  |  | individual | living |
-| crh | crh | crh |  | individual | living |
-| cri |  |  |  | individual | living |
-| crj |  |  |  | individual | living |
-| crk |  |  |  | individual | living |
-| crl |  |  |  | individual | living |
-| crm |  |  |  | individual | living |
-| crn |  |  |  | individual | living |
-| cro |  |  |  | individual | living |
-| crq |  |  |  | individual | living |
-| crr |  |  |  | individual | extinct |
-| crs |  |  |  | individual | living |
-| crt |  |  |  | individual | living |
-| crv |  |  |  | individual | living |
-| crw |  |  |  | individual | living |
-| crx |  |  |  | individual | living |
-| cry |  |  |  | individual | living |
-| crz |  |  |  | individual | extinct |
-| csa |  |  |  | individual | living |
-| csb | csb | csb |  | individual | living |
-| csc |  |  |  | individual | living |
-| csd |  |  |  | individual | living |
-| cse |  |  |  | individual | living |
-| csf |  |  |  | individual | living |
-| csg |  |  |  | individual | living |
-| csh |  |  |  | individual | living |
-| csi |  |  |  | individual | extinct |
-| csj |  |  |  | individual | living |
-| csk |  |  |  | individual | living |
-| csl |  |  |  | individual | living |
-| csm |  |  |  | individual | living |
-| csn |  |  |  | individual | living |
-| cso |  |  |  | individual | living |
-| csq |  |  |  | individual | living |
-| csr |  |  |  | individual | living |
-| css |  |  |  | individual | extinct |
-| cst |  |  |  | individual | living |
-| csv |  |  |  | individual | living |
-| csw |  |  |  | individual | living |
-| csy |  |  |  | individual | living |
-| csz |  |  |  | individual | living |
-| cta |  |  |  | individual | living |
-| ctc |  |  |  | individual | living |
-| ctd |  |  |  | individual | living |
-| cte |  |  |  | individual | living |
-| ctg |  |  |  | individual | living |
-| cth |  |  |  | individual | living |
-| ctl |  |  |  | individual | living |
-| ctm |  |  |  | individual | extinct |
-| ctn |  |  |  | individual | living |
-| cto |  |  |  | individual | living |
-| ctp |  |  |  | individual | living |
-| cts |  |  |  | individual | living |
-| ctt |  |  |  | individual | living |
-| ctu |  |  |  | individual | living |
-| ctz |  |  |  | individual | living |
-| cua |  |  |  | individual | living |
-| cub |  |  |  | individual | living |
-| cuc |  |  |  | individual | living |
-| cug |  |  |  | individual | living |
-| cuh |  |  |  | individual | living |
-| cui |  |  |  | individual | living |
-| cuj |  |  |  | individual | living |
-| cuk |  |  |  | individual | living |
-| cul |  |  |  | individual | living |
-| cum |  |  |  | individual | extinct |
-| cuo |  |  |  | individual | extinct |
-| cup |  |  |  | individual | extinct |
-| cuq |  |  |  | individual | living |
-| cur |  |  |  | individual | living |
-| cut |  |  |  | individual | living |
-| cuu |  |  |  | individual | living |
-| cuv |  |  |  | individual | living |
-| cuw |  |  |  | individual | living |
-| cux |  |  |  | individual | living |
-| cvg |  |  |  | individual | living |
-| cvn |  |  |  | individual | living |
-| cwa |  |  |  | individual | living |
-| cwb |  |  |  | individual | living |
-| cwd |  |  |  | individual | living |
-| cwe |  |  |  | individual | living |
-| cwg |  |  |  | individual | living |
-| cwt |  |  |  | individual | living |
-| cya |  |  |  | individual | living |
-| cyb |  |  |  | individual | extinct |
-| cym | wel | cym | cy | individual | living |
-| cyo |  |  |  | individual | living |
-| czh |  |  |  | individual | living |
-| czk |  |  |  | individual | extinct |
-| czn |  |  |  | individual | living |
-| czo |  |  |  | individual | living |
-| czt |  |  |  | individual | living |
-| daa |  |  |  | individual | living |
-| dac |  |  |  | individual | living |
-| dad |  |  |  | individual | living |
-| dae |  |  |  | individual | living |
-| dag |  |  |  | individual | living |
-| dah |  |  |  | individual | living |
-| dai |  |  |  | individual | living |
-| daj |  |  |  | individual | living |
-| dak | dak | dak |  | individual | living |
-| dal |  |  |  | individual | living |
-| dam |  |  |  | individual | living |
-| dan | dan | dan | da | individual | living |
-| dao |  |  |  | individual | living |
-| daq |  |  |  | individual | living |
-| dar | dar | dar |  | individual | living |
-| das |  |  |  | individual | living |
-| dau |  |  |  | individual | living |
-| dav |  |  |  | individual | living |
-| daw |  |  |  | individual | living |
-| dax |  |  |  | individual | living |
-| daz |  |  |  | individual | living |
-| dba |  |  |  | individual | living |
-| dbb |  |  |  | individual | living |
-| dbd |  |  |  | individual | living |
-| dbe |  |  |  | individual | living |
-| dbf |  |  |  | individual | living |
-| dbg |  |  |  | individual | living |
-| dbi |  |  |  | individual | living |
-| dbj |  |  |  | individual | living |
-| dbl |  |  |  | individual | living |
-| dbm |  |  |  | individual | living |
-| dbn |  |  |  | individual | living |
-| dbo |  |  |  | individual | living |
-| dbp |  |  |  | individual | living |
-| dbq |  |  |  | individual | living |
-| dbr |  |  |  | individual | living |
-| dbt |  |  |  | individual | living |
-| dbu |  |  |  | individual | living |
-| dbv |  |  |  | individual | living |
-| dbw |  |  |  | individual | living |
-| dby |  |  |  | individual | living |
-| dcc |  |  |  | individual | living |
-| dcr |  |  |  | individual | extinct |
-| dda |  |  |  | individual | extinct |
-| ddd |  |  |  | individual | living |
-| dde |  |  |  | individual | living |
-| ddg |  |  |  | individual | living |
-| ddi |  |  |  | individual | living |
-| ddj |  |  |  | individual | living |
-| ddn |  |  |  | individual | living |
-| ddo |  |  |  | individual | living |
-| ddr |  |  |  | individual | extinct |
-| dds |  |  |  | individual | living |
-| ddw |  |  |  | individual | living |
-| dec |  |  |  | individual | living |
-| ded |  |  |  | individual | living |
-| dee |  |  |  | individual | living |
-| def |  |  |  | individual | living |
-| deg |  |  |  | individual | living |
-| deh |  |  |  | individual | living |
-| dei |  |  |  | individual | living |
-| dek |  |  |  | individual | living |
-| del | del | del |  | macrolanguage | living |
-| dem |  |  |  | individual | living |
-| den | den | den |  | macrolanguage | living |
-| dep |  |  |  | individual | extinct |
-| deq |  |  |  | individual | living |
-| der |  |  |  | individual | living |
-| des |  |  |  | individual | living |
-| deu | ger | deu | de | individual | living |
-| dev |  |  |  | individual | living |
-| dez |  |  |  | individual | living |
-| dga |  |  |  | individual | living |
-| dgb |  |  |  | individual | living |
-| dgc |  |  |  | individual | living |
-| dgd |  |  |  | individual | living |
-| dge |  |  |  | individual | living |
-| dgg |  |  |  | individual | living |
-| dgh |  |  |  | individual | living |
-| dgi |  |  |  | individual | living |
-| dgk |  |  |  | individual | living |
-| dgl |  |  |  | individual | living |
-| dgn |  |  |  | individual | extinct |
-| dgo |  |  |  | individual | living |
-| dgr | dgr | dgr |  | individual | living |
-| dgs |  |  |  | individual | living |
-| dgt |  |  |  | individual | extinct |
-| dgu |  |  |  | individual | living |
-| dgw |  |  |  | individual | extinct |
-| dgx |  |  |  | individual | living |
-| dgz |  |  |  | individual | living |
-| dhd |  |  |  | individual | living |
-| dhg |  |  |  | individual | living |
-| dhi |  |  |  | individual | living |
-| dhl |  |  |  | individual | living |
-| dhm |  |  |  | individual | living |
-| dhn |  |  |  | individual | living |
-| dho |  |  |  | individual | living |
-| dhr |  |  |  | individual | living |
-| dhs |  |  |  | individual | living |
-| dhu |  |  |  | individual | extinct |
-| dhv |  |  |  | individual | living |
-| dhw |  |  |  | individual | living |
-| dhx |  |  |  | individual | living |
-| dia |  |  |  | individual | living |
-| dib |  |  |  | individual | living |
-| dic |  |  |  | individual | living |
-| did |  |  |  | individual | living |
-| dif |  |  |  | individual | extinct |
-| dig |  |  |  | individual | living |
-| dih |  |  |  | individual | living |
-| dii |  |  |  | individual | living |
-| dij |  |  |  | individual | living |
-| dik |  |  |  | individual | living |
-| dil |  |  |  | individual | living |
-| dim |  |  |  | individual | living |
-| din | din | din |  | macrolanguage | living |
-| dio |  |  |  | individual | living |
-| dip |  |  |  | individual | living |
-| diq |  |  |  | individual | living |
-| dir |  |  |  | individual | living |
-| dis |  |  |  | individual | living |
-| dit |  |  |  | individual | extinct |
-| diu |  |  |  | individual | living |
-| div | div | div | dv | individual | living |
-| diw |  |  |  | individual | living |
-| dix |  |  |  | individual | living |
-| diy |  |  |  | individual | living |
-| diz |  |  |  | individual | living |
-| dja |  |  |  | individual | extinct |
-| djb |  |  |  | individual | living |
-| djc |  |  |  | individual | living |
-| djd |  |  |  | individual | living |
-| dje |  |  |  | individual | living |
-| djf |  |  |  | individual | extinct |
-| dji |  |  |  | individual | living |
-| djj |  |  |  | individual | living |
-| djk |  |  |  | individual | living |
-| djm |  |  |  | individual | living |
-| djn |  |  |  | individual | living |
-| djo |  |  |  | individual | living |
-| djr |  |  |  | individual | living |
-| dju |  |  |  | individual | living |
-| djw |  |  |  | individual | extinct |
-| dka |  |  |  | individual | living |
-| dkk |  |  |  | individual | living |
-| dkr |  |  |  | individual | living |
-| dks |  |  |  | individual | living |
-| dkx |  |  |  | individual | living |
-| dlg |  |  |  | individual | living |
-| dlk |  |  |  | individual | living |
-| dlm |  |  |  | individual | extinct |
-| dln |  |  |  | individual | living |
-| dma |  |  |  | individual | living |
-| dmb |  |  |  | individual | living |
-| dmc |  |  |  | individual | living |
-| dmd |  |  |  | individual | extinct |
-| dme |  |  |  | individual | living |
-| dmg |  |  |  | individual | living |
-| dmk |  |  |  | individual | living |
-| dml |  |  |  | individual | living |
-| dmm |  |  |  | individual | living |
-| dmo |  |  |  | individual | living |
-| dmr |  |  |  | individual | living |
-| dms |  |  |  | individual | living |
-| dmu |  |  |  | individual | living |
-| dmv |  |  |  | individual | living |
-| dmw |  |  |  | individual | living |
-| dmx |  |  |  | individual | living |
-| dmy |  |  |  | individual | living |
-| dna |  |  |  | individual | living |
-| dnd |  |  |  | individual | living |
-| dne |  |  |  | individual | living |
-| dng |  |  |  | individual | living |
-| dni |  |  |  | individual | living |
-| dnj |  |  |  | individual | living |
-| dnk |  |  |  | individual | living |
-| dnn |  |  |  | individual | living |
-| dnr |  |  |  | individual | living |
-| dnt |  |  |  | individual | living |
-| dnu |  |  |  | individual | living |
-| dnv |  |  |  | individual | living |
-| dnw |  |  |  | individual | living |
-| dny |  |  |  | individual | living |
-| doa |  |  |  | individual | living |
-| dob |  |  |  | individual | living |
-| doc |  |  |  | individual | living |
-| doe |  |  |  | individual | living |
-| dof |  |  |  | individual | living |
-| doh |  |  |  | individual | living |
-| doi | doi | doi |  | macrolanguage | living |
-| dok |  |  |  | individual | living |
-| dol |  |  |  | individual | living |
-| don |  |  |  | individual | living |
-| doo |  |  |  | individual | living |
-| dop |  |  |  | individual | living |
-| doq |  |  |  | individual | living |
-| dor |  |  |  | individual | living |
-| dos |  |  |  | individual | living |
-| dot |  |  |  | individual | living |
-| dov |  |  |  | individual | living |
-| dow |  |  |  | individual | living |
-| dox |  |  |  | individual | living |
-| doy |  |  |  | individual | living |
-| doz |  |  |  | individual | living |
-| dpp |  |  |  | individual | living |
-| drb |  |  |  | individual | living |
-| drc |  |  |  | individual | living |
-| drd |  |  |  | individual | living |
-| dre |  |  |  | individual | living |
-| drg |  |  |  | individual | living |
-| dri |  |  |  | individual | living |
-| drl |  |  |  | individual | living |
-| drn |  |  |  | individual | living |
-| dro |  |  |  | individual | living |
-| drq |  |  |  | individual | extinct |
-| drr |  |  |  | individual | extinct |
-| drs |  |  |  | individual | living |
-| drt |  |  |  | individual | living |
-| dru |  |  |  | individual | living |
-| dry |  |  |  | individual | living |
-| dsb | dsb | dsb |  | individual | living |
-| dse |  |  |  | individual | living |
-| dsh |  |  |  | individual | living |
-| dsi |  |  |  | individual | living |
-| dsl |  |  |  | individual | living |
-| dsn |  |  |  | individual | living |
-| dso |  |  |  | individual | living |
-| dsq |  |  |  | individual | living |
-| dta |  |  |  | individual | living |
-| dtb |  |  |  | individual | living |
-| dtd |  |  |  | individual | living |
-| dth |  |  |  | individual | extinct |
-| dti |  |  |  | individual | living |
-| dtk |  |  |  | individual | living |
-| dtm |  |  |  | individual | living |
-| dto |  |  |  | individual | living |
-| dtp |  |  |  | individual | living |
-| dtr |  |  |  | individual | living |
-| dts |  |  |  | individual | living |
-| dtt |  |  |  | individual | living |
-| dtu |  |  |  | individual | living |
-| dty |  |  |  | individual | living |
-| dua | dua | dua |  | individual | living |
-| dub |  |  |  | individual | living |
-| duc |  |  |  | individual | living |
-| dud |  |  |  | individual | living |
-| due |  |  |  | individual | living |
-| duf |  |  |  | individual | living |
-| dug |  |  |  | individual | living |
-| duh |  |  |  | individual | living |
-| dui |  |  |  | individual | living |
-| duj |  |  |  | individual | living |
-| duk |  |  |  | individual | living |
-| dul |  |  |  | individual | living |
-| dum | dum | dum |  | individual | historical |
-| dun |  |  |  | individual | living |
-| duo |  |  |  | individual | living |
-| dup |  |  |  | individual | living |
-| duq |  |  |  | individual | living |
-| dur |  |  |  | individual | living |
-| dus |  |  |  | individual | living |
-| duu |  |  |  | individual | living |
-| duv |  |  |  | individual | living |
-| duw |  |  |  | individual | living |
-| dux |  |  |  | individual | living |
-| duy |  |  |  | individual | extinct |
-| duz |  |  |  | individual | extinct |
-| dva |  |  |  | individual | living |
-| dwa |  |  |  | individual | living |
-| dwr |  |  |  | individual | living |
-| dws |  |  |  | individual | constructed |
-| dww |  |  |  | individual | living |
-| dya |  |  |  | individual | living |
-| dyb |  |  |  | individual | extinct |
-| dyd |  |  |  | individual | extinct |
-| dyg |  |  |  | individual | extinct |
-| dyi |  |  |  | individual | living |
-| dym |  |  |  | individual | living |
-| dyn |  |  |  | individual | living |
-| dyo |  |  |  | individual | living |
-| dyu | dyu | dyu |  | individual | living |
-| dyy |  |  |  | individual | living |
-| dza |  |  |  | individual | living |
-| dzd |  |  |  | individual | living |
-| dze |  |  |  | individual | extinct |
-| dzg |  |  |  | individual | living |
-| dzl |  |  |  | individual | living |
-| dzn |  |  |  | individual | living |
-| dzo | dzo | dzo | dz | individual | living |
-| eaa |  |  |  | individual | extinct |
-| ebg |  |  |  | individual | living |
-| ebk |  |  |  | individual | living |
-| ebo |  |  |  | individual | living |
-| ebr |  |  |  | individual | living |
-| ebu |  |  |  | individual | living |
-| ecr |  |  |  | individual | ancient |
-| ecs |  |  |  | individual | living |
-| ecy |  |  |  | individual | ancient |
-| eee |  |  |  | individual | living |
-| efa |  |  |  | individual | living |
-| efe |  |  |  | individual | living |
-| efi | efi | efi |  | individual | living |
-| ega |  |  |  | individual | living |
-| egl |  |  |  | individual | living |
-| ego |  |  |  | individual | living |
-| egy | egy | egy |  | individual | ancient |
-| ehu |  |  |  | individual | living |
-| eip |  |  |  | individual | living |
-| eit |  |  |  | individual | living |
-| eiv |  |  |  | individual | living |
-| eja |  |  |  | individual | living |
-| eka | eka | eka |  | individual | living |
-| ekc |  |  |  | individual | extinct |
-| eke |  |  |  | individual | living |
-| ekg |  |  |  | individual | living |
-| eki |  |  |  | individual | living |
-| ekk |  |  |  | individual | living |
-| ekl |  |  |  | individual | living |
-| ekm |  |  |  | individual | living |
-| eko |  |  |  | individual | living |
-| ekp |  |  |  | individual | living |
-| ekr |  |  |  | individual | living |
-| eky |  |  |  | individual | living |
-| ele |  |  |  | individual | living |
-| elh |  |  |  | individual | living |
-| eli |  |  |  | individual | extinct |
-| elk |  |  |  | individual | living |
-| ell | gre | ell | el | individual | living |
-| elm |  |  |  | individual | living |
-| elo |  |  |  | individual | living |
-| elu |  |  |  | individual | living |
-| elx | elx | elx |  | individual | ancient |
-| ema |  |  |  | individual | living |
-| emb |  |  |  | individual | living |
-| eme |  |  |  | individual | living |
-| emg |  |  |  | individual | living |
-| emi |  |  |  | individual | living |
-| emk |  |  |  | individual | living |
-| emm |  |  |  | individual | extinct |
-| emn |  |  |  | individual | living |
-| emp |  |  |  | individual | living |
-| ems |  |  |  | individual | living |
-| emu |  |  |  | individual | living |
-| emw |  |  |  | individual | living |
-| emx |  |  |  | individual | living |
-| emy |  |  |  | individual | extinct |
-| ena |  |  |  | individual | living |
-| enb |  |  |  | individual | living |
-| enc |  |  |  | individual | living |
-| end |  |  |  | individual | living |
-| enf |  |  |  | individual | living |
-| eng | eng | eng | en | individual | living |
-| enh |  |  |  | individual | living |
-| enl |  |  |  | individual | living |
-| enm | enm | enm |  | individual | historical |
-| enn |  |  |  | individual | living |
-| eno |  |  |  | individual | living |
-| enq |  |  |  | individual | living |
-| enr |  |  |  | individual | living |
-| enu |  |  |  | individual | living |
-| env |  |  |  | individual | living |
-| enw |  |  |  | individual | living |
-| enx |  |  |  | individual | living |
-| eot |  |  |  | individual | living |
-| epi |  |  |  | individual | living |
-| epo | epo | epo | eo | individual | constructed |
-| era |  |  |  | individual | living |
-| erg |  |  |  | individual | living |
-| erh |  |  |  | individual | living |
-| eri |  |  |  | individual | living |
-| erk |  |  |  | individual | living |
-| ero |  |  |  | individual | living |
-| err |  |  |  | individual | extinct |
-| ers |  |  |  | individual | living |
-| ert |  |  |  | individual | living |
-| erw |  |  |  | individual | living |
-| ese |  |  |  | individual | living |
-| esh |  |  |  | individual | living |
-| esi |  |  |  | individual | living |
-| esk |  |  |  | individual | living |
-| esl |  |  |  | individual | living |
-| esm |  |  |  | individual | extinct |
-| esn |  |  |  | individual | living |
-| eso |  |  |  | individual | living |
-| esq |  |  |  | individual | extinct |
-| ess |  |  |  | individual | living |
-| est | est | est | et | macrolanguage | living |
-| esu |  |  |  | individual | living |
-| esy |  |  |  | individual | living |
-| etb |  |  |  | individual | living |
-| etc |  |  |  | individual | extinct |
-| eth |  |  |  | individual | living |
-| etn |  |  |  | individual | living |
-| eto |  |  |  | individual | living |
-| etr |  |  |  | individual | living |
-| ets |  |  |  | individual | living |
-| ett |  |  |  | individual | ancient |
-| etu |  |  |  | individual | living |
-| etx |  |  |  | individual | living |
-| etz |  |  |  | individual | living |
-| eus | baq | eus | eu | individual | living |
-| eve |  |  |  | individual | living |
-| evh |  |  |  | individual | living |
-| evn |  |  |  | individual | living |
-| ewe | ewe | ewe | ee | individual | living |
-| ewo | ewo | ewo |  | individual | living |
-| ext |  |  |  | individual | living |
-| eya |  |  |  | individual | extinct |
-| eyo |  |  |  | individual | living |
-| eza |  |  |  | individual | living |
-| eze |  |  |  | individual | living |
-| faa |  |  |  | individual | living |
-| fab |  |  |  | individual | living |
-| fad |  |  |  | individual | living |
-| faf |  |  |  | individual | living |
-| fag |  |  |  | individual | living |
-| fah |  |  |  | individual | living |
-| fai |  |  |  | individual | living |
-| faj |  |  |  | individual | living |
-| fak |  |  |  | individual | living |
-| fal |  |  |  | individual | living |
-| fam |  |  |  | individual | living |
-| fan | fan | fan |  | individual | living |
-| fao | fao | fao | fo | individual | living |
-| fap |  |  |  | individual | living |
-| far |  |  |  | individual | living |
-| fas | per | fas | fa | macrolanguage | living |
-| fat | fat | fat |  | individual | living |
-| fau |  |  |  | individual | living |
-| fax |  |  |  | individual | living |
-| fay |  |  |  | individual | living |
-| faz |  |  |  | individual | living |
-| fbl |  |  |  | individual | living |
-| fcs |  |  |  | individual | living |
-| fer |  |  |  | individual | living |
-| ffi |  |  |  | individual | living |
-| ffm |  |  |  | individual | living |
-| fgr |  |  |  | individual | living |
-| fia |  |  |  | individual | living |
-| fie |  |  |  | individual | living |
-| fij | fij | fij | fj | individual | living |
-| fil | fil | fil |  | individual | living |
-| fin | fin | fin | fi | individual | living |
-| fip |  |  |  | individual | living |
-| fir |  |  |  | individual | living |
-| fit |  |  |  | individual | living |
-| fiw |  |  |  | individual | living |
-| fkk |  |  |  | individual | living |
-| fkv |  |  |  | individual | living |
-| fla |  |  |  | individual | living |
-| flh |  |  |  | individual | living |
-| fli |  |  |  | individual | living |
-| fll |  |  |  | individual | living |
-| fln |  |  |  | individual | extinct |
-| flr |  |  |  | individual | living |
-| fly |  |  |  | individual | living |
-| fmp |  |  |  | individual | living |
-| fmu |  |  |  | individual | living |
-| fng |  |  |  | individual | living |
-| fni |  |  |  | individual | living |
-| fod |  |  |  | individual | living |
-| foi |  |  |  | individual | living |
-| fom |  |  |  | individual | living |
-| fon | fon | fon |  | individual | living |
-| for |  |  |  | individual | living |
-| fos |  |  |  | individual | extinct |
-| fpe |  |  |  | individual | living |
-| fqs |  |  |  | individual | living |
-| fra | fre | fra | fr | individual | living |
-| frc |  |  |  | individual | living |
-| frd |  |  |  | individual | living |
-| frk |  |  |  | individual | extinct |
-| frm | frm | frm |  | individual | historical |
-| fro | fro | fro |  | individual | historical |
-| frp |  |  |  | individual | living |
-| frq |  |  |  | individual | living |
-| frr | frr | frr |  | individual | living |
-| frs | frs | frs |  | individual | living |
-| frt |  |  |  | individual | living |
-| fry | fry | fry | fy | individual | living |
-| fse |  |  |  | individual | living |
-| fsl |  |  |  | individual | living |
-| fss |  |  |  | individual | living |
-| fub |  |  |  | individual | living |
-| fuc |  |  |  | individual | living |
-| fud |  |  |  | individual | living |
-| fue |  |  |  | individual | living |
-| fuf |  |  |  | individual | living |
-| fuh |  |  |  | individual | living |
-| fui |  |  |  | individual | living |
-| fuj |  |  |  | individual | living |
-| ful | ful | ful | ff | macrolanguage | living |
-| fum |  |  |  | individual | living |
-| fun |  |  |  | individual | living |
-| fuq |  |  |  | individual | living |
-| fur | fur | fur |  | individual | living |
-| fut |  |  |  | individual | living |
-| fuu |  |  |  | individual | living |
-| fuv |  |  |  | individual | living |
-| fuy |  |  |  | individual | living |
-| fvr |  |  |  | individual | living |
-| fwa |  |  |  | individual | living |
-| fwe |  |  |  | individual | living |
-| gaa | gaa | gaa |  | individual | living |
-| gab |  |  |  | individual | living |
-| gac |  |  |  | individual | living |
-| gad |  |  |  | individual | living |
-| gae |  |  |  | individual | living |
-| gaf |  |  |  | individual | living |
-| gag |  |  |  | individual | living |
-| gah |  |  |  | individual | living |
-| gai |  |  |  | individual | living |
-| gaj |  |  |  | individual | living |
-| gak |  |  |  | individual | living |
-| gal |  |  |  | individual | living |
-| gam |  |  |  | individual | living |
-| gan |  |  |  | individual | living |
-| gao |  |  |  | individual | living |
-| gap |  |  |  | individual | living |
-| gaq |  |  |  | individual | living |
-| gar |  |  |  | individual | living |
-| gas |  |  |  | individual | living |
-| gat |  |  |  | individual | living |
-| gau |  |  |  | individual | living |
-| gaw |  |  |  | individual | living |
-| gax |  |  |  | individual | living |
-| gay | gay | gay |  | individual | living |
-| gaz |  |  |  | individual | living |
-| gba | gba | gba |  | macrolanguage | living |
-| gbb |  |  |  | individual | living |
-| gbd |  |  |  | individual | living |
-| gbe |  |  |  | individual | living |
-| gbf |  |  |  | individual | living |
-| gbg |  |  |  | individual | living |
-| gbh |  |  |  | individual | living |
-| gbi |  |  |  | individual | living |
-| gbj |  |  |  | individual | living |
-| gbk |  |  |  | individual | living |
-| gbl |  |  |  | individual | living |
-| gbm |  |  |  | individual | living |
-| gbn |  |  |  | individual | living |
-| gbo |  |  |  | individual | living |
-| gbp |  |  |  | individual | living |
-| gbq |  |  |  | individual | living |
-| gbr |  |  |  | individual | living |
-| gbs |  |  |  | individual | living |
-| gbu |  |  |  | individual | living |
-| gbv |  |  |  | individual | living |
-| gbw |  |  |  | individual | living |
-| gbx |  |  |  | individual | living |
-| gby |  |  |  | individual | living |
-| gbz |  |  |  | individual | living |
-| gcc |  |  |  | individual | living |
-| gcd |  |  |  | individual | extinct |
-| gce |  |  |  | individual | extinct |
-| gcf |  |  |  | individual | living |
-| gcl |  |  |  | individual | living |
-| gcn |  |  |  | individual | living |
-| gcr |  |  |  | individual | living |
-| gct |  |  |  | individual | living |
-| gda |  |  |  | individual | living |
-| gdb |  |  |  | individual | living |
-| gdc |  |  |  | individual | extinct |
-| gdd |  |  |  | individual | living |
-| gde |  |  |  | individual | living |
-| gdf |  |  |  | individual | living |
-| gdg |  |  |  | individual | living |
-| gdh |  |  |  | individual | living |
-| gdi |  |  |  | individual | living |
-| gdj |  |  |  | individual | living |
-| gdk |  |  |  | individual | living |
-| gdl |  |  |  | individual | living |
-| gdm |  |  |  | individual | living |
-| gdn |  |  |  | individual | living |
-| gdo |  |  |  | individual | living |
-| gdq |  |  |  | individual | living |
-| gdr |  |  |  | individual | living |
-| gds |  |  |  | individual | living |
-| gdt |  |  |  | individual | extinct |
-| gdu |  |  |  | individual | living |
-| gdx |  |  |  | individual | living |
-| gea |  |  |  | individual | living |
-| geb |  |  |  | individual | living |
-| gec |  |  |  | individual | living |
-| ged |  |  |  | individual | living |
-| geg |  |  |  | individual | living |
-| geh |  |  |  | individual | living |
-| gei |  |  |  | individual | living |
-| gej |  |  |  | individual | living |
-| gek |  |  |  | individual | living |
-| gel |  |  |  | individual | living |
-| geq |  |  |  | individual | living |
-| ges |  |  |  | individual | living |
-| gev |  |  |  | individual | living |
-| gew |  |  |  | individual | living |
-| gex |  |  |  | individual | living |
-| gey |  |  |  | individual | living |
-| gez | gez | gez |  | individual | ancient |
-| gfk |  |  |  | individual | living |
-| gft |  |  |  | individual | extinct |
-| gfx |  |  |  | individual | living |
-| gga |  |  |  | individual | living |
-| ggb |  |  |  | individual | living |
-| ggd |  |  |  | individual | extinct |
-| gge |  |  |  | individual | living |
-| ggg |  |  |  | individual | living |
-| ggk |  |  |  | individual | extinct |
-| ggl |  |  |  | individual | living |
-| ggn |  |  |  | individual | living |
-| ggo |  |  |  | individual | living |
-| ggt |  |  |  | individual | living |
-| ggu |  |  |  | individual | living |
-| ggw |  |  |  | individual | living |
-| gha |  |  |  | individual | living |
-| ghc |  |  |  | individual | extinct |
-| ghe |  |  |  | individual | living |
-| ghh |  |  |  | individual | living |
-| ghk |  |  |  | individual | living |
-| ghl |  |  |  | individual | living |
-| ghn |  |  |  | individual | living |
-| gho |  |  |  | individual | extinct |
-| ghr |  |  |  | individual | living |
-| ghs |  |  |  | individual | living |
-| ght |  |  |  | individual | living |
-| gia |  |  |  | individual | living |
-| gib |  |  |  | individual | living |
-| gic |  |  |  | individual | living |
-| gid |  |  |  | individual | living |
-| gig |  |  |  | individual | living |
-| gih |  |  |  | individual | living |
-| gil | gil | gil |  | individual | living |
-| gim |  |  |  | individual | living |
-| gin |  |  |  | individual | living |
-| gip |  |  |  | individual | living |
-| giq |  |  |  | individual | living |
-| gir |  |  |  | individual | living |
-| gis |  |  |  | individual | living |
-| git |  |  |  | individual | living |
-| giu |  |  |  | individual | living |
-| giw |  |  |  | individual | living |
-| gix |  |  |  | individual | living |
-| giy |  |  |  | individual | living |
-| giz |  |  |  | individual | living |
-| gji |  |  |  | individual | living |
-| gjk |  |  |  | individual | living |
-| gjm |  |  |  | individual | extinct |
-| gjn |  |  |  | individual | living |
-| gju |  |  |  | individual | living |
-| gka |  |  |  | individual | living |
-| gke |  |  |  | individual | living |
-| gkn |  |  |  | individual | living |
-| gko |  |  |  | individual | extinct |
-| gkp |  |  |  | individual | living |
-| gla | gla | gla | gd | individual | living |
-| glc |  |  |  | individual | living |
-| gld |  |  |  | individual | living |
-| gle | gle | gle | ga | individual | living |
-| glg | glg | glg | gl | individual | living |
-| glh |  |  |  | individual | living |
-| gli |  |  |  | individual | extinct |
-| glj |  |  |  | individual | living |
-| glk |  |  |  | individual | living |
-| gll |  |  |  | individual | extinct |
-| glo |  |  |  | individual | living |
-| glr |  |  |  | individual | living |
-| glu |  |  |  | individual | living |
-| glv | glv | glv | gv | individual | living |
-| glw |  |  |  | individual | living |
-| gly |  |  |  | individual | extinct |
-| gma |  |  |  | individual | extinct |
-| gmb |  |  |  | individual | living |
-| gmd |  |  |  | individual | living |
-| gmg |  |  |  | individual | living |
-| gmh | gmh | gmh |  | individual | historical |
-| gml |  |  |  | individual | historical |
-| gmm |  |  |  | individual | living |
-| gmn |  |  |  | individual | living |
-| gmu |  |  |  | individual | living |
-| gmv |  |  |  | individual | living |
-| gmx |  |  |  | individual | living |
-| gmy |  |  |  | individual | ancient |
-| gmz |  |  |  | individual | living |
-| gna |  |  |  | individual | living |
-| gnb |  |  |  | individual | living |
-| gnc |  |  |  | individual | extinct |
-| gnd |  |  |  | individual | living |
-| gne |  |  |  | individual | living |
-| gng |  |  |  | individual | living |
-| gnh |  |  |  | individual | living |
-| gni |  |  |  | individual | living |
-| gnk |  |  |  | individual | living |
-| gnl |  |  |  | individual | extinct |
-| gnm |  |  |  | individual | living |
-| gnn |  |  |  | individual | living |
-| gno |  |  |  | individual | living |
-| gnq |  |  |  | individual | living |
-| gnr |  |  |  | individual | extinct |
-| gnt |  |  |  | individual | living |
-| gnu |  |  |  | individual | living |
-| gnw |  |  |  | individual | living |
-| gnz |  |  |  | individual | living |
-| goa |  |  |  | individual | living |
-| gob |  |  |  | individual | living |
-| goc |  |  |  | individual | living |
-| god |  |  |  | individual | living |
-| goe |  |  |  | individual | living |
-| gof |  |  |  | individual | living |
-| gog |  |  |  | individual | living |
-| goh | goh | goh |  | individual | historical |
-| goi |  |  |  | individual | living |
-| goj |  |  |  | individual | living |
-| gok |  |  |  | individual | living |
-| gol |  |  |  | individual | living |
-| gom |  |  |  | individual | living |
-| gon | gon | gon |  | macrolanguage | living |
-| goo |  |  |  | individual | living |
-| gop |  |  |  | individual | living |
-| goq |  |  |  | individual | living |
-| gor | gor | gor |  | individual | living |
-| gos |  |  |  | individual | living |
-| got | got | got |  | individual | ancient |
-| gou |  |  |  | individual | living |
-| gow |  |  |  | individual | living |
-| gox |  |  |  | individual | living |
-| goy |  |  |  | individual | living |
-| goz |  |  |  | individual | living |
-| gpa |  |  |  | individual | living |
-| gpe |  |  |  | individual | living |
-| gpn |  |  |  | individual | living |
-| gqa |  |  |  | individual | living |
-| gqi |  |  |  | individual | living |
-| gqn |  |  |  | individual | extinct |
-| gqr |  |  |  | individual | living |
-| gqu |  |  |  | individual | living |
-| gra |  |  |  | individual | living |
-| grb | grb | grb |  | macrolanguage | living |
-| grc | grc | grc |  | individual | historical |
-| grd |  |  |  | individual | living |
-| grg |  |  |  | individual | living |
-| grh |  |  |  | individual | living |
-| gri |  |  |  | individual | living |
-| grj |  |  |  | individual | living |
-| grm |  |  |  | individual | living |
-| grn | grn | grn | gn | macrolanguage | living |
-| gro |  |  |  | individual | living |
-| grq |  |  |  | individual | living |
-| grr |  |  |  | individual | living |
-| grs |  |  |  | individual | living |
-| grt |  |  |  | individual | living |
-| gru |  |  |  | individual | living |
-| grv |  |  |  | individual | living |
-| grw |  |  |  | individual | living |
-| grx |  |  |  | individual | living |
-| gry |  |  |  | individual | living |
-| grz |  |  |  | individual | living |
-| gse |  |  |  | individual | living |
-| gsg |  |  |  | individual | living |
-| gsl |  |  |  | individual | living |
-| gsm |  |  |  | individual | living |
-| gsn |  |  |  | individual | living |
-| gso |  |  |  | individual | living |
-| gsp |  |  |  | individual | living |
-| gss |  |  |  | individual | living |
-| gsw | gsw | gsw |  | individual | living |
-| gta |  |  |  | individual | living |
-| gti |  |  |  | individual | living |
-| gtu |  |  |  | individual | extinct |
-| gua |  |  |  | individual | living |
-| gub |  |  |  | individual | living |
-| guc |  |  |  | individual | living |
-| gud |  |  |  | individual | living |
-| gue |  |  |  | individual | living |
-| guf |  |  |  | individual | living |
-| gug |  |  |  | individual | living |
-| guh |  |  |  | individual | living |
-| gui |  |  |  | individual | living |
-| guj | guj | guj | gu | individual | living |
-| guk |  |  |  | individual | living |
-| gul |  |  |  | individual | living |
-| gum |  |  |  | individual | living |
-| gun |  |  |  | individual | living |
-| guo |  |  |  | individual | living |
-| gup |  |  |  | individual | living |
-| guq |  |  |  | individual | living |
-| gur |  |  |  | individual | living |
-| gus |  |  |  | individual | living |
-| gut |  |  |  | individual | living |
-| guu |  |  |  | individual | living |
-| guv |  |  |  | individual | extinct |
-| guw |  |  |  | individual | living |
-| gux |  |  |  | individual | living |
-| guz |  |  |  | individual | living |
-| gva |  |  |  | individual | living |
-| gvc |  |  |  | individual | living |
-| gve |  |  |  | individual | living |
-| gvf |  |  |  | individual | living |
-| gvj |  |  |  | individual | living |
-| gvl |  |  |  | individual | living |
-| gvm |  |  |  | individual | living |
-| gvn |  |  |  | individual | living |
-| gvo |  |  |  | individual | living |
-| gvp |  |  |  | individual | living |
-| gvr |  |  |  | individual | living |
-| gvs |  |  |  | individual | living |
-| gvy |  |  |  | individual | extinct |
-| gwa |  |  |  | individual | living |
-| gwb |  |  |  | individual | living |
-| gwc |  |  |  | individual | living |
-| gwd |  |  |  | individual | living |
-| gwe |  |  |  | individual | living |
-| gwf |  |  |  | individual | living |
-| gwg |  |  |  | individual | living |
-| gwi | gwi | gwi |  | individual | living |
-| gwj |  |  |  | individual | living |
-| gwm |  |  |  | individual | extinct |
-| gwn |  |  |  | individual | living |
-| gwr |  |  |  | individual | living |
-| gwt |  |  |  | individual | living |
-| gwu |  |  |  | individual | extinct |
-| gww |  |  |  | individual | living |
-| gwx |  |  |  | individual | living |
-| gxx |  |  |  | individual | living |
-| gya |  |  |  | individual | living |
-| gyb |  |  |  | individual | living |
-| gyd |  |  |  | individual | living |
-| gye |  |  |  | individual | living |
-| gyf |  |  |  | individual | extinct |
-| gyg |  |  |  | individual | living |
-| gyi |  |  |  | individual | living |
-| gyl |  |  |  | individual | living |
-| gym |  |  |  | individual | living |
-| gyn |  |  |  | individual | living |
-| gyr |  |  |  | individual | living |
-| gyy |  |  |  | individual | extinct |
-| gza |  |  |  | individual | living |
-| gzi |  |  |  | individual | living |
-| gzn |  |  |  | individual | living |
-| haa |  |  |  | individual | living |
-| hab |  |  |  | individual | living |
-| hac |  |  |  | individual | living |
-| had |  |  |  | individual | living |
-| hae |  |  |  | individual | living |
-| haf |  |  |  | individual | living |
-| hag |  |  |  | individual | living |
-| hah |  |  |  | individual | living |
-| hai | hai | hai |  | macrolanguage | living |
-| haj |  |  |  | individual | living |
-| hak |  |  |  | individual | living |
-| hal |  |  |  | individual | living |
-| ham |  |  |  | individual | living |
-| han |  |  |  | individual | living |
-| hao |  |  |  | individual | living |
-| hap |  |  |  | individual | living |
-| haq |  |  |  | individual | living |
-| har |  |  |  | individual | living |
-| has |  |  |  | individual | living |
-| hat | hat | hat | ht | individual | living |
-| hau | hau | hau | ha | individual | living |
-| hav |  |  |  | individual | living |
-| haw | haw | haw |  | individual | living |
-| hax |  |  |  | individual | living |
-| hay |  |  |  | individual | living |
-| haz |  |  |  | individual | living |
-| hba |  |  |  | individual | living |
-| hbb |  |  |  | individual | living |
-| hbn |  |  |  | individual | living |
-| hbo |  |  |  | individual | historical |
-| hbs |  |  | sh | macrolanguage | living |
-| hbu |  |  |  | individual | living |
-| hca |  |  |  | individual | living |
-| hch |  |  |  | individual | living |
-| hdn |  |  |  | individual | living |
-| hds |  |  |  | individual | living |
-| hdy |  |  |  | individual | living |
-| hea |  |  |  | individual | living |
-| heb | heb | heb | he | individual | living |
-| hed |  |  |  | individual | living |
-| heg |  |  |  | individual | living |
-| heh |  |  |  | individual | living |
-| hei |  |  |  | individual | living |
-| hem |  |  |  | individual | living |
-| her | her | her | hz | individual | living |
-| hgm |  |  |  | individual | living |
-| hgw |  |  |  | individual | living |
-| hhi |  |  |  | individual | living |
-| hhr |  |  |  | individual | living |
-| hhy |  |  |  | individual | living |
-| hia |  |  |  | individual | living |
-| hib |  |  |  | individual | extinct |
-| hid |  |  |  | individual | living |
-| hif |  |  |  | individual | living |
-| hig |  |  |  | individual | living |
-| hih |  |  |  | individual | living |
-| hii |  |  |  | individual | living |
-| hij |  |  |  | individual | living |
-| hik |  |  |  | individual | living |
-| hil | hil | hil |  | individual | living |
-| hin | hin | hin | hi | individual | living |
-| hio |  |  |  | individual | living |
-| hir |  |  |  | individual | living |
-| hit | hit | hit |  | individual | ancient |
-| hiw |  |  |  | individual | living |
-| hix |  |  |  | individual | living |
-| hji |  |  |  | individual | living |
-| hka |  |  |  | individual | living |
-| hke |  |  |  | individual | living |
-| hkk |  |  |  | individual | living |
-| hks |  |  |  | individual | living |
-| hla |  |  |  | individual | living |
-| hlb |  |  |  | individual | living |
-| hld |  |  |  | individual | living |
-| hle |  |  |  | individual | living |
-| hlt |  |  |  | individual | living |
-| hlu |  |  |  | individual | ancient |
-| hma |  |  |  | individual | living |
-| hmb |  |  |  | individual | living |
-| hmc |  |  |  | individual | living |
-| hmd |  |  |  | individual | living |
-| hme |  |  |  | individual | living |
-| hmf |  |  |  | individual | living |
-| hmg |  |  |  | individual | living |
-| hmh |  |  |  | individual | living |
-| hmi |  |  |  | individual | living |
-| hmj |  |  |  | individual | living |
-| hmk |  |  |  | individual | extinct |
-| hml |  |  |  | individual | living |
-| hmm |  |  |  | individual | living |
-| hmn | hmn | hmn |  | macrolanguage | living |
-| hmo | hmo | hmo | ho | individual | living |
-| hmp |  |  |  | individual | living |
-| hmq |  |  |  | individual | living |
-| hmr |  |  |  | individual | living |
-| hms |  |  |  | individual | living |
-| hmt |  |  |  | individual | living |
-| hmu |  |  |  | individual | living |
-| hmv |  |  |  | individual | living |
-| hmw |  |  |  | individual | living |
-| hmy |  |  |  | individual | living |
-| hmz |  |  |  | individual | living |
-| hna |  |  |  | individual | living |
-| hnd |  |  |  | individual | living |
-| hne |  |  |  | individual | living |
-| hnh |  |  |  | individual | living |
-| hni |  |  |  | individual | living |
-| hnj |  |  |  | individual | living |
-| hnn |  |  |  | individual | living |
-| hno |  |  |  | individual | living |
-| hns |  |  |  | individual | living |
-| hnu |  |  |  | individual | living |
-| hoa |  |  |  | individual | living |
-| hob |  |  |  | individual | living |
-| hoc |  |  |  | individual | living |
-| hod |  |  |  | individual | extinct |
-| hoe |  |  |  | individual | living |
-| hoh |  |  |  | individual | living |
-| hoi |  |  |  | individual | living |
-| hoj |  |  |  | individual | living |
-| hol |  |  |  | individual | living |
-| hom |  |  |  | individual | extinct |
-| hoo |  |  |  | individual | living |
-| hop |  |  |  | individual | living |
-| hor |  |  |  | individual | extinct |
-| hos |  |  |  | individual | living |
-| hot |  |  |  | individual | living |
-| hov |  |  |  | individual | living |
-| how |  |  |  | individual | living |
-| hoy |  |  |  | individual | living |
-| hoz |  |  |  | individual | living |
-| hpo |  |  |  | individual | living |
-| hps |  |  |  | individual | living |
-| hra |  |  |  | individual | living |
-| hrc |  |  |  | individual | living |
-| hre |  |  |  | individual | living |
-| hrk |  |  |  | individual | living |
-| hrm |  |  |  | individual | living |
-| hro |  |  |  | individual | living |
-| hrp |  |  |  | individual | extinct |
-| hrt |  |  |  | individual | living |
-| hru |  |  |  | individual | living |
-| hrv | hrv | hrv | hr | individual | living |
-| hrw |  |  |  | individual | living |
-| hrx |  |  |  | individual | living |
-| hrz |  |  |  | individual | living |
-| hsb | hsb | hsb |  | individual | living |
-| hsh |  |  |  | individual | living |
-| hsl |  |  |  | individual | living |
-| hsn |  |  |  | individual | living |
-| hss |  |  |  | individual | living |
-| hti |  |  |  | individual | living |
-| hto |  |  |  | individual | living |
-| hts |  |  |  | individual | living |
-| htu |  |  |  | individual | living |
-| htx |  |  |  | individual | ancient |
-| hub |  |  |  | individual | living |
-| huc |  |  |  | individual | living |
-| hud |  |  |  | individual | living |
-| hue |  |  |  | individual | living |
-| huf |  |  |  | individual | living |
-| hug |  |  |  | individual | living |
-| huh |  |  |  | individual | living |
-| hui |  |  |  | individual | living |
-| huj |  |  |  | individual | living |
-| huk |  |  |  | individual | living |
-| hul |  |  |  | individual | living |
-| hum |  |  |  | individual | living |
-| hun | hun | hun | hu | individual | living |
-| huo |  |  |  | individual | living |
-| hup | hup | hup |  | individual | living |
-| huq |  |  |  | individual | living |
-| hur |  |  |  | individual | living |
-| hus |  |  |  | individual | living |
-| hut |  |  |  | individual | living |
-| huu |  |  |  | individual | living |
-| huv |  |  |  | individual | living |
-| huw |  |  |  | individual | extinct |
-| hux |  |  |  | individual | living |
-| huy |  |  |  | individual | living |
-| huz |  |  |  | individual | living |
-| hvc |  |  |  | individual | living |
-| hve |  |  |  | individual | living |
-| hvk |  |  |  | individual | living |
-| hvn |  |  |  | individual | living |
-| hvv |  |  |  | individual | living |
-| hwa |  |  |  | individual | living |
-| hwc |  |  |  | individual | living |
-| hwo |  |  |  | individual | living |
-| hya |  |  |  | individual | living |
-| hye | arm | hye | hy | individual | living |
-| iai |  |  |  | individual | living |
-| ian |  |  |  | individual | living |
-| iap |  |  |  | individual | living |
-| iar |  |  |  | individual | living |
-| iba | iba | iba |  | individual | living |
-| ibb |  |  |  | individual | living |
-| ibd |  |  |  | individual | living |
-| ibe |  |  |  | individual | living |
-| ibg |  |  |  | individual | living |
-| ibl |  |  |  | individual | living |
-| ibm |  |  |  | individual | living |
-| ibn |  |  |  | individual | living |
-| ibo | ibo | ibo | ig | individual | living |
-| ibr |  |  |  | individual | living |
-| ibu |  |  |  | individual | living |
-| iby |  |  |  | individual | living |
-| ica |  |  |  | individual | living |
-| ich |  |  |  | individual | living |
-| icl |  |  |  | individual | living |
-| icr |  |  |  | individual | living |
-| ida |  |  |  | individual | living |
-| idb |  |  |  | individual | living |
-| idc |  |  |  | individual | living |
-| idd |  |  |  | individual | living |
-| ide |  |  |  | individual | living |
-| idi |  |  |  | individual | living |
-| ido | ido | ido | io | individual | constructed |
-| idr |  |  |  | individual | living |
-| ids |  |  |  | individual | living |
-| idt |  |  |  | individual | living |
-| idu |  |  |  | individual | living |
-| ifa |  |  |  | individual | living |
-| ifb |  |  |  | individual | living |
-| ife |  |  |  | individual | living |
-| iff |  |  |  | individual | extinct |
-| ifk |  |  |  | individual | living |
-| ifm |  |  |  | individual | living |
-| ifu |  |  |  | individual | living |
-| ify |  |  |  | individual | living |
-| igb |  |  |  | individual | living |
-| ige |  |  |  | individual | living |
-| igg |  |  |  | individual | living |
-| igl |  |  |  | individual | living |
-| igm |  |  |  | individual | living |
-| ign |  |  |  | individual | living |
-| igo |  |  |  | individual | living |
-| igs |  |  |  | individual | constructed |
-| igw |  |  |  | individual | living |
-| ihb |  |  |  | individual | living |
-| ihi |  |  |  | individual | living |
-| ihp |  |  |  | individual | living |
-| ihw |  |  |  | individual | extinct |
-| iii | iii | iii | ii | individual | living |
-| iin |  |  |  | individual | extinct |
-| ijc |  |  |  | individual | living |
-| ije |  |  |  | individual | living |
-| ijj |  |  |  | individual | living |
-| ijn |  |  |  | individual | living |
-| ijs |  |  |  | individual | living |
-| ike |  |  |  | individual | living |
-| iki |  |  |  | individual | living |
-| ikk |  |  |  | individual | living |
-| ikl |  |  |  | individual | living |
-| iko |  |  |  | individual | living |
-| ikp |  |  |  | individual | living |
-| ikr |  |  |  | individual | extinct |
-| ikt |  |  |  | individual | living |
-| iku | iku | iku | iu | macrolanguage | living |
-| ikv |  |  |  | individual | living |
-| ikw |  |  |  | individual | living |
-| ikx |  |  |  | individual | living |
-| ikz |  |  |  | individual | living |
-| ila |  |  |  | individual | living |
-| ilb |  |  |  | individual | living |
-| ile | ile | ile | ie | individual | constructed |
-| ilg |  |  |  | individual | extinct |
-| ili |  |  |  | individual | living |
-| ilk |  |  |  | individual | living |
-| ill |  |  |  | individual | living |
-| ilo | ilo | ilo |  | individual | living |
-| ils |  |  |  | individual | living |
-| ilu |  |  |  | individual | living |
-| ilv |  |  |  | individual | living |
-| ima |  |  |  | individual | living |
-| ime |  |  |  | individual | living |
-| imi |  |  |  | individual | living |
-| iml |  |  |  | individual | extinct |
-| imn |  |  |  | individual | living |
-| imo |  |  |  | individual | living |
-| imr |  |  |  | individual | living |
-| ims |  |  |  | individual | ancient |
-| imy |  |  |  | individual | ancient |
-| ina | ina | ina | ia | individual | constructed |
-| inb |  |  |  | individual | living |
-| ind | ind | ind | id | individual | living |
-| ing |  |  |  | individual | living |
-| inh | inh | inh |  | individual | living |
-| inj |  |  |  | individual | living |
-| inl |  |  |  | individual | living |
-| inm |  |  |  | individual | ancient |
-| inn |  |  |  | individual | living |
-| ino |  |  |  | individual | living |
-| inp |  |  |  | individual | living |
-| ins |  |  |  | individual | living |
-| int |  |  |  | individual | living |
-| inz |  |  |  | individual | extinct |
-| ior |  |  |  | individual | living |
-| iou |  |  |  | individual | living |
-| iow |  |  |  | individual | extinct |
-| ipi |  |  |  | individual | living |
-| ipk | ipk | ipk | ik | macrolanguage | living |
-| ipo |  |  |  | individual | living |
-| iqu |  |  |  | individual | living |
-| iqw |  |  |  | individual | living |
-| ire |  |  |  | individual | living |
-| irh |  |  |  | individual | living |
-| iri |  |  |  | individual | living |
-| irk |  |  |  | individual | living |
-| irn |  |  |  | individual | living |
-| irr |  |  |  | individual | living |
-| iru |  |  |  | individual | living |
-| irx |  |  |  | individual | living |
-| iry |  |  |  | individual | living |
-| isa |  |  |  | individual | living |
-| isc |  |  |  | individual | living |
-| isd |  |  |  | individual | living |
-| ise |  |  |  | individual | living |
-| isg |  |  |  | individual | living |
-| ish |  |  |  | individual | living |
-| isi |  |  |  | individual | living |
-| isk |  |  |  | individual | living |
-| isl | ice | isl | is | individual | living |
-| ism |  |  |  | individual | living |
-| isn |  |  |  | individual | living |
-| iso |  |  |  | individual | living |
-| isr |  |  |  | individual | living |
-| ist |  |  |  | individual | living |
-| isu |  |  |  | individual | living |
-| ita | ita | ita | it | individual | living |
-| itb |  |  |  | individual | living |
-| ite |  |  |  | individual | extinct |
-| iti |  |  |  | individual | living |
-| itk |  |  |  | individual | living |
-| itl |  |  |  | individual | living |
-| itm |  |  |  | individual | living |
-| ito |  |  |  | individual | living |
-| itr |  |  |  | individual | living |
-| its |  |  |  | individual | living |
-| itt |  |  |  | individual | living |
-| itv |  |  |  | individual | living |
-| itw |  |  |  | individual | living |
-| itx |  |  |  | individual | living |
-| ity |  |  |  | individual | living |
-| itz |  |  |  | individual | living |
-| ium |  |  |  | individual | living |
-| ivb |  |  |  | individual | living |
-| ivv |  |  |  | individual | living |
-| iwk |  |  |  | individual | living |
-| iwm |  |  |  | individual | living |
-| iwo |  |  |  | individual | living |
-| iws |  |  |  | individual | living |
-| ixc |  |  |  | individual | living |
-| ixl |  |  |  | individual | living |
-| iya |  |  |  | individual | living |
-| iyo |  |  |  | individual | living |
-| iyx |  |  |  | individual | living |
-| izh |  |  |  | individual | living |
-| izr |  |  |  | individual | living |
-| izz |  |  |  | individual | living |
-| jaa |  |  |  | individual | living |
-| jab |  |  |  | individual | living |
-| jac |  |  |  | individual | living |
-| jad |  |  |  | individual | living |
-| jae |  |  |  | individual | living |
-| jaf |  |  |  | individual | living |
-| jah |  |  |  | individual | living |
-| jaj |  |  |  | individual | living |
-| jak |  |  |  | individual | living |
-| jal |  |  |  | individual | living |
-| jam |  |  |  | individual | living |
-| jan |  |  |  | individual | extinct |
-| jao |  |  |  | individual | living |
-| jaq |  |  |  | individual | living |
-| jas |  |  |  | individual | living |
-| jat |  |  |  | individual | living |
-| jau |  |  |  | individual | living |
-| jav | jav | jav | jv | individual | living |
-| jax |  |  |  | individual | living |
-| jay |  |  |  | individual | living |
-| jaz |  |  |  | individual | living |
-| jbe |  |  |  | individual | living |
-| jbi |  |  |  | individual | extinct |
-| jbj |  |  |  | individual | living |
-| jbk |  |  |  | individual | living |
-| jbn |  |  |  | individual | living |
-| jbo | jbo | jbo |  | individual | constructed |
-| jbr |  |  |  | individual | living |
-| jbt |  |  |  | individual | living |
-| jbu |  |  |  | individual | living |
-| jbw |  |  |  | individual | extinct |
-| jcs |  |  |  | individual | living |
-| jct |  |  |  | individual | living |
-| jda |  |  |  | individual | living |
-| jdg |  |  |  | individual | living |
-| jdt |  |  |  | individual | living |
-| jeb |  |  |  | individual | living |
-| jee |  |  |  | individual | living |
-| jeg |  |  |  | individual | living |
-| jeh |  |  |  | individual | living |
-| jei |  |  |  | individual | living |
-| jek |  |  |  | individual | living |
-| jel |  |  |  | individual | living |
-| jen |  |  |  | individual | living |
-| jer |  |  |  | individual | living |
-| jet |  |  |  | individual | living |
-| jeu |  |  |  | individual | living |
-| jgb |  |  |  | individual | extinct |
-| jge |  |  |  | individual | living |
-| jgk |  |  |  | individual | living |
-| jgo |  |  |  | individual | living |
-| jhi |  |  |  | individual | living |
-| jhs |  |  |  | individual | living |
-| jia |  |  |  | individual | living |
-| jib |  |  |  | individual | living |
-| jic |  |  |  | individual | living |
-| jid |  |  |  | individual | living |
-| jie |  |  |  | individual | living |
-| jig |  |  |  | individual | living |
-| jih |  |  |  | individual | living |
-| jii |  |  |  | individual | living |
-| jil |  |  |  | individual | living |
-| jim |  |  |  | individual | living |
-| jio |  |  |  | individual | living |
-| jiq |  |  |  | individual | living |
-| jit |  |  |  | individual | living |
-| jiu |  |  |  | individual | living |
-| jiv |  |  |  | individual | living |
-| jiy |  |  |  | individual | living |
-| jjr |  |  |  | individual | living |
-| jkm |  |  |  | individual | living |
-| jko |  |  |  | individual | living |
-| jkp |  |  |  | individual | living |
-| jkr |  |  |  | individual | living |
-| jku |  |  |  | individual | living |
-| jle |  |  |  | individual | living |
-| jls |  |  |  | individual | living |
-| jma |  |  |  | individual | living |
-| jmb |  |  |  | individual | living |
-| jmc |  |  |  | individual | living |
-| jmd |  |  |  | individual | living |
-| jmi |  |  |  | individual | living |
-| jml |  |  |  | individual | living |
-| jmn |  |  |  | individual | living |
-| jmr |  |  |  | individual | living |
-| jms |  |  |  | individual | living |
-| jmw |  |  |  | individual | living |
-| jmx |  |  |  | individual | living |
-| jna |  |  |  | individual | living |
-| jnd |  |  |  | individual | living |
-| jng |  |  |  | individual | extinct |
-| jni |  |  |  | individual | living |
-| jnj |  |  |  | individual | living |
-| jnl |  |  |  | individual | living |
-| jns |  |  |  | individual | living |
-| job |  |  |  | individual | living |
-| jod |  |  |  | individual | living |
-| jor |  |  |  | individual | extinct |
-| jos |  |  |  | individual | living |
-| jow |  |  |  | individual | living |
-| jpa |  |  |  | individual | historical |
-| jpn | jpn | jpn | ja | individual | living |
-| jpr | jpr | jpr |  | individual | living |
-| jqr |  |  |  | individual | living |
-| jra |  |  |  | individual | living |
-| jrb | jrb | jrb |  | macrolanguage | living |
-| jrr |  |  |  | individual | living |
-| jrt |  |  |  | individual | living |
-| jru |  |  |  | individual | living |
-| jsl |  |  |  | individual | living |
-| jua |  |  |  | individual | living |
-| jub |  |  |  | individual | living |
-| juc |  |  |  | individual | extinct |
-| jud |  |  |  | individual | living |
-| juh |  |  |  | individual | living |
-| jui |  |  |  | individual | extinct |
-| juk |  |  |  | individual | living |
-| jul |  |  |  | individual | living |
-| jum |  |  |  | individual | living |
-| jun |  |  |  | individual | living |
-| juo |  |  |  | individual | living |
-| jup |  |  |  | individual | living |
-| jur |  |  |  | individual | living |
-| jus |  |  |  | individual | living |
-| jut |  |  |  | individual | living |
-| juu |  |  |  | individual | living |
-| juw |  |  |  | individual | living |
-| juy |  |  |  | individual | living |
-| jvd |  |  |  | individual | extinct |
-| jvn |  |  |  | individual | living |
-| jwi |  |  |  | individual | living |
-| jya |  |  |  | individual | living |
-| jye |  |  |  | individual | living |
-| jyy |  |  |  | individual | living |
-| kaa | kaa | kaa |  | individual | living |
-| kab | kab | kab |  | individual | living |
-| kac | kac | kac |  | individual | living |
-| kad |  |  |  | individual | living |
-| kae |  |  |  | individual | extinct |
-| kaf |  |  |  | individual | living |
-| kag |  |  |  | individual | living |
-| kah |  |  |  | individual | living |
-| kai |  |  |  | individual | living |
-| kaj |  |  |  | individual | living |
-| kak |  |  |  | individual | living |
-| kal | kal | kal | kl | individual | living |
-| kam | kam | kam |  | individual | living |
-| kan | kan | kan | kn | individual | living |
-| kao |  |  |  | individual | living |
-| kap |  |  |  | individual | living |
-| kaq |  |  |  | individual | living |
-| kas | kas | kas | ks | individual | living |
-| kat | geo | kat | ka | individual | living |
-| kau | kau | kau | kr | macrolanguage | living |
-| kav |  |  |  | individual | living |
-| kaw | kaw | kaw |  | individual | ancient |
-| kax |  |  |  | individual | living |
-| kay |  |  |  | individual | living |
-| kaz | kaz | kaz | kk | individual | living |
-| kba |  |  |  | individual | extinct |
-| kbb |  |  |  | individual | extinct |
-| kbc |  |  |  | individual | living |
-| kbd | kbd | kbd |  | individual | living |
-| kbe |  |  |  | individual | living |
-| kbf |  |  |  | individual | extinct |
-| kbg |  |  |  | individual | living |
-| kbh |  |  |  | individual | living |
-| kbi |  |  |  | individual | living |
-| kbj |  |  |  | individual | living |
-| kbk |  |  |  | individual | living |
-| kbl |  |  |  | individual | living |
-| kbm |  |  |  | individual | living |
-| kbn |  |  |  | individual | living |
-| kbo |  |  |  | individual | living |
-| kbp |  |  |  | individual | living |
-| kbq |  |  |  | individual | living |
-| kbr |  |  |  | individual | living |
-| kbs |  |  |  | individual | living |
-| kbt |  |  |  | individual | living |
-| kbu |  |  |  | individual | living |
-| kbv |  |  |  | individual | living |
-| kbw |  |  |  | individual | living |
-| kbx |  |  |  | individual | living |
-| kby |  |  |  | individual | living |
-| kbz |  |  |  | individual | living |
-| kca |  |  |  | individual | living |
-| kcb |  |  |  | individual | living |
-| kcc |  |  |  | individual | living |
-| kcd |  |  |  | individual | living |
-| kce |  |  |  | individual | living |
-| kcf |  |  |  | individual | living |
-| kcg |  |  |  | individual | living |
-| kch |  |  |  | individual | living |
-| kci |  |  |  | individual | living |
-| kcj |  |  |  | individual | living |
-| kck |  |  |  | individual | living |
-| kcl |  |  |  | individual | living |
-| kcm |  |  |  | individual | living |
-| kcn |  |  |  | individual | living |
-| kco |  |  |  | individual | living |
-| kcp |  |  |  | individual | living |
-| kcq |  |  |  | individual | living |
-| kcr |  |  |  | individual | living |
-| kcs |  |  |  | individual | living |
-| kct |  |  |  | individual | living |
-| kcu |  |  |  | individual | living |
-| kcv |  |  |  | individual | living |
-| kcw |  |  |  | individual | living |
-| kcx |  |  |  | individual | living |
-| kcy |  |  |  | individual | living |
-| kcz |  |  |  | individual | living |
-| kda |  |  |  | individual | extinct |
-| kdc |  |  |  | individual | living |
-| kdd |  |  |  | individual | living |
-| kde |  |  |  | individual | living |
-| kdf |  |  |  | individual | living |
-| kdg |  |  |  | individual | living |
-| kdh |  |  |  | individual | living |
-| kdi |  |  |  | individual | living |
-| kdj |  |  |  | individual | living |
-| kdk |  |  |  | individual | living |
-| kdl |  |  |  | individual | living |
-| kdm |  |  |  | individual | living |
-| kdn |  |  |  | individual | living |
-| kdp |  |  |  | individual | living |
-| kdq |  |  |  | individual | living |
-| kdr |  |  |  | individual | living |
-| kdt |  |  |  | individual | living |
-| kdu |  |  |  | individual | living |
-| kdw |  |  |  | individual | living |
-| kdx |  |  |  | individual | living |
-| kdy |  |  |  | individual | living |
-| kdz |  |  |  | individual | living |
-| kea |  |  |  | individual | living |
-| keb |  |  |  | individual | living |
-| kec |  |  |  | individual | living |
-| ked |  |  |  | individual | living |
-| kee |  |  |  | individual | living |
-| kef |  |  |  | individual | living |
-| keg |  |  |  | individual | living |
-| keh |  |  |  | individual | living |
-| kei |  |  |  | individual | living |
-| kej |  |  |  | individual | living |
-| kek |  |  |  | individual | living |
-| kel |  |  |  | individual | living |
-| kem |  |  |  | individual | living |
-| ken |  |  |  | individual | living |
-| keo |  |  |  | individual | living |
-| kep |  |  |  | individual | living |
-| keq |  |  |  | individual | living |
-| ker |  |  |  | individual | living |
-| kes |  |  |  | individual | living |
-| ket |  |  |  | individual | living |
-| keu |  |  |  | individual | living |
-| kev |  |  |  | individual | living |
-| kew |  |  |  | individual | living |
-| kex |  |  |  | individual | living |
-| key |  |  |  | individual | living |
-| kez |  |  |  | individual | living |
-| kfa |  |  |  | individual | living |
-| kfb |  |  |  | individual | living |
-| kfc |  |  |  | individual | living |
-| kfd |  |  |  | individual | living |
-| kfe |  |  |  | individual | living |
-| kff |  |  |  | individual | living |
-| kfg |  |  |  | individual | living |
-| kfh |  |  |  | individual | living |
-| kfi |  |  |  | individual | living |
-| kfj |  |  |  | individual | living |
-| kfk |  |  |  | individual | living |
-| kfl |  |  |  | individual | living |
-| kfm |  |  |  | individual | living |
-| kfn |  |  |  | individual | living |
-| kfo |  |  |  | individual | living |
-| kfp |  |  |  | individual | living |
-| kfq |  |  |  | individual | living |
-| kfr |  |  |  | individual | living |
-| kfs |  |  |  | individual | living |
-| kft |  |  |  | individual | living |
-| kfu |  |  |  | individual | living |
-| kfv |  |  |  | individual | living |
-| kfw |  |  |  | individual | living |
-| kfx |  |  |  | individual | living |
-| kfy |  |  |  | individual | living |
-| kfz |  |  |  | individual | living |
-| kga |  |  |  | individual | living |
-| kgb |  |  |  | individual | living |
-| kgc |  |  |  | individual | living |
-| kgd |  |  |  | individual | living |
-| kge |  |  |  | individual | living |
-| kgf |  |  |  | individual | living |
-| kgg |  |  |  | individual | living |
-| kgi |  |  |  | individual | living |
-| kgj |  |  |  | individual | living |
-| kgk |  |  |  | individual | living |
-| kgl |  |  |  | individual | extinct |
-| kgm |  |  |  | individual | extinct |
-| kgn |  |  |  | individual | living |
-| kgo |  |  |  | individual | living |
-| kgp |  |  |  | individual | living |
-| kgq |  |  |  | individual | living |
-| kgr |  |  |  | individual | living |
-| kgs |  |  |  | individual | living |
-| kgt |  |  |  | individual | living |
-| kgu |  |  |  | individual | living |
-| kgv |  |  |  | individual | living |
-| kgw |  |  |  | individual | living |
-| kgx |  |  |  | individual | living |
-| kgy |  |  |  | individual | living |
-| kha | kha | kha |  | individual | living |
-| khb |  |  |  | individual | living |
-| khc |  |  |  | individual | living |
-| khd |  |  |  | individual | living |
-| khe |  |  |  | individual | living |
-| khf |  |  |  | individual | living |
-| khg |  |  |  | individual | living |
-| khh |  |  |  | individual | living |
-| khj |  |  |  | individual | living |
-| khk |  |  |  | individual | living |
-| khl |  |  |  | individual | living |
-| khm | khm | khm | km | individual | living |
-| khn |  |  |  | individual | living |
-| kho | kho | kho |  | individual | ancient |
-| khp |  |  |  | individual | living |
-| khq |  |  |  | individual | living |
-| khr |  |  |  | individual | living |
-| khs |  |  |  | individual | living |
-| kht |  |  |  | individual | living |
-| khu |  |  |  | individual | living |
-| khv |  |  |  | individual | living |
-| khw |  |  |  | individual | living |
-| khx |  |  |  | individual | living |
-| khy |  |  |  | individual | living |
-| khz |  |  |  | individual | living |
-| kia |  |  |  | individual | living |
-| kib |  |  |  | individual | living |
-| kic |  |  |  | individual | living |
-| kid |  |  |  | individual | living |
-| kie |  |  |  | individual | living |
-| kif |  |  |  | individual | living |
-| kig |  |  |  | individual | living |
-| kih |  |  |  | individual | living |
-| kii |  |  |  | individual | extinct |
-| kij |  |  |  | individual | living |
-| kik | kik | kik | ki | individual | living |
-| kil |  |  |  | individual | living |
-| kim |  |  |  | individual | living |
-| kin | kin | kin | rw | individual | living |
-| kio |  |  |  | individual | living |
-| kip |  |  |  | individual | living |
-| kiq |  |  |  | individual | living |
-| kir | kir | kir | ky | individual | living |
-| kis |  |  |  | individual | living |
-| kit |  |  |  | individual | living |
-| kiu |  |  |  | individual | living |
-| kiv |  |  |  | individual | living |
-| kiw |  |  |  | individual | living |
-| kix |  |  |  | individual | living |
-| kiy |  |  |  | individual | living |
-| kiz |  |  |  | individual | living |
-| kja |  |  |  | individual | living |
-| kjb |  |  |  | individual | living |
-| kjc |  |  |  | individual | living |
-| kjd |  |  |  | individual | living |
-| kje |  |  |  | individual | living |
-| kjf |  |  |  | individual | living |
-| kjg |  |  |  | individual | living |
-| kjh |  |  |  | individual | living |
-| kji |  |  |  | individual | living |
-| kjj |  |  |  | individual | living |
-| kjk |  |  |  | individual | living |
-| kjl |  |  |  | individual | living |
-| kjm |  |  |  | individual | living |
-| kjn |  |  |  | individual | living |
-| kjo |  |  |  | individual | living |
-| kjp |  |  |  | individual | living |
-| kjq |  |  |  | individual | living |
-| kjr |  |  |  | individual | living |
-| kjs |  |  |  | individual | living |
-| kjt |  |  |  | individual | living |
-| kju |  |  |  | individual | living |
-| kjx |  |  |  | individual | living |
-| kjy |  |  |  | individual | living |
-| kjz |  |  |  | individual | living |
-| kka |  |  |  | individual | living |
-| kkb |  |  |  | individual | living |
-| kkc |  |  |  | individual | living |
-| kkd |  |  |  | individual | living |
-| kke |  |  |  | individual | living |
-| kkf |  |  |  | individual | living |
-| kkg |  |  |  | individual | living |
-| kkh |  |  |  | individual | living |
-| kki |  |  |  | individual | living |
-| kkj |  |  |  | individual | living |
-| kkk |  |  |  | individual | living |
-| kkl |  |  |  | individual | living |
-| kkm |  |  |  | individual | living |
-| kkn |  |  |  | individual | living |
-| kko |  |  |  | individual | living |
-| kkp |  |  |  | individual | living |
-| kkq |  |  |  | individual | living |
-| kkr |  |  |  | individual | living |
-| kks |  |  |  | individual | living |
-| kkt |  |  |  | individual | living |
-| kku |  |  |  | individual | living |
-| kkv |  |  |  | individual | living |
-| kkw |  |  |  | individual | living |
-| kkx |  |  |  | individual | living |
-| kky |  |  |  | individual | living |
-| kkz |  |  |  | individual | living |
-| kla |  |  |  | individual | extinct |
-| klb |  |  |  | individual | living |
-| klc |  |  |  | individual | living |
-| kld |  |  |  | individual | living |
-| kle |  |  |  | individual | living |
-| klf |  |  |  | individual | living |
-| klg |  |  |  | individual | living |
-| klh |  |  |  | individual | living |
-| kli |  |  |  | individual | living |
-| klj |  |  |  | individual | living |
-| klk |  |  |  | individual | living |
-| kll |  |  |  | individual | living |
-| klm |  |  |  | individual | living |
-| kln |  |  |  | macrolanguage | living |
-| klo |  |  |  | individual | living |
-| klp |  |  |  | individual | living |
-| klq |  |  |  | individual | living |
-| klr |  |  |  | individual | living |
-| kls |  |  |  | individual | living |
-| klt |  |  |  | individual | living |
-| klu |  |  |  | individual | living |
-| klv |  |  |  | individual | living |
-| klw |  |  |  | individual | living |
-| klx |  |  |  | individual | living |
-| kly |  |  |  | individual | living |
-| klz |  |  |  | individual | living |
-| kma |  |  |  | individual | living |
-| kmb | kmb | kmb |  | individual | living |
-| kmc |  |  |  | individual | living |
-| kmd |  |  |  | individual | living |
-| kme |  |  |  | individual | living |
-| kmf |  |  |  | individual | living |
-| kmg |  |  |  | individual | living |
-| kmh |  |  |  | individual | living |
-| kmi |  |  |  | individual | living |
-| kmj |  |  |  | individual | living |
-| kmk |  |  |  | individual | living |
-| kml |  |  |  | individual | living |
-| kmm |  |  |  | individual | living |
-| kmn |  |  |  | individual | living |
-| kmo |  |  |  | individual | living |
-| kmp |  |  |  | individual | living |
-| kmq |  |  |  | individual | living |
-| kmr |  |  |  | individual | living |
-| kms |  |  |  | individual | living |
-| kmt |  |  |  | individual | living |
-| kmu |  |  |  | individual | living |
-| kmv |  |  |  | individual | living |
-| kmw |  |  |  | individual | living |
-| kmx |  |  |  | individual | living |
-| kmy |  |  |  | individual | living |
-| kmz |  |  |  | individual | living |
-| kna |  |  |  | individual | living |
-| knb |  |  |  | individual | living |
-| knc |  |  |  | individual | living |
-| knd |  |  |  | individual | living |
-| kne |  |  |  | individual | living |
-| knf |  |  |  | individual | living |
-| kng |  |  |  | individual | living |
-| kni |  |  |  | individual | living |
-| knj |  |  |  | individual | living |
-| knk |  |  |  | individual | living |
-| knl |  |  |  | individual | living |
-| knm |  |  |  | individual | living |
-| knn |  |  |  | individual | living |
-| kno |  |  |  | individual | living |
-| knp |  |  |  | individual | living |
-| knq |  |  |  | individual | living |
-| knr |  |  |  | individual | living |
-| kns |  |  |  | individual | living |
-| knt |  |  |  | individual | living |
-| knu |  |  |  | individual | living |
-| knv |  |  |  | individual | living |
-| knw |  |  |  | individual | living |
-| knx |  |  |  | individual | living |
-| kny |  |  |  | individual | living |
-| knz |  |  |  | individual | living |
-| koa |  |  |  | individual | living |
-| koc |  |  |  | individual | extinct |
-| kod |  |  |  | individual | living |
-| koe |  |  |  | individual | living |
-| kof |  |  |  | individual | extinct |
-| kog |  |  |  | individual | living |
-| koh |  |  |  | individual | living |
-| koi |  |  |  | individual | living |
-| koj |  |  |  | individual | living |
-| kok | kok | kok |  | macrolanguage | living |
-| kol |  |  |  | individual | living |
-| kom | kom | kom | kv | macrolanguage | living |
-| kon | kon | kon | kg | macrolanguage | living |
-| koo |  |  |  | individual | living |
-| kop |  |  |  | individual | living |
-| koq |  |  |  | individual | living |
-| kor | kor | kor | ko | individual | living |
-| kos | kos | kos |  | individual | living |
-| kot |  |  |  | individual | living |
-| kou |  |  |  | individual | living |
-| kov |  |  |  | individual | living |
-| kow |  |  |  | individual | living |
-| kox |  |  |  | individual | extinct |
-| koy |  |  |  | individual | living |
-| koz |  |  |  | individual | living |
-| kpa |  |  |  | individual | living |
-| kpb |  |  |  | individual | living |
-| kpc |  |  |  | individual | living |
-| kpd |  |  |  | individual | living |
-| kpe | kpe | kpe |  | macrolanguage | living |
-| kpf |  |  |  | individual | living |
-| kpg |  |  |  | individual | living |
-| kph |  |  |  | individual | living |
-| kpi |  |  |  | individual | living |
-| kpj |  |  |  | individual | living |
-| kpk |  |  |  | individual | living |
-| kpl |  |  |  | individual | living |
-| kpm |  |  |  | individual | living |
-| kpn |  |  |  | individual | extinct |
-| kpo |  |  |  | individual | living |
-| kpq |  |  |  | individual | living |
-| kpr |  |  |  | individual | living |
-| kps |  |  |  | individual | living |
-| kpt |  |  |  | individual | living |
-| kpu |  |  |  | individual | living |
-| kpv |  |  |  | individual | living |
-| kpw |  |  |  | individual | living |
-| kpx |  |  |  | individual | living |
-| kpy |  |  |  | individual | living |
-| kpz |  |  |  | individual | living |
-| kqa |  |  |  | individual | living |
-| kqb |  |  |  | individual | living |
-| kqc |  |  |  | individual | living |
-| kqd |  |  |  | individual | living |
-| kqe |  |  |  | individual | living |
-| kqf |  |  |  | individual | living |
-| kqg |  |  |  | individual | living |
-| kqh |  |  |  | individual | living |
-| kqi |  |  |  | individual | living |
-| kqj |  |  |  | individual | living |
-| kqk |  |  |  | individual | living |
-| kql |  |  |  | individual | living |
-| kqm |  |  |  | individual | living |
-| kqn |  |  |  | individual | living |
-| kqo |  |  |  | individual | living |
-| kqp |  |  |  | individual | living |
-| kqq |  |  |  | individual | living |
-| kqr |  |  |  | individual | living |
-| kqs |  |  |  | individual | living |
-| kqt |  |  |  | individual | living |
-| kqu |  |  |  | individual | extinct |
-| kqv |  |  |  | individual | living |
-| kqw |  |  |  | individual | living |
-| kqx |  |  |  | individual | living |
-| kqy |  |  |  | individual | living |
-| kqz |  |  |  | individual | extinct |
-| kra |  |  |  | individual | living |
-| krb |  |  |  | individual | extinct |
-| krc | krc | krc |  | individual | living |
-| krd |  |  |  | individual | living |
-| kre |  |  |  | individual | living |
-| krf |  |  |  | individual | living |
-| krh |  |  |  | individual | living |
-| kri |  |  |  | individual | living |
-| krj |  |  |  | individual | living |
-| krk |  |  |  | individual | extinct |
-| krl | krl | krl |  | individual | living |
-| krm |  |  |  | individual | living |
-| krn |  |  |  | individual | living |
-| krp |  |  |  | individual | living |
-| krr |  |  |  | individual | living |
-| krs |  |  |  | individual | living |
-| krt |  |  |  | individual | living |
-| kru | kru | kru |  | individual | living |
-| krv |  |  |  | individual | living |
-| krw |  |  |  | individual | living |
-| krx |  |  |  | individual | living |
-| kry |  |  |  | individual | living |
-| krz |  |  |  | individual | living |
-| ksa |  |  |  | individual | living |
-| ksb |  |  |  | individual | living |
-| ksc |  |  |  | individual | living |
-| ksd |  |  |  | individual | living |
-| kse |  |  |  | individual | living |
-| ksf |  |  |  | individual | living |
-| ksg |  |  |  | individual | living |
-| ksh |  |  |  | individual | living |
-| ksi |  |  |  | individual | living |
-| ksj |  |  |  | individual | living |
-| ksk |  |  |  | individual | living |
-| ksl |  |  |  | individual | living |
-| ksm |  |  |  | individual | living |
-| ksn |  |  |  | individual | living |
-| kso |  |  |  | individual | living |
-| ksp |  |  |  | individual | living |
-| ksq |  |  |  | individual | living |
-| ksr |  |  |  | individual | living |
-| kss |  |  |  | individual | living |
-| kst |  |  |  | individual | living |
-| ksu |  |  |  | individual | living |
-| ksv |  |  |  | individual | living |
-| ksw |  |  |  | individual | living |
-| ksx |  |  |  | individual | living |
-| ksy |  |  |  | individual | living |
-| ksz |  |  |  | individual | living |
-| kta |  |  |  | individual | living |
-| ktb |  |  |  | individual | living |
-| ktc |  |  |  | individual | living |
-| ktd |  |  |  | individual | living |
-| kte |  |  |  | individual | living |
-| ktf |  |  |  | individual | living |
-| ktg |  |  |  | individual | extinct |
-| kth |  |  |  | individual | living |
-| kti |  |  |  | individual | living |
-| ktj |  |  |  | individual | living |
-| ktk |  |  |  | individual | extinct |
-| ktl |  |  |  | individual | living |
-| ktm |  |  |  | individual | living |
-| ktn |  |  |  | individual | living |
-| kto |  |  |  | individual | living |
-| ktp |  |  |  | individual | living |
-| ktq |  |  |  | individual | extinct |
-| ktr |  |  |  | individual | living |
-| kts |  |  |  | individual | living |
-| ktt |  |  |  | individual | living |
-| ktu |  |  |  | individual | living |
-| ktv |  |  |  | individual | living |
-| ktw |  |  |  | individual | extinct |
-| ktx |  |  |  | individual | living |
-| kty |  |  |  | individual | living |
-| ktz |  |  |  | individual | living |
-| kua | kua | kua | kj | individual | living |
-| kub |  |  |  | individual | living |
-| kuc |  |  |  | individual | living |
-| kud |  |  |  | individual | living |
-| kue |  |  |  | individual | living |
-| kuf |  |  |  | individual | living |
-| kug |  |  |  | individual | living |
-| kuh |  |  |  | individual | living |
-| kui |  |  |  | individual | living |
-| kuj |  |  |  | individual | living |
-| kuk |  |  |  | individual | living |
-| kul |  |  |  | individual | living |
-| kum | kum | kum |  | individual | living |
-| kun |  |  |  | individual | living |
-| kuo |  |  |  | individual | living |
-| kup |  |  |  | individual | living |
-| kuq |  |  |  | individual | living |
-| kur | kur | kur | ku | macrolanguage | living |
-| kus |  |  |  | individual | living |
-| kut | kut | kut |  | individual | living |
-| kuu |  |  |  | individual | living |
-| kuv |  |  |  | individual | living |
-| kuw |  |  |  | individual | living |
-| kux |  |  |  | individual | living |
-| kuy |  |  |  | individual | living |
-| kuz |  |  |  | individual | extinct |
-| kva |  |  |  | individual | living |
-| kvb |  |  |  | individual | living |
-| kvc |  |  |  | individual | living |
-| kvd |  |  |  | individual | living |
-| kve |  |  |  | individual | living |
-| kvf |  |  |  | individual | living |
-| kvg |  |  |  | individual | living |
-| kvh |  |  |  | individual | living |
-| kvi |  |  |  | individual | living |
-| kvj |  |  |  | individual | living |
-| kvk |  |  |  | individual | living |
-| kvl |  |  |  | individual | living |
-| kvm |  |  |  | individual | living |
-| kvn |  |  |  | individual | living |
-| kvo |  |  |  | individual | living |
-| kvp |  |  |  | individual | living |
-| kvq |  |  |  | individual | living |
-| kvr |  |  |  | individual | living |
-| kvs |  |  |  | individual | living |
-| kvt |  |  |  | individual | living |
-| kvu |  |  |  | individual | living |
-| kvv |  |  |  | individual | living |
-| kvw |  |  |  | individual | living |
-| kvx |  |  |  | individual | living |
-| kvy |  |  |  | individual | living |
-| kvz |  |  |  | individual | living |
-| kwa |  |  |  | individual | living |
-| kwb |  |  |  | individual | living |
-| kwc |  |  |  | individual | living |
-| kwd |  |  |  | individual | living |
-| kwe |  |  |  | individual | living |
-| kwf |  |  |  | individual | living |
-| kwg |  |  |  | individual | living |
-| kwh |  |  |  | individual | living |
-| kwi |  |  |  | individual | living |
-| kwj |  |  |  | individual | living |
-| kwk |  |  |  | individual | living |
-| kwl |  |  |  | individual | living |
-| kwm |  |  |  | individual | living |
-| kwn |  |  |  | individual | living |
-| kwo |  |  |  | individual | living |
-| kwp |  |  |  | individual | living |
-| kwq |  |  |  | individual | living |
-| kwr |  |  |  | individual | living |
-| kws |  |  |  | individual | living |
-| kwt |  |  |  | individual | living |
-| kwu |  |  |  | individual | living |
-| kwv |  |  |  | individual | living |
-| kww |  |  |  | individual | living |
-| kwx |  |  |  | individual | living |
-| kwy |  |  |  | individual | living |
-| kwz |  |  |  | individual | extinct |
-| kxa |  |  |  | individual | living |
-| kxb |  |  |  | individual | living |
-| kxc |  |  |  | individual | living |
-| kxd |  |  |  | individual | living |
-| kxe |  |  |  | individual | living |
-| kxf |  |  |  | individual | living |
-| kxh |  |  |  | individual | living |
-| kxi |  |  |  | individual | living |
-| kxj |  |  |  | individual | living |
-| kxk |  |  |  | individual | living |
-| kxl |  |  |  | individual | living |
-| kxm |  |  |  | individual | living |
-| kxn |  |  |  | individual | living |
-| kxo |  |  |  | individual | extinct |
-| kxp |  |  |  | individual | living |
-| kxq |  |  |  | individual | living |
-| kxr |  |  |  | individual | living |
-| kxs |  |  |  | individual | living |
-| kxt |  |  |  | individual | living |
-| kxu |  |  |  | individual | living |
-| kxv |  |  |  | individual | living |
-| kxw |  |  |  | individual | living |
-| kxx |  |  |  | individual | living |
-| kxy |  |  |  | individual | living |
-| kxz |  |  |  | individual | living |
-| kya |  |  |  | individual | living |
-| kyb |  |  |  | individual | living |
-| kyc |  |  |  | individual | living |
-| kyd |  |  |  | individual | living |
-| kye |  |  |  | individual | living |
-| kyf |  |  |  | individual | living |
-| kyg |  |  |  | individual | living |
-| kyh |  |  |  | individual | living |
-| kyi |  |  |  | individual | living |
-| kyj |  |  |  | individual | living |
-| kyk |  |  |  | individual | living |
-| kyl |  |  |  | individual | living |
-| kym |  |  |  | individual | living |
-| kyn |  |  |  | individual | living |
-| kyo |  |  |  | individual | living |
-| kyp |  |  |  | individual | living |
-| kyq |  |  |  | individual | living |
-| kyr |  |  |  | individual | living |
-| kys |  |  |  | individual | living |
-| kyt |  |  |  | individual | living |
-| kyu |  |  |  | individual | living |
-| kyv |  |  |  | individual | living |
-| kyw |  |  |  | individual | living |
-| kyx |  |  |  | individual | living |
-| kyy |  |  |  | individual | living |
-| kyz |  |  |  | individual | living |
-| kza |  |  |  | individual | living |
-| kzb |  |  |  | individual | living |
-| kzc |  |  |  | individual | living |
-| kzd |  |  |  | individual | living |
-| kze |  |  |  | individual | living |
-| kzf |  |  |  | individual | living |
-| kzg |  |  |  | individual | living |
-| kzi |  |  |  | individual | living |
-| kzj |  |  |  | individual | living |
-| kzk |  |  |  | individual | extinct |
-| kzl |  |  |  | individual | living |
-| kzm |  |  |  | individual | living |
-| kzn |  |  |  | individual | living |
-| kzo |  |  |  | individual | living |
-| kzp |  |  |  | individual | living |
-| kzq |  |  |  | individual | living |
-| kzr |  |  |  | individual | living |
-| kzs |  |  |  | individual | living |
-| kzt |  |  |  | individual | living |
-| kzu |  |  |  | individual | living |
-| kzv |  |  |  | individual | living |
-| kzw |  |  |  | individual | extinct |
-| kzx |  |  |  | individual | living |
-| kzy |  |  |  | individual | living |
-| kzz |  |  |  | individual | living |
-| laa |  |  |  | individual | living |
-| lab |  |  |  | individual | ancient |
-| lac |  |  |  | individual | living |
-| lad | lad | lad |  | individual | living |
-| lae |  |  |  | individual | living |
-| laf |  |  |  | individual | living |
-| lag |  |  |  | individual | living |
-| lah | lah | lah |  | macrolanguage | living |
-| lai |  |  |  | individual | living |
-| laj |  |  |  | individual | living |
-| lak |  |  |  | individual | living |
-| lal |  |  |  | individual | living |
-| lam | lam | lam |  | individual | living |
-| lan |  |  |  | individual | living |
-| lao | lao | lao | lo | individual | living |
-| lap |  |  |  | individual | living |
-| laq |  |  |  | individual | living |
-| lar |  |  |  | individual | living |
-| las |  |  |  | individual | living |
-| lat | lat | lat | la | individual | ancient |
-| lau |  |  |  | individual | living |
-| lav | lav | lav | lv | macrolanguage | living |
-| law |  |  |  | individual | living |
-| lax |  |  |  | individual | living |
-| lay |  |  |  | individual | living |
-| laz |  |  |  | individual | extinct |
-| lba |  |  |  | individual | extinct |
-| lbb |  |  |  | individual | living |
-| lbc |  |  |  | individual | living |
-| lbe |  |  |  | individual | living |
-| lbf |  |  |  | individual | living |
-| lbg |  |  |  | individual | living |
-| lbi |  |  |  | individual | living |
-| lbj |  |  |  | individual | living |
-| lbk |  |  |  | individual | living |
-| lbl |  |  |  | individual | living |
-| lbm |  |  |  | individual | living |
-| lbn |  |  |  | individual | living |
-| lbo |  |  |  | individual | living |
-| lbq |  |  |  | individual | living |
-| lbr |  |  |  | individual | living |
-| lbs |  |  |  | individual | living |
-| lbt |  |  |  | individual | living |
-| lbu |  |  |  | individual | living |
-| lbv |  |  |  | individual | living |
-| lbw |  |  |  | individual | living |
-| lbx |  |  |  | individual | living |
-| lby |  |  |  | individual | extinct |
-| lbz |  |  |  | individual | living |
-| lcc |  |  |  | individual | living |
-| lcd |  |  |  | individual | living |
-| lce |  |  |  | individual | living |
-| lcf |  |  |  | individual | living |
-| lch |  |  |  | individual | living |
-| lcl |  |  |  | individual | living |
-| lcm |  |  |  | individual | living |
-| lcp |  |  |  | individual | living |
-| lcq |  |  |  | individual | living |
-| lcs |  |  |  | individual | living |
-| lda |  |  |  | individual | living |
-| ldb |  |  |  | individual | living |
-| ldd |  |  |  | individual | living |
-| ldg |  |  |  | individual | living |
-| ldh |  |  |  | individual | living |
-| ldi |  |  |  | individual | living |
-| ldj |  |  |  | individual | living |
-| ldk |  |  |  | individual | living |
-| ldl |  |  |  | individual | living |
-| ldm |  |  |  | individual | living |
-| ldn |  |  |  | individual | constructed |
-| ldo |  |  |  | individual | living |
-| ldp |  |  |  | individual | living |
-| ldq |  |  |  | individual | living |
-| lea |  |  |  | individual | living |
-| leb |  |  |  | individual | living |
-| lec |  |  |  | individual | living |
-| led |  |  |  | individual | living |
-| lee |  |  |  | individual | living |
-| lef |  |  |  | individual | living |
-| leh |  |  |  | individual | living |
-| lei |  |  |  | individual | living |
-| lej |  |  |  | individual | living |
-| lek |  |  |  | individual | living |
-| lel |  |  |  | individual | living |
-| lem |  |  |  | individual | living |
-| len |  |  |  | individual | extinct |
-| leo |  |  |  | individual | living |
-| lep |  |  |  | individual | living |
-| leq |  |  |  | individual | living |
-| ler |  |  |  | individual | living |
-| les |  |  |  | individual | living |
-| let |  |  |  | individual | living |
-| leu |  |  |  | individual | living |
-| lev |  |  |  | individual | living |
-| lew |  |  |  | individual | living |
-| lex |  |  |  | individual | living |
-| ley |  |  |  | individual | living |
-| lez | lez | lez |  | individual | living |
-| lfa |  |  |  | individual | living |
-| lfn |  |  |  | individual | constructed |
-| lga |  |  |  | individual | living |
-| lgb |  |  |  | individual | living |
-| lgg |  |  |  | individual | living |
-| lgh |  |  |  | individual | living |
-| lgi |  |  |  | individual | living |
-| lgk |  |  |  | individual | living |
-| lgl |  |  |  | individual | living |
-| lgm |  |  |  | individual | living |
-| lgn |  |  |  | individual | living |
-| lgq |  |  |  | individual | living |
-| lgr |  |  |  | individual | living |
-| lgt |  |  |  | individual | living |
-| lgu |  |  |  | individual | living |
-| lgz |  |  |  | individual | living |
-| lha |  |  |  | individual | living |
-| lhh |  |  |  | individual | living |
-| lhi |  |  |  | individual | living |
-| lhl |  |  |  | individual | living |
-| lhm |  |  |  | individual | living |
-| lhn |  |  |  | individual | living |
-| lhp |  |  |  | individual | living |
-| lhs |  |  |  | individual | extinct |
-| lht |  |  |  | individual | living |
-| lhu |  |  |  | individual | living |
-| lia |  |  |  | individual | living |
-| lib |  |  |  | individual | living |
-| lic |  |  |  | individual | living |
-| lid |  |  |  | individual | living |
-| lie |  |  |  | individual | living |
-| lif |  |  |  | individual | living |
-| lig |  |  |  | individual | living |
-| lih |  |  |  | individual | living |
-| lii |  |  |  | individual | living |
-| lij |  |  |  | individual | living |
-| lik |  |  |  | individual | living |
-| lil |  |  |  | individual | living |
-| lim | lim | lim | li | individual | living |
-| lin | lin | lin | ln | individual | living |
-| lio |  |  |  | individual | living |
-| lip |  |  |  | individual | living |
-| liq |  |  |  | individual | living |
-| lir |  |  |  | individual | living |
-| lis |  |  |  | individual | living |
-| lit | lit | lit | lt | individual | living |
-| liu |  |  |  | individual | living |
-| liv |  |  |  | individual | living |
-| liw |  |  |  | individual | living |
-| lix |  |  |  | individual | living |
-| liy |  |  |  | individual | living |
-| liz |  |  |  | individual | living |
-| lja |  |  |  | individual | extinct |
-| lje |  |  |  | individual | living |
-| lji |  |  |  | individual | living |
-| ljl |  |  |  | individual | living |
-| ljp |  |  |  | individual | living |
-| ljw |  |  |  | individual | living |
-| ljx |  |  |  | individual | extinct |
-| lka |  |  |  | individual | living |
-| lkb |  |  |  | individual | living |
-| lkc |  |  |  | individual | living |
-| lkd |  |  |  | individual | living |
-| lke |  |  |  | individual | living |
-| lkh |  |  |  | individual | living |
-| lki |  |  |  | individual | living |
-| lkj |  |  |  | individual | living |
-| lkl |  |  |  | individual | living |
-| lkm |  |  |  | individual | extinct |
-| lkn |  |  |  | individual | living |
-| lko |  |  |  | individual | living |
-| lkr |  |  |  | individual | living |
-| lks |  |  |  | individual | living |
-| lkt |  |  |  | individual | living |
-| lku |  |  |  | individual | extinct |
-| lky |  |  |  | individual | living |
-| lla |  |  |  | individual | living |
-| llb |  |  |  | individual | living |
-| llc |  |  |  | individual | living |
-| lld |  |  |  | individual | living |
-| lle |  |  |  | individual | living |
-| llf |  |  |  | individual | extinct |
-| llg |  |  |  | individual | living |
-| llh |  |  |  | individual | living |
-| lli |  |  |  | individual | living |
-| llj |  |  |  | individual | extinct |
-| llk |  |  |  | individual | extinct |
-| lll |  |  |  | individual | living |
-| llm |  |  |  | individual | living |
-| lln |  |  |  | individual | living |
-| llo |  |  |  | individual | living |
-| llp |  |  |  | individual | living |
-| llq |  |  |  | individual | living |
-| lls |  |  |  | individual | living |
-| llu |  |  |  | individual | living |
-| llx |  |  |  | individual | living |
-| lma |  |  |  | individual | living |
-| lmb |  |  |  | individual | living |
-| lmc |  |  |  | individual | extinct |
-| lmd |  |  |  | individual | living |
-| lme |  |  |  | individual | living |
-| lmf |  |  |  | individual | living |
-| lmg |  |  |  | individual | living |
-| lmh |  |  |  | individual | living |
-| lmi |  |  |  | individual | living |
-| lmj |  |  |  | individual | living |
-| lmk |  |  |  | individual | living |
-| lml |  |  |  | individual | living |
-| lmn |  |  |  | individual | living |
-| lmo |  |  |  | individual | living |
-| lmp |  |  |  | individual | living |
-| lmq |  |  |  | individual | living |
-| lmr |  |  |  | individual | living |
-| lmu |  |  |  | individual | living |
-| lmv |  |  |  | individual | living |
-| lmw |  |  |  | individual | living |
-| lmx |  |  |  | individual | living |
-| lmy |  |  |  | individual | living |
-| lmz |  |  |  | individual | extinct |
-| lna |  |  |  | individual | living |
-| lnb |  |  |  | individual | living |
-| lnd |  |  |  | individual | living |
-| lng |  |  |  | individual | ancient |
-| lnh |  |  |  | individual | living |
-| lni |  |  |  | individual | living |
-| lnj |  |  |  | individual | extinct |
-| lnl |  |  |  | individual | living |
-| lnm |  |  |  | individual | living |
-| lnn |  |  |  | individual | living |
-| lno |  |  |  | individual | living |
-| lns |  |  |  | individual | living |
-| lnu |  |  |  | individual | living |
-| lnw |  |  |  | individual | extinct |
-| lnz |  |  |  | individual | living |
-| loa |  |  |  | individual | living |
-| lob |  |  |  | individual | living |
-| loc |  |  |  | individual | living |
-| loe |  |  |  | individual | living |
-| lof |  |  |  | individual | living |
-| log |  |  |  | individual | living |
-| loh |  |  |  | individual | living |
-| loi |  |  |  | individual | living |
-| loj |  |  |  | individual | living |
-| lok |  |  |  | individual | living |
-| lol | lol | lol |  | individual | living |
-| lom |  |  |  | individual | living |
-| lon |  |  |  | individual | living |
-| loo |  |  |  | individual | living |
-| lop |  |  |  | individual | living |
-| loq |  |  |  | individual | living |
-| lor |  |  |  | individual | living |
-| los |  |  |  | individual | living |
-| lot |  |  |  | individual | living |
-| lou |  |  |  | individual | living |
-| lov |  |  |  | individual | living |
-| low |  |  |  | individual | living |
-| lox |  |  |  | individual | living |
-| loy |  |  |  | individual | living |
-| loz | loz | loz |  | individual | living |
-| lpa |  |  |  | individual | living |
-| lpe |  |  |  | individual | living |
-| lpn |  |  |  | individual | living |
-| lpo |  |  |  | individual | living |
-| lpx |  |  |  | individual | living |
-| lra |  |  |  | individual | living |
-| lrc |  |  |  | individual | living |
-| lre |  |  |  | individual | extinct |
-| lrg |  |  |  | individual | extinct |
-| lri |  |  |  | individual | living |
-| lrk |  |  |  | individual | living |
-| lrl |  |  |  | individual | living |
-| lrm |  |  |  | individual | living |
-| lrn |  |  |  | individual | living |
-| lro |  |  |  | individual | living |
-| lrr |  |  |  | individual | living |
-| lrt |  |  |  | individual | living |
-| lrv |  |  |  | individual | living |
-| lrz |  |  |  | individual | living |
-| lsa |  |  |  | individual | living |
-| lsd |  |  |  | individual | living |
-| lse |  |  |  | individual | living |
-| lsg |  |  |  | individual | living |
-| lsh |  |  |  | individual | living |
-| lsi |  |  |  | individual | living |
-| lsl |  |  |  | individual | living |
-| lsm |  |  |  | individual | living |
-| lso |  |  |  | individual | living |
-| lsp |  |  |  | individual | living |
-| lsr |  |  |  | individual | living |
-| lss |  |  |  | individual | living |
-| lst |  |  |  | individual | living |
-| lsy |  |  |  | individual | living |
-| ltc |  |  |  | individual | historical |
-| ltg |  |  |  | individual | living |
-| lti |  |  |  | individual | living |
-| ltn |  |  |  | individual | living |
-| lto |  |  |  | individual | living |
-| lts |  |  |  | individual | living |
-| ltu |  |  |  | individual | living |
-| ltz | ltz | ltz | lb | individual | living |
-| lua | lua | lua |  | individual | living |
-| lub | lub | lub | lu | individual | living |
-| luc |  |  |  | individual | living |
-| lud |  |  |  | individual | living |
-| lue |  |  |  | individual | living |
-| luf |  |  |  | individual | living |
-| lug | lug | lug | lg | individual | living |
-| lui | lui | lui |  | individual | living |
-| luj |  |  |  | individual | living |
-| luk |  |  |  | individual | living |
-| lul |  |  |  | individual | living |
-| lum |  |  |  | individual | living |
-| lun | lun | lun |  | individual | living |
-| luo | luo | luo |  | individual | living |
-| lup |  |  |  | individual | living |
-| luq |  |  |  | individual | living |
-| lur |  |  |  | individual | living |
-| lus | lus | lus |  | individual | living |
-| lut |  |  |  | individual | living |
-| luu |  |  |  | individual | living |
-| luv |  |  |  | individual | living |
-| luw |  |  |  | individual | living |
-| luy |  |  |  | macrolanguage | living |
-| luz |  |  |  | individual | living |
-| lva |  |  |  | individual | living |
-| lvk |  |  |  | individual | living |
-| lvs |  |  |  | individual | living |
-| lvu |  |  |  | individual | living |
-| lwa |  |  |  | individual | living |
-| lwe |  |  |  | individual | living |
-| lwg |  |  |  | individual | living |
-| lwh |  |  |  | individual | living |
-| lwl |  |  |  | individual | living |
-| lwm |  |  |  | individual | living |
-| lwo |  |  |  | individual | living |
-| lwt |  |  |  | individual | living |
-| lwu |  |  |  | individual | living |
-| lww |  |  |  | individual | living |
-| lya |  |  |  | individual | living |
-| lyg |  |  |  | individual | living |
-| lyn |  |  |  | individual | living |
-| lzh |  |  |  | individual | historical |
-| lzl |  |  |  | individual | living |
-| lzn |  |  |  | individual | living |
-| lzz |  |  |  | individual | living |
-| maa |  |  |  | individual | living |
-| mab |  |  |  | individual | living |
-| mad | mad | mad |  | individual | living |
-| mae |  |  |  | individual | living |
-| maf |  |  |  | individual | living |
-| mag | mag | mag |  | individual | living |
-| mah | mah | mah | mh | individual | living |
-| mai | mai | mai |  | individual | living |
-| maj |  |  |  | individual | living |
-| mak | mak | mak |  | individual | living |
-| mal | mal | mal | ml | individual | living |
-| mam |  |  |  | individual | living |
-| man | man | man |  | macrolanguage | living |
-| maq |  |  |  | individual | living |
-| mar | mar | mar | mr | individual | living |
-| mas | mas | mas |  | individual | living |
-| mat |  |  |  | individual | living |
-| mau |  |  |  | individual | living |
-| mav |  |  |  | individual | living |
-| maw |  |  |  | individual | living |
-| max |  |  |  | individual | living |
-| maz |  |  |  | individual | living |
-| mba |  |  |  | individual | living |
-| mbb |  |  |  | individual | living |
-| mbc |  |  |  | individual | living |
-| mbd |  |  |  | individual | living |
-| mbe |  |  |  | individual | extinct |
-| mbf |  |  |  | individual | living |
-| mbh |  |  |  | individual | living |
-| mbi |  |  |  | individual | living |
-| mbj |  |  |  | individual | living |
-| mbk |  |  |  | individual | living |
-| mbl |  |  |  | individual | living |
-| mbm |  |  |  | individual | living |
-| mbn |  |  |  | individual | living |
-| mbo |  |  |  | individual | living |
-| mbp |  |  |  | individual | living |
-| mbq |  |  |  | individual | living |
-| mbr |  |  |  | individual | living |
-| mbs |  |  |  | individual | living |
-| mbt |  |  |  | individual | living |
-| mbu |  |  |  | individual | living |
-| mbv |  |  |  | individual | living |
-| mbw |  |  |  | individual | living |
-| mbx |  |  |  | individual | living |
-| mby |  |  |  | individual | living |
-| mbz |  |  |  | individual | living |
-| mca |  |  |  | individual | living |
-| mcb |  |  |  | individual | living |
-| mcc |  |  |  | individual | living |
-| mcd |  |  |  | individual | living |
-| mce |  |  |  | individual | living |
-| mcf |  |  |  | individual | living |
-| mcg |  |  |  | individual | living |
-| mch |  |  |  | individual | living |
-| mci |  |  |  | individual | living |
-| mcj |  |  |  | individual | living |
-| mck |  |  |  | individual | living |
-| mcl |  |  |  | individual | extinct |
-| mcm |  |  |  | individual | living |
-| mcn |  |  |  | individual | living |
-| mco |  |  |  | individual | living |
-| mcp |  |  |  | individual | living |
-| mcq |  |  |  | individual | living |
-| mcr |  |  |  | individual | living |
-| mcs |  |  |  | individual | living |
-| mct |  |  |  | individual | living |
-| mcu |  |  |  | individual | living |
-| mcv |  |  |  | individual | living |
-| mcw |  |  |  | individual | living |
-| mcx |  |  |  | individual | living |
-| mcy |  |  |  | individual | living |
-| mcz |  |  |  | individual | living |
-| mda |  |  |  | individual | living |
-| mdb |  |  |  | individual | living |
-| mdc |  |  |  | individual | living |
-| mdd |  |  |  | individual | living |
-| mde |  |  |  | individual | living |
-| mdf | mdf | mdf |  | individual | living |
-| mdg |  |  |  | individual | living |
-| mdh |  |  |  | individual | living |
-| mdi |  |  |  | individual | living |
-| mdj |  |  |  | individual | living |
-| mdk |  |  |  | individual | living |
-| mdl |  |  |  | individual | living |
-| mdm |  |  |  | individual | living |
-| mdn |  |  |  | individual | living |
-| mdp |  |  |  | individual | living |
-| mdq |  |  |  | individual | living |
-| mdr | mdr | mdr |  | individual | living |
-| mds |  |  |  | individual | living |
-| mdt |  |  |  | individual | living |
-| mdu |  |  |  | individual | living |
-| mdv |  |  |  | individual | living |
-| mdw |  |  |  | individual | living |
-| mdx |  |  |  | individual | living |
-| mdy |  |  |  | individual | living |
-| mdz |  |  |  | individual | living |
-| mea |  |  |  | individual | living |
-| meb |  |  |  | individual | living |
-| mec |  |  |  | individual | living |
-| med |  |  |  | individual | living |
-| mee |  |  |  | individual | living |
-| mef |  |  |  | individual | living |
-| meh |  |  |  | individual | living |
-| mei |  |  |  | individual | living |
-| mej |  |  |  | individual | living |
-| mek |  |  |  | individual | living |
-| mel |  |  |  | individual | living |
-| mem |  |  |  | individual | extinct |
-| men | men | men |  | individual | living |
-| meo |  |  |  | individual | living |
-| mep |  |  |  | individual | living |
-| meq |  |  |  | individual | living |
-| mer |  |  |  | individual | living |
-| mes |  |  |  | individual | living |
-| met |  |  |  | individual | living |
-| meu |  |  |  | individual | living |
-| mev |  |  |  | individual | living |
-| mew |  |  |  | individual | living |
-| mey |  |  |  | individual | living |
-| mez |  |  |  | individual | living |
-| mfa |  |  |  | individual | living |
-| mfb |  |  |  | individual | living |
-| mfc |  |  |  | individual | living |
-| mfd |  |  |  | individual | living |
-| mfe |  |  |  | individual | living |
-| mff |  |  |  | individual | living |
-| mfg |  |  |  | individual | living |
-| mfh |  |  |  | individual | living |
-| mfi |  |  |  | individual | living |
-| mfj |  |  |  | individual | living |
-| mfk |  |  |  | individual | living |
-| mfl |  |  |  | individual | living |
-| mfm |  |  |  | individual | living |
-| mfn |  |  |  | individual | living |
-| mfo |  |  |  | individual | living |
-| mfp |  |  |  | individual | living |
-| mfq |  |  |  | individual | living |
-| mfr |  |  |  | individual | living |
-| mfs |  |  |  | individual | living |
-| mft |  |  |  | individual | living |
-| mfu |  |  |  | individual | living |
-| mfv |  |  |  | individual | living |
-| mfw |  |  |  | individual | extinct |
-| mfx |  |  |  | individual | living |
-| mfy |  |  |  | individual | living |
-| mfz |  |  |  | individual | living |
-| mga | mga | mga |  | individual | historical |
-| mgb |  |  |  | individual | living |
-| mgc |  |  |  | individual | living |
-| mgd |  |  |  | individual | living |
-| mge |  |  |  | individual | living |
-| mgf |  |  |  | individual | living |
-| mgg |  |  |  | individual | living |
-| mgh |  |  |  | individual | living |
-| mgi |  |  |  | individual | living |
-| mgj |  |  |  | individual | living |
-| mgk |  |  |  | individual | living |
-| mgl |  |  |  | individual | living |
-| mgm |  |  |  | individual | living |
-| mgn |  |  |  | individual | living |
-| mgo |  |  |  | individual | living |
-| mgp |  |  |  | individual | living |
-| mgq |  |  |  | individual | living |
-| mgr |  |  |  | individual | living |
-| mgs |  |  |  | individual | living |
-| mgt |  |  |  | individual | living |
-| mgu |  |  |  | individual | living |
-| mgv |  |  |  | individual | living |
-| mgw |  |  |  | individual | living |
-| mgy |  |  |  | individual | living |
-| mgz |  |  |  | individual | living |
-| mha |  |  |  | individual | living |
-| mhb |  |  |  | individual | living |
-| mhc |  |  |  | individual | living |
-| mhd |  |  |  | individual | living |
-| mhe |  |  |  | individual | living |
-| mhf |  |  |  | individual | living |
-| mhg |  |  |  | individual | living |
-| mhi |  |  |  | individual | living |
-| mhj |  |  |  | individual | living |
-| mhk |  |  |  | individual | living |
-| mhl |  |  |  | individual | living |
-| mhm |  |  |  | individual | living |
-| mhn |  |  |  | individual | living |
-| mho |  |  |  | individual | living |
-| mhp |  |  |  | individual | living |
-| mhq |  |  |  | individual | living |
-| mhr |  |  |  | individual | living |
-| mhs |  |  |  | individual | living |
-| mht |  |  |  | individual | living |
-| mhu |  |  |  | individual | living |
-| mhw |  |  |  | individual | living |
-| mhx |  |  |  | individual | living |
-| mhy |  |  |  | individual | living |
-| mhz |  |  |  | individual | living |
-| mia |  |  |  | individual | living |
-| mib |  |  |  | individual | living |
-| mic | mic | mic |  | individual | living |
-| mid |  |  |  | individual | living |
-| mie |  |  |  | individual | living |
-| mif |  |  |  | individual | living |
-| mig |  |  |  | individual | living |
-| mih |  |  |  | individual | living |
-| mii |  |  |  | individual | living |
-| mij |  |  |  | individual | living |
-| mik |  |  |  | individual | living |
-| mil |  |  |  | individual | living |
-| mim |  |  |  | individual | living |
-| min | min | min |  | individual | living |
-| mio |  |  |  | individual | living |
-| mip |  |  |  | individual | living |
-| miq |  |  |  | individual | living |
-| mir |  |  |  | individual | living |
-| mis | mis | mis |  | special | special |
-| mit |  |  |  | individual | living |
-| miu |  |  |  | individual | living |
-| miw |  |  |  | individual | living |
-| mix |  |  |  | individual | living |
-| miy |  |  |  | individual | living |
-| miz |  |  |  | individual | living |
-| mjc |  |  |  | individual | living |
-| mjd |  |  |  | individual | living |
-| mje |  |  |  | individual | extinct |
-| mjg |  |  |  | individual | living |
-| mjh |  |  |  | individual | living |
-| mji |  |  |  | individual | living |
-| mjj |  |  |  | individual | living |
-| mjk |  |  |  | individual | living |
-| mjl |  |  |  | individual | living |
-| mjm |  |  |  | individual | living |
-| mjn |  |  |  | individual | living |
-| mjo |  |  |  | individual | living |
-| mjp |  |  |  | individual | living |
-| mjq |  |  |  | individual | extinct |
-| mjr |  |  |  | individual | living |
-| mjs |  |  |  | individual | living |
-| mjt |  |  |  | individual | living |
-| mju |  |  |  | individual | living |
-| mjv |  |  |  | individual | living |
-| mjw |  |  |  | individual | living |
-| mjx |  |  |  | individual | living |
-| mjy |  |  |  | individual | extinct |
-| mjz |  |  |  | individual | living |
-| mka |  |  |  | individual | living |
-| mkb |  |  |  | individual | living |
-| mkc |  |  |  | individual | living |
-| mkd | mac | mkd | mk | individual | living |
-| mke |  |  |  | individual | living |
-| mkf |  |  |  | individual | living |
-| mkg |  |  |  | individual | living |
-| mki |  |  |  | individual | living |
-| mkj |  |  |  | individual | living |
-| mkk |  |  |  | individual | living |
-| mkl |  |  |  | individual | living |
-| mkm |  |  |  | individual | living |
-| mkn |  |  |  | individual | living |
-| mko |  |  |  | individual | living |
-| mkp |  |  |  | individual | living |
-| mkq |  |  |  | individual | extinct |
-| mkr |  |  |  | individual | living |
-| mks |  |  |  | individual | living |
-| mkt |  |  |  | individual | living |
-| mku |  |  |  | individual | living |
-| mkv |  |  |  | individual | living |
-| mkw |  |  |  | individual | living |
-| mkx |  |  |  | individual | living |
-| mky |  |  |  | individual | living |
-| mkz |  |  |  | individual | living |
-| mla |  |  |  | individual | living |
-| mlb |  |  |  | individual | living |
-| mlc |  |  |  | individual | living |
-| mle |  |  |  | individual | living |
-| mlf |  |  |  | individual | living |
-| mlg | mlg | mlg | mg | macrolanguage | living |
-| mlh |  |  |  | individual | living |
-| mli |  |  |  | individual | living |
-| mlj |  |  |  | individual | living |
-| mlk |  |  |  | individual | living |
-| mll |  |  |  | individual | living |
-| mlm |  |  |  | individual | living |
-| mln |  |  |  | individual | living |
-| mlo |  |  |  | individual | living |
-| mlp |  |  |  | individual | living |
-| mlq |  |  |  | individual | living |
-| mlr |  |  |  | individual | living |
-| mls |  |  |  | individual | living |
-| mlt | mlt | mlt | mt | individual | living |
-| mlu |  |  |  | individual | living |
-| mlv |  |  |  | individual | living |
-| mlw |  |  |  | individual | living |
-| mlx |  |  |  | individual | living |
-| mlz |  |  |  | individual | living |
-| mma |  |  |  | individual | living |
-| mmb |  |  |  | individual | living |
-| mmc |  |  |  | individual | living |
-| mmd |  |  |  | individual | living |
-| mme |  |  |  | individual | living |
-| mmf |  |  |  | individual | living |
-| mmg |  |  |  | individual | living |
-| mmh |  |  |  | individual | living |
-| mmi |  |  |  | individual | living |
-| mmj |  |  |  | individual | living |
-| mmk |  |  |  | individual | living |
-| mml |  |  |  | individual | living |
-| mmm |  |  |  | individual | living |
-| mmn |  |  |  | individual | living |
-| mmo |  |  |  | individual | living |
-| mmp |  |  |  | individual | living |
-| mmq |  |  |  | individual | living |
-| mmr |  |  |  | individual | living |
-| mmt |  |  |  | individual | living |
-| mmu |  |  |  | individual | living |
-| mmv |  |  |  | individual | extinct |
-| mmw |  |  |  | individual | living |
-| mmx |  |  |  | individual | living |
-| mmy |  |  |  | individual | living |
-| mmz |  |  |  | individual | living |
-| mna |  |  |  | individual | living |
-| mnb |  |  |  | individual | living |
-| mnc | mnc | mnc |  | individual | living |
-| mnd |  |  |  | individual | living |
-| mne |  |  |  | individual | living |
-| mnf |  |  |  | individual | living |
-| mng |  |  |  | individual | living |
-| mnh |  |  |  | individual | living |
-| mni | mni | mni |  | individual | living |
-| mnj |  |  |  | individual | living |
-| mnk |  |  |  | individual | living |
-| mnl |  |  |  | individual | living |
-| mnm |  |  |  | individual | living |
-| mnn |  |  |  | individual | living |
-| mnp |  |  |  | individual | living |
-| mnq |  |  |  | individual | living |
-| mnr |  |  |  | individual | living |
-| mns |  |  |  | individual | living |
-| mnu |  |  |  | individual | living |
-| mnv |  |  |  | individual | living |
-| mnw |  |  |  | individual | living |
-| mnx |  |  |  | individual | living |
-| mny |  |  |  | individual | living |
-| mnz |  |  |  | individual | living |
-| moa |  |  |  | individual | living |
-| moc |  |  |  | individual | living |
-| mod |  |  |  | individual | extinct |
-| moe |  |  |  | individual | living |
-| mog |  |  |  | individual | living |
-| moh | moh | moh |  | individual | living |
-| moi |  |  |  | individual | living |
-| moj |  |  |  | individual | living |
-| mok |  |  |  | individual | living |
-| mom |  |  |  | individual | extinct |
-| mon | mon | mon | mn | macrolanguage | living |
-| moo |  |  |  | individual | living |
-| mop |  |  |  | individual | living |
-| moq |  |  |  | individual | living |
-| mor |  |  |  | individual | living |
-| mos | mos | mos |  | individual | living |
-| mot |  |  |  | individual | living |
-| mou |  |  |  | individual | living |
-| mov |  |  |  | individual | living |
-| mow |  |  |  | individual | living |
-| mox |  |  |  | individual | living |
-| moy |  |  |  | individual | living |
-| moz |  |  |  | individual | living |
-| mpa |  |  |  | individual | living |
-| mpb |  |  |  | individual | living |
-| mpc |  |  |  | individual | living |
-| mpd |  |  |  | individual | living |
-| mpe |  |  |  | individual | living |
-| mpg |  |  |  | individual | living |
-| mph |  |  |  | individual | living |
-| mpi |  |  |  | individual | living |
-| mpj |  |  |  | individual | living |
-| mpk |  |  |  | individual | living |
-| mpl |  |  |  | individual | living |
-| mpm |  |  |  | individual | living |
-| mpn |  |  |  | individual | living |
-| mpo |  |  |  | individual | living |
-| mpp |  |  |  | individual | living |
-| mpq |  |  |  | individual | living |
-| mpr |  |  |  | individual | living |
-| mps |  |  |  | individual | living |
-| mpt |  |  |  | individual | living |
-| mpu |  |  |  | individual | living |
-| mpv |  |  |  | individual | living |
-| mpw |  |  |  | individual | living |
-| mpx |  |  |  | individual | living |
-| mpy |  |  |  | individual | living |
-| mpz |  |  |  | individual | living |
-| mqa |  |  |  | individual | living |
-| mqb |  |  |  | individual | living |
-| mqc |  |  |  | individual | living |
-| mqe |  |  |  | individual | living |
-| mqf |  |  |  | individual | living |
-| mqg |  |  |  | individual | living |
-| mqh |  |  |  | individual | living |
-| mqi |  |  |  | individual | living |
-| mqj |  |  |  | individual | living |
-| mqk |  |  |  | individual | living |
-| mql |  |  |  | individual | living |
-| mqm |  |  |  | individual | living |
-| mqn |  |  |  | individual | living |
-| mqo |  |  |  | individual | living |
-| mqp |  |  |  | individual | living |
-| mqq |  |  |  | individual | living |
-| mqr |  |  |  | individual | living |
-| mqs |  |  |  | individual | living |
-| mqt |  |  |  | individual | living |
-| mqu |  |  |  | individual | living |
-| mqv |  |  |  | individual | living |
-| mqw |  |  |  | individual | living |
-| mqx |  |  |  | individual | living |
-| mqy |  |  |  | individual | living |
-| mqz |  |  |  | individual | living |
-| mra |  |  |  | individual | living |
-| mrb |  |  |  | individual | living |
-| mrc |  |  |  | individual | living |
-| mrd |  |  |  | individual | living |
-| mre |  |  |  | individual | extinct |
-| mrf |  |  |  | individual | living |
-| mrg |  |  |  | individual | living |
-| mrh |  |  |  | individual | living |
-| mri | mao | mri | mi | individual | living |
-| mrj |  |  |  | individual | living |
-| mrk |  |  |  | individual | living |
-| mrl |  |  |  | individual | living |
-| mrm |  |  |  | individual | living |
-| mrn |  |  |  | individual | living |
-| mro |  |  |  | individual | living |
-| mrp |  |  |  | individual | living |
-| mrq |  |  |  | individual | living |
-| mrr |  |  |  | individual | living |
-| mrs |  |  |  | individual | living |
-| mrt |  |  |  | individual | living |
-| mru |  |  |  | individual | living |
-| mrv |  |  |  | individual | living |
-| mrw |  |  |  | individual | living |
-| mrx |  |  |  | individual | living |
-| mry |  |  |  | individual | living |
-| mrz |  |  |  | individual | living |
-| msa | may | msa | ms | macrolanguage | living |
-| msb |  |  |  | individual | living |
-| msc |  |  |  | individual | living |
-| msd |  |  |  | individual | living |
-| mse |  |  |  | individual | living |
-| msf |  |  |  | individual | living |
-| msg |  |  |  | individual | living |
-| msh |  |  |  | individual | living |
-| msi |  |  |  | individual | living |
-| msj |  |  |  | individual | living |
-| msk |  |  |  | individual | living |
-| msl |  |  |  | individual | living |
-| msm |  |  |  | individual | living |
-| msn |  |  |  | individual | living |
-| mso |  |  |  | individual | living |
-| msp |  |  |  | individual | extinct |
-| msq |  |  |  | individual | living |
-| msr |  |  |  | individual | living |
-| mss |  |  |  | individual | living |
-| msu |  |  |  | individual | living |
-| msv |  |  |  | individual | living |
-| msw |  |  |  | individual | living |
-| msx |  |  |  | individual | living |
-| msy |  |  |  | individual | living |
-| msz |  |  |  | individual | living |
-| mta |  |  |  | individual | living |
-| mtb |  |  |  | individual | living |
-| mtc |  |  |  | individual | living |
-| mtd |  |  |  | individual | living |
-| mte |  |  |  | individual | living |
-| mtf |  |  |  | individual | living |
-| mtg |  |  |  | individual | living |
-| mth |  |  |  | individual | living |
-| mti |  |  |  | individual | living |
-| mtj |  |  |  | individual | living |
-| mtk |  |  |  | individual | living |
-| mtl |  |  |  | individual | living |
-| mtm |  |  |  | individual | extinct |
-| mtn |  |  |  | individual | extinct |
-| mto |  |  |  | individual | living |
-| mtp |  |  |  | individual | living |
-| mtq |  |  |  | individual | living |
-| mtr |  |  |  | individual | living |
-| mts |  |  |  | individual | living |
-| mtt |  |  |  | individual | living |
-| mtu |  |  |  | individual | living |
-| mtv |  |  |  | individual | living |
-| mtw |  |  |  | individual | living |
-| mtx |  |  |  | individual | living |
-| mty |  |  |  | individual | living |
-| mua |  |  |  | individual | living |
-| mub |  |  |  | individual | living |
-| muc |  |  |  | individual | living |
-| mud |  |  |  | individual | living |
-| mue |  |  |  | individual | living |
-| mug |  |  |  | individual | living |
-| muh |  |  |  | individual | living |
-| mui |  |  |  | individual | living |
-| muj |  |  |  | individual | living |
-| muk |  |  |  | individual | living |
-| mul | mul | mul |  | special | special |
-| mum |  |  |  | individual | living |
-| muo |  |  |  | individual | living |
-| mup |  |  |  | individual | living |
-| muq |  |  |  | individual | living |
-| mur |  |  |  | individual | living |
-| mus | mus | mus |  | individual | living |
-| mut |  |  |  | individual | living |
-| muu |  |  |  | individual | living |
-| muv |  |  |  | individual | living |
-| mux |  |  |  | individual | living |
-| muy |  |  |  | individual | living |
-| muz |  |  |  | individual | living |
-| mva |  |  |  | individual | living |
-| mvb |  |  |  | individual | extinct |
-| mvd |  |  |  | individual | living |
-| mve |  |  |  | individual | living |
-| mvf |  |  |  | individual | living |
-| mvg |  |  |  | individual | living |
-| mvh |  |  |  | individual | living |
-| mvi |  |  |  | individual | living |
-| mvk |  |  |  | individual | living |
-| mvl |  |  |  | individual | extinct |
-| mvm |  |  |  | individual | living |
-| mvn |  |  |  | individual | living |
-| mvo |  |  |  | individual | living |
-| mvp |  |  |  | individual | living |
-| mvq |  |  |  | individual | living |
-| mvr |  |  |  | individual | living |
-| mvs |  |  |  | individual | living |
-| mvt |  |  |  | individual | living |
-| mvu |  |  |  | individual | living |
-| mvv |  |  |  | individual | living |
-| mvw |  |  |  | individual | living |
-| mvx |  |  |  | individual | living |
-| mvy |  |  |  | individual | living |
-| mvz |  |  |  | individual | living |
-| mwa |  |  |  | individual | living |
-| mwb |  |  |  | individual | living |
-| mwc |  |  |  | individual | living |
-| mwe |  |  |  | individual | living |
-| mwf |  |  |  | individual | living |
-| mwg |  |  |  | individual | living |
-| mwh |  |  |  | individual | living |
-| mwi |  |  |  | individual | living |
-| mwj |  |  |  | individual | living |
-| mwk |  |  |  | individual | living |
-| mwl | mwl | mwl |  | individual | living |
-| mwm |  |  |  | individual | living |
-| mwn |  |  |  | individual | living |
-| mwo |  |  |  | individual | living |
-| mwp |  |  |  | individual | living |
-| mwq |  |  |  | individual | living |
-| mwr | mwr | mwr |  | macrolanguage | living |
-| mws |  |  |  | individual | living |
-| mwt |  |  |  | individual | living |
-| mwu |  |  |  | individual | extinct |
-| mwv |  |  |  | individual | living |
-| mww |  |  |  | individual | living |
-| mwx |  |  |  | individual | living |
-| mwy |  |  |  | individual | living |
-| mwz |  |  |  | individual | living |
-| mxa |  |  |  | individual | living |
-| mxb |  |  |  | individual | living |
-| mxc |  |  |  | individual | living |
-| mxd |  |  |  | individual | living |
-| mxe |  |  |  | individual | living |
-| mxf |  |  |  | individual | living |
-| mxg |  |  |  | individual | living |
-| mxh |  |  |  | individual | living |
-| mxi |  |  |  | individual | extinct |
-| mxj |  |  |  | individual | living |
-| mxk |  |  |  | individual | living |
-| mxl |  |  |  | individual | living |
-| mxm |  |  |  | individual | living |
-| mxn |  |  |  | individual | living |
-| mxo |  |  |  | individual | living |
-| mxp |  |  |  | individual | living |
-| mxq |  |  |  | individual | living |
-| mxr |  |  |  | individual | living |
-| mxs |  |  |  | individual | living |
-| mxt |  |  |  | individual | living |
-| mxu |  |  |  | individual | living |
-| mxv |  |  |  | individual | living |
-| mxw |  |  |  | individual | living |
-| mxx |  |  |  | individual | living |
-| mxy |  |  |  | individual | living |
-| mxz |  |  |  | individual | living |
-| mya | bur | mya | my | individual | living |
-| myb |  |  |  | individual | living |
-| myc |  |  |  | individual | living |
-| myd |  |  |  | individual | living |
-| mye |  |  |  | individual | living |
-| myf |  |  |  | individual | living |
-| myg |  |  |  | individual | living |
-| myh |  |  |  | individual | living |
-| myi |  |  |  | individual | living |
-| myj |  |  |  | individual | living |
-| myk |  |  |  | individual | living |
-| myl |  |  |  | individual | living |
-| mym |  |  |  | individual | living |
-| myo |  |  |  | individual | living |
-| myp |  |  |  | individual | living |
-| myr |  |  |  | individual | living |
-| mys |  |  |  | individual | extinct |
-| myu |  |  |  | individual | living |
-| myv | myv | myv |  | individual | living |
-| myw |  |  |  | individual | living |
-| myx |  |  |  | individual | living |
-| myy |  |  |  | individual | living |
-| myz |  |  |  | individual | historical |
-| mza |  |  |  | individual | living |
-| mzb |  |  |  | individual | living |
-| mzc |  |  |  | individual | living |
-| mzd |  |  |  | individual | living |
-| mze |  |  |  | individual | living |
-| mzg |  |  |  | individual | living |
-| mzh |  |  |  | individual | living |
-| mzi |  |  |  | individual | living |
-| mzj |  |  |  | individual | living |
-| mzk |  |  |  | individual | living |
-| mzl |  |  |  | individual | living |
-| mzm |  |  |  | individual | living |
-| mzn |  |  |  | individual | living |
-| mzo |  |  |  | individual | extinct |
-| mzp |  |  |  | individual | living |
-| mzq |  |  |  | individual | living |
-| mzr |  |  |  | individual | living |
-| mzs |  |  |  | individual | living |
-| mzt |  |  |  | individual | living |
-| mzu |  |  |  | individual | living |
-| mzv |  |  |  | individual | living |
-| mzw |  |  |  | individual | living |
-| mzx |  |  |  | individual | living |
-| mzy |  |  |  | individual | living |
-| mzz |  |  |  | individual | living |
-| naa |  |  |  | individual | living |
-| nab |  |  |  | individual | living |
-| nac |  |  |  | individual | living |
-| nad |  |  |  | individual | living |
-| nae |  |  |  | individual | living |
-| naf |  |  |  | individual | living |
-| nag |  |  |  | individual | living |
-| naj |  |  |  | individual | living |
-| nak |  |  |  | individual | living |
-| nal |  |  |  | individual | living |
-| nam |  |  |  | individual | living |
-| nan |  |  |  | individual | living |
-| nao |  |  |  | individual | living |
-| nap | nap | nap |  | individual | living |
-| naq |  |  |  | individual | living |
-| nar |  |  |  | individual | living |
-| nas |  |  |  | individual | living |
-| nat |  |  |  | individual | living |
-| nau | nau | nau | na | individual | living |
-| nav | nav | nav | nv | individual | living |
-| naw |  |  |  | individual | living |
-| nax |  |  |  | individual | living |
-| nay |  |  |  | individual | extinct |
-| naz |  |  |  | individual | living |
-| nba |  |  |  | individual | living |
-| nbb |  |  |  | individual | living |
-| nbc |  |  |  | individual | living |
-| nbd |  |  |  | individual | living |
-| nbe |  |  |  | individual | living |
-| nbg |  |  |  | individual | living |
-| nbh |  |  |  | individual | living |
-| nbi |  |  |  | individual | living |
-| nbj |  |  |  | individual | living |
-| nbk |  |  |  | individual | living |
-| nbl | nbl | nbl | nr | individual | living |
-| nbm |  |  |  | individual | living |
-| nbn |  |  |  | individual | living |
-| nbo |  |  |  | individual | living |
-| nbp |  |  |  | individual | living |
-| nbq |  |  |  | individual | living |
-| nbr |  |  |  | individual | living |
-| nbs |  |  |  | individual | living |
-| nbt |  |  |  | individual | living |
-| nbu |  |  |  | individual | living |
-| nbv |  |  |  | individual | living |
-| nbw |  |  |  | individual | living |
-| nby |  |  |  | individual | living |
-| nca |  |  |  | individual | living |
-| ncb |  |  |  | individual | living |
-| ncc |  |  |  | individual | living |
-| ncd |  |  |  | individual | living |
-| nce |  |  |  | individual | living |
-| ncf |  |  |  | individual | living |
-| ncg |  |  |  | individual | living |
-| nch |  |  |  | individual | living |
-| nci |  |  |  | individual | historical |
-| ncj |  |  |  | individual | living |
-| nck |  |  |  | individual | living |
-| ncl |  |  |  | individual | living |
-| ncm |  |  |  | individual | living |
-| ncn |  |  |  | individual | living |
-| nco |  |  |  | individual | living |
-| ncp |  |  |  | individual | living |
-| ncr |  |  |  | individual | living |
-| ncs |  |  |  | individual | living |
-| nct |  |  |  | individual | living |
-| ncu |  |  |  | individual | living |
-| ncx |  |  |  | individual | living |
-| ncz |  |  |  | individual | extinct |
-| nda |  |  |  | individual | living |
-| ndb |  |  |  | individual | living |
-| ndc |  |  |  | individual | living |
-| ndd |  |  |  | individual | living |
-| nde | nde | nde | nd | individual | living |
-| ndf |  |  |  | individual | extinct |
-| ndg |  |  |  | individual | living |
-| ndh |  |  |  | individual | living |
-| ndi |  |  |  | individual | living |
-| ndj |  |  |  | individual | living |
-| ndk |  |  |  | individual | living |
-| ndl |  |  |  | individual | living |
-| ndm |  |  |  | individual | living |
-| ndn |  |  |  | individual | living |
-| ndo | ndo | ndo | ng | individual | living |
-| ndp |  |  |  | individual | living |
-| ndq |  |  |  | individual | living |
-| ndr |  |  |  | individual | living |
-| nds | nds | nds |  | individual | living |
-| ndt |  |  |  | individual | living |
-| ndu |  |  |  | individual | living |
-| ndv |  |  |  | individual | living |
-| ndw |  |  |  | individual | living |
-| ndx |  |  |  | individual | living |
-| ndy |  |  |  | individual | living |
-| ndz |  |  |  | individual | living |
-| nea |  |  |  | individual | living |
-| neb |  |  |  | individual | living |
-| nec |  |  |  | individual | living |
-| ned |  |  |  | individual | living |
-| nee |  |  |  | individual | living |
-| nef |  |  |  | individual | living |
-| neg |  |  |  | individual | living |
-| neh |  |  |  | individual | living |
-| nei |  |  |  | individual | ancient |
-| nej |  |  |  | individual | living |
-| nek |  |  |  | individual | living |
-| nem |  |  |  | individual | living |
-| nen |  |  |  | individual | living |
-| neo |  |  |  | individual | living |
-| nep | nep | nep | ne | macrolanguage | living |
-| neq |  |  |  | individual | living |
-| ner |  |  |  | individual | living |
-| nes |  |  |  | individual | living |
-| net |  |  |  | individual | living |
-| neu |  |  |  | individual | constructed |
-| nev |  |  |  | individual | living |
-| new | new | new |  | individual | living |
-| nex |  |  |  | individual | living |
-| ney |  |  |  | individual | living |
-| nez |  |  |  | individual | living |
-| nfa |  |  |  | individual | living |
-| nfd |  |  |  | individual | living |
-| nfl |  |  |  | individual | living |
-| nfr |  |  |  | individual | living |
-| nfu |  |  |  | individual | living |
-| nga |  |  |  | individual | living |
-| ngb |  |  |  | individual | living |
-| ngc |  |  |  | individual | living |
-| ngd |  |  |  | individual | living |
-| nge |  |  |  | individual | living |
-| ngg |  |  |  | individual | living |
-| ngh |  |  |  | individual | living |
-| ngi |  |  |  | individual | living |
-| ngj |  |  |  | individual | living |
-| ngk |  |  |  | individual | living |
-| ngl |  |  |  | individual | living |
-| ngm |  |  |  | individual | living |
-| ngn |  |  |  | individual | living |
-| ngo |  |  |  | individual | living |
-| ngp |  |  |  | individual | living |
-| ngq |  |  |  | individual | living |
-| ngr |  |  |  | individual | living |
-| ngs |  |  |  | individual | living |
-| ngt |  |  |  | individual | living |
-| ngu |  |  |  | individual | living |
-| ngv |  |  |  | individual | extinct |
-| ngw |  |  |  | individual | living |
-| ngx |  |  |  | individual | living |
-| ngy |  |  |  | individual | living |
-| ngz |  |  |  | individual | living |
-| nha |  |  |  | individual | living |
-| nhb |  |  |  | individual | living |
-| nhc |  |  |  | individual | extinct |
-| nhd |  |  |  | individual | living |
-| nhe |  |  |  | individual | living |
-| nhf |  |  |  | individual | living |
-| nhg |  |  |  | individual | living |
-| nhh |  |  |  | individual | living |
-| nhi |  |  |  | individual | living |
-| nhk |  |  |  | individual | living |
-| nhm |  |  |  | individual | living |
-| nhn |  |  |  | individual | living |
-| nho |  |  |  | individual | living |
-| nhp |  |  |  | individual | living |
-| nhq |  |  |  | individual | living |
-| nhr |  |  |  | individual | living |
-| nht |  |  |  | individual | living |
-| nhu |  |  |  | individual | living |
-| nhv |  |  |  | individual | living |
-| nhw |  |  |  | individual | living |
-| nhx |  |  |  | individual | living |
-| nhy |  |  |  | individual | living |
-| nhz |  |  |  | individual | living |
-| nia | nia | nia |  | individual | living |
-| nib |  |  |  | individual | living |
-| nid |  |  |  | individual | extinct |
-| nie |  |  |  | individual | living |
-| nif |  |  |  | individual | living |
-| nig |  |  |  | individual | extinct |
-| nih |  |  |  | individual | living |
-| nii |  |  |  | individual | living |
-| nij |  |  |  | individual | living |
-| nik |  |  |  | individual | living |
-| nil |  |  |  | individual | living |
-| nim |  |  |  | individual | living |
-| nin |  |  |  | individual | living |
-| nio |  |  |  | individual | living |
-| niq |  |  |  | individual | living |
-| nir |  |  |  | individual | living |
-| nis |  |  |  | individual | living |
-| nit |  |  |  | individual | living |
-| niu | niu | niu |  | individual | living |
-| niv |  |  |  | individual | living |
-| niw |  |  |  | individual | living |
-| nix |  |  |  | individual | living |
-| niy |  |  |  | individual | living |
-| niz |  |  |  | individual | living |
-| nja |  |  |  | individual | living |
-| njb |  |  |  | individual | living |
-| njd |  |  |  | individual | living |
-| njh |  |  |  | individual | living |
-| nji |  |  |  | individual | living |
-| njj |  |  |  | individual | living |
-| njl |  |  |  | individual | living |
-| njm |  |  |  | individual | living |
-| njn |  |  |  | individual | living |
-| njo |  |  |  | individual | living |
-| njr |  |  |  | individual | living |
-| njs |  |  |  | individual | living |
-| njt |  |  |  | individual | living |
-| nju |  |  |  | individual | living |
-| njx |  |  |  | individual | living |
-| njy |  |  |  | individual | living |
-| njz |  |  |  | individual | living |
-| nka |  |  |  | individual | living |
-| nkb |  |  |  | individual | living |
-| nkc |  |  |  | individual | living |
-| nkd |  |  |  | individual | living |
-| nke |  |  |  | individual | living |
-| nkf |  |  |  | individual | living |
-| nkg |  |  |  | individual | living |
-| nkh |  |  |  | individual | living |
-| nki |  |  |  | individual | living |
-| nkj |  |  |  | individual | living |
-| nkk |  |  |  | individual | living |
-| nkm |  |  |  | individual | living |
-| nkn |  |  |  | individual | living |
-| nko |  |  |  | individual | living |
-| nkp |  |  |  | individual | extinct |
-| nkq |  |  |  | individual | living |
-| nkr |  |  |  | individual | living |
-| nks |  |  |  | individual | living |
-| nkt |  |  |  | individual | living |
-| nku |  |  |  | individual | living |
-| nkv |  |  |  | individual | living |
-| nkw |  |  |  | individual | living |
-| nkx |  |  |  | individual | living |
-| nkz |  |  |  | individual | living |
-| nla |  |  |  | individual | living |
-| nlc |  |  |  | individual | living |
-| nld | dut | nld | nl | individual | living |
-| nle |  |  |  | individual | living |
-| nlg |  |  |  | individual | living |
-| nli |  |  |  | individual | living |
-| nlj |  |  |  | individual | living |
-| nlk |  |  |  | individual | living |
-| nll |  |  |  | individual | living |
-| nlo |  |  |  | individual | living |
-| nlq |  |  |  | individual | living |
-| nlu |  |  |  | individual | living |
-| nlv |  |  |  | individual | living |
-| nlw |  |  |  | individual | extinct |
-| nlx |  |  |  | individual | living |
-| nly |  |  |  | individual | living |
-| nlz |  |  |  | individual | living |
-| nma |  |  |  | individual | living |
-| nmb |  |  |  | individual | living |
-| nmc |  |  |  | individual | living |
-| nmd |  |  |  | individual | living |
-| nme |  |  |  | individual | living |
-| nmf |  |  |  | individual | living |
-| nmg |  |  |  | individual | living |
-| nmh |  |  |  | individual | living |
-| nmi |  |  |  | individual | living |
-| nmj |  |  |  | individual | living |
-| nmk |  |  |  | individual | living |
-| nml |  |  |  | individual | living |
-| nmm |  |  |  | individual | living |
-| nmn |  |  |  | individual | living |
-| nmo |  |  |  | individual | living |
-| nmp |  |  |  | individual | extinct |
-| nmq |  |  |  | individual | living |
-| nmr |  |  |  | individual | extinct |
-| nms |  |  |  | individual | living |
-| nmt |  |  |  | individual | living |
-| nmu |  |  |  | individual | living |
-| nmv |  |  |  | individual | extinct |
-| nmw |  |  |  | individual | living |
-| nmx |  |  |  | individual | living |
-| nmy |  |  |  | individual | living |
-| nmz |  |  |  | individual | living |
-| nna |  |  |  | individual | living |
-| nnb |  |  |  | individual | living |
-| nnc |  |  |  | individual | living |
-| nnd |  |  |  | individual | living |
-| nne |  |  |  | individual | living |
-| nnf |  |  |  | individual | living |
-| nng |  |  |  | individual | living |
-| nnh |  |  |  | individual | living |
-| nni |  |  |  | individual | living |
-| nnj |  |  |  | individual | living |
-| nnk |  |  |  | individual | living |
-| nnl |  |  |  | individual | living |
-| nnm |  |  |  | individual | living |
-| nnn |  |  |  | individual | living |
-| nno | nno | nno | nn | individual | living |
-| nnp |  |  |  | individual | living |
-| nnq |  |  |  | individual | living |
-| nnr |  |  |  | individual | extinct |
-| nns |  |  |  | individual | living |
-| nnt |  |  |  | individual | extinct |
-| nnu |  |  |  | individual | living |
-| nnv |  |  |  | individual | extinct |
-| nnw |  |  |  | individual | living |
-| nnx |  |  |  | individual | living |
-| nny |  |  |  | individual | extinct |
-| nnz |  |  |  | individual | living |
-| noa |  |  |  | individual | living |
-| nob | nob | nob | nb | individual | living |
-| noc |  |  |  | individual | living |
-| nod |  |  |  | individual | living |
-| noe |  |  |  | individual | living |
-| nof |  |  |  | individual | living |
-| nog | nog | nog |  | individual | living |
-| noh |  |  |  | individual | living |
-| noi |  |  |  | individual | living |
-| noj |  |  |  | individual | living |
-| nok |  |  |  | individual | extinct |
-| nol |  |  |  | individual | extinct |
-| nom |  |  |  | individual | extinct |
-| non | non | non |  | individual | historical |
-| nop |  |  |  | individual | living |
-| noq |  |  |  | individual | living |
-| nor | nor | nor | no | macrolanguage | living |
-| nos |  |  |  | individual | living |
-| not |  |  |  | individual | living |
-| nou |  |  |  | individual | living |
-| nov |  |  |  | individual | constructed |
-| now |  |  |  | individual | living |
-| noy |  |  |  | individual | living |
-| noz |  |  |  | individual | living |
-| npa |  |  |  | individual | living |
-| npb |  |  |  | individual | living |
-| npg |  |  |  | individual | living |
-| nph |  |  |  | individual | living |
-| npi |  |  |  | individual | living |
-| npl |  |  |  | individual | living |
-| npn |  |  |  | individual | living |
-| npo |  |  |  | individual | living |
-| nps |  |  |  | individual | living |
-| npu |  |  |  | individual | living |
-| npy |  |  |  | individual | living |
-| nqg |  |  |  | individual | living |
-| nqk |  |  |  | individual | living |
-| nqm |  |  |  | individual | living |
-| nqn |  |  |  | individual | living |
-| nqo | nqo | nqo |  | individual | living |
-| nqq |  |  |  | individual | living |
-| nqy |  |  |  | individual | living |
-| nra |  |  |  | individual | living |
-| nrb |  |  |  | individual | living |
-| nrc |  |  |  | individual | ancient |
-| nre |  |  |  | individual | living |
-| nrg |  |  |  | individual | living |
-| nri |  |  |  | individual | living |
-| nrk |  |  |  | individual | living |
-| nrl |  |  |  | individual | living |
-| nrm |  |  |  | individual | living |
-| nrn |  |  |  | individual | extinct |
-| nrp |  |  |  | individual | ancient |
-| nrr |  |  |  | individual | extinct |
-| nrt |  |  |  | individual | extinct |
-| nru |  |  |  | individual | living |
-| nrx |  |  |  | individual | extinct |
-| nrz |  |  |  | individual | living |
-| nsa |  |  |  | individual | living |
-| nsc |  |  |  | individual | living |
-| nsd |  |  |  | individual | living |
-| nse |  |  |  | individual | living |
-| nsf |  |  |  | individual | living |
-| nsg |  |  |  | individual | living |
-| nsh |  |  |  | individual | living |
-| nsi |  |  |  | individual | living |
-| nsk |  |  |  | individual | living |
-| nsl |  |  |  | individual | living |
-| nsm |  |  |  | individual | living |
-| nsn |  |  |  | individual | living |
-| nso | nso | nso |  | individual | living |
-| nsp |  |  |  | individual | living |
-| nsq |  |  |  | individual | living |
-| nsr |  |  |  | individual | living |
-| nss |  |  |  | individual | living |
-| nst |  |  |  | individual | living |
-| nsu |  |  |  | individual | living |
-| nsv |  |  |  | individual | living |
-| nsw |  |  |  | individual | living |
-| nsx |  |  |  | individual | living |
-| nsy |  |  |  | individual | living |
-| nsz |  |  |  | individual | living |
-| nte |  |  |  | individual | living |
-| ntg |  |  |  | individual | extinct |
-| nti |  |  |  | individual | living |
-| ntj |  |  |  | individual | living |
-| ntk |  |  |  | individual | living |
-| ntm |  |  |  | individual | living |
-| nto |  |  |  | individual | living |
-| ntp |  |  |  | individual | living |
-| ntr |  |  |  | individual | living |
-| nts |  |  |  | individual | extinct |
-| ntu |  |  |  | individual | living |
-| ntw |  |  |  | individual | extinct |
-| ntx |  |  |  | individual | living |
-| nty |  |  |  | individual | living |
-| ntz |  |  |  | individual | living |
-| nua |  |  |  | individual | living |
-| nuc |  |  |  | individual | extinct |
-| nud |  |  |  | individual | living |
-| nue |  |  |  | individual | living |
-| nuf |  |  |  | individual | living |
-| nug |  |  |  | individual | extinct |
-| nuh |  |  |  | individual | living |
-| nui |  |  |  | individual | living |
-| nuj |  |  |  | individual | living |
-| nuk |  |  |  | individual | living |
-| nul |  |  |  | individual | living |
-| num |  |  |  | individual | living |
-| nun |  |  |  | individual | living |
-| nuo |  |  |  | individual | living |
-| nup |  |  |  | individual | living |
-| nuq |  |  |  | individual | living |
-| nur |  |  |  | individual | living |
-| nus |  |  |  | individual | living |
-| nut |  |  |  | individual | living |
-| nuu |  |  |  | individual | living |
-| nuv |  |  |  | individual | living |
-| nuw |  |  |  | individual | living |
-| nux |  |  |  | individual | living |
-| nuy |  |  |  | individual | living |
-| nuz |  |  |  | individual | living |
-| nvh |  |  |  | individual | living |
-| nvm |  |  |  | individual | living |
-| nvo |  |  |  | individual | living |
-| nwa |  |  |  | individual | extinct |
-| nwb |  |  |  | individual | living |
-| nwc | nwc | nwc |  | individual | historical |
-| nwe |  |  |  | individual | living |
-| nwg |  |  |  | individual | extinct |
-| nwi |  |  |  | individual | living |
-| nwm |  |  |  | individual | living |
-| nwo |  |  |  | individual | extinct |
-| nwr |  |  |  | individual | living |
-| nwx |  |  |  | individual | historical |
-| nwy |  |  |  | individual | extinct |
-| nxa |  |  |  | individual | living |
-| nxd |  |  |  | individual | living |
-| nxe |  |  |  | individual | living |
-| nxg |  |  |  | individual | living |
-| nxi |  |  |  | individual | living |
-| nxk |  |  |  | individual | living |
-| nxl |  |  |  | individual | living |
-| nxm |  |  |  | individual | ancient |
-| nxn |  |  |  | individual | extinct |
-| nxq |  |  |  | individual | living |
-| nxr |  |  |  | individual | living |
-| nxu |  |  |  | individual | extinct |
-| nxx |  |  |  | individual | living |
-| nya | nya | nya | ny | individual | living |
-| nyb |  |  |  | individual | living |
-| nyc |  |  |  | individual | living |
-| nyd |  |  |  | individual | living |
-| nye |  |  |  | individual | living |
-| nyf |  |  |  | individual | living |
-| nyg |  |  |  | individual | living |
-| nyh |  |  |  | individual | living |
-| nyi |  |  |  | individual | living |
-| nyj |  |  |  | individual | living |
-| nyk |  |  |  | individual | living |
-| nyl |  |  |  | individual | living |
-| nym | nym | nym |  | individual | living |
-| nyn | nyn | nyn |  | individual | living |
-| nyo | nyo | nyo |  | individual | living |
-| nyp |  |  |  | individual | extinct |
-| nyq |  |  |  | individual | living |
-| nyr |  |  |  | individual | living |
-| nys |  |  |  | individual | living |
-| nyt |  |  |  | individual | extinct |
-| nyu |  |  |  | individual | living |
-| nyv |  |  |  | individual | extinct |
-| nyw |  |  |  | individual | living |
-| nyx |  |  |  | individual | extinct |
-| nyy |  |  |  | individual | living |
-| nza |  |  |  | individual | living |
-| nzb |  |  |  | individual | living |
-| nzi | nzi | nzi |  | individual | living |
-| nzk |  |  |  | individual | living |
-| nzm |  |  |  | individual | living |
-| nzs |  |  |  | individual | living |
-| nzu |  |  |  | individual | living |
-| nzy |  |  |  | individual | living |
-| nzz |  |  |  | individual | living |
-| oaa |  |  |  | individual | living |
-| oac |  |  |  | individual | living |
-| oar |  |  |  | individual | ancient |
-| oav |  |  |  | individual | historical |
-| obi |  |  |  | individual | extinct |
-| obk |  |  |  | individual | living |
-| obl |  |  |  | individual | living |
-| obm |  |  |  | individual | ancient |
-| obo |  |  |  | individual | living |
-| obr |  |  |  | individual | historical |
-| obt |  |  |  | individual | historical |
-| obu |  |  |  | individual | living |
-| oca |  |  |  | individual | living |
-| och |  |  |  | individual | ancient |
-| oci | oci | oci | oc | individual | living |
-| oco |  |  |  | individual | historical |
-| ocu |  |  |  | individual | living |
-| oda |  |  |  | individual | living |
-| odk |  |  |  | individual | living |
-| odt |  |  |  | individual | historical |
-| odu |  |  |  | individual | living |
-| ofo |  |  |  | individual | extinct |
-| ofs |  |  |  | individual | historical |
-| ofu |  |  |  | individual | living |
-| ogb |  |  |  | individual | living |
-| ogc |  |  |  | individual | living |
-| oge |  |  |  | individual | historical |
-| ogg |  |  |  | individual | living |
-| ogo |  |  |  | individual | living |
-| ogu |  |  |  | individual | living |
-| oht |  |  |  | individual | ancient |
-| ohu |  |  |  | individual | historical |
-| oia |  |  |  | individual | living |
-| oin |  |  |  | individual | living |
-| ojb |  |  |  | individual | living |
-| ojc |  |  |  | individual | living |
-| ojg |  |  |  | individual | living |
-| oji | oji | oji | oj | macrolanguage | living |
-| ojp |  |  |  | individual | historical |
-| ojs |  |  |  | individual | living |
-| ojv |  |  |  | individual | living |
-| ojw |  |  |  | individual | living |
-| oka |  |  |  | individual | living |
-| okb |  |  |  | individual | living |
-| okd |  |  |  | individual | living |
-| oke |  |  |  | individual | living |
-| okg |  |  |  | individual | extinct |
-| okh |  |  |  | individual | living |
-| oki |  |  |  | individual | living |
-| okj |  |  |  | individual | extinct |
-| okk |  |  |  | individual | living |
-| okl |  |  |  | individual | extinct |
-| okm |  |  |  | individual | historical |
-| okn |  |  |  | individual | living |
-| oko |  |  |  | individual | historical |
-| okr |  |  |  | individual | living |
-| oks |  |  |  | individual | living |
-| oku |  |  |  | individual | living |
-| okv |  |  |  | individual | living |
-| okx |  |  |  | individual | living |
-| ola |  |  |  | individual | living |
-| old |  |  |  | individual | living |
-| ole |  |  |  | individual | living |
-| olk |  |  |  | individual | extinct |
-| olm |  |  |  | individual | living |
-| olo |  |  |  | individual | living |
-| olr |  |  |  | individual | living |
-| olt |  |  |  | individual | historical |
-| oma |  |  |  | individual | living |
-| omb |  |  |  | individual | living |
-| omc |  |  |  | individual | extinct |
-| ome |  |  |  | individual | extinct |
-| omg |  |  |  | individual | living |
-| omi |  |  |  | individual | living |
-| omk |  |  |  | individual | extinct |
-| oml |  |  |  | individual | living |
-| omn |  |  |  | individual | ancient |
-| omo |  |  |  | individual | living |
-| omp |  |  |  | individual | historical |
-| omr |  |  |  | individual | historical |
-| omt |  |  |  | individual | living |
-| omu |  |  |  | individual | extinct |
-| omw |  |  |  | individual | living |
-| omx |  |  |  | individual | historical |
-| ona |  |  |  | individual | living |
-| onb |  |  |  | individual | living |
-| one |  |  |  | individual | living |
-| ong |  |  |  | individual | living |
-| oni |  |  |  | individual | living |
-| onj |  |  |  | individual | living |
-| onk |  |  |  | individual | living |
-| onn |  |  |  | individual | living |
-| ono |  |  |  | individual | living |
-| onp |  |  |  | individual | living |
-| onr |  |  |  | individual | living |
-| ons |  |  |  | individual | living |
-| ont |  |  |  | individual | living |
-| onu |  |  |  | individual | living |
-| onw |  |  |  | individual | historical |
-| onx |  |  |  | individual | living |
-| ood |  |  |  | individual | living |
-| oog |  |  |  | individual | living |
-| oon |  |  |  | individual | living |
-| oor |  |  |  | individual | living |
-| oos |  |  |  | individual | ancient |
-| opa |  |  |  | individual | living |
-| opk |  |  |  | individual | living |
-| opm |  |  |  | individual | living |
-| opo |  |  |  | individual | living |
-| opt |  |  |  | individual | extinct |
-| opy |  |  |  | individual | living |
-| ora |  |  |  | individual | living |
-| orc |  |  |  | individual | living |
-| ore |  |  |  | individual | living |
-| org |  |  |  | individual | living |
-| orh |  |  |  | individual | living |
-| ori | ori | ori | or | macrolanguage | living |
-| orm | orm | orm | om | macrolanguage | living |
-| orn |  |  |  | individual | living |
-| oro |  |  |  | individual | living |
-| orr |  |  |  | individual | living |
-| ors |  |  |  | individual | living |
-| ort |  |  |  | individual | living |
-| oru |  |  |  | individual | living |
-| orv |  |  |  | individual | historical |
-| orw |  |  |  | individual | living |
-| orx |  |  |  | individual | living |
-| ory |  |  |  | individual | living |
-| orz |  |  |  | individual | living |
-| osa | osa | osa |  | individual | living |
-| osc |  |  |  | individual | ancient |
-| osi |  |  |  | individual | living |
-| oso |  |  |  | individual | living |
-| osp |  |  |  | individual | historical |
-| oss | oss | oss | os | individual | living |
-| ost |  |  |  | individual | living |
-| osu |  |  |  | individual | living |
-| osx |  |  |  | individual | historical |
-| ota | ota | ota |  | individual | historical |
-| otb |  |  |  | individual | historical |
-| otd |  |  |  | individual | living |
-| ote |  |  |  | individual | living |
-| oti |  |  |  | individual | extinct |
-| otk |  |  |  | individual | historical |
-| otl |  |  |  | individual | living |
-| otm |  |  |  | individual | living |
-| otn |  |  |  | individual | living |
-| otq |  |  |  | individual | living |
-| otr |  |  |  | individual | living |
-| ots |  |  |  | individual | living |
-| ott |  |  |  | individual | living |
-| otu |  |  |  | individual | extinct |
-| otw |  |  |  | individual | living |
-| otx |  |  |  | individual | living |
-| oty |  |  |  | individual | ancient |
-| otz |  |  |  | individual | living |
-| oua |  |  |  | individual | living |
-| oub |  |  |  | individual | living |
-| oue |  |  |  | individual | living |
-| oui |  |  |  | individual | historical |
-| oum |  |  |  | individual | extinct |
-| oun |  |  |  | individual | living |
-| owi |  |  |  | individual | living |
-| owl |  |  |  | individual | historical |
-| oyb |  |  |  | individual | living |
-| oyd |  |  |  | individual | living |
-| oym |  |  |  | individual | living |
-| oyy |  |  |  | individual | living |
-| ozm |  |  |  | individual | living |
-| pab |  |  |  | individual | living |
-| pac |  |  |  | individual | living |
-| pad |  |  |  | individual | living |
-| pae |  |  |  | individual | living |
-| paf |  |  |  | individual | extinct |
-| pag | pag | pag |  | individual | living |
-| pah |  |  |  | individual | living |
-| pai |  |  |  | individual | living |
-| pak |  |  |  | individual | living |
-| pal | pal | pal |  | individual | ancient |
-| pam | pam | pam |  | individual | living |
-| pan | pan | pan | pa | individual | living |
-| pao |  |  |  | individual | living |
-| pap | pap | pap |  | individual | living |
-| paq |  |  |  | individual | living |
-| par |  |  |  | individual | living |
-| pas |  |  |  | individual | living |
-| pat |  |  |  | individual | living |
-| pau | pau | pau |  | individual | living |
-| pav |  |  |  | individual | living |
-| paw |  |  |  | individual | living |
-| pax |  |  |  | individual | extinct |
-| pay |  |  |  | individual | living |
-| paz |  |  |  | individual | extinct |
-| pbb |  |  |  | individual | living |
-| pbc |  |  |  | individual | living |
-| pbe |  |  |  | individual | living |
-| pbf |  |  |  | individual | living |
-| pbg |  |  |  | individual | extinct |
-| pbh |  |  |  | individual | living |
-| pbi |  |  |  | individual | living |
-| pbl |  |  |  | individual | living |
-| pbn |  |  |  | individual | living |
-| pbo |  |  |  | individual | living |
-| pbp |  |  |  | individual | living |
-| pbr |  |  |  | individual | living |
-| pbs |  |  |  | individual | living |
-| pbt |  |  |  | individual | living |
-| pbu |  |  |  | individual | living |
-| pbv |  |  |  | individual | living |
-| pby |  |  |  | individual | living |
-| pca |  |  |  | individual | living |
-| pcb |  |  |  | individual | living |
-| pcc |  |  |  | individual | living |
-| pcd |  |  |  | individual | living |
-| pce |  |  |  | individual | living |
-| pcf |  |  |  | individual | living |
-| pcg |  |  |  | individual | living |
-| pch |  |  |  | individual | living |
-| pci |  |  |  | individual | living |
-| pcj |  |  |  | individual | living |
-| pck |  |  |  | individual | living |
-| pcl |  |  |  | individual | living |
-| pcm |  |  |  | individual | living |
-| pcn |  |  |  | individual | living |
-| pcp |  |  |  | individual | living |
-| pcw |  |  |  | individual | living |
-| pda |  |  |  | individual | living |
-| pdc |  |  |  | individual | living |
-| pdi |  |  |  | individual | living |
-| pdn |  |  |  | individual | living |
-| pdo |  |  |  | individual | living |
-| pdt |  |  |  | individual | living |
-| pdu |  |  |  | individual | living |
-| pea |  |  |  | individual | living |
-| peb |  |  |  | individual | extinct |
-| ped |  |  |  | individual | living |
-| pee |  |  |  | individual | living |
-| pef |  |  |  | individual | extinct |
-| peg |  |  |  | individual | living |
-| peh |  |  |  | individual | living |
-| pei |  |  |  | individual | living |
-| pej |  |  |  | individual | extinct |
-| pek |  |  |  | individual | living |
-| pel |  |  |  | individual | living |
-| pem |  |  |  | individual | living |
-| peo | peo | peo |  | individual | historical |
-| pep |  |  |  | individual | living |
-| peq |  |  |  | individual | living |
-| pes |  |  |  | individual | living |
-| pev |  |  |  | individual | living |
-| pex |  |  |  | individual | living |
-| pey |  |  |  | individual | living |
-| pez |  |  |  | individual | living |
-| pfa |  |  |  | individual | living |
-| pfe |  |  |  | individual | living |
-| pfl |  |  |  | individual | living |
-| pga |  |  |  | individual | living |
-| pgg |  |  |  | individual | living |
-| pgi |  |  |  | individual | living |
-| pgk |  |  |  | individual | living |
-| pgl |  |  |  | individual | ancient |
-| pgn |  |  |  | individual | ancient |
-| pgs |  |  |  | individual | living |
-| pgu |  |  |  | individual | living |
-| pha |  |  |  | individual | living |
-| phd |  |  |  | individual | living |
-| phg |  |  |  | individual | living |
-| phh |  |  |  | individual | living |
-| phk |  |  |  | individual | living |
-| phl |  |  |  | individual | living |
-| phm |  |  |  | individual | living |
-| phn | phn | phn |  | individual | ancient |
-| pho |  |  |  | individual | living |
-| phq |  |  |  | individual | living |
-| phr |  |  |  | individual | living |
-| pht |  |  |  | individual | living |
-| phu |  |  |  | individual | living |
-| phv |  |  |  | individual | living |
-| phw |  |  |  | individual | living |
-| pia |  |  |  | individual | living |
-| pib |  |  |  | individual | living |
-| pic |  |  |  | individual | living |
-| pid |  |  |  | individual | living |
-| pie |  |  |  | individual | extinct |
-| pif |  |  |  | individual | living |
-| pig |  |  |  | individual | living |
-| pih |  |  |  | individual | living |
-| pii |  |  |  | individual | living |
-| pij |  |  |  | individual | extinct |
-| pil |  |  |  | individual | living |
-| pim |  |  |  | individual | extinct |
-| pin |  |  |  | individual | living |
-| pio |  |  |  | individual | living |
-| pip |  |  |  | individual | living |
-| pir |  |  |  | individual | living |
-| pis |  |  |  | individual | living |
-| pit |  |  |  | individual | extinct |
-| piu |  |  |  | individual | living |
-| piv |  |  |  | individual | living |
-| piw |  |  |  | individual | living |
-| pix |  |  |  | individual | living |
-| piy |  |  |  | individual | living |
-| piz |  |  |  | individual | living |
-| pjt |  |  |  | individual | living |
-| pka |  |  |  | individual | historical |
-| pkb |  |  |  | individual | living |
-| pkc |  |  |  | individual | extinct |
-| pkg |  |  |  | individual | living |
-| pkh |  |  |  | individual | living |
-| pkn |  |  |  | individual | living |
-| pko |  |  |  | individual | living |
-| pkp |  |  |  | individual | living |
-| pkr |  |  |  | individual | living |
-| pks |  |  |  | individual | living |
-| pkt |  |  |  | individual | living |
-| pku |  |  |  | individual | living |
-| pla |  |  |  | individual | living |
-| plb |  |  |  | individual | living |
-| plc |  |  |  | individual | living |
-| pld |  |  |  | individual | living |
-| ple |  |  |  | individual | living |
-| plg |  |  |  | individual | living |
-| plh |  |  |  | individual | living |
-| pli | pli | pli | pi | individual | ancient |
-| plj |  |  |  | individual | living |
-| plk |  |  |  | individual | living |
-| pll |  |  |  | individual | living |
-| pln |  |  |  | individual | living |
-| plo |  |  |  | individual | living |
-| plp |  |  |  | individual | living |
-| plq |  |  |  | individual | ancient |
-| plr |  |  |  | individual | living |
-| pls |  |  |  | individual | living |
-| plt |  |  |  | individual | living |
-| plu |  |  |  | individual | living |
-| plv |  |  |  | individual | living |
-| plw |  |  |  | individual | living |
-| ply |  |  |  | individual | living |
-| plz |  |  |  | individual | living |
-| pma |  |  |  | individual | living |
-| pmb |  |  |  | individual | living |
-| pmc |  |  |  | individual | extinct |
-| pmd |  |  |  | individual | extinct |
-| pme |  |  |  | individual | living |
-| pmf |  |  |  | individual | living |
-| pmh |  |  |  | individual | historical |
-| pmi |  |  |  | individual | living |
-| pmj |  |  |  | individual | living |
-| pmk |  |  |  | individual | extinct |
-| pml |  |  |  | individual | extinct |
-| pmm |  |  |  | individual | living |
-| pmn |  |  |  | individual | living |
-| pmo |  |  |  | individual | living |
-| pmq |  |  |  | individual | living |
-| pmr |  |  |  | individual | living |
-| pms |  |  |  | individual | living |
-| pmt |  |  |  | individual | living |
-| pmu |  |  |  | individual | living |
-| pmw |  |  |  | individual | living |
-| pmx |  |  |  | individual | living |
-| pmy |  |  |  | individual | living |
-| pmz |  |  |  | individual | extinct |
-| pna |  |  |  | individual | living |
-| pnb |  |  |  | individual | living |
-| pnc |  |  |  | individual | living |
-| pne |  |  |  | individual | living |
-| png |  |  |  | individual | living |
-| pnh |  |  |  | individual | living |
-| pni |  |  |  | individual | living |
-| pnj |  |  |  | individual | extinct |
-| pnk |  |  |  | individual | living |
-| pnl |  |  |  | individual | living |
-| pnm |  |  |  | individual | living |
-| pnn |  |  |  | individual | living |
-| pno |  |  |  | individual | extinct |
-| pnp |  |  |  | individual | living |
-| pnq |  |  |  | individual | living |
-| pnr |  |  |  | individual | living |
-| pns |  |  |  | individual | living |
-| pnt |  |  |  | individual | living |
-| pnu |  |  |  | individual | living |
-| pnv |  |  |  | individual | living |
-| pnw |  |  |  | individual | living |
-| pnx |  |  |  | individual | living |
-| pny |  |  |  | individual | living |
-| pnz |  |  |  | individual | living |
-| poc |  |  |  | individual | living |
-| pod |  |  |  | individual | extinct |
-| poe |  |  |  | individual | living |
-| pof |  |  |  | individual | living |
-| pog |  |  |  | individual | extinct |
-| poh |  |  |  | individual | living |
-| poi |  |  |  | individual | living |
-| pok |  |  |  | individual | living |
-| pol | pol | pol | pl | individual | living |
-| pom |  |  |  | individual | living |
-| pon | pon | pon |  | individual | living |
-| poo |  |  |  | individual | living |
-| pop |  |  |  | individual | living |
-| poq |  |  |  | individual | living |
-| por | por | por | pt | individual | living |
-| pos |  |  |  | individual | living |
-| pot |  |  |  | individual | living |
-| pov |  |  |  | individual | living |
-| pow |  |  |  | individual | living |
-| pox |  |  |  | individual | extinct |
-| poy |  |  |  | individual | living |
-| ppa |  |  |  | individual | living |
-| ppe |  |  |  | individual | living |
-| ppi |  |  |  | individual | living |
-| ppk |  |  |  | individual | living |
-| ppl |  |  |  | individual | living |
-| ppm |  |  |  | individual | living |
-| ppn |  |  |  | individual | living |
-| ppo |  |  |  | individual | living |
-| ppp |  |  |  | individual | living |
-| ppq |  |  |  | individual | living |
-| pps |  |  |  | individual | living |
-| ppt |  |  |  | individual | living |
-| ppu |  |  |  | individual | extinct |
-| pqa |  |  |  | individual | living |
-| pqm |  |  |  | individual | living |
-| prb |  |  |  | individual | living |
-| prc |  |  |  | individual | living |
-| prd |  |  |  | individual | living |
-| pre |  |  |  | individual | living |
-| prf |  |  |  | individual | living |
-| prg |  |  |  | individual | living |
-| prh |  |  |  | individual | living |
-| pri |  |  |  | individual | living |
-| prk |  |  |  | individual | living |
-| prl |  |  |  | individual | living |
-| prm |  |  |  | individual | living |
-| prn |  |  |  | individual | living |
-| pro | pro | pro |  | individual | historical |
-| prp |  |  |  | individual | living |
-| prq |  |  |  | individual | living |
-| prr |  |  |  | individual | extinct |
-| prs |  |  |  | individual | living |
-| prt |  |  |  | individual | living |
-| pru |  |  |  | individual | living |
-| prw |  |  |  | individual | living |
-| prx |  |  |  | individual | living |
-| pry |  |  |  | individual | living |
-| prz |  |  |  | individual | living |
-| psa |  |  |  | individual | living |
-| psc |  |  |  | individual | living |
-| psd |  |  |  | individual | living |
-| pse |  |  |  | individual | living |
-| psg |  |  |  | individual | living |
-| psh |  |  |  | individual | living |
-| psi |  |  |  | individual | living |
-| psl |  |  |  | individual | living |
-| psm |  |  |  | individual | extinct |
-| psn |  |  |  | individual | living |
-| pso |  |  |  | individual | living |
-| psp |  |  |  | individual | living |
-| psq |  |  |  | individual | living |
-| psr |  |  |  | individual | living |
-| pss |  |  |  | individual | living |
-| pst |  |  |  | individual | living |
-| psu |  |  |  | individual | historical |
-| psw |  |  |  | individual | living |
-| psy |  |  |  | individual | extinct |
-| pta |  |  |  | individual | living |
-| pth |  |  |  | individual | extinct |
-| pti |  |  |  | individual | living |
-| ptn |  |  |  | individual | living |
-| pto |  |  |  | individual | living |
-| ptp |  |  |  | individual | living |
-| ptq |  |  |  | individual | living |
-| ptr |  |  |  | individual | living |
-| ptt |  |  |  | individual | living |
-| ptu |  |  |  | individual | living |
-| ptv |  |  |  | individual | living |
-| ptw |  |  |  | individual | extinct |
-| pty |  |  |  | individual | living |
-| pua |  |  |  | individual | living |
-| pub |  |  |  | individual | living |
-| puc |  |  |  | individual | living |
-| pud |  |  |  | individual | living |
-| pue |  |  |  | individual | living |
-| puf |  |  |  | individual | living |
-| pug |  |  |  | individual | living |
-| pui |  |  |  | individual | living |
-| puj |  |  |  | individual | living |
-| puk |  |  |  | individual | living |
-| pum |  |  |  | individual | living |
-| puo |  |  |  | individual | living |
-| pup |  |  |  | individual | living |
-| puq |  |  |  | individual | extinct |
-| pur |  |  |  | individual | living |
-| pus | pus | pus | ps | macrolanguage | living |
-| put |  |  |  | individual | living |
-| puu |  |  |  | individual | living |
-| puw |  |  |  | individual | living |
-| pux |  |  |  | individual | living |
-| puy |  |  |  | individual | extinct |
-| pwa |  |  |  | individual | living |
-| pwb |  |  |  | individual | living |
-| pwg |  |  |  | individual | living |
-| pwi |  |  |  | individual | extinct |
-| pwm |  |  |  | individual | living |
-| pwn |  |  |  | individual | living |
-| pwo |  |  |  | individual | living |
-| pwr |  |  |  | individual | living |
-| pww |  |  |  | individual | living |
-| pxm |  |  |  | individual | living |
-| pye |  |  |  | individual | living |
-| pym |  |  |  | individual | living |
-| pyn |  |  |  | individual | living |
-| pys |  |  |  | individual | living |
-| pyu |  |  |  | individual | living |
-| pyx |  |  |  | individual | ancient |
-| pyy |  |  |  | individual | living |
-| pzn |  |  |  | individual | living |
-| qua |  |  |  | individual | living |
-| qub |  |  |  | individual | living |
-| quc |  |  |  | individual | living |
-| qud |  |  |  | individual | living |
-| que | que | que | qu | macrolanguage | living |
-| quf |  |  |  | individual | living |
-| qug |  |  |  | individual | living |
-| quh |  |  |  | individual | living |
-| qui |  |  |  | individual | living |
-| quk |  |  |  | individual | living |
-| qul |  |  |  | individual | living |
-| qum |  |  |  | individual | living |
-| qun |  |  |  | individual | extinct |
-| qup |  |  |  | individual | living |
-| quq |  |  |  | individual | living |
-| qur |  |  |  | individual | living |
-| qus |  |  |  | individual | living |
-| quv |  |  |  | individual | living |
-| quw |  |  |  | individual | living |
-| qux |  |  |  | individual | living |
-| quy |  |  |  | individual | living |
-| quz |  |  |  | individual | living |
-| qva |  |  |  | individual | living |
-| qvc |  |  |  | individual | living |
-| qve |  |  |  | individual | living |
-| qvh |  |  |  | individual | living |
-| qvi |  |  |  | individual | living |
-| qvj |  |  |  | individual | living |
-| qvl |  |  |  | individual | living |
-| qvm |  |  |  | individual | living |
-| qvn |  |  |  | individual | living |
-| qvo |  |  |  | individual | living |
-| qvp |  |  |  | individual | living |
-| qvs |  |  |  | individual | living |
-| qvw |  |  |  | individual | living |
-| qvy |  |  |  | individual | living |
-| qvz |  |  |  | individual | living |
-| qwa |  |  |  | individual | living |
-| qwc |  |  |  | individual | historical |
-| qwh |  |  |  | individual | living |
-| qwm |  |  |  | individual | extinct |
-| qws |  |  |  | individual | living |
-| qwt |  |  |  | individual | extinct |
-| qxa |  |  |  | individual | living |
-| qxc |  |  |  | individual | living |
-| qxh |  |  |  | individual | living |
-| qxl |  |  |  | individual | living |
-| qxn |  |  |  | individual | living |
-| qxo |  |  |  | individual | living |
-| qxp |  |  |  | individual | living |
-| qxq |  |  |  | individual | living |
-| qxr |  |  |  | individual | living |
-| qxs |  |  |  | individual | living |
-| qxt |  |  |  | individual | living |
-| qxu |  |  |  | individual | living |
-| qxw |  |  |  | individual | living |
-| qya |  |  |  | individual | constructed |
-| qyp |  |  |  | individual | extinct |
-| raa |  |  |  | individual | living |
-| rab |  |  |  | individual | living |
-| rac |  |  |  | individual | living |
-| rad |  |  |  | individual | living |
-| raf |  |  |  | individual | living |
-| rag |  |  |  | individual | living |
-| rah |  |  |  | individual | living |
-| rai |  |  |  | individual | living |
-| raj | raj | raj |  | macrolanguage | living |
-| rak |  |  |  | individual | living |
-| ral |  |  |  | individual | living |
-| ram |  |  |  | individual | living |
-| ran |  |  |  | individual | living |
-| rao |  |  |  | individual | living |
-| rap | rap | rap |  | individual | living |
-| raq |  |  |  | individual | living |
-| rar | rar | rar |  | individual | living |
-| ras |  |  |  | individual | living |
-| rat |  |  |  | individual | living |
-| rau |  |  |  | individual | living |
-| rav |  |  |  | individual | living |
-| raw |  |  |  | individual | living |
-| rax |  |  |  | individual | living |
-| ray |  |  |  | individual | living |
-| raz |  |  |  | individual | living |
-| rbb |  |  |  | individual | living |
-| rbk |  |  |  | individual | living |
-| rbl |  |  |  | individual | living |
-| rbp |  |  |  | individual | extinct |
-| rcf |  |  |  | individual | living |
-| rdb |  |  |  | individual | living |
-| rea |  |  |  | individual | living |
-| reb |  |  |  | individual | living |
-| ree |  |  |  | individual | living |
-| reg |  |  |  | individual | living |
-| rei |  |  |  | individual | living |
-| rej |  |  |  | individual | living |
-| rel |  |  |  | individual | living |
-| rem |  |  |  | individual | extinct |
-| ren |  |  |  | individual | living |
-| rer |  |  |  | individual | extinct |
-| res |  |  |  | individual | living |
-| ret |  |  |  | individual | living |
-| rey |  |  |  | individual | living |
-| rga |  |  |  | individual | living |
-| rge |  |  |  | individual | living |
-| rgk |  |  |  | individual | extinct |
-| rgn |  |  |  | individual | living |
-| rgr |  |  |  | individual | living |
-| rgs |  |  |  | individual | living |
-| rgu |  |  |  | individual | living |
-| rhg |  |  |  | individual | living |
-| rhp |  |  |  | individual | living |
-| ria |  |  |  | individual | living |
-| rie |  |  |  | individual | living |
-| rif |  |  |  | individual | living |
-| ril |  |  |  | individual | living |
-| rim |  |  |  | individual | living |
-| rin |  |  |  | individual | living |
-| rir |  |  |  | individual | living |
-| rit |  |  |  | individual | living |
-| riu |  |  |  | individual | living |
-| rjg |  |  |  | individual | living |
-| rji |  |  |  | individual | living |
-| rjs |  |  |  | individual | living |
-| rka |  |  |  | individual | living |
-| rkb |  |  |  | individual | living |
-| rkh |  |  |  | individual | living |
-| rki |  |  |  | individual | living |
-| rkm |  |  |  | individual | living |
-| rkt |  |  |  | individual | living |
-| rkw |  |  |  | individual | extinct |
-| rma |  |  |  | individual | living |
-| rmb |  |  |  | individual | living |
-| rmc |  |  |  | individual | living |
-| rmd |  |  |  | individual | extinct |
-| rme |  |  |  | individual | living |
-| rmf |  |  |  | individual | living |
-| rmg |  |  |  | individual | living |
-| rmh |  |  |  | individual | living |
-| rmi |  |  |  | individual | living |
-| rmk |  |  |  | individual | living |
-| rml |  |  |  | individual | living |
-| rmm |  |  |  | individual | living |
-| rmn |  |  |  | individual | living |
-| rmo |  |  |  | individual | living |
-| rmp |  |  |  | individual | living |
-| rmq |  |  |  | individual | living |
-| rms |  |  |  | individual | living |
-| rmt |  |  |  | individual | living |
-| rmu |  |  |  | individual | living |
-| rmv |  |  |  | individual | constructed |
-| rmw |  |  |  | individual | living |
-| rmx |  |  |  | individual | living |
-| rmy |  |  |  | individual | living |
-| rmz |  |  |  | individual | living |
-| rna |  |  |  | individual | extinct |
-| rnd |  |  |  | individual | living |
-| rng |  |  |  | individual | living |
-| rnl |  |  |  | individual | living |
-| rnn |  |  |  | individual | living |
-| rnp |  |  |  | individual | living |
-| rnr |  |  |  | individual | extinct |
-| rnw |  |  |  | individual | living |
-| rob |  |  |  | individual | living |
-| roc |  |  |  | individual | living |
-| rod |  |  |  | individual | living |
-| roe |  |  |  | individual | living |
-| rof |  |  |  | individual | living |
-| rog |  |  |  | individual | living |
-| roh | roh | roh | rm | individual | living |
-| rol |  |  |  | individual | living |
-| rom | rom | rom |  | macrolanguage | living |
-| ron | rum | ron | ro | individual | living |
-| roo |  |  |  | individual | living |
-| rop |  |  |  | individual | living |
-| ror |  |  |  | individual | living |
-| rou |  |  |  | individual | living |
-| row |  |  |  | individual | living |
-| rpn |  |  |  | individual | living |
-| rpt |  |  |  | individual | living |
-| rri |  |  |  | individual | living |
-| rro |  |  |  | individual | living |
-| rrt |  |  |  | individual | extinct |
-| rsb |  |  |  | individual | living |
-| rsi |  |  |  | individual | living |
-| rsl |  |  |  | individual | living |
-| rtc |  |  |  | individual | living |
-| rth |  |  |  | individual | living |
-| rtm |  |  |  | individual | living |
-| rtw |  |  |  | individual | living |
-| rub |  |  |  | individual | living |
-| ruc |  |  |  | individual | living |
-| rue |  |  |  | individual | living |
-| ruf |  |  |  | individual | living |
-| rug |  |  |  | individual | living |
-| ruh |  |  |  | individual | living |
-| rui |  |  |  | individual | living |
-| ruk |  |  |  | individual | living |
-| run | run | run | rn | individual | living |
-| ruo |  |  |  | individual | living |
-| rup | rup | rup |  | individual | living |
-| ruq |  |  |  | individual | living |
-| rus | rus | rus | ru | individual | living |
-| rut |  |  |  | individual | living |
-| ruu |  |  |  | individual | living |
-| ruy |  |  |  | individual | living |
-| ruz |  |  |  | individual | living |
-| rwa |  |  |  | individual | living |
-| rwk |  |  |  | individual | living |
-| rwm |  |  |  | individual | living |
-| rwo |  |  |  | individual | living |
-| rwr |  |  |  | individual | living |
-| rxd |  |  |  | individual | living |
-| rxw |  |  |  | individual | extinct |
-| ryn |  |  |  | individual | living |
-| rys |  |  |  | individual | living |
-| ryu |  |  |  | individual | living |
-| saa |  |  |  | individual | living |
-| sab |  |  |  | individual | living |
-| sac |  |  |  | individual | living |
-| sad | sad | sad |  | individual | living |
-| sae |  |  |  | individual | living |
-| saf |  |  |  | individual | living |
-| sag | sag | sag | sg | individual | living |
-| sah | sah | sah |  | individual | living |
-| saj |  |  |  | individual | living |
-| sak |  |  |  | individual | living |
-| sam | sam | sam |  | individual | extinct |
-| san | san | san | sa | individual | ancient |
-| sao |  |  |  | individual | living |
-| saq |  |  |  | individual | living |
-| sar |  |  |  | individual | extinct |
-| sas | sas | sas |  | individual | living |
-| sat | sat | sat |  | individual | living |
-| sau |  |  |  | individual | living |
-| sav |  |  |  | individual | living |
-| saw |  |  |  | individual | living |
-| sax |  |  |  | individual | living |
-| say |  |  |  | individual | living |
-| saz |  |  |  | individual | living |
-| sba |  |  |  | individual | living |
-| sbb |  |  |  | individual | living |
-| sbc |  |  |  | individual | living |
-| sbd |  |  |  | individual | living |
-| sbe |  |  |  | individual | living |
-| sbf |  |  |  | individual | living |
-| sbg |  |  |  | individual | living |
-| sbh |  |  |  | individual | living |
-| sbi |  |  |  | individual | living |
-| sbj |  |  |  | individual | living |
-| sbk |  |  |  | individual | living |
-| sbl |  |  |  | individual | living |
-| sbm |  |  |  | individual | living |
-| sbn |  |  |  | individual | living |
-| sbo |  |  |  | individual | living |
-| sbp |  |  |  | individual | living |
-| sbq |  |  |  | individual | living |
-| sbr |  |  |  | individual | living |
-| sbs |  |  |  | individual | living |
-| sbt |  |  |  | individual | living |
-| sbu |  |  |  | individual | living |
-| sbv |  |  |  | individual | ancient |
-| sbw |  |  |  | individual | living |
-| sbx |  |  |  | individual | living |
-| sby |  |  |  | individual | living |
-| sbz |  |  |  | individual | living |
-| scb |  |  |  | individual | living |
-| sce |  |  |  | individual | living |
-| scf |  |  |  | individual | living |
-| scg |  |  |  | individual | living |
-| sch |  |  |  | individual | living |
-| sci |  |  |  | individual | living |
-| sck |  |  |  | individual | living |
-| scl |  |  |  | individual | living |
-| scn | scn | scn |  | individual | living |
-| sco | sco | sco |  | individual | living |
-| scp |  |  |  | individual | living |
-| scq |  |  |  | individual | living |
-| scs |  |  |  | individual | living |
-| scu |  |  |  | individual | living |
-| scv |  |  |  | individual | living |
-| scw |  |  |  | individual | living |
-| scx |  |  |  | individual | ancient |
-| sda |  |  |  | individual | living |
-| sdb |  |  |  | individual | living |
-| sdc |  |  |  | individual | living |
-| sde |  |  |  | individual | living |
-| sdf |  |  |  | individual | living |
-| sdg |  |  |  | individual | living |
-| sdh |  |  |  | individual | living |
-| sdj |  |  |  | individual | living |
-| sdk |  |  |  | individual | living |
-| sdl |  |  |  | individual | living |
-| sdm |  |  |  | individual | living |
-| sdn |  |  |  | individual | living |
-| sdo |  |  |  | individual | living |
-| sdp |  |  |  | individual | living |
-| sdr |  |  |  | individual | living |
-| sds |  |  |  | individual | extinct |
-| sdt |  |  |  | individual | extinct |
-| sdu |  |  |  | individual | living |
-| sdx |  |  |  | individual | living |
-| sdz |  |  |  | individual | living |
-| sea |  |  |  | individual | living |
-| seb |  |  |  | individual | living |
-| sec |  |  |  | individual | living |
-| sed |  |  |  | individual | living |
-| see |  |  |  | individual | living |
-| sef |  |  |  | individual | living |
-| seg |  |  |  | individual | living |
-| seh |  |  |  | individual | living |
-| sei |  |  |  | individual | living |
-| sej |  |  |  | individual | living |
-| sek |  |  |  | individual | living |
-| sel | sel | sel |  | individual | living |
-| sen |  |  |  | individual | living |
-| seo |  |  |  | individual | living |
-| sep |  |  |  | individual | living |
-| seq |  |  |  | individual | living |
-| ser |  |  |  | individual | living |
-| ses |  |  |  | individual | living |
-| set |  |  |  | individual | living |
-| seu |  |  |  | individual | living |
-| sev |  |  |  | individual | living |
-| sew |  |  |  | individual | living |
-| sey |  |  |  | individual | living |
-| sez |  |  |  | individual | living |
-| sfb |  |  |  | individual | living |
-| sfe |  |  |  | individual | living |
-| sfm |  |  |  | individual | living |
-| sfs |  |  |  | individual | living |
-| sfw |  |  |  | individual | living |
-| sga | sga | sga |  | individual | historical |
-| sgb |  |  |  | individual | living |
-| sgc |  |  |  | individual | living |
-| sgd |  |  |  | individual | living |
-| sge |  |  |  | individual | living |
-| sgg |  |  |  | individual | living |
-| sgh |  |  |  | individual | living |
-| sgi |  |  |  | individual | living |
-| sgj |  |  |  | individual | living |
-| sgk |  |  |  | individual | living |
-| sgm |  |  |  | individual | extinct |
-| sgo |  |  |  | individual | living |
-| sgp |  |  |  | individual | living |
-| sgr |  |  |  | individual | living |
-| sgs |  |  |  | individual | living |
-| sgt |  |  |  | individual | living |
-| sgu |  |  |  | individual | living |
-| sgw |  |  |  | individual | living |
-| sgx |  |  |  | individual | living |
-| sgy |  |  |  | individual | living |
-| sgz |  |  |  | individual | living |
-| sha |  |  |  | individual | living |
-| shb |  |  |  | individual | living |
-| shc |  |  |  | individual | living |
-| shd |  |  |  | individual | living |
-| she |  |  |  | individual | living |
-| shg |  |  |  | individual | living |
-| shh |  |  |  | individual | living |
-| shi |  |  |  | individual | living |
-| shj |  |  |  | individual | living |
-| shk |  |  |  | individual | living |
-| shl |  |  |  | individual | living |
-| shm |  |  |  | individual | living |
-| shn | shn | shn |  | individual | living |
-| sho |  |  |  | individual | living |
-| shp |  |  |  | individual | living |
-| shq |  |  |  | individual | living |
-| shr |  |  |  | individual | living |
-| shs |  |  |  | individual | living |
-| sht |  |  |  | individual | extinct |
-| shu |  |  |  | individual | living |
-| shv |  |  |  | individual | living |
-| shw |  |  |  | individual | living |
-| shx |  |  |  | individual | living |
-| shy |  |  |  | individual | living |
-| shz |  |  |  | individual | living |
-| sia |  |  |  | individual | extinct |
-| sib |  |  |  | individual | living |
-| sid | sid | sid |  | individual | living |
-| sie |  |  |  | individual | living |
-| sif |  |  |  | individual | living |
-| sig |  |  |  | individual | living |
-| sih |  |  |  | individual | living |
-| sii |  |  |  | individual | living |
-| sij |  |  |  | individual | living |
-| sik |  |  |  | individual | living |
-| sil |  |  |  | individual | living |
-| sim |  |  |  | individual | living |
-| sin | sin | sin | si | individual | living |
-| sip |  |  |  | individual | living |
-| siq |  |  |  | individual | living |
-| sir |  |  |  | individual | living |
-| sis |  |  |  | individual | extinct |
-| siu |  |  |  | individual | living |
-| siv |  |  |  | individual | living |
-| siw |  |  |  | individual | living |
-| six |  |  |  | individual | living |
-| siy |  |  |  | individual | living |
-| siz |  |  |  | individual | living |
-| sja |  |  |  | individual | living |
-| sjb |  |  |  | individual | living |
-| sjd |  |  |  | individual | living |
-| sje |  |  |  | individual | living |
-| sjg |  |  |  | individual | living |
-| sjk |  |  |  | individual | extinct |
-| sjl |  |  |  | individual | living |
-| sjm |  |  |  | individual | living |
-| sjn |  |  |  | individual | constructed |
-| sjo |  |  |  | individual | living |
-| sjp |  |  |  | individual | living |
-| sjr |  |  |  | individual | living |
-| sjs |  |  |  | individual | extinct |
-| sjt |  |  |  | individual | living |
-| sju |  |  |  | individual | living |
-| sjw |  |  |  | individual | living |
-| ska |  |  |  | individual | living |
-| skb |  |  |  | individual | living |
-| skc |  |  |  | individual | living |
-| skd |  |  |  | individual | living |
-| ske |  |  |  | individual | living |
-| skf |  |  |  | individual | living |
-| skg |  |  |  | individual | living |
-| skh |  |  |  | individual | living |
-| ski |  |  |  | individual | living |
-| skj |  |  |  | individual | living |
-| skk |  |  |  | individual | living |
-| skm |  |  |  | individual | living |
-| skn |  |  |  | individual | living |
-| sko |  |  |  | individual | living |
-| skp |  |  |  | individual | living |
-| skq |  |  |  | individual | living |
-| skr |  |  |  | individual | living |
-| sks |  |  |  | individual | living |
-| skt |  |  |  | individual | living |
-| sku |  |  |  | individual | living |
-| skv |  |  |  | individual | living |
-| skw |  |  |  | individual | extinct |
-| skx |  |  |  | individual | living |
-| sky |  |  |  | individual | living |
-| skz |  |  |  | individual | living |
-| slc |  |  |  | individual | living |
-| sld |  |  |  | individual | living |
-| sle |  |  |  | individual | living |
-| slf |  |  |  | individual | living |
-| slg |  |  |  | individual | living |
-| slh |  |  |  | individual | living |
-| sli |  |  |  | individual | living |
-| slj |  |  |  | individual | living |
-| slk | slo | slk | sk | individual | living |
-| sll |  |  |  | individual | living |
-| slm |  |  |  | individual | living |
-| sln |  |  |  | individual | extinct |
-| slp |  |  |  | individual | living |
-| slq |  |  |  | individual | living |
-| slr |  |  |  | individual | living |
-| sls |  |  |  | individual | living |
-| slt |  |  |  | individual | living |
-| slu |  |  |  | individual | living |
-| slv | slv | slv | sl | individual | living |
-| slw |  |  |  | individual | living |
-| slx |  |  |  | individual | living |
-| sly |  |  |  | individual | living |
-| slz |  |  |  | individual | living |
-| sma | sma | sma |  | individual | living |
-| smb |  |  |  | individual | living |
-| smc |  |  |  | individual | extinct |
-| smd |  |  |  | individual | living |
-| sme | sme | sme | se | individual | living |
-| smf |  |  |  | individual | living |
-| smg |  |  |  | individual | living |
-| smh |  |  |  | individual | living |
-| smj | smj | smj |  | individual | living |
-| smk |  |  |  | individual | living |
-| sml |  |  |  | individual | living |
-| smm |  |  |  | individual | living |
-| smn | smn | smn |  | individual | living |
-| smo | smo | smo | sm | individual | living |
-| smp |  |  |  | individual | extinct |
-| smq |  |  |  | individual | living |
-| smr |  |  |  | individual | living |
-| sms | sms | sms |  | individual | living |
-| smt |  |  |  | individual | living |
-| smu |  |  |  | individual | extinct |
-| smv |  |  |  | individual | living |
-| smw |  |  |  | individual | living |
-| smx |  |  |  | individual | living |
-| smy |  |  |  | individual | living |
-| smz |  |  |  | individual | living |
-| sna | sna | sna | sn | individual | living |
-| snb |  |  |  | individual | living |
-| snc |  |  |  | individual | living |
-| snd | snd | snd | sd | individual | living |
-| sne |  |  |  | individual | living |
-| snf |  |  |  | individual | living |
-| sng |  |  |  | individual | living |
-| snh |  |  |  | individual | extinct |
-| sni |  |  |  | individual | extinct |
-| snj |  |  |  | individual | living |
-| snk | snk | snk |  | individual | living |
-| snl |  |  |  | individual | living |
-| snm |  |  |  | individual | living |
-| snn |  |  |  | individual | living |
-| sno |  |  |  | individual | living |
-| snp |  |  |  | individual | living |
-| snq |  |  |  | individual | living |
-| snr |  |  |  | individual | living |
-| sns |  |  |  | individual | living |
-| snu |  |  |  | individual | living |
-| snv |  |  |  | individual | living |
-| snw |  |  |  | individual | living |
-| snx |  |  |  | individual | living |
-| sny |  |  |  | individual | living |
-| snz |  |  |  | individual | living |
-| soa |  |  |  | individual | living |
-| sob |  |  |  | individual | living |
-| soc |  |  |  | individual | living |
-| sod |  |  |  | individual | living |
-| soe |  |  |  | individual | living |
-| sog | sog | sog |  | individual | ancient |
-| soh |  |  |  | individual | living |
-| soi |  |  |  | individual | living |
-| soj |  |  |  | individual | living |
-| sok |  |  |  | individual | living |
-| sol |  |  |  | individual | living |
-| som | som | som | so | individual | living |
-| soo |  |  |  | individual | living |
-| sop |  |  |  | individual | living |
-| soq |  |  |  | individual | living |
-| sor |  |  |  | individual | living |
-| sos |  |  |  | individual | living |
-| sot | sot | sot | st | individual | living |
-| sou |  |  |  | individual | living |
-| sov |  |  |  | individual | living |
-| sow |  |  |  | individual | living |
-| sox |  |  |  | individual | living |
-| soy |  |  |  | individual | living |
-| soz |  |  |  | individual | living |
-| spa | spa | spa | es | individual | living |
-| spb |  |  |  | individual | living |
-| spc |  |  |  | individual | living |
-| spd |  |  |  | individual | living |
-| spe |  |  |  | individual | living |
-| spg |  |  |  | individual | living |
-| spi |  |  |  | individual | living |
-| spk |  |  |  | individual | living |
-| spl |  |  |  | individual | living |
-| spm |  |  |  | individual | living |
-| spn |  |  |  | individual | living |
-| spo |  |  |  | individual | living |
-| spp |  |  |  | individual | living |
-| spq |  |  |  | individual | living |
-| spr |  |  |  | individual | living |
-| sps |  |  |  | individual | living |
-| spt |  |  |  | individual | living |
-| spu |  |  |  | individual | living |
-| spv |  |  |  | individual | living |
-| spx |  |  |  | individual | ancient |
-| spy |  |  |  | individual | living |
-| sqa |  |  |  | individual | living |
-| sqh |  |  |  | individual | living |
-| sqi | alb | sqi | sq | macrolanguage | living |
-| sqk |  |  |  | individual | living |
-| sqm |  |  |  | individual | living |
-| sqn |  |  |  | individual | extinct |
-| sqo |  |  |  | individual | living |
-| sqq |  |  |  | individual | living |
-| sqr |  |  |  | individual | historical |
-| sqs |  |  |  | individual | living |
-| sqt |  |  |  | individual | living |
-| squ |  |  |  | individual | living |
-| sra |  |  |  | individual | living |
-| srb |  |  |  | individual | living |
-| src |  |  |  | individual | living |
-| srd | srd | srd | sc | macrolanguage | living |
-| sre |  |  |  | individual | living |
-| srf |  |  |  | individual | living |
-| srg |  |  |  | individual | living |
-| srh |  |  |  | individual | living |
-| sri |  |  |  | individual | living |
-| srk |  |  |  | individual | living |
-| srl |  |  |  | individual | living |
-| srm |  |  |  | individual | living |
-| srn | srn | srn |  | individual | living |
-| sro |  |  |  | individual | living |
-| srp | srp | srp | sr | individual | living |
-| srq |  |  |  | individual | living |
-| srr | srr | srr |  | individual | living |
-| srs |  |  |  | individual | living |
-| srt |  |  |  | individual | living |
-| sru |  |  |  | individual | living |
-| srv |  |  |  | individual | living |
-| srw |  |  |  | individual | living |
-| srx |  |  |  | individual | living |
-| sry |  |  |  | individual | living |
-| srz |  |  |  | individual | living |
-| ssb |  |  |  | individual | living |
-| ssc |  |  |  | individual | living |
-| ssd |  |  |  | individual | living |
-| sse |  |  |  | individual | living |
-| ssf |  |  |  | individual | living |
-| ssg |  |  |  | individual | living |
-| ssh |  |  |  | individual | living |
-| ssi |  |  |  | individual | living |
-| ssj |  |  |  | individual | living |
-| ssk |  |  |  | individual | living |
-| ssl |  |  |  | individual | living |
-| ssm |  |  |  | individual | living |
-| ssn |  |  |  | individual | living |
-| sso |  |  |  | individual | living |
-| ssp |  |  |  | individual | living |
-| ssq |  |  |  | individual | living |
-| ssr |  |  |  | individual | living |
-| sss |  |  |  | individual | living |
-| sst |  |  |  | individual | living |
-| ssu |  |  |  | individual | living |
-| ssv |  |  |  | individual | living |
-| ssw | ssw | ssw | ss | individual | living |
-| ssx |  |  |  | individual | living |
-| ssy |  |  |  | individual | living |
-| ssz |  |  |  | individual | living |
-| sta |  |  |  | individual | living |
-| stb |  |  |  | individual | living |
-| std |  |  |  | individual | living |
-| ste |  |  |  | individual | living |
-| stf |  |  |  | individual | living |
-| stg |  |  |  | individual | living |
-| sth |  |  |  | individual | living |
-| sti |  |  |  | individual | living |
-| stj |  |  |  | individual | living |
-| stk |  |  |  | individual | living |
-| stl |  |  |  | individual | living |
-| stm |  |  |  | individual | living |
-| stn |  |  |  | individual | living |
-| sto |  |  |  | individual | living |
-| stp |  |  |  | individual | living |
-| stq |  |  |  | individual | living |
-| str |  |  |  | individual | living |
-| sts |  |  |  | individual | living |
-| stt |  |  |  | individual | living |
-| stu |  |  |  | individual | living |
-| stv |  |  |  | individual | living |
-| stw |  |  |  | individual | living |
-| sty |  |  |  | individual | living |
-| sua |  |  |  | individual | living |
-| sub |  |  |  | individual | living |
-| suc |  |  |  | individual | living |
-| sue |  |  |  | individual | living |
-| sug |  |  |  | individual | living |
-| sui |  |  |  | individual | living |
-| suj |  |  |  | individual | living |
-| suk | suk | suk |  | individual | living |
-| sun | sun | sun | su | individual | living |
-| suq |  |  |  | individual | living |
-| sur |  |  |  | individual | living |
-| sus | sus | sus |  | individual | living |
-| sut |  |  |  | individual | extinct |
-| suv |  |  |  | individual | living |
-| suw |  |  |  | individual | living |
-| sux | sux | sux |  | individual | ancient |
-| suy |  |  |  | individual | living |
-| suz |  |  |  | individual | living |
-| sva |  |  |  | individual | living |
-| svb |  |  |  | individual | living |
-| svc |  |  |  | individual | living |
-| sve |  |  |  | individual | living |
-| svk |  |  |  | individual | living |
-| svm |  |  |  | individual | living |
-| svr |  |  |  | individual | living |
-| svs |  |  |  | individual | living |
-| svx |  |  |  | individual | extinct |
-| swa | swa | swa | sw | macrolanguage | living |
-| swb |  |  |  | individual | living |
-| swc |  |  |  | individual | living |
-| swe | swe | swe | sv | individual | living |
-| swf |  |  |  | individual | living |
-| swg |  |  |  | individual | living |
-| swh |  |  |  | individual | living |
-| swi |  |  |  | individual | living |
-| swj |  |  |  | individual | living |
-| swk |  |  |  | individual | living |
-| swl |  |  |  | individual | living |
-| swm |  |  |  | individual | living |
-| swn |  |  |  | individual | living |
-| swo |  |  |  | individual | living |
-| swp |  |  |  | individual | living |
-| swq |  |  |  | individual | living |
-| swr |  |  |  | individual | living |
-| sws |  |  |  | individual | living |
-| swt |  |  |  | individual | living |
-| swu |  |  |  | individual | living |
-| swv |  |  |  | individual | living |
-| sww |  |  |  | individual | extinct |
-| swx |  |  |  | individual | living |
-| swy |  |  |  | individual | living |
-| sxb |  |  |  | individual | living |
-| sxc |  |  |  | individual | ancient |
-| sxe |  |  |  | individual | living |
-| sxg |  |  |  | individual | living |
-| sxk |  |  |  | individual | extinct |
-| sxl |  |  |  | individual | extinct |
-| sxm |  |  |  | individual | living |
-| sxn |  |  |  | individual | living |
-| sxo |  |  |  | individual | ancient |
-| sxr |  |  |  | individual | living |
-| sxs |  |  |  | individual | living |
-| sxu |  |  |  | individual | living |
-| sxw |  |  |  | individual | living |
-| sya |  |  |  | individual | living |
-| syb |  |  |  | individual | living |
-| syc | syc | syc |  | individual | historical |
-| syi |  |  |  | individual | living |
-| syk |  |  |  | individual | living |
-| syl |  |  |  | individual | living |
-| sym |  |  |  | individual | living |
-| syn |  |  |  | individual | living |
-| syo |  |  |  | individual | living |
-| syr | syr | syr |  | macrolanguage | living |
-| sys |  |  |  | individual | living |
-| syw |  |  |  | individual | living |
-| syy |  |  |  | individual | living |
-| sza |  |  |  | individual | living |
-| szb |  |  |  | individual | living |
-| szc |  |  |  | individual | living |
-| szd |  |  |  | individual | extinct |
-| sze |  |  |  | individual | living |
-| szg |  |  |  | individual | living |
-| szl |  |  |  | individual | living |
-| szn |  |  |  | individual | living |
-| szp |  |  |  | individual | living |
-| szv |  |  |  | individual | living |
-| szw |  |  |  | individual | living |
-| taa |  |  |  | individual | living |
-| tab |  |  |  | individual | living |
-| tac |  |  |  | individual | living |
-| tad |  |  |  | individual | living |
-| tae |  |  |  | individual | living |
-| taf |  |  |  | individual | living |
-| tag |  |  |  | individual | living |
-| tah | tah | tah | ty | individual | living |
-| taj |  |  |  | individual | living |
-| tak |  |  |  | individual | living |
-| tal |  |  |  | individual | living |
-| tam | tam | tam | ta | individual | living |
-| tan |  |  |  | individual | living |
-| tao |  |  |  | individual | living |
-| tap |  |  |  | individual | living |
-| taq |  |  |  | individual | living |
-| tar |  |  |  | individual | living |
-| tas |  |  |  | individual | extinct |
-| tat | tat | tat | tt | individual | living |
-| tau |  |  |  | individual | living |
-| tav |  |  |  | individual | living |
-| taw |  |  |  | individual | living |
-| tax |  |  |  | individual | living |
-| tay |  |  |  | individual | living |
-| taz |  |  |  | individual | living |
-| tba |  |  |  | individual | living |
-| tbb |  |  |  | individual | extinct |
-| tbc |  |  |  | individual | living |
-| tbd |  |  |  | individual | living |
-| tbe |  |  |  | individual | living |
-| tbf |  |  |  | individual | living |
-| tbg |  |  |  | individual | living |
-| tbh |  |  |  | individual | extinct |
-| tbi |  |  |  | individual | living |
-| tbj |  |  |  | individual | living |
-| tbk |  |  |  | individual | living |
-| tbl |  |  |  | individual | living |
-| tbm |  |  |  | individual | living |
-| tbn |  |  |  | individual | living |
-| tbo |  |  |  | individual | living |
-| tbp |  |  |  | individual | living |
-| tbr |  |  |  | individual | living |
-| tbs |  |  |  | individual | living |
-| tbt |  |  |  | individual | living |
-| tbu |  |  |  | individual | extinct |
-| tbv |  |  |  | individual | living |
-| tbw |  |  |  | individual | living |
-| tbx |  |  |  | individual | living |
-| tby |  |  |  | individual | living |
-| tbz |  |  |  | individual | living |
-| tca |  |  |  | individual | living |
-| tcb |  |  |  | individual | living |
-| tcc |  |  |  | individual | living |
-| tcd |  |  |  | individual | living |
-| tce |  |  |  | individual | living |
-| tcf |  |  |  | individual | living |
-| tcg |  |  |  | individual | living |
-| tch |  |  |  | individual | living |
-| tci |  |  |  | individual | living |
-| tck |  |  |  | individual | living |
-| tcl |  |  |  | individual | extinct |
-| tcm |  |  |  | individual | living |
-| tcn |  |  |  | individual | living |
-| tco |  |  |  | individual | living |
-| tcp |  |  |  | individual | living |
-| tcq |  |  |  | individual | living |
-| tcs |  |  |  | individual | living |
-| tct |  |  |  | individual | living |
-| tcu |  |  |  | individual | living |
-| tcw |  |  |  | individual | living |
-| tcx |  |  |  | individual | living |
-| tcy |  |  |  | individual | living |
-| tcz |  |  |  | individual | living |
-| tda |  |  |  | individual | living |
-| tdb |  |  |  | individual | living |
-| tdc |  |  |  | individual | living |
-| tdd |  |  |  | individual | living |
-| tde |  |  |  | individual | living |
-| tdf |  |  |  | individual | living |
-| tdg |  |  |  | individual | living |
-| tdh |  |  |  | individual | living |
-| tdi |  |  |  | individual | living |
-| tdj |  |  |  | individual | living |
-| tdk |  |  |  | individual | living |
-| tdl |  |  |  | individual | living |
-| tdn |  |  |  | individual | living |
-| tdo |  |  |  | individual | living |
-| tdq |  |  |  | individual | living |
-| tdr |  |  |  | individual | living |
-| tds |  |  |  | individual | living |
-| tdt |  |  |  | individual | living |
-| tdu |  |  |  | individual | living |
-| tdv |  |  |  | individual | living |
-| tdx |  |  |  | individual | living |
-| tdy |  |  |  | individual | living |
-| tea |  |  |  | individual | living |
-| teb |  |  |  | individual | extinct |
-| tec |  |  |  | individual | living |
-| ted |  |  |  | individual | living |
-| tee |  |  |  | individual | living |
-| tef |  |  |  | individual | living |
-| teg |  |  |  | individual | living |
-| teh |  |  |  | individual | living |
-| tei |  |  |  | individual | living |
-| tek |  |  |  | individual | living |
-| tel | tel | tel | te | individual | living |
-| tem | tem | tem |  | individual | living |
-| ten |  |  |  | individual | extinct |
-| teo |  |  |  | individual | living |
-| tep |  |  |  | individual | extinct |
-| teq |  |  |  | individual | living |
-| ter | ter | ter |  | individual | living |
-| tes |  |  |  | individual | living |
-| tet | tet | tet |  | individual | living |
-| teu |  |  |  | individual | living |
-| tev |  |  |  | individual | living |
-| tew |  |  |  | individual | living |
-| tex |  |  |  | individual | living |
-| tey |  |  |  | individual | living |
-| tfi |  |  |  | individual | living |
-| tfn |  |  |  | individual | living |
-| tfo |  |  |  | individual | living |
-| tfr |  |  |  | individual | living |
-| tft |  |  |  | individual | living |
-| tga |  |  |  | individual | living |
-| tgb |  |  |  | individual | living |
-| tgc |  |  |  | individual | living |
-| tgd |  |  |  | individual | living |
-| tge |  |  |  | individual | living |
-| tgf |  |  |  | individual | living |
-| tgh |  |  |  | individual | living |
-| tgi |  |  |  | individual | living |
-| tgj |  |  |  | individual | living |
-| tgk | tgk | tgk | tg | individual | living |
-| tgl | tgl | tgl | tl | individual | living |
-| tgn |  |  |  | individual | living |
-| tgo |  |  |  | individual | living |
-| tgp |  |  |  | individual | living |
-| tgq |  |  |  | individual | living |
-| tgr |  |  |  | individual | living |
-| tgs |  |  |  | individual | living |
-| tgt |  |  |  | individual | living |
-| tgu |  |  |  | individual | living |
-| tgv |  |  |  | individual | extinct |
-| tgw |  |  |  | individual | living |
-| tgx |  |  |  | individual | living |
-| tgy |  |  |  | individual | extinct |
-| tgz |  |  |  | individual | extinct |
-| tha | tha | tha | th | individual | living |
-| thc |  |  |  | individual | living |
-| thd |  |  |  | individual | living |
-| the |  |  |  | individual | living |
-| thf |  |  |  | individual | living |
-| thh |  |  |  | individual | living |
-| thi |  |  |  | individual | living |
-| thk |  |  |  | individual | living |
-| thl |  |  |  | individual | living |
-| thm |  |  |  | individual | living |
-| thn |  |  |  | individual | living |
-| thp |  |  |  | individual | living |
-| thq |  |  |  | individual | living |
-| thr |  |  |  | individual | living |
-| ths |  |  |  | individual | living |
-| tht |  |  |  | individual | living |
-| thu |  |  |  | individual | living |
-| thv |  |  |  | individual | living |
-| thw |  |  |  | individual | living |
-| thx |  |  |  | individual | living |
-| thy |  |  |  | individual | living |
-| thz |  |  |  | individual | living |
-| tia |  |  |  | individual | living |
-| tic |  |  |  | individual | living |
-| tid |  |  |  | individual | living |
-| tif |  |  |  | individual | living |
-| tig | tig | tig |  | individual | living |
-| tih |  |  |  | individual | living |
-| tii |  |  |  | individual | living |
-| tij |  |  |  | individual | living |
-| tik |  |  |  | individual | living |
-| til |  |  |  | individual | extinct |
-| tim |  |  |  | individual | living |
-| tin |  |  |  | individual | living |
-| tio |  |  |  | individual | living |
-| tip |  |  |  | individual | living |
-| tiq |  |  |  | individual | living |
-| tir | tir | tir | ti | individual | living |
-| tis |  |  |  | individual | living |
-| tit |  |  |  | individual | living |
-| tiu |  |  |  | individual | living |
-| tiv | tiv | tiv |  | individual | living |
-| tiw |  |  |  | individual | living |
-| tix |  |  |  | individual | living |
-| tiy |  |  |  | individual | living |
-| tiz |  |  |  | individual | living |
-| tja |  |  |  | individual | living |
-| tjg |  |  |  | individual | living |
-| tji |  |  |  | individual | living |
-| tjl |  |  |  | individual | living |
-| tjm |  |  |  | individual | extinct |
-| tjn |  |  |  | individual | extinct |
-| tjo |  |  |  | individual | living |
-| tjs |  |  |  | individual | living |
-| tju |  |  |  | individual | extinct |
-| tjw |  |  |  | individual | living |
-| tka |  |  |  | individual | extinct |
-| tkb |  |  |  | individual | living |
-| tkd |  |  |  | individual | living |
-| tke |  |  |  | individual | living |
-| tkf |  |  |  | individual | extinct |
-| tkg |  |  |  | individual | living |
-| tkl | tkl | tkl |  | individual | living |
-| tkm |  |  |  | individual | extinct |
-| tkn |  |  |  | individual | living |
-| tkp |  |  |  | individual | living |
-| tkq |  |  |  | individual | living |
-| tkr |  |  |  | individual | living |
-| tks |  |  |  | individual | living |
-| tkt |  |  |  | individual | living |
-| tku |  |  |  | individual | living |
-| tkv |  |  |  | individual | living |
-| tkw |  |  |  | individual | living |
-| tkx |  |  |  | individual | living |
-| tkz |  |  |  | individual | living |
-| tla |  |  |  | individual | living |
-| tlb |  |  |  | individual | living |
-| tlc |  |  |  | individual | living |
-| tld |  |  |  | individual | living |
-| tlf |  |  |  | individual | living |
-| tlg |  |  |  | individual | living |
-| tlh | tlh | tlh |  | individual | constructed |
-| tli | tli | tli |  | individual | living |
-| tlj |  |  |  | individual | living |
-| tlk |  |  |  | individual | living |
-| tll |  |  |  | individual | living |
-| tlm |  |  |  | individual | living |
-| tln |  |  |  | individual | living |
-| tlo |  |  |  | individual | living |
-| tlp |  |  |  | individual | living |
-| tlq |  |  |  | individual | living |
-| tlr |  |  |  | individual | living |
-| tls |  |  |  | individual | living |
-| tlt |  |  |  | individual | living |
-| tlu |  |  |  | individual | living |
-| tlv |  |  |  | individual | living |
-| tlx |  |  |  | individual | living |
-| tly |  |  |  | individual | living |
-| tma |  |  |  | individual | living |
-| tmb |  |  |  | individual | living |
-| tmc |  |  |  | individual | living |
-| tmd |  |  |  | individual | living |
-| tme |  |  |  | individual | extinct |
-| tmf |  |  |  | individual | living |
-| tmg |  |  |  | individual | extinct |
-| tmh | tmh | tmh |  | macrolanguage | living |
-| tmi |  |  |  | individual | living |
-| tmj |  |  |  | individual | living |
-| tmk |  |  |  | individual | living |
-| tml |  |  |  | individual | living |
-| tmm |  |  |  | individual | living |
-| tmn |  |  |  | individual | living |
-| tmo |  |  |  | individual | living |
-| tmp |  |  |  | individual | living |
-| tmq |  |  |  | individual | living |
-| tmr |  |  |  | individual | extinct |
-| tms |  |  |  | individual | living |
-| tmt |  |  |  | individual | living |
-| tmu |  |  |  | individual | living |
-| tmv |  |  |  | individual | living |
-| tmw |  |  |  | individual | living |
-| tmy |  |  |  | individual | living |
-| tmz |  |  |  | individual | extinct |
-| tna |  |  |  | individual | living |
-| tnb |  |  |  | individual | living |
-| tnc |  |  |  | individual | living |
-| tnd |  |  |  | individual | living |
-| tne |  |  |  | individual | living |
-| tng |  |  |  | individual | living |
-| tnh |  |  |  | individual | living |
-| tni |  |  |  | individual | living |
-| tnk |  |  |  | individual | living |
-| tnl |  |  |  | individual | living |
-| tnm |  |  |  | individual | living |
-| tnn |  |  |  | individual | living |
-| tno |  |  |  | individual | living |
-| tnp |  |  |  | individual | living |
-| tnq |  |  |  | individual | extinct |
-| tnr |  |  |  | individual | living |
-| tns |  |  |  | individual | living |
-| tnt |  |  |  | individual | living |
-| tnu |  |  |  | individual | living |
-| tnv |  |  |  | individual | living |
-| tnw |  |  |  | individual | living |
-| tnx |  |  |  | individual | living |
-| tny |  |  |  | individual | living |
-| tnz |  |  |  | individual | living |
-| tob |  |  |  | individual | living |
-| toc |  |  |  | individual | living |
-| tod |  |  |  | individual | living |
-| toe |  |  |  | individual | extinct |
-| tof |  |  |  | individual | living |
-| tog | tog | tog |  | individual | living |
-| toh |  |  |  | individual | living |
-| toi |  |  |  | individual | living |
-| toj |  |  |  | individual | living |
-| tol |  |  |  | individual | living |
-| tom |  |  |  | individual | living |
-| ton | ton | ton | to | individual | living |
-| too |  |  |  | individual | living |
-| top |  |  |  | individual | living |
-| toq |  |  |  | individual | living |
-| tor |  |  |  | individual | living |
-| tos |  |  |  | individual | living |
-| tou |  |  |  | individual | living |
-| tov |  |  |  | individual | living |
-| tow |  |  |  | individual | living |
-| tox |  |  |  | individual | living |
-| toy |  |  |  | individual | living |
-| toz |  |  |  | individual | living |
-| tpa |  |  |  | individual | living |
-| tpc |  |  |  | individual | living |
-| tpe |  |  |  | individual | living |
-| tpf |  |  |  | individual | living |
-| tpg |  |  |  | individual | living |
-| tpi | tpi | tpi |  | individual | living |
-| tpj |  |  |  | individual | living |
-| tpk |  |  |  | individual | extinct |
-| tpl |  |  |  | individual | living |
-| tpm |  |  |  | individual | living |
-| tpn |  |  |  | individual | extinct |
-| tpo |  |  |  | individual | living |
-| tpp |  |  |  | individual | living |
-| tpq |  |  |  | individual | living |
-| tpr |  |  |  | individual | living |
-| tpt |  |  |  | individual | living |
-| tpu |  |  |  | individual | living |
-| tpv |  |  |  | individual | living |
-| tpw |  |  |  | individual | extinct |
-| tpx |  |  |  | individual | living |
-| tpy |  |  |  | individual | living |
-| tpz |  |  |  | individual | living |
-| tqb |  |  |  | individual | living |
-| tql |  |  |  | individual | living |
-| tqm |  |  |  | individual | living |
-| tqn |  |  |  | individual | living |
-| tqo |  |  |  | individual | living |
-| tqp |  |  |  | individual | living |
-| tqq |  |  |  | individual | living |
-| tqr |  |  |  | individual | extinct |
-| tqt |  |  |  | individual | living |
-| tqu |  |  |  | individual | living |
-| tqw |  |  |  | individual | extinct |
-| tra |  |  |  | individual | living |
-| trb |  |  |  | individual | living |
-| trc |  |  |  | individual | living |
-| trd |  |  |  | individual | living |
-| tre |  |  |  | individual | living |
-| trf |  |  |  | individual | living |
-| trg |  |  |  | individual | living |
-| trh |  |  |  | individual | living |
-| tri |  |  |  | individual | living |
-| trj |  |  |  | individual | living |
-| trl |  |  |  | individual | living |
-| trm |  |  |  | individual | living |
-| trn |  |  |  | individual | living |
-| tro |  |  |  | individual | living |
-| trp |  |  |  | individual | living |
-| trq |  |  |  | individual | living |
-| trr |  |  |  | individual | living |
-| trs |  |  |  | individual | living |
-| trt |  |  |  | individual | living |
-| tru |  |  |  | individual | living |
-| trv |  |  |  | individual | living |
-| trw |  |  |  | individual | living |
-| trx |  |  |  | individual | living |
-| try |  |  |  | individual | extinct |
-| trz |  |  |  | individual | extinct |
-| tsa |  |  |  | individual | living |
-| tsb |  |  |  | individual | living |
-| tsc |  |  |  | individual | living |
-| tsd |  |  |  | individual | living |
-| tse |  |  |  | individual | living |
-| tsf |  |  |  | individual | living |
-| tsg |  |  |  | individual | living |
-| tsh |  |  |  | individual | living |
-| tsi | tsi | tsi |  | individual | living |
-| tsj |  |  |  | individual | living |
-| tsk |  |  |  | individual | living |
-| tsl |  |  |  | individual | living |
-| tsm |  |  |  | individual | living |
-| tsn | tsn | tsn | tn | individual | living |
-| tso | tso | tso | ts | individual | living |
-| tsp |  |  |  | individual | living |
-| tsq |  |  |  | individual | living |
-| tsr |  |  |  | individual | living |
-| tss |  |  |  | individual | living |
-| tst |  |  |  | individual | living |
-| tsu |  |  |  | individual | living |
-| tsv |  |  |  | individual | living |
-| tsw |  |  |  | individual | living |
-| tsx |  |  |  | individual | living |
-| tsy |  |  |  | individual | living |
-| tsz |  |  |  | individual | living |
-| tta |  |  |  | individual | extinct |
-| ttb |  |  |  | individual | living |
-| ttc |  |  |  | individual | living |
-| ttd |  |  |  | individual | living |
-| tte |  |  |  | individual | living |
-| ttf |  |  |  | individual | living |
-| ttg |  |  |  | individual | living |
-| tth |  |  |  | individual | living |
-| tti |  |  |  | individual | living |
-| ttj |  |  |  | individual | living |
-| ttk |  |  |  | individual | living |
-| ttl |  |  |  | individual | living |
-| ttm |  |  |  | individual | living |
-| ttn |  |  |  | individual | living |
-| tto |  |  |  | individual | living |
-| ttp |  |  |  | individual | living |
-| ttq |  |  |  | individual | living |
-| ttr |  |  |  | individual | living |
-| tts |  |  |  | individual | living |
-| ttt |  |  |  | individual | living |
-| ttu |  |  |  | individual | living |
-| ttv |  |  |  | individual | living |
-| ttw |  |  |  | individual | living |
-| tty |  |  |  | individual | living |
-| ttz |  |  |  | individual | living |
-| tua |  |  |  | individual | living |
-| tub |  |  |  | individual | living |
-| tuc |  |  |  | individual | living |
-| tud |  |  |  | individual | extinct |
-| tue |  |  |  | individual | living |
-| tuf |  |  |  | individual | living |
-| tug |  |  |  | individual | living |
-| tuh |  |  |  | individual | living |
-| tui |  |  |  | individual | living |
-| tuj |  |  |  | individual | living |
-| tuk | tuk | tuk | tk | individual | living |
-| tul |  |  |  | individual | living |
-| tum | tum | tum |  | individual | living |
-| tun |  |  |  | individual | extinct |
-| tuo |  |  |  | individual | living |
-| tuq |  |  |  | individual | living |
-| tur | tur | tur | tr | individual | living |
-| tus |  |  |  | individual | living |
-| tuu |  |  |  | individual | living |
-| tuv |  |  |  | individual | living |
-| tux |  |  |  | individual | extinct |
-| tuy |  |  |  | individual | living |
-| tuz |  |  |  | individual | living |
-| tva |  |  |  | individual | living |
-| tvd |  |  |  | individual | living |
-| tve |  |  |  | individual | living |
-| tvk |  |  |  | individual | living |
-| tvl | tvl | tvl |  | individual | living |
-| tvm |  |  |  | individual | living |
-| tvn |  |  |  | individual | living |
-| tvo |  |  |  | individual | living |
-| tvs |  |  |  | individual | living |
-| tvt |  |  |  | individual | living |
-| tvu |  |  |  | individual | living |
-| tvw |  |  |  | individual | living |
-| tvy |  |  |  | individual | extinct |
-| twa |  |  |  | individual | extinct |
-| twb |  |  |  | individual | living |
-| twc |  |  |  | individual | extinct |
-| twd |  |  |  | individual | living |
-| twe |  |  |  | individual | living |
-| twf |  |  |  | individual | living |
-| twg |  |  |  | individual | living |
-| twh |  |  |  | individual | living |
-| twi | twi | twi | tw | individual | living |
-| twl |  |  |  | individual | living |
-| twm |  |  |  | individual | living |
-| twn |  |  |  | individual | living |
-| two |  |  |  | individual | living |
-| twp |  |  |  | individual | living |
-| twq |  |  |  | individual | living |
-| twr |  |  |  | individual | living |
-| twt |  |  |  | individual | extinct |
-| twu |  |  |  | individual | living |
-| tww |  |  |  | individual | living |
-| twx |  |  |  | individual | living |
-| twy |  |  |  | individual | living |
-| txa |  |  |  | individual | living |
-| txb |  |  |  | individual | ancient |
-| txc |  |  |  | individual | extinct |
-| txe |  |  |  | individual | living |
-| txg |  |  |  | individual | ancient |
-| txh |  |  |  | individual | ancient |
-| txi |  |  |  | individual | living |
-| txm |  |  |  | individual | living |
-| txn |  |  |  | individual | living |
-| txo |  |  |  | individual | living |
-| txq |  |  |  | individual | living |
-| txr |  |  |  | individual | ancient |
-| txs |  |  |  | individual | living |
-| txt |  |  |  | individual | living |
-| txu |  |  |  | individual | living |
-| txx |  |  |  | individual | living |
-| txy |  |  |  | individual | living |
-| tya |  |  |  | individual | living |
-| tye |  |  |  | individual | living |
-| tyh |  |  |  | individual | living |
-| tyi |  |  |  | individual | living |
-| tyj |  |  |  | individual | living |
-| tyl |  |  |  | individual | living |
-| tyn |  |  |  | individual | living |
-| typ |  |  |  | individual | extinct |
-| tyr |  |  |  | individual | living |
-| tys |  |  |  | individual | living |
-| tyt |  |  |  | individual | living |
-| tyu |  |  |  | individual | living |
-| tyv | tyv | tyv |  | individual | living |
-| tyx |  |  |  | individual | living |
-| tyz |  |  |  | individual | living |
-| tza |  |  |  | individual | living |
-| tzh |  |  |  | individual | living |
-| tzj |  |  |  | individual | living |
-| tzl |  |  |  | individual | constructed |
-| tzm |  |  |  | individual | living |
-| tzn |  |  |  | individual | living |
-| tzo |  |  |  | individual | living |
-| tzx |  |  |  | individual | living |
-| uam |  |  |  | individual | extinct |
-| uan |  |  |  | individual | living |
-| uar |  |  |  | individual | living |
-| uba |  |  |  | individual | living |
-| ubi |  |  |  | individual | living |
-| ubl |  |  |  | individual | living |
-| ubr |  |  |  | individual | living |
-| ubu |  |  |  | individual | living |
-| uby |  |  |  | individual | extinct |
-| uda |  |  |  | individual | living |
-| ude |  |  |  | individual | living |
-| udg |  |  |  | individual | living |
-| udi |  |  |  | individual | living |
-| udj |  |  |  | individual | living |
-| udl |  |  |  | individual | living |
-| udm | udm | udm |  | individual | living |
-| udu |  |  |  | individual | living |
-| ues |  |  |  | individual | living |
-| ufi |  |  |  | individual | living |
-| uga | uga | uga |  | individual | ancient |
-| ugb |  |  |  | individual | extinct |
-| uge |  |  |  | individual | living |
-| ugn |  |  |  | individual | living |
-| ugo |  |  |  | individual | living |
-| ugy |  |  |  | individual | living |
-| uha |  |  |  | individual | living |
-| uhn |  |  |  | individual | living |
-| uig | uig | uig | ug | individual | living |
-| uis |  |  |  | individual | living |
-| uiv |  |  |  | individual | living |
-| uji |  |  |  | individual | living |
-| uka |  |  |  | individual | living |
-| ukg |  |  |  | individual | living |
-| ukh |  |  |  | individual | living |
-| ukl |  |  |  | individual | living |
-| ukp |  |  |  | individual | living |
-| ukq |  |  |  | individual | living |
-| ukr | ukr | ukr | uk | individual | living |
-| uks |  |  |  | individual | living |
-| uku |  |  |  | individual | living |
-| ukw |  |  |  | individual | living |
-| uky |  |  |  | individual | extinct |
-| ula |  |  |  | individual | living |
-| ulb |  |  |  | individual | living |
-| ulc |  |  |  | individual | living |
-| ule |  |  |  | individual | extinct |
-| ulf |  |  |  | individual | living |
-| uli |  |  |  | individual | living |
-| ulk |  |  |  | individual | living |
-| ull |  |  |  | individual | living |
-| ulm |  |  |  | individual | living |
-| uln |  |  |  | individual | living |
-| ulu |  |  |  | individual | living |
-| ulw |  |  |  | individual | living |
-| uma |  |  |  | individual | living |
-| umb | umb | umb |  | individual | living |
-| umc |  |  |  | individual | ancient |
-| umd |  |  |  | individual | extinct |
-| umg |  |  |  | individual | extinct |
-| umi |  |  |  | individual | living |
-| umm |  |  |  | individual | living |
-| umn |  |  |  | individual | living |
-| umo |  |  |  | individual | extinct |
-| ump |  |  |  | individual | living |
-| umr |  |  |  | individual | extinct |
-| ums |  |  |  | individual | living |
-| umu |  |  |  | individual | living |
-| una |  |  |  | individual | living |
-| und | und | und |  | special | special |
-| une |  |  |  | individual | living |
-| ung |  |  |  | individual | living |
-| unk |  |  |  | individual | living |
-| unm |  |  |  | individual | extinct |
-| unn |  |  |  | individual | living |
-| unr |  |  |  | individual | living |
-| unu |  |  |  | individual | living |
-| unx |  |  |  | individual | living |
-| unz |  |  |  | individual | living |
-| uok |  |  |  | individual | living |
-| upi |  |  |  | individual | living |
-| upv |  |  |  | individual | living |
-| ura |  |  |  | individual | living |
-| urb |  |  |  | individual | living |
-| urc |  |  |  | individual | extinct |
-| urd | urd | urd | ur | individual | living |
-| ure |  |  |  | individual | living |
-| urf |  |  |  | individual | extinct |
-| urg |  |  |  | individual | living |
-| urh |  |  |  | individual | living |
-| uri |  |  |  | individual | living |
-| urk |  |  |  | individual | living |
-| url |  |  |  | individual | living |
-| urm |  |  |  | individual | living |
-| urn |  |  |  | individual | living |
-| uro |  |  |  | individual | living |
-| urp |  |  |  | individual | living |
-| urr |  |  |  | individual | living |
-| urt |  |  |  | individual | living |
-| uru |  |  |  | individual | extinct |
-| urv |  |  |  | individual | extinct |
-| urw |  |  |  | individual | living |
-| urx |  |  |  | individual | living |
-| ury |  |  |  | individual | living |
-| urz |  |  |  | individual | living |
-| usa |  |  |  | individual | living |
-| ush |  |  |  | individual | living |
-| usi |  |  |  | individual | living |
-| usk |  |  |  | individual | living |
-| usp |  |  |  | individual | living |
-| usu |  |  |  | individual | living |
-| uta |  |  |  | individual | living |
-| ute |  |  |  | individual | living |
-| utp |  |  |  | individual | living |
-| utr |  |  |  | individual | living |
-| utu |  |  |  | individual | living |
-| uum |  |  |  | individual | living |
-| uun |  |  |  | individual | living |
-| uur |  |  |  | individual | living |
-| uuu |  |  |  | individual | living |
-| uve |  |  |  | individual | living |
-| uvh |  |  |  | individual | living |
-| uvl |  |  |  | individual | living |
-| uwa |  |  |  | individual | living |
-| uya |  |  |  | individual | living |
-| uzb | uzb | uzb | uz | macrolanguage | living |
-| uzn |  |  |  | individual | living |
-| uzs |  |  |  | individual | living |
-| vaa |  |  |  | individual | living |
-| vae |  |  |  | individual | living |
-| vaf |  |  |  | individual | living |
-| vag |  |  |  | individual | living |
-| vah |  |  |  | individual | living |
-| vai | vai | vai |  | individual | living |
-| vaj |  |  |  | individual | living |
-| val |  |  |  | individual | living |
-| vam |  |  |  | individual | living |
-| van |  |  |  | individual | living |
-| vao |  |  |  | individual | living |
-| vap |  |  |  | individual | living |
-| var |  |  |  | individual | living |
-| vas |  |  |  | individual | living |
-| vau |  |  |  | individual | living |
-| vav |  |  |  | individual | living |
-| vay |  |  |  | individual | living |
-| vbb |  |  |  | individual | living |
-| vbk |  |  |  | individual | living |
-| vec |  |  |  | individual | living |
-| ved |  |  |  | individual | living |
-| vel |  |  |  | individual | living |
-| vem |  |  |  | individual | living |
-| ven | ven | ven | ve | individual | living |
-| veo |  |  |  | individual | extinct |
-| vep |  |  |  | individual | living |
-| ver |  |  |  | individual | living |
-| vgr |  |  |  | individual | living |
-| vgt |  |  |  | individual | living |
-| vic |  |  |  | individual | living |
-| vid |  |  |  | individual | living |
-| vie | vie | vie | vi | individual | living |
-| vif |  |  |  | individual | living |
-| vig |  |  |  | individual | living |
-| vil |  |  |  | individual | living |
-| vin |  |  |  | individual | living |
-| vis |  |  |  | individual | living |
-| vit |  |  |  | individual | living |
-| viv |  |  |  | individual | living |
-| vka |  |  |  | individual | extinct |
-| vki |  |  |  | individual | living |
-| vkj |  |  |  | individual | living |
-| vkk |  |  |  | individual | living |
-| vkl |  |  |  | individual | living |
-| vkm |  |  |  | individual | extinct |
-| vko |  |  |  | individual | living |
-| vkp |  |  |  | individual | living |
-| vkt |  |  |  | individual | living |
-| vku |  |  |  | individual | living |
-| vlp |  |  |  | individual | living |
-| vls |  |  |  | individual | living |
-| vma |  |  |  | individual | living |
-| vmb |  |  |  | individual | extinct |
-| vmc |  |  |  | individual | living |
-| vmd |  |  |  | individual | living |
-| vme |  |  |  | individual | living |
-| vmf |  |  |  | individual | living |
-| vmg |  |  |  | individual | living |
-| vmh |  |  |  | individual | living |
-| vmi |  |  |  | individual | extinct |
-| vmj |  |  |  | individual | living |
-| vmk |  |  |  | individual | living |
-| vml |  |  |  | individual | extinct |
-| vmm |  |  |  | individual | living |
-| vmp |  |  |  | individual | living |
-| vmq |  |  |  | individual | living |
-| vmr |  |  |  | individual | living |
-| vms |  |  |  | individual | extinct |
-| vmu |  |  |  | individual | extinct |
-| vmv |  |  |  | individual | extinct |
-| vmw |  |  |  | individual | living |
-| vmx |  |  |  | individual | living |
-| vmy |  |  |  | individual | living |
-| vmz |  |  |  | individual | living |
-| vnk |  |  |  | individual | living |
-| vnm |  |  |  | individual | living |
-| vnp |  |  |  | individual | living |
-| vol | vol | vol | vo | individual | constructed |
-| vor |  |  |  | individual | living |
-| vot | vot | vot |  | individual | living |
-| vra |  |  |  | individual | living |
-| vro |  |  |  | individual | living |
-| vrs |  |  |  | individual | living |
-| vrt |  |  |  | individual | living |
-| vsi |  |  |  | individual | living |
-| vsl |  |  |  | individual | living |
-| vsv |  |  |  | individual | living |
-| vto |  |  |  | individual | living |
-| vum |  |  |  | individual | living |
-| vun |  |  |  | individual | living |
-| vut |  |  |  | individual | living |
-| vwa |  |  |  | individual | living |
-| waa |  |  |  | individual | living |
-| wab |  |  |  | individual | living |
-| wac |  |  |  | individual | living |
-| wad |  |  |  | individual | living |
-| wae |  |  |  | individual | living |
-| waf |  |  |  | individual | extinct |
-| wag |  |  |  | individual | living |
-| wah |  |  |  | individual | living |
-| wai |  |  |  | individual | living |
-| waj |  |  |  | individual | living |
-| wal | wal | wal |  | individual | living |
-| wam |  |  |  | individual | extinct |
-| wan |  |  |  | individual | living |
-| wao |  |  |  | individual | extinct |
-| wap |  |  |  | individual | living |
-| waq |  |  |  | individual | living |
-| war | war | war |  | individual | living |
-| was | was | was |  | individual | living |
-| wat |  |  |  | individual | living |
-| wau |  |  |  | individual | living |
-| wav |  |  |  | individual | living |
-| waw |  |  |  | individual | living |
-| wax |  |  |  | individual | living |
-| way |  |  |  | individual | living |
-| waz |  |  |  | individual | living |
-| wba |  |  |  | individual | living |
-| wbb |  |  |  | individual | living |
-| wbe |  |  |  | individual | living |
-| wbf |  |  |  | individual | living |
-| wbh |  |  |  | individual | living |
-| wbi |  |  |  | individual | living |
-| wbj |  |  |  | individual | living |
-| wbk |  |  |  | individual | living |
-| wbl |  |  |  | individual | living |
-| wbm |  |  |  | individual | living |
-| wbp |  |  |  | individual | living |
-| wbq |  |  |  | individual | living |
-| wbr |  |  |  | individual | living |
-| wbt |  |  |  | individual | living |
-| wbv |  |  |  | individual | living |
-| wbw |  |  |  | individual | living |
-| wca |  |  |  | individual | living |
-| wci |  |  |  | individual | living |
-| wdd |  |  |  | individual | living |
-| wdg |  |  |  | individual | living |
-| wdj |  |  |  | individual | living |
-| wdk |  |  |  | individual | extinct |
-| wdu |  |  |  | individual | extinct |
-| wdy |  |  |  | individual | extinct |
-| wea |  |  |  | individual | extinct |
-| wec |  |  |  | individual | living |
-| wed |  |  |  | individual | living |
-| weg |  |  |  | individual | living |
-| weh |  |  |  | individual | living |
-| wei |  |  |  | individual | living |
-| wem |  |  |  | individual | living |
-| weo |  |  |  | individual | living |
-| wep |  |  |  | individual | living |
-| wer |  |  |  | individual | living |
-| wes |  |  |  | individual | living |
-| wet |  |  |  | individual | living |
-| weu |  |  |  | individual | living |
-| wew |  |  |  | individual | living |
-| wfg |  |  |  | individual | living |
-| wga |  |  |  | individual | extinct |
-| wgb |  |  |  | individual | living |
-| wgg |  |  |  | individual | extinct |
-| wgi |  |  |  | individual | living |
-| wgo |  |  |  | individual | living |
-| wgu |  |  |  | individual | extinct |
-| wgy |  |  |  | individual | living |
-| wha |  |  |  | individual | living |
-| whg |  |  |  | individual | living |
-| whk |  |  |  | individual | living |
-| whu |  |  |  | individual | living |
-| wib |  |  |  | individual | living |
-| wic |  |  |  | individual | living |
-| wie |  |  |  | individual | extinct |
-| wif |  |  |  | individual | extinct |
-| wig |  |  |  | individual | living |
-| wih |  |  |  | individual | living |
-| wii |  |  |  | individual | living |
-| wij |  |  |  | individual | living |
-| wik |  |  |  | individual | living |
-| wil |  |  |  | individual | extinct |
-| wim |  |  |  | individual | living |
-| win |  |  |  | individual | living |
-| wir |  |  |  | individual | extinct |
-| wiu |  |  |  | individual | living |
-| wiv |  |  |  | individual | living |
-| wiy |  |  |  | individual | extinct |
-| wja |  |  |  | individual | living |
-| wji |  |  |  | individual | living |
-| wka |  |  |  | individual | extinct |
-| wkb |  |  |  | individual | living |
-| wkd |  |  |  | individual | living |
-| wkl |  |  |  | individual | living |
-| wku |  |  |  | individual | living |
-| wkw |  |  |  | individual | extinct |
-| wky |  |  |  | individual | extinct |
-| wla |  |  |  | individual | living |
-| wlc |  |  |  | individual | living |
-| wle |  |  |  | individual | living |
-| wlg |  |  |  | individual | living |
-| wli |  |  |  | individual | living |
-| wlk |  |  |  | individual | extinct |
-| wll |  |  |  | individual | living |
-| wlm |  |  |  | individual | historical |
-| wln | wln | wln | wa | individual | living |
-| wlo |  |  |  | individual | living |
-| wlr |  |  |  | individual | living |
-| wls |  |  |  | individual | living |
-| wlu |  |  |  | individual | extinct |
-| wlv |  |  |  | individual | living |
-| wlw |  |  |  | individual | living |
-| wlx |  |  |  | individual | living |
-| wly |  |  |  | individual | extinct |
-| wma |  |  |  | individual | extinct |
-| wmb |  |  |  | individual | living |
-| wmc |  |  |  | individual | living |
-| wmd |  |  |  | individual | living |
-| wme |  |  |  | individual | living |
-| wmh |  |  |  | individual | living |
-| wmi |  |  |  | individual | extinct |
-| wmm |  |  |  | individual | living |
-| wmn |  |  |  | individual | extinct |
-| wmo |  |  |  | individual | living |
-| wms |  |  |  | individual | living |
-| wmt |  |  |  | individual | living |
-| wmw |  |  |  | individual | living |
-| wmx |  |  |  | individual | living |
-| wnb |  |  |  | individual | living |
-| wnc |  |  |  | individual | living |
-| wnd |  |  |  | individual | extinct |
-| wne |  |  |  | individual | living |
-| wng |  |  |  | individual | living |
-| wni |  |  |  | individual | living |
-| wnk |  |  |  | individual | living |
-| wnm |  |  |  | individual | extinct |
-| wnn |  |  |  | individual | extinct |
-| wno |  |  |  | individual | living |
-| wnp |  |  |  | individual | living |
-| wnu |  |  |  | individual | living |
-| wnw |  |  |  | individual | living |
-| wny |  |  |  | individual | living |
-| woa |  |  |  | individual | living |
-| wob |  |  |  | individual | living |
-| woc |  |  |  | individual | living |
-| wod |  |  |  | individual | living |
-| woe |  |  |  | individual | living |
-| wof |  |  |  | individual | living |
-| wog |  |  |  | individual | living |
-| woi |  |  |  | individual | living |
-| wok |  |  |  | individual | living |
-| wol | wol | wol | wo | individual | living |
-| wom |  |  |  | individual | living |
-| won |  |  |  | individual | living |
-| woo |  |  |  | individual | living |
-| wor |  |  |  | individual | living |
-| wos |  |  |  | individual | living |
-| wow |  |  |  | individual | living |
-| woy |  |  |  | individual | extinct |
-| wpc |  |  |  | individual | living |
-| wra |  |  |  | individual | living |
-| wrb |  |  |  | individual | extinct |
-| wrd |  |  |  | individual | living |
-| wrg |  |  |  | individual | extinct |
-| wrh |  |  |  | individual | extinct |
-| wri |  |  |  | individual | extinct |
-| wrk |  |  |  | individual | living |
-| wrl |  |  |  | individual | living |
-| wrm |  |  |  | individual | living |
-| wrn |  |  |  | individual | living |
-| wro |  |  |  | individual | extinct |
-| wrp |  |  |  | individual | living |
-| wrr |  |  |  | individual | living |
-| wrs |  |  |  | individual | living |
-| wru |  |  |  | individual | living |
-| wrv |  |  |  | individual | living |
-| wrw |  |  |  | individual | extinct |
-| wrx |  |  |  | individual | living |
-| wry |  |  |  | individual | living |
-| wrz |  |  |  | individual | extinct |
-| wsa |  |  |  | individual | living |
-| wsi |  |  |  | individual | living |
-| wsk |  |  |  | individual | living |
-| wsr |  |  |  | individual | living |
-| wss |  |  |  | individual | living |
-| wsu |  |  |  | individual | extinct |
-| wsv |  |  |  | individual | extinct |
-| wtf |  |  |  | individual | living |
-| wth |  |  |  | individual | extinct |
-| wti |  |  |  | individual | living |
-| wtk |  |  |  | individual | living |
-| wtm |  |  |  | individual | living |
-| wtw |  |  |  | individual | living |
-| wua |  |  |  | individual | living |
-| wub |  |  |  | individual | living |
-| wud |  |  |  | individual | living |
-| wuh |  |  |  | individual | living |
-| wul |  |  |  | individual | living |
-| wum |  |  |  | individual | living |
-| wun |  |  |  | individual | living |
-| wur |  |  |  | individual | extinct |
-| wut |  |  |  | individual | living |
-| wuu |  |  |  | individual | living |
-| wuv |  |  |  | individual | living |
-| wux |  |  |  | individual | living |
-| wuy |  |  |  | individual | living |
-| wwa |  |  |  | individual | living |
-| wwb |  |  |  | individual | extinct |
-| wwo |  |  |  | individual | living |
-| wwr |  |  |  | individual | extinct |
-| www |  |  |  | individual | living |
-| wxa |  |  |  | individual | living |
-| wxw |  |  |  | individual | extinct |
-| wya |  |  |  | individual | living |
-| wyb |  |  |  | individual | living |
-| wyi |  |  |  | individual | extinct |
-| wym |  |  |  | individual | living |
-| wyr |  |  |  | individual | living |
-| wyy |  |  |  | individual | living |
-| xaa |  |  |  | individual | historical |
-| xab |  |  |  | individual | living |
-| xac |  |  |  | individual | living |
-| xad |  |  |  | individual | extinct |
-| xae |  |  |  | individual | ancient |
-| xag |  |  |  | individual | extinct |
-| xai |  |  |  | individual | extinct |
-| xaj |  |  |  | individual | extinct |
-| xal | xal | xal |  | individual | living |
-| xam |  |  |  | individual | extinct |
-| xan |  |  |  | individual | living |
-| xao |  |  |  | individual | living |
-| xap |  |  |  | individual | extinct |
-| xaq |  |  |  | individual | ancient |
-| xar |  |  |  | individual | extinct |
-| xas |  |  |  | individual | extinct |
-| xat |  |  |  | individual | living |
-| xau |  |  |  | individual | living |
-| xav |  |  |  | individual | living |
-| xaw |  |  |  | individual | living |
-| xay |  |  |  | individual | living |
-| xba |  |  |  | individual | extinct |
-| xbb |  |  |  | individual | extinct |
-| xbc |  |  |  | individual | ancient |
-| xbd |  |  |  | individual | extinct |
-| xbe |  |  |  | individual | extinct |
-| xbg |  |  |  | individual | extinct |
-| xbi |  |  |  | individual | living |
-| xbj |  |  |  | individual | extinct |
-| xbm |  |  |  | individual | historical |
-| xbn |  |  |  | individual | extinct |
-| xbo |  |  |  | individual | extinct |
-| xbp |  |  |  | individual | extinct |
-| xbr |  |  |  | individual | living |
-| xbw |  |  |  | individual | extinct |
-| xbx |  |  |  | individual | extinct |
-| xby |  |  |  | individual | living |
-| xcb |  |  |  | individual | extinct |
-| xcc |  |  |  | individual | ancient |
-| xce |  |  |  | individual | ancient |
-| xcg |  |  |  | individual | ancient |
-| xch |  |  |  | individual | extinct |
-| xcl |  |  |  | individual | historical |
-| xcm |  |  |  | individual | extinct |
-| xcn |  |  |  | individual | extinct |
-| xco |  |  |  | individual | ancient |
-| xcr |  |  |  | individual | ancient |
-| xct |  |  |  | individual | historical |
-| xcu |  |  |  | individual | extinct |
-| xcv |  |  |  | individual | extinct |
-| xcw |  |  |  | individual | extinct |
-| xcy |  |  |  | individual | extinct |
-| xda |  |  |  | individual | living |
-| xdc |  |  |  | individual | ancient |
-| xdk |  |  |  | individual | extinct |
-| xdm |  |  |  | individual | ancient |
-| xdy |  |  |  | individual | living |
-| xeb |  |  |  | individual | ancient |
-| xed |  |  |  | individual | living |
-| xeg |  |  |  | individual | extinct |
-| xel |  |  |  | individual | living |
-| xem |  |  |  | individual | living |
-| xep |  |  |  | individual | ancient |
-| xer |  |  |  | individual | living |
-| xes |  |  |  | individual | living |
-| xet |  |  |  | individual | living |
-| xeu |  |  |  | individual | living |
-| xfa |  |  |  | individual | ancient |
-| xga |  |  |  | individual | ancient |
-| xgb |  |  |  | individual | extinct |
-| xgd |  |  |  | individual | extinct |
-| xgf |  |  |  | individual | extinct |
-| xgg |  |  |  | individual | extinct |
-| xgi |  |  |  | individual | extinct |
-| xgl |  |  |  | individual | extinct |
-| xgm |  |  |  | individual | extinct |
-| xgr |  |  |  | individual | extinct |
-| xgu |  |  |  | individual | living |
-| xgw |  |  |  | individual | extinct |
-| xha |  |  |  | individual | ancient |
-| xhc |  |  |  | individual | extinct |
-| xhd |  |  |  | individual | ancient |
-| xhe |  |  |  | individual | living |
-| xho | xho | xho | xh | individual | living |
-| xhr |  |  |  | individual | ancient |
-| xht |  |  |  | individual | ancient |
-| xhu |  |  |  | individual | ancient |
-| xhv |  |  |  | individual | living |
-| xib |  |  |  | individual | ancient |
-| xii |  |  |  | individual | living |
-| xil |  |  |  | individual | ancient |
-| xin |  |  |  | individual | extinct |
-| xip |  |  |  | individual | extinct |
-| xir |  |  |  | individual | extinct |
-| xis |  |  |  | individual | living |
-| xiv |  |  |  | individual | ancient |
-| xiy |  |  |  | individual | living |
-| xjb |  |  |  | individual | extinct |
-| xjt |  |  |  | individual | extinct |
-| xka |  |  |  | individual | living |
-| xkb |  |  |  | individual | living |
-| xkc |  |  |  | individual | living |
-| xkd |  |  |  | individual | living |
-| xke |  |  |  | individual | living |
-| xkf |  |  |  | individual | living |
-| xkg |  |  |  | individual | living |
-| xkh |  |  |  | individual | living |
-| xki |  |  |  | individual | living |
-| xkj |  |  |  | individual | living |
-| xkk |  |  |  | individual | living |
-| xkl |  |  |  | individual | living |
-| xkn |  |  |  | individual | living |
-| xko |  |  |  | individual | living |
-| xkp |  |  |  | individual | living |
-| xkq |  |  |  | individual | living |
-| xkr |  |  |  | individual | extinct |
-| xks |  |  |  | individual | living |
-| xkt |  |  |  | individual | living |
-| xku |  |  |  | individual | living |
-| xkv |  |  |  | individual | living |
-| xkw |  |  |  | individual | living |
-| xkx |  |  |  | individual | living |
-| xky |  |  |  | individual | living |
-| xkz |  |  |  | individual | living |
-| xla |  |  |  | individual | living |
-| xlb |  |  |  | individual | extinct |
-| xlc |  |  |  | individual | ancient |
-| xld |  |  |  | individual | ancient |
-| xle |  |  |  | individual | ancient |
-| xlg |  |  |  | individual | ancient |
-| xli |  |  |  | individual | ancient |
-| xln |  |  |  | individual | ancient |
-| xlo |  |  |  | individual | extinct |
-| xlp |  |  |  | individual | ancient |
-| xls |  |  |  | individual | ancient |
-| xlu |  |  |  | individual | ancient |
-| xly |  |  |  | individual | ancient |
-| xma |  |  |  | individual | living |
-| xmb |  |  |  | individual | living |
-| xmc |  |  |  | individual | living |
-| xmd |  |  |  | individual | living |
-| xme |  |  |  | individual | ancient |
-| xmf |  |  |  | individual | living |
-| xmg |  |  |  | individual | living |
-| xmh |  |  |  | individual | living |
-| xmj |  |  |  | individual | living |
-| xmk |  |  |  | individual | ancient |
-| xml |  |  |  | individual | living |
-| xmm |  |  |  | individual | living |
-| xmn |  |  |  | individual | historical |
-| xmo |  |  |  | individual | living |
-| xmp |  |  |  | individual | extinct |
-| xmq |  |  |  | individual | extinct |
-| xmr |  |  |  | individual | ancient |
-| xms |  |  |  | individual | living |
-| xmt |  |  |  | individual | living |
-| xmu |  |  |  | individual | extinct |
-| xmv |  |  |  | individual | living |
-| xmw |  |  |  | individual | living |
-| xmx |  |  |  | individual | living |
-| xmy |  |  |  | individual | living |
-| xmz |  |  |  | individual | living |
-| xna |  |  |  | individual | ancient |
-| xnb |  |  |  | individual | living |
-| xng |  |  |  | individual | historical |
-| xnh |  |  |  | individual | living |
-| xni |  |  |  | individual | extinct |
-| xnk |  |  |  | individual | extinct |
-| xnn |  |  |  | individual | living |
-| xno |  |  |  | individual | historical |
-| xnr |  |  |  | individual | living |
-| xns |  |  |  | individual | living |
-| xnt |  |  |  | individual | extinct |
-| xnu |  |  |  | individual | extinct |
-| xny |  |  |  | individual | living |
-| xnz |  |  |  | individual | living |
-| xoc |  |  |  | individual | extinct |
-| xod |  |  |  | individual | living |
-| xog |  |  |  | individual | living |
-| xoi |  |  |  | individual | living |
-| xok |  |  |  | individual | living |
-| xom |  |  |  | individual | living |
-| xon |  |  |  | individual | living |
-| xoo |  |  |  | individual | extinct |
-| xop |  |  |  | individual | living |
-| xor |  |  |  | individual | living |
-| xow |  |  |  | individual | living |
-| xpa |  |  |  | individual | extinct |
-| xpc |  |  |  | individual | extinct |
-| xpe |  |  |  | individual | living |
-| xpg |  |  |  | individual | ancient |
-| xpi |  |  |  | individual | extinct |
-| xpj |  |  |  | individual | extinct |
-| xpk |  |  |  | individual | living |
-| xpm |  |  |  | individual | extinct |
-| xpn |  |  |  | individual | extinct |
-| xpo |  |  |  | individual | extinct |
-| xpp |  |  |  | individual | extinct |
-| xpq |  |  |  | individual | extinct |
-| xpr |  |  |  | individual | ancient |
-| xps |  |  |  | individual | extinct |
-| xpt |  |  |  | individual | extinct |
-| xpu |  |  |  | individual | ancient |
-| xpy |  |  |  | individual | extinct |
-| xqa |  |  |  | individual | historical |
-| xqt |  |  |  | individual | ancient |
-| xra |  |  |  | individual | living |
-| xrb |  |  |  | individual | living |
-| xrd |  |  |  | individual | extinct |
-| xre |  |  |  | individual | living |
-| xrg |  |  |  | individual | extinct |
-| xri |  |  |  | individual | living |
-| xrm |  |  |  | individual | extinct |
-| xrn |  |  |  | individual | extinct |
-| xrq |  |  |  | individual | extinct |
-| xrr |  |  |  | individual | ancient |
-| xrt |  |  |  | individual | extinct |
-| xru |  |  |  | individual | living |
-| xrw |  |  |  | individual | living |
-| xsa |  |  |  | individual | ancient |
-| xsb |  |  |  | individual | living |
-| xsc |  |  |  | individual | ancient |
-| xsd |  |  |  | individual | ancient |
-| xse |  |  |  | individual | living |
-| xsh |  |  |  | individual | living |
-| xsi |  |  |  | individual | living |
-| xsj |  |  |  | individual | living |
-| xsl |  |  |  | individual | living |
-| xsm |  |  |  | individual | living |
-| xsn |  |  |  | individual | living |
-| xso |  |  |  | individual | extinct |
-| xsp |  |  |  | individual | living |
-| xsq |  |  |  | individual | living |
-| xsr |  |  |  | individual | living |
-| xss |  |  |  | individual | extinct |
-| xsu |  |  |  | individual | living |
-| xsv |  |  |  | individual | extinct |
-| xsy |  |  |  | individual | living |
-| xta |  |  |  | individual | living |
-| xtb |  |  |  | individual | living |
-| xtc |  |  |  | individual | living |
-| xtd |  |  |  | individual | living |
-| xte |  |  |  | individual | living |
-| xtg |  |  |  | individual | ancient |
-| xth |  |  |  | individual | extinct |
-| xti |  |  |  | individual | living |
-| xtj |  |  |  | individual | living |
-| xtl |  |  |  | individual | living |
-| xtm |  |  |  | individual | living |
-| xtn |  |  |  | individual | living |
-| xto |  |  |  | individual | ancient |
-| xtp |  |  |  | individual | living |
-| xtq |  |  |  | individual | historical |
-| xtr |  |  |  | individual | ancient |
-| xts |  |  |  | individual | living |
-| xtt |  |  |  | individual | living |
-| xtu |  |  |  | individual | living |
-| xtv |  |  |  | individual | extinct |
-| xtw |  |  |  | individual | living |
-| xty |  |  |  | individual | living |
-| xtz |  |  |  | individual | extinct |
-| xua |  |  |  | individual | living |
-| xub |  |  |  | individual | living |
-| xud |  |  |  | individual | extinct |
-| xug |  |  |  | individual | living |
-| xuj |  |  |  | individual | living |
-| xul |  |  |  | individual | extinct |
-| xum |  |  |  | individual | ancient |
-| xun |  |  |  | individual | extinct |
-| xuo |  |  |  | individual | living |
-| xup |  |  |  | individual | extinct |
-| xur |  |  |  | individual | ancient |
-| xut |  |  |  | individual | extinct |
-| xuu |  |  |  | individual | living |
-| xve |  |  |  | individual | ancient |
-| xvi |  |  |  | individual | living |
-| xvn |  |  |  | individual | ancient |
-| xvo |  |  |  | individual | ancient |
-| xvs |  |  |  | individual | ancient |
-| xwa |  |  |  | individual | living |
-| xwc |  |  |  | individual | extinct |
-| xwd |  |  |  | individual | extinct |
-| xwe |  |  |  | individual | living |
-| xwg |  |  |  | individual | living |
-| xwj |  |  |  | individual | extinct |
-| xwk |  |  |  | individual | extinct |
-| xwl |  |  |  | individual | living |
-| xwo |  |  |  | individual | extinct |
-| xwr |  |  |  | individual | living |
-| xwt |  |  |  | individual | extinct |
-| xww |  |  |  | individual | extinct |
-| xxb |  |  |  | individual | extinct |
-| xxk |  |  |  | individual | living |
-| xxm |  |  |  | individual | extinct |
-| xxr |  |  |  | individual | extinct |
-| xxt |  |  |  | individual | extinct |
-| xya |  |  |  | individual | extinct |
-| xyb |  |  |  | individual | extinct |
-| xyj |  |  |  | individual | extinct |
-| xyk |  |  |  | individual | extinct |
-| xyl |  |  |  | individual | extinct |
-| xyt |  |  |  | individual | extinct |
-| xyy |  |  |  | individual | living |
-| xzh |  |  |  | individual | ancient |
-| xzm |  |  |  | individual | extinct |
-| xzp |  |  |  | individual | historical |
-| yaa |  |  |  | individual | living |
-| yab |  |  |  | individual | living |
-| yac |  |  |  | individual | living |
-| yad |  |  |  | individual | living |
-| yae |  |  |  | individual | living |
-| yaf |  |  |  | individual | living |
-| yag |  |  |  | individual | living |
-| yah |  |  |  | individual | living |
-| yai |  |  |  | individual | living |
-| yaj |  |  |  | individual | living |
-| yak |  |  |  | individual | living |
-| yal |  |  |  | individual | living |
-| yam |  |  |  | individual | living |
-| yan |  |  |  | individual | living |
-| yao | yao | yao |  | individual | living |
-| yap | yap | yap |  | individual | living |
-| yaq |  |  |  | individual | living |
-| yar |  |  |  | individual | living |
-| yas |  |  |  | individual | living |
-| yat |  |  |  | individual | living |
-| yau |  |  |  | individual | living |
-| yav |  |  |  | individual | living |
-| yaw |  |  |  | individual | living |
-| yax |  |  |  | individual | living |
-| yay |  |  |  | individual | living |
-| yaz |  |  |  | individual | living |
-| yba |  |  |  | individual | living |
-| ybb |  |  |  | individual | living |
-| ybe |  |  |  | individual | living |
-| ybh |  |  |  | individual | living |
-| ybi |  |  |  | individual | living |
-| ybj |  |  |  | individual | living |
-| ybk |  |  |  | individual | living |
-| ybl |  |  |  | individual | living |
-| ybm |  |  |  | individual | living |
-| ybn |  |  |  | individual | extinct |
-| ybo |  |  |  | individual | living |
-| ybx |  |  |  | individual | living |
-| yby |  |  |  | individual | living |
-| ych |  |  |  | individual | living |
-| ycl |  |  |  | individual | living |
-| ycn |  |  |  | individual | living |
-| ycp |  |  |  | individual | living |
-| yda |  |  |  | individual | extinct |
-| ydd |  |  |  | individual | living |
-| yde |  |  |  | individual | living |
-| ydg |  |  |  | individual | living |
-| ydk |  |  |  | individual | living |
-| yds |  |  |  | individual | living |
-| yea |  |  |  | individual | living |
-| yec |  |  |  | individual | living |
-| yee |  |  |  | individual | living |
-| yei |  |  |  | individual | extinct |
-| yej |  |  |  | individual | living |
-| yel |  |  |  | individual | living |
-| yer |  |  |  | individual | living |
-| yes |  |  |  | individual | living |
-| yet |  |  |  | individual | living |
-| yeu |  |  |  | individual | living |
-| yev |  |  |  | individual | living |
-| yey |  |  |  | individual | living |
-| yga |  |  |  | individual | extinct |
-| ygi |  |  |  | individual | extinct |
-| ygl |  |  |  | individual | living |
-| ygm |  |  |  | individual | living |
-| ygp |  |  |  | individual | living |
-| ygr |  |  |  | individual | living |
-| ygs |  |  |  | individual | living |
-| ygu |  |  |  | individual | living |
-| ygw |  |  |  | individual | living |
-| yha |  |  |  | individual | living |
-| yhd |  |  |  | individual | living |
-| yhl |  |  |  | individual | living |
-| yia |  |  |  | individual | living |
-| yid | yid | yid | yi | macrolanguage | living |
-| yif |  |  |  | individual | living |
-| yig |  |  |  | individual | living |
-| yih |  |  |  | individual | living |
-| yii |  |  |  | individual | living |
-| yij |  |  |  | individual | living |
-| yik |  |  |  | individual | living |
-| yil |  |  |  | individual | extinct |
-| yim |  |  |  | individual | living |
-| yin |  |  |  | individual | living |
-| yip |  |  |  | individual | living |
-| yiq |  |  |  | individual | living |
-| yir |  |  |  | individual | living |
-| yis |  |  |  | individual | living |
-| yit |  |  |  | individual | living |
-| yiu |  |  |  | individual | living |
-| yiv |  |  |  | individual | living |
-| yix |  |  |  | individual | living |
-| yiz |  |  |  | individual | living |
-| yka |  |  |  | individual | living |
-| ykg |  |  |  | individual | living |
-| yki |  |  |  | individual | living |
-| ykk |  |  |  | individual | living |
-| ykl |  |  |  | individual | living |
-| ykm |  |  |  | individual | living |
-| ykn |  |  |  | individual | living |
-| yko |  |  |  | individual | living |
-| ykr |  |  |  | individual | living |
-| ykt |  |  |  | individual | living |
-| yku |  |  |  | individual | living |
-| yky |  |  |  | individual | living |
-| yla |  |  |  | individual | living |
-| ylb |  |  |  | individual | living |
-| yle |  |  |  | individual | living |
-| ylg |  |  |  | individual | living |
-| yli |  |  |  | individual | living |
-| yll |  |  |  | individual | living |
-| ylm |  |  |  | individual | living |
-| yln |  |  |  | individual | living |
-| ylo |  |  |  | individual | living |
-| ylr |  |  |  | individual | extinct |
-| ylu |  |  |  | individual | living |
-| yly |  |  |  | individual | living |
-| ymb |  |  |  | individual | living |
-| ymc |  |  |  | individual | living |
-| ymd |  |  |  | individual | living |
-| yme |  |  |  | individual | extinct |
-| ymg |  |  |  | individual | living |
-| ymh |  |  |  | individual | living |
-| ymi |  |  |  | individual | living |
-| ymk |  |  |  | individual | living |
-| yml |  |  |  | individual | living |
-| ymm |  |  |  | individual | living |
-| ymn |  |  |  | individual | living |
-| ymo |  |  |  | individual | living |
-| ymp |  |  |  | individual | living |
-| ymq |  |  |  | individual | living |
-| ymr |  |  |  | individual | living |
-| yms |  |  |  | individual | ancient |
-| ymt |  |  |  | individual | extinct |
-| ymx |  |  |  | individual | living |
-| ymz |  |  |  | individual | living |
-| yna |  |  |  | individual | living |
-| ynd |  |  |  | individual | extinct |
-| yne |  |  |  | individual | living |
-| yng |  |  |  | individual | living |
-| ynh |  |  |  | individual | living |
-| ynk |  |  |  | individual | living |
-| ynl |  |  |  | individual | living |
-| ynn |  |  |  | individual | extinct |
-| yno |  |  |  | individual | living |
-| ynq |  |  |  | individual | living |
-| yns |  |  |  | individual | living |
-| ynu |  |  |  | individual | extinct |
-| yob |  |  |  | individual | extinct |
-| yog |  |  |  | individual | living |
-| yoi |  |  |  | individual | living |
-| yok |  |  |  | individual | living |
-| yol |  |  |  | individual | extinct |
-| yom |  |  |  | individual | living |
-| yon |  |  |  | individual | living |
-| yor | yor | yor | yo | individual | living |
-| yot |  |  |  | individual | living |
-| yox |  |  |  | individual | living |
-| yoy |  |  |  | individual | living |
-| ypa |  |  |  | individual | living |
-| ypb |  |  |  | individual | living |
-| ypg |  |  |  | individual | living |
-| yph |  |  |  | individual | living |
-| ypm |  |  |  | individual | living |
-| ypn |  |  |  | individual | living |
-| ypo |  |  |  | individual | living |
-| ypp |  |  |  | individual | living |
-| ypz |  |  |  | individual | living |
-| yra |  |  |  | individual | living |
-| yrb |  |  |  | individual | living |
-| yre |  |  |  | individual | living |
-| yri |  |  |  | individual | living |
-| yrk |  |  |  | individual | living |
-| yrl |  |  |  | individual | living |
-| yrm |  |  |  | individual | living |
-| yrn |  |  |  | individual | living |
-| yrs |  |  |  | individual | living |
-| yrw |  |  |  | individual | living |
-| yry |  |  |  | individual | living |
-| ysc |  |  |  | individual | extinct |
-| ysd |  |  |  | individual | living |
-| ysg |  |  |  | individual | living |
-| ysl |  |  |  | individual | living |
-| ysn |  |  |  | individual | living |
-| yso |  |  |  | individual | living |
-| ysp |  |  |  | individual | living |
-| ysr |  |  |  | individual | extinct |
-| yss |  |  |  | individual | living |
-| ysy |  |  |  | individual | living |
-| yta |  |  |  | individual | living |
-| ytl |  |  |  | individual | living |
-| ytp |  |  |  | individual | living |
-| ytw |  |  |  | individual | living |
-| yty |  |  |  | individual | extinct |
-| yua |  |  |  | individual | living |
-| yub |  |  |  | individual | extinct |
-| yuc |  |  |  | individual | living |
-| yud |  |  |  | individual | living |
-| yue |  |  |  | individual | living |
-| yuf |  |  |  | individual | living |
-| yug |  |  |  | individual | extinct |
-| yui |  |  |  | individual | living |
-| yuj |  |  |  | individual | living |
-| yuk |  |  |  | individual | extinct |
-| yul |  |  |  | individual | living |
-| yum |  |  |  | individual | living |
-| yun |  |  |  | individual | living |
-| yup |  |  |  | individual | living |
-| yuq |  |  |  | individual | living |
-| yur |  |  |  | individual | living |
-| yut |  |  |  | individual | living |
-| yuw |  |  |  | individual | living |
-| yux |  |  |  | individual | living |
-| yuy |  |  |  | individual | living |
-| yuz |  |  |  | individual | living |
-| yva |  |  |  | individual | living |
-| yvt |  |  |  | individual | extinct |
-| ywa |  |  |  | individual | living |
-| ywg |  |  |  | individual | living |
-| ywl |  |  |  | individual | living |
-| ywn |  |  |  | individual | living |
-| ywq |  |  |  | individual | living |
-| ywr |  |  |  | individual | living |
-| ywt |  |  |  | individual | living |
-| ywu |  |  |  | individual | living |
-| yww |  |  |  | individual | extinct |
-| yxa |  |  |  | individual | extinct |
-| yxg |  |  |  | individual | extinct |
-| yxl |  |  |  | individual | extinct |
-| yxm |  |  |  | individual | extinct |
-| yxu |  |  |  | individual | extinct |
-| yxy |  |  |  | individual | extinct |
-| yyr |  |  |  | individual | extinct |
-| yyu |  |  |  | individual | living |
-| yyz |  |  |  | individual | living |
-| yzg |  |  |  | individual | living |
-| yzk |  |  |  | individual | living |
-| zaa |  |  |  | individual | living |
-| zab |  |  |  | individual | living |
-| zac |  |  |  | individual | living |
-| zad |  |  |  | individual | living |
-| zae |  |  |  | individual | living |
-| zaf |  |  |  | individual | living |
-| zag |  |  |  | individual | living |
-| zah |  |  |  | individual | living |
-| zai |  |  |  | individual | living |
-| zaj |  |  |  | individual | living |
-| zak |  |  |  | individual | living |
-| zal |  |  |  | individual | living |
-| zam |  |  |  | individual | living |
-| zao |  |  |  | individual | living |
-| zap | zap | zap |  | macrolanguage | living |
-| zaq |  |  |  | individual | living |
-| zar |  |  |  | individual | living |
-| zas |  |  |  | individual | living |
-| zat |  |  |  | individual | living |
-| zau |  |  |  | individual | living |
-| zav |  |  |  | individual | living |
-| zaw |  |  |  | individual | living |
-| zax |  |  |  | individual | living |
-| zay |  |  |  | individual | living |
-| zaz |  |  |  | individual | living |
-| zbc |  |  |  | individual | living |
-| zbe |  |  |  | individual | living |
-| zbl | zbl | zbl |  | individual | constructed |
-| zbt |  |  |  | individual | living |
-| zbw |  |  |  | individual | living |
-| zca |  |  |  | individual | living |
-| zch |  |  |  | individual | living |
-| zdj |  |  |  | individual | living |
-| zea |  |  |  | individual | living |
-| zeg |  |  |  | individual | living |
-| zeh |  |  |  | individual | living |
-| zen | zen | zen |  | individual | living |
-| zga |  |  |  | individual | living |
-| zgb |  |  |  | individual | living |
-| zgh |  |  |  | individual | living |
-| zgm |  |  |  | individual | living |
-| zgn |  |  |  | individual | living |
-| zgr |  |  |  | individual | living |
-| zha | zha | zha | za | macrolanguage | living |
-| zhb |  |  |  | individual | living |
-| zhd |  |  |  | individual | living |
-| zhi |  |  |  | individual | living |
-| zhn |  |  |  | individual | living |
-| zho | chi | zho | zh | macrolanguage | living |
-| zhw |  |  |  | individual | living |
-| zia |  |  |  | individual | living |
-| zib |  |  |  | individual | living |
-| zik |  |  |  | individual | living |
-| zil |  |  |  | individual | living |
-| zim |  |  |  | individual | living |
-| zin |  |  |  | individual | living |
-| zir |  |  |  | individual | extinct |
-| ziw |  |  |  | individual | living |
-| ziz |  |  |  | individual | living |
-| zka |  |  |  | individual | living |
-| zkb |  |  |  | individual | extinct |
-| zkd |  |  |  | individual | living |
-| zkg |  |  |  | individual | extinct |
-| zkh |  |  |  | individual | extinct |
-| zkk |  |  |  | individual | extinct |
-| zkn |  |  |  | individual | living |
-| zko |  |  |  | individual | extinct |
-| zkp |  |  |  | individual | extinct |
-| zkr |  |  |  | individual | living |
-| zkt |  |  |  | individual | extinct |
-| zku |  |  |  | individual | extinct |
-| zkv |  |  |  | individual | extinct |
-| zkz |  |  |  | individual | extinct |
-| zlj |  |  |  | individual | living |
-| zlm |  |  |  | individual | living |
-| zln |  |  |  | individual | living |
-| zlq |  |  |  | individual | living |
-| zma |  |  |  | individual | living |
-| zmb |  |  |  | individual | living |
-| zmc |  |  |  | individual | extinct |
-| zmd |  |  |  | individual | living |
-| zme |  |  |  | individual | extinct |
-| zmf |  |  |  | individual | living |
-| zmg |  |  |  | individual | living |
-| zmh |  |  |  | individual | extinct |
-| zmi |  |  |  | individual | living |
-| zmj |  |  |  | individual | living |
-| zmk |  |  |  | individual | extinct |
-| zml |  |  |  | individual | living |
-| zmm |  |  |  | individual | living |
-| zmn |  |  |  | individual | living |
-| zmo |  |  |  | individual | living |
-| zmp |  |  |  | individual | living |
-| zmq |  |  |  | individual | living |
-| zmr |  |  |  | individual | living |
-| zms |  |  |  | individual | living |
-| zmt |  |  |  | individual | living |
-| zmu |  |  |  | individual | extinct |
-| zmv |  |  |  | individual | extinct |
-| zmw |  |  |  | individual | living |
-| zmx |  |  |  | individual | living |
-| zmy |  |  |  | individual | living |
-| zmz |  |  |  | individual | living |
-| zna |  |  |  | individual | living |
-| zne |  |  |  | individual | living |
-| zng |  |  |  | individual | living |
-| znk |  |  |  | individual | extinct |
-| zns |  |  |  | individual | living |
-| zoc |  |  |  | individual | living |
-| zoh |  |  |  | individual | living |
-| zom |  |  |  | individual | living |
-| zoo |  |  |  | individual | living |
-| zoq |  |  |  | individual | living |
-| zor |  |  |  | individual | living |
-| zos |  |  |  | individual | living |
-| zpa |  |  |  | individual | living |
-| zpb |  |  |  | individual | living |
-| zpc |  |  |  | individual | living |
-| zpd |  |  |  | individual | living |
-| zpe |  |  |  | individual | living |
-| zpf |  |  |  | individual | living |
-| zpg |  |  |  | individual | living |
-| zph |  |  |  | individual | living |
-| zpi |  |  |  | individual | living |
-| zpj |  |  |  | individual | living |
-| zpk |  |  |  | individual | living |
-| zpl |  |  |  | individual | living |
-| zpm |  |  |  | individual | living |
-| zpn |  |  |  | individual | living |
-| zpo |  |  |  | individual | living |
-| zpp |  |  |  | individual | living |
-| zpq |  |  |  | individual | living |
-| zpr |  |  |  | individual | living |
-| zps |  |  |  | individual | living |
-| zpt |  |  |  | individual | living |
-| zpu |  |  |  | individual | living |
-| zpv |  |  |  | individual | living |
-| zpw |  |  |  | individual | living |
-| zpx |  |  |  | individual | living |
-| zpy |  |  |  | individual | living |
-| zpz |  |  |  | individual | living |
-| zqe |  |  |  | individual | living |
-| zra |  |  |  | individual | extinct |
-| zrg |  |  |  | individual | living |
-| zrn |  |  |  | individual | living |
-| zro |  |  |  | individual | living |
-| zrp |  |  |  | individual | extinct |
-| zrs |  |  |  | individual | living |
-| zsa |  |  |  | individual | living |
-| zsk |  |  |  | individual | ancient |
-| zsl |  |  |  | individual | living |
-| zsm |  |  |  | individual | living |
-| zsr |  |  |  | individual | living |
-| zsu |  |  |  | individual | living |
-| zte |  |  |  | individual | living |
-| ztg |  |  |  | individual | living |
-| ztl |  |  |  | individual | living |
-| ztm |  |  |  | individual | living |
-| ztn |  |  |  | individual | living |
-| ztp |  |  |  | individual | living |
-| ztq |  |  |  | individual | living |
-| zts |  |  |  | individual | living |
-| ztt |  |  |  | individual | living |
-| ztu |  |  |  | individual | living |
-| ztx |  |  |  | individual | living |
-| zty |  |  |  | individual | living |
-| zua |  |  |  | individual | living |
-| zuh |  |  |  | individual | living |
-| zul | zul | zul | zu | individual | living |
-| zum |  |  |  | individual | living |
-| zun | zun | zun |  | individual | living |
-| zuy |  |  |  | individual | living |
-| zwa |  |  |  | individual | living |
-| zxx | zxx | zxx |  | special | special |
-| zyb |  |  |  | individual | living |
-| zyg |  |  |  | individual | living |
-| zyj |  |  |  | individual | living |
-| zyn |  |  |  | individual | living |
-| zyp |  |  |  | individual | living |
-| zza | zza | zza |  | macrolanguage | living |
-| zzj |  |  |  | individual | living |
+- aaa: Ghotuo;
+- aab: Alumu-Tesu;
+- aac: Ari;
+- aad: Amal;
+- aae: Arbëreshë Albanian;
+- aaf: Aranadan;
+- aag: Ambrak;
+- aah: Abu' Arapesh;
+- aai: Arifama-Miniafia;
+- aak: Ankave;
+- aal: Afade;
+- aam: Aramanik;
+- aan: Anambé;
+- aao: Algerian Saharan Arabic;
+- aap: Pará Arára;
+- aaq: Eastern Abnaki;
+- aar: Afar;
+- aas: Aasáx;
+- aat: Arvanitika Albanian;
+- aau: Abau;
+- aaw: Solong;
+- aax: Mandobo Atas;
+- aaz: Amarasi;
+- aba: Abé;
+- abb: Bankon;
+- abc: Ambala Ayta;
+- abd: Manide;
+- abe: Western Abnaki;
+- abf: Abai Sungai;
+- abg: Abaga;
+- abh: Tajiki Arabic;
+- abi: Abidji;
+- abj: Aka-Bea;
+- abk: Abkhazian;
+- abl: Lampung Nyo;
+- abm: Abanyom;
+- abn: Abua;
+- abo: Abon;
+- abp: Abellen Ayta;
+- abq: Abaza;
+- abr: Abron;
+- abs: Ambonese Malay;
+- abt: Ambulas;
+- abu: Abure;
+- abv: Baharna Arabic;
+- abw: Pal;
+- abx: Inabaknon;
+- aby: Aneme Wake;
+- abz: Abui;
+- aca: Achagua;
+- acb: Áncá;
+- acd: Gikyode;
+- ace: Achinese;
+- acf: Saint Lucian Creole French;
+- ach: Acoli;
+- aci: Aka-Cari;
+- ack: Aka-Kora;
+- acl: Akar-Bale;
+- acm: Mesopotamian Arabic;
+- acn: Achang;
+- acp: Eastern Acipa;
+- acq: Ta'izzi-Adeni Arabic;
+- acr: Achi;
+- acs: Acroá;
+- act: Achterhoeks;
+- acu: Achuar-Shiwiar;
+- acv: Achumawi;
+- acw: Hijazi Arabic;
+- acx: Omani Arabic;
+- acy: Cypriot Arabic;
+- acz: Acheron;
+- ada: Adangme;
+- adb: Adabe;
+- add: Dzodinka;
+- ade: Adele;
+- adf: Dhofari Arabic;
+- adg: Andegerebinha;
+- adh: Adhola;
+- adi: Adi;
+- adj: Adioukrou;
+- adl: Galo;
+- adn: Adang;
+- ado: Abu;
+- adp: Adap;
+- adq: Adangbe;
+- adr: Adonara;
+- ads: Adamorobe Sign Language;
+- adt: Adnyamathanha;
+- adu: Aduge;
+- adw: Amundava;
+- adx: Amdo Tibetan;
+- ady: Adyghe;
+- adz: Adzera;
+- aea: Areba;
+- aeb: Tunisian Arabic;
+- aec: Saidi Arabic;
+- aed: Argentine Sign Language;
+- aee: Northeast Pashayi;
+- aek: Haeke;
+- ael: Ambele;
+- aem: Arem;
+- aen: Armenian Sign Language;
+- aeq: Aer;
+- aer: Eastern Arrernte;
+- aes: Alsea;
+- aeu: Akeu;
+- aew: Ambakich;
+- aey: Amele;
+- aez: Aeka;
+- afb: Gulf Arabic;
+- afd: Andai;
+- afe: Putukwam;
+- afg: Afghan Sign Language;
+- afh: Afrihili;
+- afi: Akrukay;
+- afk: Nanubae;
+- afn: Defaka;
+- afo: Eloyi;
+- afp: Tapei;
+- afr: Afrikaans;
+- afs: Afro-Seminole Creole;
+- aft: Afitti;
+- afu: Awutu;
+- afz: Obokuitai;
+- aga: Aguano;
+- agb: Legbo;
+- agc: Agatu;
+- agd: Agarabi;
+- age: Angal;
+- agf: Arguni;
+- agg: Angor;
+- agh: Ngelima;
+- agi: Agariya;
+- agj: Argobba;
+- agk: Isarog Agta;
+- agl: Fembe;
+- agm: Angaataha;
+- agn: Agutaynen;
+- ago: Tainae;
+- agq: Aghem;
+- agr: Aguaruna;
+- ags: Esimbi;
+- agt: Central Cagayan Agta;
+- agu: Aguacateco;
+- agv: Remontado Dumagat;
+- agw: Kahua;
+- agx: Aghul;
+- agy: Southern Alta;
+- agz: Mt. Iriga Agta;
+- aha: Ahanta;
+- ahb: Axamb;
+- ahg: Qimant;
+- ahh: Aghu;
+- ahi: Tiagbamrin Aizi;
+- ahk: Akha;
+- ahl: Igo;
+- ahm: Mobumrin Aizi;
+- ahn: Àhàn;
+- aho: Ahom;
+- ahp: Aproumu Aizi;
+- ahr: Ahirani;
+- ahs: Ashe;
+- aht: Ahtena;
+- aia: Arosi;
+- aib: Ainu (China);
+- aic: Ainbai;
+- aid: Alngith;
+- aie: Amara;
+- aif: Agi;
+- aig: Antigua and Barbuda Creole English;
+- aih: Ai-Cham;
+- aii: Assyrian Neo-Aramaic;
+- aij: Lishanid Noshan;
+- aik: Ake;
+- ail: Aimele;
+- aim: Aimol;
+- ain: Ainu (Japan);
+- aio: Aiton;
+- aip: Burumakok;
+- aiq: Aimaq;
+- air: Airoran;
+- ais: Nataoran Amis;
+- ait: Arikem;
+- aiw: Aari;
+- aix: Aighon;
+- aiy: Ali;
+- aja: Aja (Sudan);
+- ajg: Aja (Benin);
+- aji: Ajië;
+- ajn: Andajin;
+- ajp: South Levantine Arabic;
+- ajt: Judeo-Tunisian Arabic;
+- aju: Judeo-Moroccan Arabic;
+- ajw: Ajawa;
+- ajz: Amri Karbi;
+- aka: Akan;
+- akb: Batak Angkola;
+- akc: Mpur;
+- akd: Ukpet-Ehom;
+- ake: Akawaio;
+- akf: Akpa;
+- akg: Anakalangu;
+- akh: Angal Heneng;
+- aki: Aiome;
+- akj: Aka-Jeru;
+- akk: Akkadian;
+- akl: Aklanon;
+- akm: Aka-Bo;
+- ako: Akurio;
+- akp: Siwu;
+- akq: Ak;
+- akr: Araki;
+- aks: Akaselem;
+- akt: Akolet;
+- aku: Akum;
+- akv: Akhvakh;
+- akw: Akwa;
+- akx: Aka-Kede;
+- aky: Aka-Kol;
+- akz: Alabama;
+- ala: Alago;
+- alc: Qawasqar;
+- ald: Alladian;
+- ale: Aleut;
+- alf: Alege;
+- alh: Alawa;
+- ali: Amaimon;
+- alj: Alangan;
+- alk: Alak;
+- all: Allar;
+- alm: Amblong;
+- aln: Gheg Albanian;
+- alo: Larike-Wakasihu;
+- alp: Alune;
+- alq: Algonquin;
+- alr: Alutor;
+- als: Tosk Albanian;
+- alt: Southern Altai;
+- alu: 'Are'are;
+- alw: Alaba-K’abeena;
+- alx: Amol;
+- aly: Alyawarr;
+- alz: Alur;
+- ama: Amanayé;
+- amb: Ambo;
+- amc: Amahuaca;
+- ame: Yanesha';
+- amf: Hamer-Banna;
+- amg: Amurdak;
+- amh: Amharic;
+- ami: Amis;
+- amj: Amdang;
+- amk: Ambai;
+- aml: War-Jaintia;
+- amm: Ama (Papua New Guinea);
+- amn: Amanab;
+- amo: Amo;
+- amp: Alamblak;
+- amq: Amahai;
+- amr: Amarakaeri;
+- ams: Southern Amami-Oshima;
+- amt: Amto;
+- amu: Guerrero Amuzgo;
+- amv: Ambelau;
+- amw: Western Neo-Aramaic;
+- amx: Anmatyerre;
+- amy: Ami;
+- amz: Atampaya;
+- ana: Andaqui;
+- anb: Andoa;
+- anc: Ngas;
+- and: Ansus;
+- ane: Xârâcùù;
+- anf: Animere;
+- ang: Old English (ca. 450-1100);
+- anh: Nend;
+- ani: Andi;
+- anj: Anor;
+- ank: Goemai;
+- anl: Anu-Hkongso Chin;
+- anm: Anal;
+- ann: Obolo;
+- ano: Andoque;
+- anp: Angika;
+- anq: Jarawa (India);
+- anr: Andh;
+- ans: Anserma;
+- ant: Antakarinya;
+- anu: Anuak;
+- anv: Denya;
+- anw: Anaang;
+- anx: Andra-Hus;
+- any: Anyin;
+- anz: Anem;
+- aoa: Angolar;
+- aob: Abom;
+- aoc: Pemon;
+- aod: Andarum;
+- aoe: Angal Enen;
+- aof: Bragat;
+- aog: Angoram;
+- aoh: Arma;
+- aoi: Anindilyakwa;
+- aoj: Mufian;
+- aok: Arhö;
+- aol: Alor;
+- aom: Ömie;
+- aon: Bumbita Arapesh;
+- aor: Aore;
+- aos: Taikat;
+- aot: A'tong;
+- aou: A'ou;
+- aox: Atorada;
+- aoz: Uab Meto;
+- apb: Sa'a;
+- apc: North Levantine Arabic;
+- apd: Sudanese Arabic;
+- ape: Bukiyip;
+- apf: Pahanan Agta;
+- apg: Ampanang;
+- aph: Athpariya;
+- api: Apiaká;
+- apj: Jicarilla Apache;
+- apk: Kiowa Apache;
+- apl: Lipan Apache;
+- apm: Mescalero-Chiricahua Apache;
+- apn: Apinayé;
+- apo: Ambul;
+- app: Apma;
+- apq: A-Pucikwar;
+- apr: Arop-Lokep;
+- aps: Arop-Sissano;
+- apt: Apatani;
+- apu: Apurinã;
+- apv: Alapmunte;
+- apw: Western Apache;
+- apx: Aputai;
+- apy: Apalaí;
+- apz: Safeyoka;
+- aqc: Archi;
+- aqd: Ampari Dogon;
+- aqg: Arigidi;
+- aqm: Atohwaim;
+- aqn: Northern Alta;
+- aqp: Atakapa;
+- aqr: Arhâ;
+- aqt: Angaité;
+- aqz: Akuntsu;
+- ara: Arabic;
+- arb: Standard Arabic;
+- arc: Official Aramaic (700-300 BCE);
+- ard: Arabana;
+- are: Western Arrarnta;
+- arg: Aragonese;
+- arh: Arhuaco;
+- ari: Arikara;
+- arj: Arapaso;
+- ark: Arikapú;
+- arl: Arabela;
+- arn: Mapudungun;
+- aro: Araona;
+- arp: Arapaho;
+- arq: Algerian Arabic;
+- arr: Karo (Brazil);
+- ars: Najdi Arabic;
+- aru: Aruá (Amazonas State);
+- arv: Arbore;
+- arw: Arawak;
+- arx: Aruá (Rodonia State);
+- ary: Moroccan Arabic;
+- arz: Egyptian Arabic;
+- asa: Asu (Tanzania);
+- asb: Assiniboine;
+- asc: Casuarina Coast Asmat;
+- asd: Asas;
+- ase: American Sign Language;
+- asf: Australian Sign Language;
+- asg: Cishingini;
+- ash: Abishira;
+- asi: Buruwai;
+- asj: Sari;
+- ask: Ashkun;
+- asl: Asilulu;
+- asm: Assamese;
+- asn: Xingú Asuriní;
+- aso: Dano;
+- asp: Algerian Sign Language;
+- asq: Austrian Sign Language;
+- asr: Asuri;
+- ass: Ipulo;
+- ast: Asturian;
+- asu: Tocantins Asurini;
+- asv: Asoa;
+- asw: Australian Aborigines Sign Language;
+- asx: Muratayak;
+- asy: Yaosakor Asmat;
+- asz: As;
+- ata: Pele-Ata;
+- atb: Zaiwa;
+- atc: Atsahuaca;
+- atd: Ata Manobo;
+- ate: Atemble;
+- atg: Ivbie North-Okpela-Arhe;
+- ati: Attié;
+- atj: Atikamekw;
+- atk: Ati;
+- atl: Mt. Iraya Agta;
+- atm: Ata;
+- atn: Ashtiani;
+- ato: Atong;
+- atp: Pudtol Atta;
+- atq: Aralle-Tabulahan;
+- atr: Waimiri-Atroari;
+- ats: Gros Ventre;
+- att: Pamplona Atta;
+- atu: Reel;
+- atv: Northern Altai;
+- atw: Atsugewi;
+- atx: Arutani;
+- aty: Aneityum;
+- atz: Arta;
+- aua: Asumboa;
+- aub: Alugu;
+- auc: Waorani;
+- aud: Anuta;
+- aue: =/Kx'au//'ein;
+- aug: Aguna;
+- auh: Aushi;
+- aui: Anuki;
+- auj: Awjilah;
+- auk: Heyo;
+- aul: Aulua;
+- aum: Asu (Nigeria);
+- aun: Molmo One;
+- auo: Auyokawa;
+- aup: Makayam;
+- auq: Anus;
+- aur: Aruek;
+- aut: Austral;
+- auu: Auye;
+- auw: Awyi;
+- aux: Aurá;
+- auy: Awiyaana;
+- auz: Uzbeki Arabic;
+- ava: Avaric;
+- avb: Avau;
+- avd: Alviri-Vidari;
+- ave: Avestan;
+- avi: Avikam;
+- avk: Kotava;
+- avl: Eastern Egyptian Bedawi Arabic;
+- avm: Angkamuthi;
+- avn: Avatime;
+- avo: Agavotaguerra;
+- avs: Aushiri;
+- avt: Au;
+- avu: Avokaya;
+- avv: Avá-Canoeiro;
+- awa: Awadhi;
+- awb: Awa (Papua New Guinea);
+- awc: Cicipu;
+- awe: Awetí;
+- awg: Anguthimri;
+- awh: Awbono;
+- awi: Aekyom;
+- awk: Awabakal;
+- awm: Arawum;
+- awn: Awngi;
+- awo: Awak;
+- awr: Awera;
+- aws: South Awyu;
+- awt: Araweté;
+- awu: Central Awyu;
+- awv: Jair Awyu;
+- aww: Awun;
+- awx: Awara;
+- awy: Edera Awyu;
+- axb: Abipon;
+- axe: Ayerrerenge;
+- axg: Mato Grosso Arára;
+- axk: Yaka (Central African Republic);
+- axl: Lower Southern Aranda;
+- axm: Middle Armenian;
+- axx: Xârâgurè;
+- aya: Awar;
+- ayb: Ayizo Gbe;
+- ayc: Southern Aymara;
+- ayd: Ayabadhu;
+- aye: Ayere;
+- ayg: Ginyanga;
+- ayh: Hadrami Arabic;
+- ayi: Leyigha;
+- ayk: Akuku;
+- ayl: Libyan Arabic;
+- aym: Aymara;
+- ayn: Sanaani Arabic;
+- ayo: Ayoreo;
+- ayp: North Mesopotamian Arabic;
+- ayq: Ayi (Papua New Guinea);
+- ayr: Central Aymara;
+- ays: Sorsogon Ayta;
+- ayt: Magbukun Ayta;
+- ayu: Ayu;
+- ayy: Tayabas Ayta;
+- ayz: Mai Brat;
+- aza: Azha;
+- azb: South Azerbaijani;
+- azd: Eastern Durango Nahuatl;
+- aze: Azerbaijani;
+- azg: San Pedro Amuzgos Amuzgo;
+- azj: North Azerbaijani;
+- azm: Ipalapa Amuzgo;
+- azn: Western Durango Nahuatl;
+- azo: Awing;
+- azt: Faire Atta;
+- azz: Highland Puebla Nahuatl;
+- baa: Babatana;
+- bab: Bainouk-Gunyuño;
+- bac: Badui;
+- bae: Baré;
+- baf: Nubaca;
+- bag: Tuki;
+- bah: Bahamas Creole English;
+- baj: Barakai;
+- bak: Bashkir;
+- bal: Baluchi;
+- bam: Bambara;
+- ban: Balinese;
+- bao: Waimaha;
+- bap: Bantawa;
+- bar: Bavarian;
+- bas: Basa (Cameroon);
+- bau: Bada (Nigeria);
+- bav: Vengo;
+- baw: Bambili-Bambui;
+- bax: Bamun;
+- bay: Batuley;
+- bba: Baatonum;
+- bbb: Barai;
+- bbc: Batak Toba;
+- bbd: Bau;
+- bbe: Bangba;
+- bbf: Baibai;
+- bbg: Barama;
+- bbh: Bugan;
+- bbi: Barombi;
+- bbj: Ghomálá';
+- bbk: Babanki;
+- bbl: Bats;
+- bbm: Babango;
+- bbn: Uneapa;
+- bbo: Northern Bobo Madaré;
+- bbp: West Central Banda;
+- bbq: Bamali;
+- bbr: Girawa;
+- bbs: Bakpinka;
+- bbt: Mburku;
+- bbu: Kulung (Nigeria);
+- bbv: Karnai;
+- bbw: Baba;
+- bbx: Bubia;
+- bby: Befang;
+- bbz: Babalia Creole Arabic;
+- bca: Central Bai;
+- bcb: Bainouk-Samik;
+- bcc: Southern Balochi;
+- bcd: North Babar;
+- bce: Bamenyam;
+- bcf: Bamu;
+- bcg: Baga Binari;
+- bch: Bariai;
+- bci: Baoulé;
+- bcj: Bardi;
+- bck: Bunaba;
+- bcl: Central Bikol;
+- bcm: Bannoni;
+- bcn: Bali (Nigeria);
+- bco: Kaluli;
+- bcp: Bali (Democratic Republic of Congo);
+- bcq: Bench;
+- bcr: Babine;
+- bcs: Kohumono;
+- bct: Bendi;
+- bcu: Awad Bing;
+- bcv: Shoo-Minda-Nye;
+- bcw: Bana;
+- bcy: Bacama;
+- bcz: Bainouk-Gunyaamolo;
+- bda: Bayot;
+- bdb: Basap;
+- bdc: Emberá-Baudó;
+- bdd: Bunama;
+- bde: Bade;
+- bdf: Biage;
+- bdg: Bonggi;
+- bdh: Baka (Sudan);
+- bdi: Burun;
+- bdj: Bai;
+- bdk: Budukh;
+- bdl: Indonesian Bajau;
+- bdm: Buduma;
+- bdn: Baldemu;
+- bdo: Morom;
+- bdp: Bende;
+- bdq: Bahnar;
+- bdr: West Coast Bajau;
+- bds: Burunge;
+- bdt: Bokoto;
+- bdu: Oroko;
+- bdv: Bodo Parja;
+- bdw: Baham;
+- bdx: Budong-Budong;
+- bdy: Bandjalang;
+- bdz: Badeshi;
+- bea: Beaver;
+- beb: Bebele;
+- bec: Iceve-Maci;
+- bed: Bedoanas;
+- bee: Byangsi;
+- bef: Benabena;
+- beg: Belait;
+- beh: Biali;
+- bei: Bekati';
+- bej: Beja;
+- bek: Bebeli;
+- bel: Belarusian;
+- bem: Bemba (Zambia);
+- ben: Bengali;
+- beo: Beami;
+- bep: Besoa;
+- beq: Beembe;
+- bes: Besme;
+- bet: Guiberoua Béte;
+- beu: Blagar;
+- bev: Daloa Bété;
+- bew: Betawi;
+- bex: Jur Modo;
+- bey: Beli (Papua New Guinea);
+- bez: Bena (Tanzania);
+- bfa: Bari;
+- bfb: Pauri Bareli;
+- bfc: Panyi Bai;
+- bfd: Bafut;
+- bfe: Betaf;
+- bff: Bofi;
+- bfg: Busang Kayan;
+- bfh: Blafe;
+- bfi: British Sign Language;
+- bfj: Bafanji;
+- bfk: Ban Khor Sign Language;
+- bfl: Banda-Ndélé;
+- bfm: Mmen;
+- bfn: Bunak;
+- bfo: Malba Birifor;
+- bfp: Beba;
+- bfq: Badaga;
+- bfr: Bazigar;
+- bfs: Southern Bai;
+- bft: Balti;
+- bfu: Gahri;
+- bfw: Bondo;
+- bfx: Bantayanon;
+- bfy: Bagheli;
+- bfz: Mahasu Pahari;
+- bga: Gwamhi-Wuri;
+- bgb: Bobongko;
+- bgc: Haryanvi;
+- bgd: Rathwi Bareli;
+- bge: Bauria;
+- bgf: Bangandu;
+- bgg: Bugun;
+- bgi: Giangan;
+- bgj: Bangolan;
+- bgk: Bit;
+- bgl: Bo (Laos);
+- bgm: Baga Mboteni;
+- bgn: Western Balochi;
+- bgo: Baga Koga;
+- bgp: Eastern Balochi;
+- bgq: Bagri;
+- bgr: Bawm Chin;
+- bgs: Tagabawa;
+- bgt: Bughotu;
+- bgu: Mbongno;
+- bgv: Warkay-Bipim;
+- bgw: Bhatri;
+- bgx: Balkan Gagauz Turkish;
+- bgy: Benggoi;
+- bgz: Banggai;
+- bha: Bharia;
+- bhb: Bhili;
+- bhc: Biga;
+- bhd: Bhadrawahi;
+- bhe: Bhaya;
+- bhf: Odiai;
+- bhg: Binandere;
+- bhh: Bukharic;
+- bhi: Bhilali;
+- bhj: Bahing;
+- bhl: Bimin;
+- bhm: Bathari;
+- bhn: Bohtan Neo-Aramaic;
+- bho: Bhojpuri;
+- bhp: Bima;
+- bhq: Tukang Besi South;
+- bhr: Bara Malagasy;
+- bhs: Buwal;
+- bht: Bhattiyali;
+- bhu: Bhunjia;
+- bhv: Bahau;
+- bhw: Biak;
+- bhx: Bhalay;
+- bhy: Bhele;
+- bhz: Bada (Indonesia);
+- bia: Badimaya;
+- bib: Bissa;
+- bic: Bikaru;
+- bid: Bidiyo;
+- bie: Bepour;
+- bif: Biafada;
+- big: Biangai;
+- bij: Vaghat-Ya-Bijim-Legeri;
+- bik: Bikol;
+- bil: Bile;
+- bim: Bimoba;
+- bin: Bini;
+- bio: Nai;
+- bip: Bila;
+- biq: Bipi;
+- bir: Bisorio;
+- bis: Bislama;
+- bit: Berinomo;
+- biu: Biete;
+- biv: Southern Birifor;
+- biw: Kol (Cameroon);
+- bix: Bijori;
+- biy: Birhor;
+- biz: Baloi;
+- bja: Budza;
+- bjb: Banggarla;
+- bjc: Bariji;
+- bje: Biao-Jiao Mien;
+- bjf: Barzani Jewish Neo-Aramaic;
+- bjg: Bidyogo;
+- bjh: Bahinemo;
+- bji: Burji;
+- bjj: Kanauji;
+- bjk: Barok;
+- bjl: Bulu (Papua New Guinea);
+- bjm: Bajelani;
+- bjn: Banjar;
+- bjo: Mid-Southern Banda;
+- bjp: Fanamaket;
+- bjr: Binumarien;
+- bjs: Bajan;
+- bjt: Balanta-Ganja;
+- bju: Busuu;
+- bjv: Bedjond;
+- bjw: Bakwé;
+- bjx: Banao Itneg;
+- bjy: Bayali;
+- bjz: Baruga;
+- bka: Kyak;
+- bkc: Baka (Cameroon);
+- bkd: Binukid;
+- bkf: Beeke;
+- bkg: Buraka;
+- bkh: Bakoko;
+- bki: Baki;
+- bkj: Pande;
+- bkk: Brokskat;
+- bkl: Berik;
+- bkm: Kom (Cameroon);
+- bkn: Bukitan;
+- bko: Kwa';
+- bkp: Boko (Democratic Republic of Congo);
+- bkq: Bakairí;
+- bkr: Bakumpai;
+- bks: Northern Sorsoganon;
+- bkt: Boloki;
+- bku: Buhid;
+- bkv: Bekwarra;
+- bkw: Bekwel;
+- bkx: Baikeno;
+- bky: Bokyi;
+- bkz: Bungku;
+- bla: Siksika;
+- blb: Bilua;
+- blc: Bella Coola;
+- bld: Bolango;
+- ble: Balanta-Kentohe;
+- blf: Buol;
+- blg: Balau;
+- blh: Kuwaa;
+- bli: Bolia;
+- blj: Bolongan;
+- blk: Pa'o Karen;
+- bll: Biloxi;
+- blm: Beli (Sudan);
+- bln: Southern Catanduanes Bikol;
+- blo: Anii;
+- blp: Blablanga;
+- blq: Baluan-Pam;
+- blr: Blang;
+- bls: Balaesang;
+- blt: Tai Dam;
+- blv: Bolo;
+- blw: Balangao;
+- blx: Mag-Indi Ayta;
+- bly: Notre;
+- blz: Balantak;
+- bma: Lame;
+- bmb: Bembe;
+- bmc: Biem;
+- bmd: Baga Manduri;
+- bme: Limassa;
+- bmf: Bom;
+- bmg: Bamwe;
+- bmh: Kein;
+- bmi: Bagirmi;
+- bmj: Bote-Majhi;
+- bmk: Ghayavi;
+- bml: Bomboli;
+- bmm: Northern Betsimisaraka Malagasy;
+- bmn: Bina (Papua New Guinea);
+- bmo: Bambalang;
+- bmp: Bulgebi;
+- bmq: Bomu;
+- bmr: Muinane;
+- bms: Bilma Kanuri;
+- bmt: Biao Mon;
+- bmu: Somba-Siawari;
+- bmv: Bum;
+- bmw: Bomwali;
+- bmx: Baimak;
+- bmy: Bemba (Democratic Republic of Congo);
+- bmz: Baramu;
+- bna: Bonerate;
+- bnb: Bookan;
+- bnc: Bontok;
+- bnd: Banda (Indonesia);
+- bne: Bintauna;
+- bnf: Masiwang;
+- bng: Benga;
+- bni: Bangi;
+- bnj: Eastern Tawbuid;
+- bnk: Bierebo;
+- bnl: Boon;
+- bnm: Batanga;
+- bnn: Bunun;
+- bno: Bantoanon;
+- bnp: Bola;
+- bnq: Bantik;
+- bnr: Butmas-Tur;
+- bns: Bundeli;
+- bnu: Bentong;
+- bnv: Bonerif;
+- bnw: Bisis;
+- bnx: Bangubangu;
+- bny: Bintulu;
+- bnz: Beezen;
+- boa: Bora;
+- bob: Aweer;
+- bod: Tibetan;
+- boe: Mundabli;
+- bof: Bolon;
+- bog: Bamako Sign Language;
+- boh: Boma;
+- boi: Barbareño;
+- boj: Anjam;
+- bok: Bonjo;
+- bol: Bole;
+- bom: Berom;
+- bon: Bine;
+- boo: Tiemacèwè Bozo;
+- bop: Bonkiman;
+- boq: Bogaya;
+- bor: Borôro;
+- bos: Bosnian;
+- bot: Bongo;
+- bou: Bondei;
+- bov: Tuwuli;
+- bow: Rema;
+- box: Buamu;
+- boy: Bodo (Central African Republic);
+- boz: Tiéyaxo Bozo;
+- bpa: Daakaka;
+- bpb: Barbacoas;
+- bpd: Banda-Banda;
+- bpg: Bonggo;
+- bph: Botlikh;
+- bpi: Bagupi;
+- bpj: Binji;
+- bpk: Orowe;
+- bpl: Broome Pearling Lugger Pidgin;
+- bpm: Biyom;
+- bpn: Dzao Min;
+- bpo: Anasi;
+- bpp: Kaure;
+- bpq: Banda Malay;
+- bpr: Koronadal Blaan;
+- bps: Sarangani Blaan;
+- bpt: Barrow Point;
+- bpu: Bongu;
+- bpv: Bian Marind;
+- bpw: Bo (Papua New Guinea);
+- bpx: Palya Bareli;
+- bpy: Bishnupriya;
+- bpz: Bilba;
+- bqa: Tchumbuli;
+- bqb: Bagusa;
+- bqc: Boko (Benin);
+- bqd: Bung;
+- bqf: Baga Kaloum;
+- bqg: Bago-Kusuntu;
+- bqh: Baima;
+- bqi: Bakhtiari;
+- bqj: Bandial;
+- bqk: Banda-Mbrès;
+- bql: Bilakura;
+- bqm: Wumboko;
+- bqn: Bulgarian Sign Language;
+- bqo: Balo;
+- bqp: Busa;
+- bqq: Biritai;
+- bqr: Burusu;
+- bqs: Bosngun;
+- bqt: Bamukumbit;
+- bqu: Boguru;
+- bqv: Koro Wachi;
+- bqw: Buru (Nigeria);
+- bqx: Baangi;
+- bqy: Bengkala Sign Language;
+- bqz: Bakaka;
+- bra: Braj;
+- brb: Lave;
+- brc: Berbice Creole Dutch;
+- brd: Baraamu;
+- bre: Breton;
+- brf: Bera;
+- brg: Baure;
+- brh: Brahui;
+- bri: Mokpwe;
+- brj: Bieria;
+- brk: Birked;
+- brl: Birwa;
+- brm: Barambu;
+- brn: Boruca;
+- bro: Brokkat;
+- brp: Barapasi;
+- brq: Breri;
+- brr: Birao;
+- brs: Baras;
+- brt: Bitare;
+- bru: Eastern Bru;
+- brv: Western Bru;
+- brw: Bellari;
+- brx: Bodo (India);
+- bry: Burui;
+- brz: Bilbil;
+- bsa: Abinomn;
+- bsb: Brunei Bisaya;
+- bsc: Bassari;
+- bse: Wushi;
+- bsf: Bauchi;
+- bsg: Bashkardi;
+- bsh: Kati;
+- bsi: Bassossi;
+- bsj: Bangwinji;
+- bsk: Burushaski;
+- bsl: Basa-Gumna;
+- bsm: Busami;
+- bsn: Barasana-Eduria;
+- bso: Buso;
+- bsp: Baga Sitemu;
+- bsq: Bassa;
+- bsr: Bassa-Kontagora;
+- bss: Akoose;
+- bst: Basketo;
+- bsu: Bahonsuai;
+- bsv: Baga Sobané;
+- bsw: Baiso;
+- bsx: Yangkam;
+- bsy: Sabah Bisaya;
+- bta: Bata;
+- btc: Bati (Cameroon);
+- btd: Batak Dairi;
+- bte: Gamo-Ningi;
+- btf: Birgit;
+- btg: Gagnoa Bété;
+- bth: Biatah Bidayuh;
+- bti: Burate;
+- btj: Bacanese Malay;
+- btl: Bhatola;
+- btm: Batak Mandailing;
+- btn: Ratagnon;
+- bto: Rinconada Bikol;
+- btp: Budibud;
+- btq: Batek;
+- btr: Baetora;
+- bts: Batak Simalungun;
+- btt: Bete-Bendi;
+- btu: Batu;
+- btv: Bateri;
+- btw: Butuanon;
+- btx: Batak Karo;
+- bty: Bobot;
+- btz: Batak Alas-Kluet;
+- bua: Buriat;
+- bub: Bua;
+- buc: Bushi;
+- bud: Ntcham;
+- bue: Beothuk;
+- buf: Bushoong;
+- bug: Buginese;
+- buh: Younuo Bunu;
+- bui: Bongili;
+- buj: Basa-Gurmana;
+- buk: Bugawac;
+- bul: Bulgarian;
+- bum: Bulu (Cameroon);
+- bun: Sherbro;
+- buo: Terei;
+- bup: Busoa;
+- buq: Brem;
+- bus: Bokobaru;
+- but: Bungain;
+- buu: Budu;
+- buv: Bun;
+- buw: Bubi;
+- bux: Boghom;
+- buy: Bullom So;
+- buz: Bukwen;
+- bva: Barein;
+- bvb: Bube;
+- bvc: Baelelea;
+- bvd: Baeggu;
+- bve: Berau Malay;
+- bvf: Boor;
+- bvg: Bonkeng;
+- bvh: Bure;
+- bvi: Belanda Viri;
+- bvj: Baan;
+- bvk: Bukat;
+- bvl: Bolivian Sign Language;
+- bvm: Bamunka;
+- bvn: Buna;
+- bvo: Bolgo;
+- bvp: Bumang;
+- bvq: Birri;
+- bvr: Burarra;
+- bvt: Bati (Indonesia);
+- bvu: Bukit Malay;
+- bvv: Baniva;
+- bvw: Boga;
+- bvx: Dibole;
+- bvy: Baybayanon;
+- bvz: Bauzi;
+- bwa: Bwatoo;
+- bwb: Namosi-Naitasiri-Serua;
+- bwc: Bwile;
+- bwd: Bwaidoka;
+- bwe: Bwe Karen;
+- bwf: Boselewa;
+- bwg: Barwe;
+- bwh: Bishuo;
+- bwi: Baniwa;
+- bwj: Láá Láá Bwamu;
+- bwk: Bauwaki;
+- bwl: Bwela;
+- bwm: Biwat;
+- bwn: Wunai Bunu;
+- bwo: Boro (Ethiopia);
+- bwp: Mandobo Bawah;
+- bwq: Southern Bobo Madaré;
+- bwr: Bura-Pabir;
+- bws: Bomboma;
+- bwt: Bafaw-Balong;
+- bwu: Buli (Ghana);
+- bww: Bwa;
+- bwx: Bu-Nao Bunu;
+- bwy: Cwi Bwamu;
+- bwz: Bwisi;
+- bxa: Tairaha;
+- bxb: Belanda Bor;
+- bxc: Molengue;
+- bxd: Pela;
+- bxe: Birale;
+- bxf: Bilur;
+- bxg: Bangala;
+- bxh: Buhutu;
+- bxi: Pirlatapa;
+- bxj: Bayungu;
+- bxk: Bukusu;
+- bxl: Jalkunan;
+- bxm: Mongolia Buriat;
+- bxn: Burduna;
+- bxo: Barikanchi;
+- bxp: Bebil;
+- bxq: Beele;
+- bxr: Russia Buriat;
+- bxs: Busam;
+- bxu: China Buriat;
+- bxv: Berakou;
+- bxw: Bankagooma;
+- bxx: Borna (Democratic Republic of Congo);
+- bxz: Binahari;
+- bya: Batak;
+- byb: Bikya;
+- byc: Ubaghara;
+- byd: Benyadu';
+- bye: Pouye;
+- byf: Bete;
+- byg: Baygo;
+- byh: Bhujel;
+- byi: Buyu;
+- byj: Bina (Nigeria);
+- byk: Biao;
+- byl: Bayono;
+- bym: Bidyara;
+- byn: Bilin;
+- byo: Biyo;
+- byp: Bumaji;
+- byq: Basay;
+- byr: Baruya;
+- bys: Burak;
+- byt: Berti;
+- byv: Medumba;
+- byw: Belhariya;
+- byx: Qaqet;
+- byy: Buya;
+- byz: Banaro;
+- bza: Bandi;
+- bzb: Andio;
+- bzc: Southern Betsimisaraka Malagasy;
+- bzd: Bribri;
+- bze: Jenaama Bozo;
+- bzf: Boikin;
+- bzg: Babuza;
+- bzh: Mapos Buang;
+- bzi: Bisu;
+- bzj: Belize Kriol English;
+- bzk: Nicaragua Creole English;
+- bzl: Boano (Sulawesi);
+- bzm: Bolondo;
+- bzn: Boano (Maluku);
+- bzo: Bozaba;
+- bzp: Kemberano;
+- bzq: Buli (Indonesia);
+- bzr: Biri;
+- bzs: Brazilian Sign Language;
+- bzt: Brithenig;
+- bzu: Burmeso;
+- bzv: Naami;
+- bzw: Basa (Nigeria);
+- bzx: Kɛlɛngaxo Bozo;
+- bzy: Obanliku;
+- bzz: Evant;
+- caa: Chortí;
+- cab: Garifuna;
+- cac: Chuj;
+- cad: Caddo;
+- cae: Lehar;
+- caf: Southern Carrier;
+- cag: Nivaclé;
+- cah: Cahuarano;
+- caj: Chané;
+- cak: Kaqchikel;
+- cal: Carolinian;
+- cam: Cemuhî;
+- can: Chambri;
+- cao: Chácobo;
+- cap: Chipaya;
+- caq: Car Nicobarese;
+- car: Galibi Carib;
+- cas: Tsimané;
+- cat: Catalan;
+- cav: Cavineña;
+- caw: Callawalla;
+- cax: Chiquitano;
+- cay: Cayuga;
+- caz: Canichana;
+- cbb: Cabiyarí;
+- cbc: Carapana;
+- cbd: Carijona;
+- cbe: Chipiajes;
+- cbg: Chimila;
+- cbh: Cagua;
+- cbi: Chachi;
+- cbj: Ede Cabe;
+- cbk: Chavacano;
+- cbl: Bualkhaw Chin;
+- cbn: Nyahkur;
+- cbo: Izora;
+- cbr: Cashibo-Cacataibo;
+- cbs: Cashinahua;
+- cbt: Chayahuita;
+- cbu: Candoshi-Shapra;
+- cbv: Cacua;
+- cbw: Kinabalian;
+- cby: Carabayo;
+- cca: Cauca;
+- ccc: Chamicuro;
+- ccd: Cafundo Creole;
+- cce: Chopi;
+- ccg: Samba Daka;
+- cch: Atsam;
+- ccj: Kasanga;
+- ccl: Cutchi-Swahili;
+- ccm: Malaccan Creole Malay;
+- cco: Comaltepec Chinantec;
+- ccp: Chakma;
+- ccr: Cacaopera;
+- cda: Choni;
+- cde: Chenchu;
+- cdf: Chiru;
+- cdg: Chamari;
+- cdh: Chambeali;
+- cdi: Chodri;
+- cdj: Churahi;
+- cdm: Chepang;
+- cdn: Chaudangsi;
+- cdo: Min Dong Chinese;
+- cdr: Cinda-Regi-Tiyal;
+- cds: Chadian Sign Language;
+- cdy: Chadong;
+- cdz: Koda;
+- cea: Lower Chehalis;
+- ceb: Cebuano;
+- ceg: Chamacoco;
+- cek: Eastern Khumi Chin;
+- cen: Cen;
+- ces: Czech;
+- cet: Centúúm;
+- cfa: Dijim-Bwilim;
+- cfd: Cara;
+- cfg: Como Karim;
+- cfm: Falam Chin;
+- cga: Changriwa;
+- cgc: Kagayanen;
+- cgg: Chiga;
+- cgk: Chocangacakha;
+- cha: Chamorro;
+- chb: Chibcha;
+- chc: Catawba;
+- chd: Highland Oaxaca Chontal;
+- che: Chechen;
+- chf: Tabasco Chontal;
+- chg: Chagatai;
+- chh: Chinook;
+- chj: Ojitlán Chinantec;
+- chk: Chuukese;
+- chl: Cahuilla;
+- chm: Mari (Russia);
+- chn: Chinook jargon;
+- cho: Choctaw;
+- chp: Chipewyan;
+- chq: Quiotepec Chinantec;
+- chr: Cherokee;
+- cht: Cholón;
+- chu: Church Slavic;
+- chv: Chuvash;
+- chw: Chuwabu;
+- chx: Chantyal;
+- chy: Cheyenne;
+- chz: Ozumacín Chinantec;
+- cia: Cia-Cia;
+- cib: Ci Gbe;
+- cic: Chickasaw;
+- cid: Chimariko;
+- cie: Cineni;
+- cih: Chinali;
+- cik: Chitkuli Kinnauri;
+- cim: Cimbrian;
+- cin: Cinta Larga;
+- cip: Chiapanec;
+- cir: Tiri;
+- ciw: Chippewa;
+- ciy: Chaima;
+- cja: Western Cham;
+- cje: Chru;
+- cjh: Upper Chehalis;
+- cji: Chamalal;
+- cjk: Chokwe;
+- cjm: Eastern Cham;
+- cjn: Chenapian;
+- cjo: Ashéninka Pajonal;
+- cjp: Cabécar;
+- cjs: Shor;
+- cjv: Chuave;
+- cjy: Jinyu Chinese;
+- ckb: Central Kurdish;
+- ckh: Chak;
+- ckl: Cibak;
+- ckn: Kaang Chin;
+- cko: Anufo;
+- ckq: Kajakse;
+- ckr: Kairak;
+- cks: Tayo;
+- ckt: Chukot;
+- cku: Koasati;
+- ckv: Kavalan;
+- ckx: Caka;
+- cky: Cakfem-Mushere;
+- ckz: Cakchiquel-Quiché Mixed Language;
+- cla: Ron;
+- clc: Chilcotin;
+- cld: Chaldean Neo-Aramaic;
+- cle: Lealao Chinantec;
+- clh: Chilisso;
+- cli: Chakali;
+- clj: Laitu Chin;
+- clk: Idu-Mishmi;
+- cll: Chala;
+- clm: Clallam;
+- clo: Lowland Oaxaca Chontal;
+- clt: Lautu Chin;
+- clu: Caluyanun;
+- clw: Chulym;
+- cly: Eastern Highland Chatino;
+- cma: Maa;
+- cme: Cerma;
+- cmg: Classical Mongolian;
+- cmi: Emberá-Chamí;
+- cml: Campalagian;
+- cmm: Michigamea;
+- cmn: Mandarin Chinese;
+- cmo: Central Mnong;
+- cmr: Mro-Khimi Chin;
+- cms: Messapic;
+- cmt: Camtho;
+- cna: Changthang;
+- cnb: Chinbon Chin;
+- cnc: Côông;
+- cng: Northern Qiang;
+- cnh: Haka Chin;
+- cni: Asháninka;
+- cnk: Khumi Chin;
+- cnl: Lalana Chinantec;
+- cno: Con;
+- cns: Central Asmat;
+- cnt: Tepetotutla Chinantec;
+- cnu: Chenoua;
+- cnw: Ngawn Chin;
+- cnx: Middle Cornish;
+- coa: Cocos Islands Malay;
+- cob: Chicomuceltec;
+- coc: Cocopa;
+- cod: Cocama-Cocamilla;
+- coe: Koreguaje;
+- cof: Colorado;
+- cog: Chong;
+- coh: Chonyi-Dzihana-Kauma;
+- coj: Cochimi;
+- cok: Santa Teresa Cora;
+- col: Columbia-Wenatchi;
+- com: Comanche;
+- con: Cofán;
+- coo: Comox;
+- cop: Coptic;
+- coq: Coquille;
+- cor: Cornish;
+- cos: Corsican;
+- cot: Caquinte;
+- cou: Wamey;
+- cov: Cao Miao;
+- cow: Cowlitz;
+- cox: Nanti;
+- coy: Coyaima;
+- coz: Chochotec;
+- cpa: Palantla Chinantec;
+- cpb: Ucayali-Yurúa Ashéninka;
+- cpc: Ajyíninka Apurucayali;
+- cpg: Cappadocian Greek;
+- cpi: Chinese Pidgin English;
+- cpn: Cherepon;
+- cpo: Kpeego;
+- cps: Capiznon;
+- cpu: Pichis Ashéninka;
+- cpx: Pu-Xian Chinese;
+- cpy: South Ucayali Ashéninka;
+- cqd: Chuanqiandian Cluster Miao;
+- cqu: Chilean Quechua;
+- cra: Chara;
+- crb: Island Carib;
+- crc: Lonwolwol;
+- crd: Coeur d'Alene;
+- cre: Cree;
+- crf: Caramanta;
+- crg: Michif;
+- crh: Crimean Tatar;
+- cri: Sãotomense;
+- crj: Southern East Cree;
+- crk: Plains Cree;
+- crl: Northern East Cree;
+- crm: Moose Cree;
+- crn: El Nayar Cora;
+- cro: Crow;
+- crq: Iyo'wujwa Chorote;
+- crr: Carolina Algonquian;
+- crs: Seselwa Creole French;
+- crt: Iyojwa'ja Chorote;
+- crv: Chaura;
+- crw: Chrau;
+- crx: Carrier;
+- cry: Cori;
+- crz: Cruzeño;
+- csa: Chiltepec Chinantec;
+- csb: Kashubian;
+- csc: Catalan Sign Language;
+- csd: Chiangmai Sign Language;
+- cse: Czech Sign Language;
+- csf: Cuba Sign Language;
+- csg: Chilean Sign Language;
+- csh: Asho Chin;
+- csi: Coast Miwok;
+- csj: Songlai Chin;
+- csk: Jola-Kasa;
+- csl: Chinese Sign Language;
+- csm: Central Sierra Miwok;
+- csn: Colombian Sign Language;
+- cso: Sochiapam Chinantec;
+- csq: Croatia Sign Language;
+- csr: Costa Rican Sign Language;
+- css: Southern Ohlone;
+- cst: Northern Ohlone;
+- csv: Sumtu Chin;
+- csw: Swampy Cree;
+- csy: Siyin Chin;
+- csz: Coos;
+- cta: Tataltepec Chatino;
+- ctc: Chetco;
+- ctd: Tedim Chin;
+- cte: Tepinapa Chinantec;
+- ctg: Chittagonian;
+- cth: Thaiphum Chin;
+- ctl: Tlacoatzintepec Chinantec;
+- ctm: Chitimacha;
+- ctn: Chhintange;
+- cto: Emberá-Catío;
+- ctp: Western Highland Chatino;
+- cts: Northern Catanduanes Bikol;
+- ctt: Wayanad Chetti;
+- ctu: Chol;
+- ctz: Zacatepec Chatino;
+- cua: Cua;
+- cub: Cubeo;
+- cuc: Usila Chinantec;
+- cug: Cung;
+- cuh: Chuka;
+- cui: Cuiba;
+- cuj: Mashco Piro;
+- cuk: San Blas Kuna;
+- cul: Culina;
+- cum: Cumeral;
+- cuo: Cumanagoto;
+- cup: Cupeño;
+- cuq: Cun;
+- cur: Chhulung;
+- cut: Teutila Cuicatec;
+- cuu: Tai Ya;
+- cuv: Cuvok;
+- cuw: Chukwa;
+- cux: Tepeuxila Cuicatec;
+- cvg: Chug;
+- cvn: Valle Nacional Chinantec;
+- cwa: Kabwa;
+- cwb: Maindo;
+- cwd: Woods Cree;
+- cwe: Kwere;
+- cwg: Chewong;
+- cwt: Kuwaataay;
+- cya: Nopala Chatino;
+- cyb: Cayubaba;
+- cym: Welsh;
+- cyo: Cuyonon;
+- czh: Huizhou Chinese;
+- czk: Knaanic;
+- czn: Zenzontepec Chatino;
+- czo: Min Zhong Chinese;
+- czt: Zotung Chin;
+- daa: Dangaléat;
+- dac: Dambi;
+- dad: Marik;
+- dae: Duupa;
+- dag: Dagbani;
+- dah: Gwahatike;
+- dai: Day;
+- daj: Dar Fur Daju;
+- dak: Dakota;
+- dal: Dahalo;
+- dam: Damakawa;
+- dan: Danish;
+- dao: Daai Chin;
+- daq: Dandami Maria;
+- dar: Dargwa;
+- das: Daho-Doo;
+- dau: Dar Sila Daju;
+- dav: Taita;
+- daw: Davawenyo;
+- dax: Dayi;
+- daz: Dao;
+- dba: Bangime;
+- dbb: Deno;
+- dbd: Dadiya;
+- dbe: Dabe;
+- dbf: Edopi;
+- dbg: Dogul Dom Dogon;
+- dbi: Doka;
+- dbj: Ida'an;
+- dbl: Dyirbal;
+- dbm: Duguri;
+- dbn: Duriankere;
+- dbo: Dulbu;
+- dbp: Duwai;
+- dbq: Daba;
+- dbr: Dabarre;
+- dbt: Ben Tey Dogon;
+- dbu: Bondum Dom Dogon;
+- dbv: Dungu;
+- dbw: Bankan Tey Dogon;
+- dby: Dibiyaso;
+- dcc: Deccan;
+- dcr: Negerhollands;
+- dda: Dadi Dadi;
+- ddd: Dongotono;
+- dde: Doondo;
+- ddg: Fataluku;
+- ddi: West Goodenough;
+- ddj: Jaru;
+- ddn: Dendi (Benin);
+- ddo: Dido;
+- ddr: Dhudhuroa;
+- dds: Donno So Dogon;
+- ddw: Dawera-Daweloor;
+- dec: Dagik;
+- ded: Dedua;
+- dee: Dewoin;
+- def: Dezfuli;
+- deg: Degema;
+- deh: Dehwari;
+- dei: Demisa;
+- dek: Dek;
+- del: Delaware;
+- dem: Dem;
+- den: Slave (Athapascan);
+- dep: Pidgin Delaware;
+- deq: Dendi (Central African Republic);
+- der: Deori;
+- des: Desano;
+- deu: German;
+- dev: Domung;
+- dez: Dengese;
+- dga: Southern Dagaare;
+- dgb: Bunoge Dogon;
+- dgc: Casiguran Dumagat Agta;
+- dgd: Dagaari Dioula;
+- dge: Degenan;
+- dgg: Doga;
+- dgh: Dghwede;
+- dgi: Northern Dagara;
+- dgk: Dagba;
+- dgl: Andaandi;
+- dgn: Dagoman;
+- dgo: Dogri (individual language);
+- dgr: Dogrib;
+- dgs: Dogoso;
+- dgt: Ndra'ngith;
+- dgu: Degaru;
+- dgw: Daungwurrung;
+- dgx: Doghoro;
+- dgz: Daga;
+- dhd: Dhundari;
+- dhg: Dhangu;
+- dhi: Dhimal;
+- dhl: Dhalandji;
+- dhm: Zemba;
+- dhn: Dhanki;
+- dho: Dhodia;
+- dhr: Dhargari;
+- dhs: Dhaiso;
+- dhu: Dhurga;
+- dhv: Dehu;
+- dhw: Dhanwar (Nepal);
+- dhx: Dhungaloo;
+- dia: Dia;
+- dib: South Central Dinka;
+- dic: Lakota Dida;
+- did: Didinga;
+- dif: Dieri;
+- dig: Digo;
+- dih: Kumiai;
+- dii: Dimbong;
+- dij: Dai;
+- dik: Southwestern Dinka;
+- dil: Dilling;
+- dim: Dime;
+- din: Dinka;
+- dio: Dibo;
+- dip: Northeastern Dinka;
+- diq: Dimli (individual language);
+- dir: Dirim;
+- dis: Dimasa;
+- dit: Dirari;
+- diu: Diriku;
+- div: Dhivehi;
+- diw: Northwestern Dinka;
+- dix: Dixon Reef;
+- diy: Diuwe;
+- diz: Ding;
+- dja: Djadjawurrung;
+- djb: Djinba;
+- djc: Dar Daju Daju;
+- djd: Djamindjung;
+- dje: Zarma;
+- djf: Djangun;
+- dji: Djinang;
+- djj: Djeebbana;
+- djk: Eastern Maroon Creole;
+- djm: Jamsay Dogon;
+- djn: Djauan;
+- djo: Jangkang;
+- djr: Djambarrpuyngu;
+- dju: Kapriman;
+- djw: Djawi;
+- dka: Dakpakha;
+- dkk: Dakka;
+- dkr: Kuijau;
+- dks: Southeastern Dinka;
+- dkx: Mazagway;
+- dlg: Dolgan;
+- dlk: Dahalik;
+- dlm: Dalmatian;
+- dln: Darlong;
+- dma: Duma;
+- dmb: Mombo Dogon;
+- dmc: Gavak;
+- dmd: Madhi Madhi;
+- dme: Dugwor;
+- dmg: Upper Kinabatangan;
+- dmk: Domaaki;
+- dml: Dameli;
+- dmm: Dama;
+- dmo: Kemedzung;
+- dmr: East Damar;
+- dms: Dampelas;
+- dmu: Dubu;
+- dmv: Dumpas;
+- dmw: Mudburra;
+- dmx: Dema;
+- dmy: Demta;
+- dna: Upper Grand Valley Dani;
+- dnd: Daonda;
+- dne: Ndendeule;
+- dng: Dungan;
+- dni: Lower Grand Valley Dani;
+- dnj: Dan;
+- dnk: Dengka;
+- dnn: Dzùùngoo;
+- dnr: Danaru;
+- dnt: Mid Grand Valley Dani;
+- dnu: Danau;
+- dnv: Danu;
+- dnw: Western Dani;
+- dny: Dení;
+- doa: Dom;
+- dob: Dobu;
+- doc: Northern Dong;
+- doe: Doe;
+- dof: Domu;
+- doh: Dong;
+- doi: Dogri (macrolanguage);
+- dok: Dondo;
+- dol: Doso;
+- don: Toura (Papua New Guinea);
+- doo: Dongo;
+- dop: Lukpa;
+- doq: Dominican Sign Language;
+- dor: Dori'o;
+- dos: Dogosé;
+- dot: Dass;
+- dov: Dombe;
+- dow: Doyayo;
+- dox: Bussa;
+- doy: Dompo;
+- doz: Dorze;
+- dpp: Papar;
+- drb: Dair;
+- drc: Minderico;
+- drd: Darmiya;
+- dre: Dolpo;
+- drg: Rungus;
+- dri: C'lela;
+- drl: Paakantyi;
+- drn: West Damar;
+- dro: Daro-Matu Melanau;
+- drq: Dura;
+- drr: Dororo;
+- drs: Gedeo;
+- drt: Drents;
+- dru: Rukai;
+- dry: Darai;
+- dsb: Lower Sorbian;
+- dse: Dutch Sign Language;
+- dsh: Daasanach;
+- dsi: Disa;
+- dsl: Danish Sign Language;
+- dsn: Dusner;
+- dso: Desiya;
+- dsq: Tadaksahak;
+- dta: Daur;
+- dtb: Labuk-Kinabatangan Kadazan;
+- dtd: Ditidaht;
+- dth: Adithinngithigh;
+- dti: Ana Tinga Dogon;
+- dtk: Tene Kan Dogon;
+- dtm: Tomo Kan Dogon;
+- dto: Tommo So Dogon;
+- dtp: Central Dusun;
+- dtr: Lotud;
+- dts: Toro So Dogon;
+- dtt: Toro Tegu Dogon;
+- dtu: Tebul Ure Dogon;
+- dty: Dotyali;
+- dua: Duala;
+- dub: Dubli;
+- duc: Duna;
+- dud: Hun-Saare;
+- due: Umiray Dumaget Agta;
+- duf: Dumbea;
+- dug: Duruma;
+- duh: Dungra Bhil;
+- dui: Dumun;
+- duj: Dhuwal;
+- duk: Uyajitaya;
+- dul: Alabat Island Agta;
+- dum: Middle Dutch (ca. 1050-1350);
+- dun: Dusun Deyah;
+- duo: Dupaninan Agta;
+- dup: Duano;
+- duq: Dusun Malang;
+- dur: Dii;
+- dus: Dumi;
+- duu: Drung;
+- duv: Duvle;
+- duw: Dusun Witu;
+- dux: Duungooma;
+- duy: Dicamay Agta;
+- duz: Duli;
+- dva: Duau;
+- dwa: Diri;
+- dwr: Dawro;
+- dws: Dutton World Speedwords;
+- dww: Dawawa;
+- dya: Dyan;
+- dyb: Dyaberdyaber;
+- dyd: Dyugun;
+- dyg: Villa Viciosa Agta;
+- dyi: Djimini Senoufo;
+- dym: Yanda Dom Dogon;
+- dyn: Dyangadi;
+- dyo: Jola-Fonyi;
+- dyu: Dyula;
+- dyy: Dyaabugay;
+- dza: Tunzu;
+- dzd: Daza;
+- dze: Djiwarli;
+- dzg: Dazaga;
+- dzl: Dzalakha;
+- dzn: Dzando;
+- dzo: Dzongkha;
+- eaa: Karenggapa;
+- ebg: Ebughu;
+- ebk: Eastern Bontok;
+- ebo: Teke-Ebo;
+- ebr: Ebrié;
+- ebu: Embu;
+- ecr: Eteocretan;
+- ecs: Ecuadorian Sign Language;
+- ecy: Eteocypriot;
+- eee: E;
+- efa: Efai;
+- efe: Efe;
+- efi: Efik;
+- ega: Ega;
+- egl: Emilian;
+- ego: Eggon;
+- egy: Egyptian (Ancient);
+- ehu: Ehueun;
+- eip: Eipomek;
+- eit: Eitiep;
+- eiv: Askopan;
+- eja: Ejamat;
+- eka: Ekajuk;
+- ekc: Eastern Karnic;
+- eke: Ekit;
+- ekg: Ekari;
+- eki: Eki;
+- ekk: Standard Estonian;
+- ekl: Kol (Bangladesh);
+- ekm: Elip;
+- eko: Koti;
+- ekp: Ekpeye;
+- ekr: Yace;
+- eky: Eastern Kayah;
+- ele: Elepi;
+- elh: El Hugeirat;
+- eli: Nding;
+- elk: Elkei;
+- ell: Modern Greek (1453-);
+- elm: Eleme;
+- elo: El Molo;
+- elu: Elu;
+- elx: Elamite;
+- ema: Emai-Iuleha-Ora;
+- emb: Embaloh;
+- eme: Emerillon;
+- emg: Eastern Meohang;
+- emi: Mussau-Emira;
+- emk: Eastern Maninkakan;
+- emm: Mamulique;
+- emn: Eman;
+- emp: Northern Emberá;
+- ems: Pacific Gulf Yupik;
+- emu: Eastern Muria;
+- emw: Emplawas;
+- emx: Erromintxela;
+- emy: Epigraphic Mayan;
+- ena: Apali;
+- enb: Markweeta;
+- enc: En;
+- end: Ende;
+- enf: Forest Enets;
+- eng: English;
+- enh: Tundra Enets;
+- enl: Enlhet;
+- enm: Middle English (1100-1500);
+- enn: Engenni;
+- eno: Enggano;
+- enq: Enga;
+- enr: Emumu;
+- enu: Enu;
+- env: Enwan (Edu State);
+- enw: Enwan (Akwa Ibom State);
+- enx: Enxet;
+- eot: Beti (Côte d'Ivoire);
+- epi: Epie;
+- epo: Esperanto;
+- era: Eravallan;
+- erg: Sie;
+- erh: Eruwa;
+- eri: Ogea;
+- erk: South Efate;
+- ero: Horpa;
+- err: Erre;
+- ers: Ersu;
+- ert: Eritai;
+- erw: Erokwanas;
+- ese: Ese Ejja;
+- esh: Eshtehardi;
+- esi: North Alaskan Inupiatun;
+- esk: Northwest Alaska Inupiatun;
+- esl: Egypt Sign Language;
+- esm: Esuma;
+- esn: Salvadoran Sign Language;
+- eso: Estonian Sign Language;
+- esq: Esselen;
+- ess: Central Siberian Yupik;
+- est: Estonian;
+- esu: Central Yupik;
+- esy: Eskayan;
+- etb: Etebi;
+- etc: Etchemin;
+- eth: Ethiopian Sign Language;
+- etn: Eton (Vanuatu);
+- eto: Eton (Cameroon);
+- etr: Edolo;
+- ets: Yekhee;
+- ett: Etruscan;
+- etu: Ejagham;
+- etx: Eten;
+- etz: Semimi;
+- eus: Basque;
+- eve: Even;
+- evh: Uvbie;
+- evn: Evenki;
+- ewe: Ewe;
+- ewo: Ewondo;
+- ext: Extremaduran;
+- eya: Eyak;
+- eyo: Keiyo;
+- eza: Ezaa;
+- eze: Uzekwe;
+- faa: Fasu;
+- fab: Fa d'Ambu;
+- fad: Wagi;
+- faf: Fagani;
+- fag: Finongan;
+- fah: Baissa Fali;
+- fai: Faiwol;
+- faj: Faita;
+- fak: Fang (Cameroon);
+- fal: South Fali;
+- fam: Fam;
+- fan: Fang (Equatorial Guinea);
+- fao: Faroese;
+- fap: Palor;
+- far: Fataleka;
+- fas: Persian;
+- fat: Fanti;
+- fau: Fayu;
+- fax: Fala;
+- fay: Southwestern Fars;
+- faz: Northwestern Fars;
+- fbl: West Albay Bikol;
+- fcs: Quebec Sign Language;
+- fer: Feroge;
+- ffi: Foia Foia;
+- ffm: Maasina Fulfulde;
+- fgr: Fongoro;
+- fia: Nobiin;
+- fie: Fyer;
+- fij: Fijian;
+- fil: Filipino;
+- fin: Finnish;
+- fip: Fipa;
+- fir: Firan;
+- fit: Tornedalen Finnish;
+- fiw: Fiwaga;
+- fkk: Kirya-Konzəl;
+- fkv: Kven Finnish;
+- fla: Kalispel-Pend d'Oreille;
+- flh: Foau;
+- fli: Fali;
+- fll: North Fali;
+- fln: Flinders Island;
+- flr: Fuliiru;
+- fly: Flaaitaal;
+- fmp: Fe'fe';
+- fmu: Far Western Muria;
+- fng: Fanagalo;
+- fni: Fania;
+- fod: Foodo;
+- foi: Foi;
+- fom: Foma;
+- fon: Fon;
+- for: Fore;
+- fos: Siraya;
+- fpe: Fernando Po Creole English;
+- fqs: Fas;
+- fra: French;
+- frc: Cajun French;
+- frd: Fordata;
+- frk: Frankish;
+- frm: Middle French (ca. 1400-1600);
+- fro: Old French (842-ca. 1400);
+- frp: Arpitan;
+- frq: Forak;
+- frr: Northern Frisian;
+- frs: Eastern Frisian;
+- frt: Fortsenal;
+- fry: Western Frisian;
+- fse: Finnish Sign Language;
+- fsl: French Sign Language;
+- fss: Finland-Swedish Sign Language;
+- fub: Adamawa Fulfulde;
+- fuc: Pulaar;
+- fud: East Futuna;
+- fue: Borgu Fulfulde;
+- fuf: Pular;
+- fuh: Western Niger Fulfulde;
+- fui: Bagirmi Fulfulde;
+- fuj: Ko;
+- ful: Fulah;
+- fum: Fum;
+- fun: Fulniô;
+- fuq: Central-Eastern Niger Fulfulde;
+- fur: Friulian;
+- fut: Futuna-Aniwa;
+- fuu: Furu;
+- fuv: Nigerian Fulfulde;
+- fuy: Fuyug;
+- fvr: Fur;
+- fwa: Fwâi;
+- fwe: Fwe;
+- gaa: Ga;
+- gab: Gabri;
+- gac: Mixed Great Andamanese;
+- gad: Gaddang;
+- gae: Guarequena;
+- gaf: Gende;
+- gag: Gagauz;
+- gah: Alekano;
+- gai: Borei;
+- gaj: Gadsup;
+- gak: Gamkonora;
+- gal: Galolen;
+- gam: Kandawo;
+- gan: Gan Chinese;
+- gao: Gants;
+- gap: Gal;
+- gaq: Gata';
+- gar: Galeya;
+- gas: Adiwasi Garasia;
+- gat: Kenati;
+- gau: Mudhili Gadaba;
+- gaw: Nobonob;
+- gax: Borana-Arsi-Guji Oromo;
+- gay: Gayo;
+- gaz: West Central Oromo;
+- gba: Gbaya (Central African Republic);
+- gbb: Kaytetye;
+- gbd: Karadjeri;
+- gbe: Niksek;
+- gbf: Gaikundi;
+- gbg: Gbanziri;
+- gbh: Defi Gbe;
+- gbi: Galela;
+- gbj: Bodo Gadaba;
+- gbk: Gaddi;
+- gbl: Gamit;
+- gbm: Garhwali;
+- gbn: Mo'da;
+- gbo: Northern Grebo;
+- gbp: Gbaya-Bossangoa;
+- gbq: Gbaya-Bozoum;
+- gbr: Gbagyi;
+- gbs: Gbesi Gbe;
+- gbu: Gagadu;
+- gbv: Gbanu;
+- gbw: Gabi-Gabi;
+- gbx: Eastern Xwla Gbe;
+- gby: Gbari;
+- gbz: Zoroastrian Dari;
+- gcc: Mali;
+- gcd: Ganggalida;
+- gce: Galice;
+- gcf: Guadeloupean Creole French;
+- gcl: Grenadian Creole English;
+- gcn: Gaina;
+- gcr: Guianese Creole French;
+- gct: Colonia Tovar German;
+- gda: Gade Lohar;
+- gdb: Pottangi Ollar Gadaba;
+- gdc: Gugu Badhun;
+- gdd: Gedaged;
+- gde: Gude;
+- gdf: Guduf-Gava;
+- gdg: Ga'dang;
+- gdh: Gadjerawang;
+- gdi: Gundi;
+- gdj: Gurdjar;
+- gdk: Gadang;
+- gdl: Dirasha;
+- gdm: Laal;
+- gdn: Umanakaina;
+- gdo: Ghodoberi;
+- gdq: Mehri;
+- gdr: Wipi;
+- gds: Ghandruk Sign Language;
+- gdt: Kungardutyi;
+- gdu: Gudu;
+- gdx: Godwari;
+- gea: Geruma;
+- geb: Kire;
+- gec: Gboloo Grebo;
+- ged: Gade;
+- geg: Gengle;
+- geh: Hutterite German;
+- gei: Gebe;
+- gej: Gen;
+- gek: Yiwom;
+- gel: ut-Ma'in;
+- geq: Geme;
+- ges: Geser-Gorom;
+- gev: Eviya;
+- gew: Gera;
+- gex: Garre;
+- gey: Enya;
+- gez: Geez;
+- gfk: Patpatar;
+- gft: Gafat;
+- gfx: Mangetti Dune !Xung;
+- gga: Gao;
+- ggb: Gbii;
+- ggd: Gugadj;
+- gge: Guragone;
+- ggg: Gurgula;
+- ggk: Kungarakany;
+- ggl: Ganglau;
+- ggn: Eastern Gurung;
+- ggo: Southern Gondi;
+- ggt: Gitua;
+- ggu: Gagu;
+- ggw: Gogodala;
+- gha: Ghadamès;
+- ghc: Hiberno-Scottish Gaelic;
+- ghe: Southern Ghale;
+- ghh: Northern Ghale;
+- ghk: Geko Karen;
+- ghl: Ghulfan;
+- ghn: Ghanongga;
+- gho: Ghomara;
+- ghr: Ghera;
+- ghs: Guhu-Samane;
+- ght: Kuke;
+- gia: Kitja;
+- gib: Gibanawa;
+- gic: Gail;
+- gid: Gidar;
+- gig: Goaria;
+- gih: Githabul;
+- gil: Gilbertese;
+- gim: Gimi (Eastern Highlands);
+- gin: Hinukh;
+- gip: Gimi (West New Britain);
+- giq: Green Gelao;
+- gir: Red Gelao;
+- gis: North Giziga;
+- git: Gitxsan;
+- giu: Mulao;
+- giw: White Gelao;
+- gix: Gilima;
+- giy: Giyug;
+- giz: South Giziga;
+- gji: Geji;
+- gjk: Kachi Koli;
+- gjm: Gunditjmara;
+- gjn: Gonja;
+- gju: Gujari;
+- gka: Guya;
+- gke: Ndai;
+- gkn: Gokana;
+- gko: Kok-Nar;
+- gkp: Guinea Kpelle;
+- gla: Scottish Gaelic;
+- glc: Bon Gula;
+- gld: Nanai;
+- gle: Irish;
+- glg: Galician;
+- glh: Northwest Pashayi;
+- gli: Guliguli;
+- glj: Gula Iro;
+- glk: Gilaki;
+- gll: Garlali;
+- glo: Galambu;
+- glr: Glaro-Twabo;
+- glu: Gula (Chad);
+- glv: Manx;
+- glw: Glavda;
+- gly: Gule;
+- gma: Gambera;
+- gmb: Gula'alaa;
+- gmd: Mághdì;
+- gmg: Magɨyi;
+- gmh: Middle High German (ca. 1050-1500);
+- gml: Middle Low German;
+- gmm: Gbaya-Mbodomo;
+- gmn: Gimnime;
+- gmu: Gumalu;
+- gmv: Gamo;
+- gmx: Magoma;
+- gmy: Mycenaean Greek;
+- gmz: Mgbolizhia;
+- gna: Kaansa;
+- gnb: Gangte;
+- gnc: Guanche;
+- gnd: Zulgo-Gemzek;
+- gne: Ganang;
+- gng: Ngangam;
+- gnh: Lere;
+- gni: Gooniyandi;
+- gnk: //Gana;
+- gnl: Gangulu;
+- gnm: Ginuman;
+- gnn: Gumatj;
+- gno: Northern Gondi;
+- gnq: Gana;
+- gnr: Gureng Gureng;
+- gnt: Guntai;
+- gnu: Gnau;
+- gnw: Western Bolivian Guaraní;
+- gnz: Ganzi;
+- goa: Guro;
+- gob: Playero;
+- goc: Gorakor;
+- god: Godié;
+- goe: Gongduk;
+- gof: Gofa;
+- gog: Gogo;
+- goh: Old High German (ca. 750-1050);
+- goi: Gobasi;
+- goj: Gowlan;
+- gok: Gowli;
+- gol: Gola;
+- gom: Goan Konkani;
+- gon: Gondi;
+- goo: Gone Dau;
+- gop: Yeretuar;
+- goq: Gorap;
+- gor: Gorontalo;
+- gos: Gronings;
+- got: Gothic;
+- gou: Gavar;
+- gow: Gorowa;
+- gox: Gobu;
+- goy: Goundo;
+- goz: Gozarkhani;
+- gpa: Gupa-Abawa;
+- gpe: Ghanaian Pidgin English;
+- gpn: Taiap;
+- gqa: Ga'anda;
+- gqi: Guiqiong;
+- gqn: Guana (Brazil);
+- gqr: Gor;
+- gqu: Qau;
+- gra: Rajput Garasia;
+- grb: Grebo;
+- grc: Ancient Greek (to 1453);
+- grd: Guruntum-Mbaaru;
+- grg: Madi;
+- grh: Gbiri-Niragu;
+- gri: Ghari;
+- grj: Southern Grebo;
+- grm: Kota Marudu Talantang;
+- grn: Guarani;
+- gro: Groma;
+- grq: Gorovu;
+- grr: Taznatit;
+- grs: Gresi;
+- grt: Garo;
+- gru: Kistane;
+- grv: Central Grebo;
+- grw: Gweda;
+- grx: Guriaso;
+- gry: Barclayville Grebo;
+- grz: Guramalum;
+- gse: Ghanaian Sign Language;
+- gsg: German Sign Language;
+- gsl: Gusilay;
+- gsm: Guatemalan Sign Language;
+- gsn: Gusan;
+- gso: Southwest Gbaya;
+- gsp: Wasembo;
+- gss: Greek Sign Language;
+- gsw: Swiss German;
+- gta: Guató;
+- gti: Gbati-ri;
+- gtu: Aghu-Tharnggala;
+- gua: Shiki;
+- gub: Guajajára;
+- guc: Wayuu;
+- gud: Yocoboué Dida;
+- gue: Gurinji;
+- guf: Gupapuyngu;
+- gug: Paraguayan Guaraní;
+- guh: Guahibo;
+- gui: Eastern Bolivian Guaraní;
+- guj: Gujarati;
+- guk: Gumuz;
+- gul: Sea Island Creole English;
+- gum: Guambiano;
+- gun: Mbyá Guaraní;
+- guo: Guayabero;
+- gup: Gunwinggu;
+- guq: Aché;
+- gur: Farefare;
+- gus: Guinean Sign Language;
+- gut: Maléku Jaíka;
+- guu: Yanomamö;
+- guv: Gey;
+- guw: Gun;
+- gux: Gourmanchéma;
+- guz: Gusii;
+- gva: Guana (Paraguay);
+- gvc: Guanano;
+- gve: Duwet;
+- gvf: Golin;
+- gvj: Guajá;
+- gvl: Gulay;
+- gvm: Gurmana;
+- gvn: Kuku-Yalanji;
+- gvo: Gavião Do Jiparaná;
+- gvp: Pará Gavião;
+- gvr: Western Gurung;
+- gvs: Gumawana;
+- gvy: Guyani;
+- gwa: Mbato;
+- gwb: Gwa;
+- gwc: Kalami;
+- gwd: Gawwada;
+- gwe: Gweno;
+- gwf: Gowro;
+- gwg: Moo;
+- gwi: Gwichʼin;
+- gwj: /Gwi;
+- gwm: Awngthim;
+- gwn: Gwandara;
+- gwr: Gwere;
+- gwt: Gawar-Bati;
+- gwu: Guwamu;
+- gww: Kwini;
+- gwx: Gua;
+- gxx: Wè Southern;
+- gya: Northwest Gbaya;
+- gyb: Garus;
+- gyd: Kayardild;
+- gye: Gyem;
+- gyf: Gungabula;
+- gyg: Gbayi;
+- gyi: Gyele;
+- gyl: Gayil;
+- gym: Ngäbere;
+- gyn: Guyanese Creole English;
+- gyr: Guarayu;
+- gyy: Gunya;
+- gza: Ganza;
+- gzi: Gazi;
+- gzn: Gane;
+- haa: Han;
+- hab: Hanoi Sign Language;
+- hac: Gurani;
+- had: Hatam;
+- hae: Eastern Oromo;
+- haf: Haiphong Sign Language;
+- hag: Hanga;
+- hah: Hahon;
+- hai: Haida;
+- haj: Hajong;
+- hak: Hakka Chinese;
+- hal: Halang;
+- ham: Hewa;
+- han: Hangaza;
+- hao: Hakö;
+- hap: Hupla;
+- haq: Ha;
+- har: Harari;
+- has: Haisla;
+- hat: Haitian;
+- hau: Hausa;
+- hav: Havu;
+- haw: Hawaiian;
+- hax: Southern Haida;
+- hay: Haya;
+- haz: Hazaragi;
+- hba: Hamba;
+- hbb: Huba;
+- hbn: Heiban;
+- hbo: Ancient Hebrew;
+- hbs: Serbo-Croatian;
+- hbu: Habu;
+- hca: Andaman Creole Hindi;
+- hch: Huichol;
+- hdn: Northern Haida;
+- hds: Honduras Sign Language;
+- hdy: Hadiyya;
+- hea: Northern Qiandong Miao;
+- heb: Hebrew;
+- hed: Herdé;
+- heg: Helong;
+- heh: Hehe;
+- hei: Heiltsuk;
+- hem: Hemba;
+- her: Herero;
+- hgm: Hai//om;
+- hgw: Haigwai;
+- hhi: Hoia Hoia;
+- hhr: Kerak;
+- hhy: Hoyahoya;
+- hia: Lamang;
+- hib: Hibito;
+- hid: Hidatsa;
+- hif: Fiji Hindi;
+- hig: Kamwe;
+- hih: Pamosu;
+- hii: Hinduri;
+- hij: Hijuk;
+- hik: Seit-Kaitetu;
+- hil: Hiligaynon;
+- hin: Hindi;
+- hio: Tsoa;
+- hir: Himarimã;
+- hit: Hittite;
+- hiw: Hiw;
+- hix: Hixkaryána;
+- hji: Haji;
+- hka: Kahe;
+- hke: Hunde;
+- hkk: Hunjara-Kaina Ke;
+- hks: Hong Kong Sign Language;
+- hla: Halia;
+- hlb: Halbi;
+- hld: Halang Doan;
+- hle: Hlersu;
+- hlt: Matu Chin;
+- hlu: Hieroglyphic Luwian;
+- hma: Southern Mashan Hmong;
+- hmb: Humburi Senni Songhay;
+- hmc: Central Huishui Hmong;
+- hmd: Large Flowery Miao;
+- hme: Eastern Huishui Hmong;
+- hmf: Hmong Don;
+- hmg: Southwestern Guiyang Hmong;
+- hmh: Southwestern Huishui Hmong;
+- hmi: Northern Huishui Hmong;
+- hmj: Ge;
+- hmk: Maek;
+- hml: Luopohe Hmong;
+- hmm: Central Mashan Hmong;
+- hmn: Hmong;
+- hmo: Hiri Motu;
+- hmp: Northern Mashan Hmong;
+- hmq: Eastern Qiandong Miao;
+- hmr: Hmar;
+- hms: Southern Qiandong Miao;
+- hmt: Hamtai;
+- hmu: Hamap;
+- hmv: Hmong Dô;
+- hmw: Western Mashan Hmong;
+- hmy: Southern Guiyang Hmong;
+- hmz: Hmong Shua;
+- hna: Mina (Cameroon);
+- hnd: Southern Hindko;
+- hne: Chhattisgarhi;
+- hnh: //Ani;
+- hni: Hani;
+- hnj: Hmong Njua;
+- hnn: Hanunoo;
+- hno: Northern Hindko;
+- hns: Caribbean Hindustani;
+- hnu: Hung;
+- hoa: Hoava;
+- hob: Mari (Madang Province);
+- hoc: Ho;
+- hod: Holma;
+- hoe: Horom;
+- hoh: Hobyót;
+- hoi: Holikachuk;
+- hoj: Hadothi;
+- hol: Holu;
+- hom: Homa;
+- hoo: Holoholo;
+- hop: Hopi;
+- hor: Horo;
+- hos: Ho Chi Minh City Sign Language;
+- hot: Hote;
+- hov: Hovongan;
+- how: Honi;
+- hoy: Holiya;
+- hoz: Hozo;
+- hpo: Hpon;
+- hps: Hawai'i Sign Language (HSL);
+- hra: Hrangkhol;
+- hrc: Niwer Mil;
+- hre: Hre;
+- hrk: Haruku;
+- hrm: Horned Miao;
+- hro: Haroi;
+- hrp: Nhirrpi;
+- hrt: Hértevin;
+- hru: Hruso;
+- hrv: Croatian;
+- hrw: Warwar Feni;
+- hrx: Hunsrik;
+- hrz: Harzani;
+- hsb: Upper Sorbian;
+- hsh: Hungarian Sign Language;
+- hsl: Hausa Sign Language;
+- hsn: Xiang Chinese;
+- hss: Harsusi;
+- hti: Hoti;
+- hto: Minica Huitoto;
+- hts: Hadza;
+- htu: Hitu;
+- htx: Middle Hittite;
+- hub: Huambisa;
+- huc: =/Hua;
+- hud: Huaulu;
+- hue: San Francisco Del Mar Huave;
+- huf: Humene;
+- hug: Huachipaeri;
+- huh: Huilliche;
+- hui: Huli;
+- huj: Northern Guiyang Hmong;
+- huk: Hulung;
+- hul: Hula;
+- hum: Hungana;
+- hun: Hungarian;
+- huo: Hu;
+- hup: Hupa;
+- huq: Tsat;
+- hur: Halkomelem;
+- hus: Huastec;
+- hut: Humla;
+- huu: Murui Huitoto;
+- huv: San Mateo Del Mar Huave;
+- huw: Hukumina;
+- hux: Nüpode Huitoto;
+- huy: Hulaulá;
+- huz: Hunzib;
+- hvc: Haitian Vodoun Culture Language;
+- hve: San Dionisio Del Mar Huave;
+- hvk: Haveke;
+- hvn: Sabu;
+- hvv: Santa María Del Mar Huave;
+- hwa: Wané;
+- hwc: Hawai'i Creole English;
+- hwo: Hwana;
+- hya: Hya;
+- hye: Armenian;
+- iai: Iaai;
+- ian: Iatmul;
+- iap: Iapama;
+- iar: Purari;
+- iba: Iban;
+- ibb: Ibibio;
+- ibd: Iwaidja;
+- ibe: Akpes;
+- ibg: Ibanag;
+- ibl: Ibaloi;
+- ibm: Agoi;
+- ibn: Ibino;
+- ibo: Igbo;
+- ibr: Ibuoro;
+- ibu: Ibu;
+- iby: Ibani;
+- ica: Ede Ica;
+- ich: Etkywan;
+- icl: Icelandic Sign Language;
+- icr: Islander Creole English;
+- ida: Idakho-Isukha-Tiriki;
+- idb: Indo-Portuguese;
+- idc: Idon;
+- idd: Ede Idaca;
+- ide: Idere;
+- idi: Idi;
+- ido: Ido;
+- idr: Indri;
+- ids: Idesa;
+- idt: Idaté;
+- idu: Idoma;
+- ifa: Amganad Ifugao;
+- ifb: Batad Ifugao;
+- ife: Ifè;
+- iff: Ifo;
+- ifk: Tuwali Ifugao;
+- ifm: Teke-Fuumu;
+- ifu: Mayoyao Ifugao;
+- ify: Keley-I Kallahan;
+- igb: Ebira;
+- ige: Igede;
+- igg: Igana;
+- igl: Igala;
+- igm: Kanggape;
+- ign: Ignaciano;
+- igo: Isebe;
+- igs: Interglossa;
+- igw: Igwe;
+- ihb: Iha Based Pidgin;
+- ihi: Ihievbe;
+- ihp: Iha;
+- ihw: Bidhawal;
+- iii: Sichuan Yi;
+- iin: Thiin;
+- ijc: Izon;
+- ije: Biseni;
+- ijj: Ede Ije;
+- ijn: Kalabari;
+- ijs: Southeast Ijo;
+- ike: Eastern Canadian Inuktitut;
+- iki: Iko;
+- ikk: Ika;
+- ikl: Ikulu;
+- iko: Olulumo-Ikom;
+- ikp: Ikpeshi;
+- ikr: Ikaranggal;
+- ikt: Inuinnaqtun;
+- iku: Inuktitut;
+- ikv: Iku-Gora-Ankwa;
+- ikw: Ikwere;
+- ikx: Ik;
+- ikz: Ikizu;
+- ila: Ile Ape;
+- ilb: Ila;
+- ile: Interlingue;
+- ilg: Garig-Ilgar;
+- ili: Ili Turki;
+- ilk: Ilongot;
+- ill: Iranun;
+- ilo: Iloko;
+- ils: International Sign;
+- ilu: Ili'uun;
+- ilv: Ilue;
+- ima: Mala Malasar;
+- ime: Imeraguen;
+- imi: Anamgura;
+- iml: Miluk;
+- imn: Imonda;
+- imo: Imbongu;
+- imr: Imroing;
+- ims: Marsian;
+- imy: Milyan;
+- ina: Interlingua (International Auxiliary Language Association);
+- inb: Inga;
+- ind: Indonesian;
+- ing: Degexit'an;
+- inh: Ingush;
+- inj: Jungle Inga;
+- inl: Indonesian Sign Language;
+- inm: Minaean;
+- inn: Isinai;
+- ino: Inoke-Yate;
+- inp: Iñapari;
+- ins: Indian Sign Language;
+- int: Intha;
+- inz: Ineseño;
+- ior: Inor;
+- iou: Tuma-Irumu;
+- iow: Iowa-Oto;
+- ipi: Ipili;
+- ipk: Inupiaq;
+- ipo: Ipiko;
+- iqu: Iquito;
+- iqw: Ikwo;
+- ire: Iresim;
+- irh: Irarutu;
+- iri: Irigwe;
+- irk: Iraqw;
+- irn: Irántxe;
+- irr: Ir;
+- iru: Irula;
+- irx: Kamberau;
+- iry: Iraya;
+- isa: Isabi;
+- isc: Isconahua;
+- isd: Isnag;
+- ise: Italian Sign Language;
+- isg: Irish Sign Language;
+- ish: Esan;
+- isi: Nkem-Nkum;
+- isk: Ishkashimi;
+- isl: Icelandic;
+- ism: Masimasi;
+- isn: Isanzu;
+- iso: Isoko;
+- isr: Israeli Sign Language;
+- ist: Istriot;
+- isu: Isu (Menchum Division);
+- ita: Italian;
+- itb: Binongan Itneg;
+- ite: Itene;
+- iti: Inlaod Itneg;
+- itk: Judeo-Italian;
+- itl: Itelmen;
+- itm: Itu Mbon Uzo;
+- ito: Itonama;
+- itr: Iteri;
+- its: Isekiri;
+- itt: Maeng Itneg;
+- itv: Itawit;
+- itw: Ito;
+- itx: Itik;
+- ity: Moyadan Itneg;
+- itz: Itzá;
+- ium: Iu Mien;
+- ivb: Ibatan;
+- ivv: Ivatan;
+- iwk: I-Wak;
+- iwm: Iwam;
+- iwo: Iwur;
+- iws: Sepik Iwam;
+- ixc: Ixcatec;
+- ixl: Ixil;
+- iya: Iyayu;
+- iyo: Mesaka;
+- iyx: Yaka (Congo);
+- izh: Ingrian;
+- izr: Izere;
+- izz: Izii;
+- jaa: Jamamadí;
+- jab: Hyam;
+- jac: Popti';
+- jad: Jahanka;
+- jae: Yabem;
+- jaf: Jara;
+- jah: Jah Hut;
+- jaj: Zazao;
+- jak: Jakun;
+- jal: Yalahatan;
+- jam: Jamaican Creole English;
+- jan: Jandai;
+- jao: Yanyuwa;
+- jaq: Yaqay;
+- jas: New Caledonian Javanese;
+- jat: Jakati;
+- jau: Yaur;
+- jav: Javanese;
+- jax: Jambi Malay;
+- jay: Yan-nhangu;
+- jaz: Jawe;
+- jbe: Judeo-Berber;
+- jbi: Badjiri;
+- jbj: Arandai;
+- jbk: Barikewa;
+- jbn: Nafusi;
+- jbo: Lojban;
+- jbr: Jofotek-Bromnya;
+- jbt: Jabutí;
+- jbu: Jukun Takum;
+- jbw: Yawijibaya;
+- jcs: Jamaican Country Sign Language;
+- jct: Krymchak;
+- jda: Jad;
+- jdg: Jadgali;
+- jdt: Judeo-Tat;
+- jeb: Jebero;
+- jee: Jerung;
+- jeg: Jeng;
+- jeh: Jeh;
+- jei: Yei;
+- jek: Jeri Kuo;
+- jel: Yelmek;
+- jen: Dza;
+- jer: Jere;
+- jet: Manem;
+- jeu: Jonkor Bourmataguil;
+- jgb: Ngbee;
+- jge: Judeo-Georgian;
+- jgk: Gwak;
+- jgo: Ngomba;
+- jhi: Jehai;
+- jhs: Jhankot Sign Language;
+- jia: Jina;
+- jib: Jibu;
+- jic: Tol;
+- jid: Bu;
+- jie: Jilbe;
+- jig: Djingili;
+- jih: sTodsde;
+- jii: Jiiddu;
+- jil: Jilim;
+- jim: Jimi (Cameroon);
+- jio: Jiamao;
+- jiq: Guanyinqiao;
+- jit: Jita;
+- jiu: Youle Jinuo;
+- jiv: Shuar;
+- jiy: Buyuan Jinuo;
+- jjr: Bankal;
+- jkm: Mobwa Karen;
+- jko: Kubo;
+- jkp: Paku Karen;
+- jkr: Koro (India);
+- jku: Labir;
+- jle: Ngile;
+- jls: Jamaican Sign Language;
+- jma: Dima;
+- jmb: Zumbun;
+- jmc: Machame;
+- jmd: Yamdena;
+- jmi: Jimi (Nigeria);
+- jml: Jumli;
+- jmn: Makuri Naga;
+- jmr: Kamara;
+- jms: Mashi (Nigeria);
+- jmw: Mouwase;
+- jmx: Western Juxtlahuaca Mixtec;
+- jna: Jangshung;
+- jnd: Jandavra;
+- jng: Yangman;
+- jni: Janji;
+- jnj: Yemsa;
+- jnl: Rawat;
+- jns: Jaunsari;
+- job: Joba;
+- jod: Wojenaka;
+- jor: Jorá;
+- jos: Jordanian Sign Language;
+- jow: Jowulu;
+- jpa: Jewish Palestinian Aramaic;
+- jpn: Japanese;
+- jpr: Judeo-Persian;
+- jqr: Jaqaru;
+- jra: Jarai;
+- jrb: Judeo-Arabic;
+- jrr: Jiru;
+- jrt: Jorto;
+- jru: Japrería;
+- jsl: Japanese Sign Language;
+- jua: Júma;
+- jub: Wannu;
+- juc: Jurchen;
+- jud: Worodougou;
+- juh: Hõne;
+- jui: Ngadjuri;
+- juk: Wapan;
+- jul: Jirel;
+- jum: Jumjum;
+- jun: Juang;
+- juo: Jiba;
+- jup: Hupdë;
+- jur: Jurúna;
+- jus: Jumla Sign Language;
+- jut: Jutish;
+- juu: Ju;
+- juw: Wãpha;
+- juy: Juray;
+- jvd: Javindo;
+- jvn: Caribbean Javanese;
+- jwi: Jwira-Pepesa;
+- jya: Jiarong;
+- jye: Judeo-Yemeni Arabic;
+- jyy: Jaya;
+- kaa: Kara-Kalpak;
+- kab: Kabyle;
+- kac: Kachin;
+- kad: Adara;
+- kae: Ketangalan;
+- kaf: Katso;
+- kag: Kajaman;
+- kah: Kara (Central African Republic);
+- kai: Karekare;
+- kaj: Jju;
+- kak: Kayapa Kallahan;
+- kal: Kalaallisut;
+- kam: Kamba (Kenya);
+- kan: Kannada;
+- kao: Xaasongaxango;
+- kap: Bezhta;
+- kaq: Capanahua;
+- kas: Kashmiri;
+- kat: Georgian;
+- kau: Kanuri;
+- kav: Katukína;
+- kaw: Kawi;
+- kax: Kao;
+- kay: Kamayurá;
+- kaz: Kazakh;
+- kba: Kalarko;
+- kbb: Kaxuiâna;
+- kbc: Kadiwéu;
+- kbd: Kabardian;
+- kbe: Kanju;
+- kbf: Kakauhua;
+- kbg: Khamba;
+- kbh: Camsá;
+- kbi: Kaptiau;
+- kbj: Kari;
+- kbk: Grass Koiari;
+- kbl: Kanembu;
+- kbm: Iwal;
+- kbn: Kare (Central African Republic);
+- kbo: Keliko;
+- kbp: Kabiyè;
+- kbq: Kamano;
+- kbr: Kafa;
+- kbs: Kande;
+- kbt: Abadi;
+- kbu: Kabutra;
+- kbv: Dera (Indonesia);
+- kbw: Kaiep;
+- kbx: Ap Ma;
+- kby: Manga Kanuri;
+- kbz: Duhwa;
+- kca: Khanty;
+- kcb: Kawacha;
+- kcc: Lubila;
+- kcd: Ngkâlmpw Kanum;
+- kce: Kaivi;
+- kcf: Ukaan;
+- kcg: Tyap;
+- kch: Vono;
+- kci: Kamantan;
+- kcj: Kobiana;
+- kck: Kalanga;
+- kcl: Kela (Papua New Guinea);
+- kcm: Gula (Central African Republic);
+- kcn: Nubi;
+- kco: Kinalakna;
+- kcp: Kanga;
+- kcq: Kamo;
+- kcr: Katla;
+- kcs: Koenoem;
+- kct: Kaian;
+- kcu: Kami (Tanzania);
+- kcv: Kete;
+- kcw: Kabwari;
+- kcx: Kachama-Ganjule;
+- kcy: Korandje;
+- kcz: Konongo;
+- kda: Worimi;
+- kdc: Kutu;
+- kdd: Yankunytjatjara;
+- kde: Makonde;
+- kdf: Mamusi;
+- kdg: Seba;
+- kdh: Tem;
+- kdi: Kumam;
+- kdj: Karamojong;
+- kdk: Numèè;
+- kdl: Tsikimba;
+- kdm: Kagoma;
+- kdn: Kunda;
+- kdp: Kaningdon-Nindem;
+- kdq: Koch;
+- kdr: Karaim;
+- kdt: Kuy;
+- kdu: Kadaru;
+- kdw: Koneraw;
+- kdx: Kam;
+- kdy: Keder;
+- kdz: Kwaja;
+- kea: Kabuverdianu;
+- keb: Kélé;
+- kec: Keiga;
+- ked: Kerewe;
+- kee: Eastern Keres;
+- kef: Kpessi;
+- keg: Tese;
+- keh: Keak;
+- kei: Kei;
+- kej: Kadar;
+- kek: Kekchí;
+- kel: Kela (Democratic Republic of Congo);
+- kem: Kemak;
+- ken: Kenyang;
+- keo: Kakwa;
+- kep: Kaikadi;
+- keq: Kamar;
+- ker: Kera;
+- kes: Kugbo;
+- ket: Ket;
+- keu: Akebu;
+- kev: Kanikkaran;
+- kew: West Kewa;
+- kex: Kukna;
+- key: Kupia;
+- kez: Kukele;
+- kfa: Kodava;
+- kfb: Northwestern Kolami;
+- kfc: Konda-Dora;
+- kfd: Korra Koraga;
+- kfe: Kota (India);
+- kff: Koya;
+- kfg: Kudiya;
+- kfh: Kurichiya;
+- kfi: Kannada Kurumba;
+- kfj: Kemiehua;
+- kfk: Kinnauri;
+- kfl: Kung;
+- kfm: Khunsari;
+- kfn: Kuk;
+- kfo: Koro (Côte d'Ivoire);
+- kfp: Korwa;
+- kfq: Korku;
+- kfr: Kachchi;
+- kfs: Bilaspuri;
+- kft: Kanjari;
+- kfu: Katkari;
+- kfv: Kurmukar;
+- kfw: Kharam Naga;
+- kfx: Kullu Pahari;
+- kfy: Kumaoni;
+- kfz: Koromfé;
+- kga: Koyaga;
+- kgb: Kawe;
+- kgc: Kasseng;
+- kgd: Kataang;
+- kge: Komering;
+- kgf: Kube;
+- kgg: Kusunda;
+- kgi: Selangor Sign Language;
+- kgj: Gamale Kham;
+- kgk: Kaiwá;
+- kgl: Kunggari;
+- kgm: Karipúna;
+- kgn: Karingani;
+- kgo: Krongo;
+- kgp: Kaingang;
+- kgq: Kamoro;
+- kgr: Abun;
+- kgs: Kumbainggar;
+- kgt: Somyev;
+- kgu: Kobol;
+- kgv: Karas;
+- kgw: Karon Dori;
+- kgx: Kamaru;
+- kgy: Kyerung;
+- kha: Khasi;
+- khb: Lü;
+- khc: Tukang Besi North;
+- khd: Bädi Kanum;
+- khe: Korowai;
+- khf: Khuen;
+- khg: Khams Tibetan;
+- khh: Kehu;
+- khj: Kuturmi;
+- khk: Halh Mongolian;
+- khl: Lusi;
+- khm: Central Khmer;
+- khn: Khandesi;
+- kho: Khotanese;
+- khp: Kapori;
+- khq: Koyra Chiini Songhay;
+- khr: Kharia;
+- khs: Kasua;
+- kht: Khamti;
+- khu: Nkhumbi;
+- khv: Khvarshi;
+- khw: Khowar;
+- khx: Kanu;
+- khy: Kele (Democratic Republic of Congo);
+- khz: Keapara;
+- kia: Kim;
+- kib: Koalib;
+- kic: Kickapoo;
+- kid: Koshin;
+- kie: Kibet;
+- kif: Eastern Parbate Kham;
+- kig: Kimaama;
+- kih: Kilmeri;
+- kii: Kitsai;
+- kij: Kilivila;
+- kik: Kikuyu;
+- kil: Kariya;
+- kim: Karagas;
+- kin: Kinyarwanda;
+- kio: Kiowa;
+- kip: Sheshi Kham;
+- kiq: Kosadle;
+- kir: Kirghiz;
+- kis: Kis;
+- kit: Agob;
+- kiu: Kirmanjki (individual language);
+- kiv: Kimbu;
+- kiw: Northeast Kiwai;
+- kix: Khiamniungan Naga;
+- kiy: Kirikiri;
+- kiz: Kisi;
+- kja: Mlap;
+- kjb: Q'anjob'al;
+- kjc: Coastal Konjo;
+- kjd: Southern Kiwai;
+- kje: Kisar;
+- kjf: Khalaj;
+- kjg: Khmu;
+- kjh: Khakas;
+- kji: Zabana;
+- kjj: Khinalugh;
+- kjk: Highland Konjo;
+- kjl: Western Parbate Kham;
+- kjm: Kháng;
+- kjn: Kunjen;
+- kjo: Harijan Kinnauri;
+- kjp: Pwo Eastern Karen;
+- kjq: Western Keres;
+- kjr: Kurudu;
+- kjs: East Kewa;
+- kjt: Phrae Pwo Karen;
+- kju: Kashaya;
+- kjx: Ramopa;
+- kjy: Erave;
+- kjz: Bumthangkha;
+- kka: Kakanda;
+- kkb: Kwerisa;
+- kkc: Odoodee;
+- kkd: Kinuku;
+- kke: Kakabe;
+- kkf: Kalaktang Monpa;
+- kkg: Mabaka Valley Kalinga;
+- kkh: Khün;
+- kki: Kagulu;
+- kkj: Kako;
+- kkk: Kokota;
+- kkl: Kosarek Yale;
+- kkm: Kiong;
+- kkn: Kon Keu;
+- kko: Karko;
+- kkp: Gugubera;
+- kkq: Kaiku;
+- kkr: Kir-Balar;
+- kks: Giiwo;
+- kkt: Koi;
+- kku: Tumi;
+- kkv: Kangean;
+- kkw: Teke-Kukuya;
+- kkx: Kohin;
+- kky: Guguyimidjir;
+- kkz: Kaska;
+- kla: Klamath-Modoc;
+- klb: Kiliwa;
+- klc: Kolbila;
+- kld: Gamilaraay;
+- kle: Kulung (Nepal);
+- klf: Kendeje;
+- klg: Tagakaulo;
+- klh: Weliki;
+- kli: Kalumpang;
+- klj: Turkic Khalaj;
+- klk: Kono (Nigeria);
+- kll: Kagan Kalagan;
+- klm: Migum;
+- kln: Kalenjin;
+- klo: Kapya;
+- klp: Kamasa;
+- klq: Rumu;
+- klr: Khaling;
+- kls: Kalasha;
+- klt: Nukna;
+- klu: Klao;
+- klv: Maskelynes;
+- klw: Lindu;
+- klx: Koluwawa;
+- kly: Kalao;
+- klz: Kabola;
+- kma: Konni;
+- kmb: Kimbundu;
+- kmc: Southern Dong;
+- kmd: Majukayang Kalinga;
+- kme: Bakole;
+- kmf: Kare (Papua New Guinea);
+- kmg: Kâte;
+- kmh: Kalam;
+- kmi: Kami (Nigeria);
+- kmj: Kumarbhag Paharia;
+- kmk: Limos Kalinga;
+- kml: Tanudan Kalinga;
+- kmm: Kom (India);
+- kmn: Awtuw;
+- kmo: Kwoma;
+- kmp: Gimme;
+- kmq: Kwama;
+- kmr: Northern Kurdish;
+- kms: Kamasau;
+- kmt: Kemtuik;
+- kmu: Kanite;
+- kmv: Karipúna Creole French;
+- kmw: Komo (Democratic Republic of Congo);
+- kmx: Waboda;
+- kmy: Koma;
+- kmz: Khorasani Turkish;
+- kna: Dera (Nigeria);
+- knb: Lubuagan Kalinga;
+- knc: Central Kanuri;
+- knd: Konda;
+- kne: Kankanaey;
+- knf: Mankanya;
+- kng: Koongo;
+- kni: Kanufi;
+- knj: Western Kanjobal;
+- knk: Kuranko;
+- knl: Keninjal;
+- knm: Kanamarí;
+- knn: Konkani (individual language);
+- kno: Kono (Sierra Leone);
+- knp: Kwanja;
+- knq: Kintaq;
+- knr: Kaningra;
+- kns: Kensiu;
+- knt: Panoan Katukína;
+- knu: Kono (Guinea);
+- knv: Tabo;
+- knw: Kung-Ekoka;
+- knx: Kendayan;
+- kny: Kanyok;
+- knz: Kalamsé;
+- koa: Konomala;
+- koc: Kpati;
+- kod: Kodi;
+- koe: Kacipo-Balesi;
+- kof: Kubi;
+- kog: Cogui;
+- koh: Koyo;
+- koi: Komi-Permyak;
+- koj: Sara Dunjo;
+- kok: Konkani (macrolanguage);
+- kol: Kol (Papua New Guinea);
+- kom: Komi;
+- kon: Kongo;
+- koo: Konzo;
+- kop: Waube;
+- koq: Kota (Gabon);
+- kor: Korean;
+- kos: Kosraean;
+- kot: Lagwan;
+- kou: Koke;
+- kov: Kudu-Camo;
+- kow: Kugama;
+- kox: Coxima;
+- koy: Koyukon;
+- koz: Korak;
+- kpa: Kutto;
+- kpb: Mullu Kurumba;
+- kpc: Curripaco;
+- kpd: Koba;
+- kpe: Kpelle;
+- kpf: Komba;
+- kpg: Kapingamarangi;
+- kph: Kplang;
+- kpi: Kofei;
+- kpj: Karajá;
+- kpk: Kpan;
+- kpl: Kpala;
+- kpm: Koho;
+- kpn: Kepkiriwát;
+- kpo: Ikposo;
+- kpq: Korupun-Sela;
+- kpr: Korafe-Yegha;
+- kps: Tehit;
+- kpt: Karata;
+- kpu: Kafoa;
+- kpv: Komi-Zyrian;
+- kpw: Kobon;
+- kpx: Mountain Koiali;
+- kpy: Koryak;
+- kpz: Kupsabiny;
+- kqa: Mum;
+- kqb: Kovai;
+- kqc: Doromu-Koki;
+- kqd: Koy Sanjaq Surat;
+- kqe: Kalagan;
+- kqf: Kakabai;
+- kqg: Khe;
+- kqh: Kisankasa;
+- kqi: Koitabu;
+- kqj: Koromira;
+- kqk: Kotafon Gbe;
+- kql: Kyenele;
+- kqm: Khisa;
+- kqn: Kaonde;
+- kqo: Eastern Krahn;
+- kqp: Kimré;
+- kqq: Krenak;
+- kqr: Kimaragang;
+- kqs: Northern Kissi;
+- kqt: Klias River Kadazan;
+- kqu: Seroa;
+- kqv: Okolod;
+- kqw: Kandas;
+- kqx: Mser;
+- kqy: Koorete;
+- kqz: Korana;
+- kra: Kumhali;
+- krb: Karkin;
+- krc: Karachay-Balkar;
+- krd: Kairui-Midiki;
+- kre: Panará;
+- krf: Koro (Vanuatu);
+- krh: Kurama;
+- kri: Krio;
+- krj: Kinaray-A;
+- krk: Kerek;
+- krl: Karelian;
+- krm: Krim;
+- krn: Sapo;
+- krp: Korop;
+- krr: Kru'ng 2;
+- krs: Gbaya (Sudan);
+- krt: Tumari Kanuri;
+- kru: Kurukh;
+- krv: Kavet;
+- krw: Western Krahn;
+- krx: Karon;
+- kry: Kryts;
+- krz: Sota Kanum;
+- ksa: Shuwa-Zamani;
+- ksb: Shambala;
+- ksc: Southern Kalinga;
+- ksd: Kuanua;
+- kse: Kuni;
+- ksf: Bafia;
+- ksg: Kusaghe;
+- ksh: Kölsch;
+- ksi: Krisa;
+- ksj: Uare;
+- ksk: Kansa;
+- ksl: Kumalu;
+- ksm: Kumba;
+- ksn: Kasiguranin;
+- kso: Kofa;
+- ksp: Kaba;
+- ksq: Kwaami;
+- ksr: Borong;
+- kss: Southern Kisi;
+- kst: Winyé;
+- ksu: Khamyang;
+- ksv: Kusu;
+- ksw: S'gaw Karen;
+- ksx: Kedang;
+- ksy: Kharia Thar;
+- ksz: Kodaku;
+- kta: Katua;
+- ktb: Kambaata;
+- ktc: Kholok;
+- ktd: Kokata;
+- kte: Nubri;
+- ktf: Kwami;
+- ktg: Kalkutung;
+- kth: Karanga;
+- kti: North Muyu;
+- ktj: Plapo Krumen;
+- ktk: Kaniet;
+- ktl: Koroshi;
+- ktm: Kurti;
+- ktn: Karitiâna;
+- kto: Kuot;
+- ktp: Kaduo;
+- ktq: Katabaga;
+- ktr: Kota Marudu Tinagas;
+- kts: South Muyu;
+- ktt: Ketum;
+- ktu: Kituba (Democratic Republic of Congo);
+- ktv: Eastern Katu;
+- ktw: Kato;
+- ktx: Kaxararí;
+- kty: Kango (Bas-Uélé District);
+- ktz: Ju/'hoan;
+- kua: Kuanyama;
+- kub: Kutep;
+- kuc: Kwinsu;
+- kud: 'Auhelawa;
+- kue: Kuman;
+- kuf: Western Katu;
+- kug: Kupa;
+- kuh: Kushi;
+- kui: Kuikúro-Kalapálo;
+- kuj: Kuria;
+- kuk: Kepo';
+- kul: Kulere;
+- kum: Kumyk;
+- kun: Kunama;
+- kuo: Kumukio;
+- kup: Kunimaipa;
+- kuq: Karipuna;
+- kur: Kurdish;
+- kus: Kusaal;
+- kut: Kutenai;
+- kuu: Upper Kuskokwim;
+- kuv: Kur;
+- kuw: Kpagua;
+- kux: Kukatja;
+- kuy: Kuuku-Ya'u;
+- kuz: Kunza;
+- kva: Bagvalal;
+- kvb: Kubu;
+- kvc: Kove;
+- kvd: Kui (Indonesia);
+- kve: Kalabakan;
+- kvf: Kabalai;
+- kvg: Kuni-Boazi;
+- kvh: Komodo;
+- kvi: Kwang;
+- kvj: Psikye;
+- kvk: Korean Sign Language;
+- kvl: Kayaw;
+- kvm: Kendem;
+- kvn: Border Kuna;
+- kvo: Dobel;
+- kvp: Kompane;
+- kvq: Geba Karen;
+- kvr: Kerinci;
+- kvs: Kunggara;
+- kvt: Lahta Karen;
+- kvu: Yinbaw Karen;
+- kvv: Kola;
+- kvw: Wersing;
+- kvx: Parkari Koli;
+- kvy: Yintale Karen;
+- kvz: Tsakwambo;
+- kwa: Dâw;
+- kwb: Kwa;
+- kwc: Likwala;
+- kwd: Kwaio;
+- kwe: Kwerba;
+- kwf: Kwara'ae;
+- kwg: Sara Kaba Deme;
+- kwh: Kowiai;
+- kwi: Awa-Cuaiquer;
+- kwj: Kwanga;
+- kwk: Kwakiutl;
+- kwl: Kofyar;
+- kwm: Kwambi;
+- kwn: Kwangali;
+- kwo: Kwomtari;
+- kwp: Kodia;
+- kwq: Kwak;
+- kwr: Kwer;
+- kws: Kwese;
+- kwt: Kwesten;
+- kwu: Kwakum;
+- kwv: Sara Kaba Náà;
+- kww: Kwinti;
+- kwx: Khirwar;
+- kwy: San Salvador Kongo;
+- kwz: Kwadi;
+- kxa: Kairiru;
+- kxb: Krobu;
+- kxc: Konso;
+- kxd: Brunei;
+- kxe: Kakihum;
+- kxf: Manumanaw Karen;
+- kxh: Karo (Ethiopia);
+- kxi: Keningau Murut;
+- kxj: Kulfa;
+- kxk: Zayein Karen;
+- kxl: Nepali Kurux;
+- kxm: Northern Khmer;
+- kxn: Kanowit-Tanjong Melanau;
+- kxo: Kanoé;
+- kxp: Wadiyara Koli;
+- kxq: Smärky Kanum;
+- kxr: Koro (Papua New Guinea);
+- kxs: Kangjia;
+- kxt: Koiwat;
+- kxu: Kui (India);
+- kxv: Kuvi;
+- kxw: Konai;
+- kxx: Likuba;
+- kxy: Kayong;
+- kxz: Kerewo;
+- kya: Kwaya;
+- kyb: Butbut Kalinga;
+- kyc: Kyaka;
+- kyd: Karey;
+- kye: Krache;
+- kyf: Kouya;
+- kyg: Keyagana;
+- kyh: Karok;
+- kyi: Kiput;
+- kyj: Karao;
+- kyk: Kamayo;
+- kyl: Kalapuya;
+- kym: Kpatili;
+- kyn: Northern Binukidnon;
+- kyo: Kelon;
+- kyp: Kang;
+- kyq: Kenga;
+- kyr: Kuruáya;
+- kys: Baram Kayan;
+- kyt: Kayagar;
+- kyu: Western Kayah;
+- kyv: Kayort;
+- kyw: Kudmali;
+- kyx: Rapoisi;
+- kyy: Kambaira;
+- kyz: Kayabí;
+- kza: Western Karaboro;
+- kzb: Kaibobo;
+- kzc: Bondoukou Kulango;
+- kzd: Kadai;
+- kze: Kosena;
+- kzf: Da'a Kaili;
+- kzg: Kikai;
+- kzi: Kelabit;
+- kzj: Coastal Kadazan;
+- kzk: Kazukuru;
+- kzl: Kayeli;
+- kzm: Kais;
+- kzn: Kokola;
+- kzo: Kaningi;
+- kzp: Kaidipang;
+- kzq: Kaike;
+- kzr: Karang;
+- kzs: Sugut Dusun;
+- kzt: Tambunan Dusun;
+- kzu: Kayupulau;
+- kzv: Komyandaret;
+- kzw: Karirí-Xocó;
+- kzx: Kamarian;
+- kzy: Kango (Tshopo District);
+- kzz: Kalabra;
+- laa: Southern Subanen;
+- lab: Linear A;
+- lac: Lacandon;
+- lad: Ladino;
+- lae: Pattani;
+- laf: Lafofa;
+- lag: Langi;
+- lah: Lahnda;
+- lai: Lambya;
+- laj: Lango (Uganda);
+- lak: Laka (Nigeria);
+- lal: Lalia;
+- lam: Lamba;
+- lan: Laru;
+- lao: Lao;
+- lap: Laka (Chad);
+- laq: Qabiao;
+- lar: Larteh;
+- las: Lama (Togo);
+- lat: Latin;
+- lau: Laba;
+- lav: Latvian;
+- law: Lauje;
+- lax: Tiwa;
+- lay: Lama Bai;
+- laz: Aribwatsa;
+- lba: Lui;
+- lbb: Label;
+- lbc: Lakkia;
+- lbe: Lak;
+- lbf: Tinani;
+- lbg: Laopang;
+- lbi: La'bi;
+- lbj: Ladakhi;
+- lbk: Central Bontok;
+- lbl: Libon Bikol;
+- lbm: Lodhi;
+- lbn: Lamet;
+- lbo: Laven;
+- lbq: Wampar;
+- lbr: Lohorung;
+- lbs: Libyan Sign Language;
+- lbt: Lachi;
+- lbu: Labu;
+- lbv: Lavatbura-Lamusong;
+- lbw: Tolaki;
+- lbx: Lawangan;
+- lby: Lamu-Lamu;
+- lbz: Lardil;
+- lcc: Legenyem;
+- lcd: Lola;
+- lce: Loncong;
+- lcf: Lubu;
+- lch: Luchazi;
+- lcl: Lisela;
+- lcm: Tungag;
+- lcp: Western Lawa;
+- lcq: Luhu;
+- lcs: Lisabata-Nuniali;
+- lda: Kla-Dan;
+- ldb: Dũya;
+- ldd: Luri;
+- ldg: Lenyima;
+- ldh: Lamja-Dengsa-Tola;
+- ldi: Laari;
+- ldj: Lemoro;
+- ldk: Leelau;
+- ldl: Kaan;
+- ldm: Landoma;
+- ldn: Láadan;
+- ldo: Loo;
+- ldp: Tso;
+- ldq: Lufu;
+- lea: Lega-Shabunda;
+- leb: Lala-Bisa;
+- lec: Leco;
+- led: Lendu;
+- lee: Lyélé;
+- lef: Lelemi;
+- leh: Lenje;
+- lei: Lemio;
+- lej: Lengola;
+- lek: Leipon;
+- lel: Lele (Democratic Republic of Congo);
+- lem: Nomaande;
+- len: Lenca;
+- leo: Leti (Cameroon);
+- lep: Lepcha;
+- leq: Lembena;
+- ler: Lenkau;
+- les: Lese;
+- let: Lesing-Gelimi;
+- leu: Kara (Papua New Guinea);
+- lev: Lamma;
+- lew: Ledo Kaili;
+- lex: Luang;
+- ley: Lemolang;
+- lez: Lezghian;
+- lfa: Lefa;
+- lfn: Lingua Franca Nova;
+- lga: Lungga;
+- lgb: Laghu;
+- lgg: Lugbara;
+- lgh: Laghuu;
+- lgi: Lengilu;
+- lgk: Lingarak;
+- lgl: Wala;
+- lgm: Lega-Mwenga;
+- lgn: Opuuo;
+- lgq: Logba;
+- lgr: Lengo;
+- lgt: Pahi;
+- lgu: Longgu;
+- lgz: Ligenza;
+- lha: Laha (Viet Nam);
+- lhh: Laha (Indonesia);
+- lhi: Lahu Shi;
+- lhl: Lahul Lohar;
+- lhm: Lhomi;
+- lhn: Lahanan;
+- lhp: Lhokpu;
+- lhs: Mlahsö;
+- lht: Lo-Toga;
+- lhu: Lahu;
+- lia: West-Central Limba;
+- lib: Likum;
+- lic: Hlai;
+- lid: Nyindrou;
+- lie: Likila;
+- lif: Limbu;
+- lig: Ligbi;
+- lih: Lihir;
+- lii: Lingkhim;
+- lij: Ligurian;
+- lik: Lika;
+- lil: Lillooet;
+- lim: Limburgan;
+- lin: Lingala;
+- lio: Liki;
+- lip: Sekpele;
+- liq: Libido;
+- lir: Liberian English;
+- lis: Lisu;
+- lit: Lithuanian;
+- liu: Logorik;
+- liv: Liv;
+- liw: Col;
+- lix: Liabuku;
+- liy: Banda-Bambari;
+- liz: Libinza;
+- lja: Golpa;
+- lje: Rampi;
+- lji: Laiyolo;
+- ljl: Li'o;
+- ljp: Lampung Api;
+- ljw: Yirandali;
+- ljx: Yuru;
+- lka: Lakalei;
+- lkb: Kabras;
+- lkc: Kucong;
+- lkd: Lakondê;
+- lke: Kenyi;
+- lkh: Lakha;
+- lki: Laki;
+- lkj: Remun;
+- lkl: Laeko-Libuat;
+- lkm: Kalaamaya;
+- lkn: Lakon;
+- lko: Khayo;
+- lkr: Päri;
+- lks: Kisa;
+- lkt: Lakota;
+- lku: Kungkari;
+- lky: Lokoya;
+- lla: Lala-Roba;
+- llb: Lolo;
+- llc: Lele (Guinea);
+- lld: Ladin;
+- lle: Lele (Papua New Guinea);
+- llf: Hermit;
+- llg: Lole;
+- llh: Lamu;
+- lli: Teke-Laali;
+- llj: Ladji Ladji;
+- llk: Lelak;
+- lll: Lilau;
+- llm: Lasalimu;
+- lln: Lele (Chad);
+- llo: Khlor;
+- llp: North Efate;
+- llq: Lolak;
+- lls: Lithuanian Sign Language;
+- llu: Lau;
+- llx: Lauan;
+- lma: East Limba;
+- lmb: Merei;
+- lmc: Limilngan;
+- lmd: Lumun;
+- lme: Pévé;
+- lmf: South Lembata;
+- lmg: Lamogai;
+- lmh: Lambichhong;
+- lmi: Lombi;
+- lmj: West Lembata;
+- lmk: Lamkang;
+- lml: Hano;
+- lmn: Lambadi;
+- lmo: Lombard;
+- lmp: Limbum;
+- lmq: Lamatuka;
+- lmr: Lamalera;
+- lmu: Lamenu;
+- lmv: Lomaiviti;
+- lmw: Lake Miwok;
+- lmx: Laimbue;
+- lmy: Lamboya;
+- lmz: Lumbee;
+- lna: Langbashe;
+- lnb: Mbalanhu;
+- lnd: Lundayeh;
+- lng: Langobardic;
+- lnh: Lanoh;
+- lni: Daantanai';
+- lnj: Leningitij;
+- lnl: South Central Banda;
+- lnm: Langam;
+- lnn: Lorediakarkar;
+- lno: Lango (Sudan);
+- lns: Lamnso';
+- lnu: Longuda;
+- lnw: Lanima;
+- lnz: Lonzo;
+- loa: Loloda;
+- lob: Lobi;
+- loc: Inonhan;
+- loe: Saluan;
+- lof: Logol;
+- log: Logo;
+- loh: Narim;
+- loi: Loma (Côte d'Ivoire);
+- loj: Lou;
+- lok: Loko;
+- lol: Mongo;
+- lom: Loma (Liberia);
+- lon: Malawi Lomwe;
+- loo: Lombo;
+- lop: Lopa;
+- loq: Lobala;
+- lor: Téén;
+- los: Loniu;
+- lot: Otuho;
+- lou: Louisiana Creole French;
+- lov: Lopi;
+- low: Tampias Lobu;
+- lox: Loun;
+- loy: Loke;
+- loz: Lozi;
+- lpa: Lelepa;
+- lpe: Lepki;
+- lpn: Long Phuri Naga;
+- lpo: Lipo;
+- lpx: Lopit;
+- lra: Rara Bakati';
+- lrc: Northern Luri;
+- lre: Laurentian;
+- lrg: Laragia;
+- lri: Marachi;
+- lrk: Loarki;
+- lrl: Lari;
+- lrm: Marama;
+- lrn: Lorang;
+- lro: Laro;
+- lrr: Southern Yamphu;
+- lrt: Larantuka Malay;
+- lrv: Larevat;
+- lrz: Lemerig;
+- lsa: Lasgerdi;
+- lsd: Lishana Deni;
+- lse: Lusengo;
+- lsg: Lyons Sign Language;
+- lsh: Lish;
+- lsi: Lashi;
+- lsl: Latvian Sign Language;
+- lsm: Saamia;
+- lso: Laos Sign Language;
+- lsp: Panamanian Sign Language;
+- lsr: Aruop;
+- lss: Lasi;
+- lst: Trinidad and Tobago Sign Language;
+- lsy: Mauritian Sign Language;
+- ltc: Late Middle Chinese;
+- ltg: Latgalian;
+- lti: Leti (Indonesia);
+- ltn: Latundê;
+- lto: Tsotso;
+- lts: Tachoni;
+- ltu: Latu;
+- ltz: Luxembourgish;
+- lua: Luba-Lulua;
+- lub: Luba-Katanga;
+- luc: Aringa;
+- lud: Ludian;
+- lue: Luvale;
+- luf: Laua;
+- lug: Ganda;
+- lui: Luiseno;
+- luj: Luna;
+- luk: Lunanakha;
+- lul: Olu'bo;
+- lum: Luimbi;
+- lun: Lunda;
+- luo: Luo (Kenya and Tanzania);
+- lup: Lumbu;
+- luq: Lucumi;
+- lur: Laura;
+- lus: Lushai;
+- lut: Lushootseed;
+- luu: Lumba-Yakkha;
+- luv: Luwati;
+- luw: Luo (Cameroon);
+- luy: Luyia;
+- luz: Southern Luri;
+- lva: Maku'a;
+- lvk: Lavukaleve;
+- lvs: Standard Latvian;
+- lvu: Levuka;
+- lwa: Lwalu;
+- lwe: Lewo Eleng;
+- lwg: Wanga;
+- lwh: White Lachi;
+- lwl: Eastern Lawa;
+- lwm: Laomian;
+- lwo: Luwo;
+- lwt: Lewotobi;
+- lwu: Lawu;
+- lww: Lewo;
+- lya: Layakha;
+- lyg: Lyngngam;
+- lyn: Luyana;
+- lzh: Literary Chinese;
+- lzl: Litzlitz;
+- lzn: Leinong Naga;
+- lzz: Laz;
+- maa: San Jerónimo Tecóatl Mazatec;
+- mab: Yutanduchi Mixtec;
+- mad: Madurese;
+- mae: Bo-Rukul;
+- maf: Mafa;
+- mag: Magahi;
+- mah: Marshallese;
+- mai: Maithili;
+- maj: Jalapa De Díaz Mazatec;
+- mak: Makasar;
+- mal: Malayalam;
+- mam: Mam;
+- man: Mandingo;
+- maq: Chiquihuitlán Mazatec;
+- mar: Marathi;
+- mas: Masai;
+- mat: San Francisco Matlatzinca;
+- mau: Huautla Mazatec;
+- mav: Sateré-Mawé;
+- maw: Mampruli;
+- max: North Moluccan Malay;
+- maz: Central Mazahua;
+- mba: Higaonon;
+- mbb: Western Bukidnon Manobo;
+- mbc: Macushi;
+- mbd: Dibabawon Manobo;
+- mbe: Molale;
+- mbf: Baba Malay;
+- mbh: Mangseng;
+- mbi: Ilianen Manobo;
+- mbj: Nadëb;
+- mbk: Malol;
+- mbl: Maxakalí;
+- mbm: Ombamba;
+- mbn: Macaguán;
+- mbo: Mbo (Cameroon);
+- mbp: Malayo;
+- mbq: Maisin;
+- mbr: Nukak Makú;
+- mbs: Sarangani Manobo;
+- mbt: Matigsalug Manobo;
+- mbu: Mbula-Bwazza;
+- mbv: Mbulungish;
+- mbw: Maring;
+- mbx: Mari (East Sepik Province);
+- mby: Memoni;
+- mbz: Amoltepec Mixtec;
+- mca: Maca;
+- mcb: Machiguenga;
+- mcc: Bitur;
+- mcd: Sharanahua;
+- mce: Itundujia Mixtec;
+- mcf: Matsés;
+- mcg: Mapoyo;
+- mch: Maquiritari;
+- mci: Mese;
+- mcj: Mvanip;
+- mck: Mbunda;
+- mcl: Macaguaje;
+- mcm: Malaccan Creole Portuguese;
+- mcn: Masana;
+- mco: Coatlán Mixe;
+- mcp: Makaa;
+- mcq: Ese;
+- mcr: Menya;
+- mcs: Mambai;
+- mct: Mengisa;
+- mcu: Cameroon Mambila;
+- mcv: Minanibai;
+- mcw: Mawa (Chad);
+- mcx: Mpiemo;
+- mcy: South Watut;
+- mcz: Mawan;
+- mda: Mada (Nigeria);
+- mdb: Morigi;
+- mdc: Male (Papua New Guinea);
+- mdd: Mbum;
+- mde: Maba (Chad);
+- mdf: Moksha;
+- mdg: Massalat;
+- mdh: Maguindanaon;
+- mdi: Mamvu;
+- mdj: Mangbetu;
+- mdk: Mangbutu;
+- mdl: Maltese Sign Language;
+- mdm: Mayogo;
+- mdn: Mbati;
+- mdp: Mbala;
+- mdq: Mbole;
+- mdr: Mandar;
+- mds: Maria (Papua New Guinea);
+- mdt: Mbere;
+- mdu: Mboko;
+- mdv: Santa Lucía Monteverde Mixtec;
+- mdw: Mbosi;
+- mdx: Dizin;
+- mdy: Male (Ethiopia);
+- mdz: Suruí Do Pará;
+- mea: Menka;
+- meb: Ikobi;
+- mec: Mara;
+- med: Melpa;
+- mee: Mengen;
+- mef: Megam;
+- meh: Southwestern Tlaxiaco Mixtec;
+- mei: Midob;
+- mej: Meyah;
+- mek: Mekeo;
+- mel: Central Melanau;
+- mem: Mangala;
+- men: Mende (Sierra Leone);
+- meo: Kedah Malay;
+- mep: Miriwung;
+- meq: Merey;
+- mer: Meru;
+- mes: Masmaje;
+- met: Mato;
+- meu: Motu;
+- mev: Mano;
+- mew: Maaka;
+- mey: Hassaniyya;
+- mez: Menominee;
+- mfa: Pattani Malay;
+- mfb: Bangka;
+- mfc: Mba;
+- mfd: Mendankwe-Nkwen;
+- mfe: Morisyen;
+- mff: Naki;
+- mfg: Mogofin;
+- mfh: Matal;
+- mfi: Wandala;
+- mfj: Mefele;
+- mfk: North Mofu;
+- mfl: Putai;
+- mfm: Marghi South;
+- mfn: Cross River Mbembe;
+- mfo: Mbe;
+- mfp: Makassar Malay;
+- mfq: Moba;
+- mfr: Marithiel;
+- mfs: Mexican Sign Language;
+- mft: Mokerang;
+- mfu: Mbwela;
+- mfv: Mandjak;
+- mfw: Mulaha;
+- mfx: Melo;
+- mfy: Mayo;
+- mfz: Mabaan;
+- mga: Middle Irish (900-1200);
+- mgb: Mararit;
+- mgc: Morokodo;
+- mgd: Moru;
+- mge: Mango;
+- mgf: Maklew;
+- mgg: Mpumpong;
+- mgh: Makhuwa-Meetto;
+- mgi: Lijili;
+- mgj: Abureni;
+- mgk: Mawes;
+- mgl: Maleu-Kilenge;
+- mgm: Mambae;
+- mgn: Mbangi;
+- mgo: Meta';
+- mgp: Eastern Magar;
+- mgq: Malila;
+- mgr: Mambwe-Lungu;
+- mgs: Manda (Tanzania);
+- mgt: Mongol;
+- mgu: Mailu;
+- mgv: Matengo;
+- mgw: Matumbi;
+- mgy: Mbunga;
+- mgz: Mbugwe;
+- mha: Manda (India);
+- mhb: Mahongwe;
+- mhc: Mocho;
+- mhd: Mbugu;
+- mhe: Besisi;
+- mhf: Mamaa;
+- mhg: Margu;
+- mhi: Ma'di;
+- mhj: Mogholi;
+- mhk: Mungaka;
+- mhl: Mauwake;
+- mhm: Makhuwa-Moniga;
+- mhn: Mócheno;
+- mho: Mashi (Zambia);
+- mhp: Balinese Malay;
+- mhq: Mandan;
+- mhr: Eastern Mari;
+- mhs: Buru (Indonesia);
+- mht: Mandahuaca;
+- mhu: Digaro-Mishmi;
+- mhw: Mbukushu;
+- mhx: Maru;
+- mhy: Ma'anyan;
+- mhz: Mor (Mor Islands);
+- mia: Miami;
+- mib: Atatláhuca Mixtec;
+- mic: Mi'kmaq;
+- mid: Mandaic;
+- mie: Ocotepec Mixtec;
+- mif: Mofu-Gudur;
+- mig: San Miguel El Grande Mixtec;
+- mih: Chayuco Mixtec;
+- mii: Chigmecatitlán Mixtec;
+- mij: Abar;
+- mik: Mikasuki;
+- mil: Peñoles Mixtec;
+- mim: Alacatlatzala Mixtec;
+- min: Minangkabau;
+- mio: Pinotepa Nacional Mixtec;
+- mip: Apasco-Apoala Mixtec;
+- miq: Mískito;
+- mir: Isthmus Mixe;
+- mis: Uncoded languages;
+- mit: Southern Puebla Mixtec;
+- miu: Cacaloxtepec Mixtec;
+- miw: Akoye;
+- mix: Mixtepec Mixtec;
+- miy: Ayutla Mixtec;
+- miz: Coatzospan Mixtec;
+- mjc: San Juan Colorado Mixtec;
+- mjd: Northwest Maidu;
+- mje: Muskum;
+- mjg: Tu;
+- mjh: Mwera (Nyasa);
+- mji: Kim Mun;
+- mjj: Mawak;
+- mjk: Matukar;
+- mjl: Mandeali;
+- mjm: Medebur;
+- mjn: Ma (Papua New Guinea);
+- mjo: Malankuravan;
+- mjp: Malapandaram;
+- mjq: Malaryan;
+- mjr: Malavedan;
+- mjs: Miship;
+- mjt: Sauria Paharia;
+- mju: Manna-Dora;
+- mjv: Mannan;
+- mjw: Karbi;
+- mjx: Mahali;
+- mjy: Mahican;
+- mjz: Majhi;
+- mka: Mbre;
+- mkb: Mal Paharia;
+- mkc: Siliput;
+- mkd: Macedonian;
+- mke: Mawchi;
+- mkf: Miya;
+- mkg: Mak (China);
+- mki: Dhatki;
+- mkj: Mokilese;
+- mkk: Byep;
+- mkl: Mokole;
+- mkm: Moklen;
+- mkn: Kupang Malay;
+- mko: Mingang Doso;
+- mkp: Moikodi;
+- mkq: Bay Miwok;
+- mkr: Malas;
+- mks: Silacayoapan Mixtec;
+- mkt: Vamale;
+- mku: Konyanka Maninka;
+- mkv: Mafea;
+- mkw: Kituba (Congo);
+- mkx: Kinamiging Manobo;
+- mky: East Makian;
+- mkz: Makasae;
+- mla: Malo;
+- mlb: Mbule;
+- mlc: Cao Lan;
+- mle: Manambu;
+- mlf: Mal;
+- mlg: Malagasy;
+- mlh: Mape;
+- mli: Malimpung;
+- mlj: Miltu;
+- mlk: Ilwana;
+- mll: Malua Bay;
+- mlm: Mulam;
+- mln: Malango;
+- mlo: Mlomp;
+- mlp: Bargam;
+- mlq: Western Maninkakan;
+- mlr: Vame;
+- mls: Masalit;
+- mlt: Maltese;
+- mlu: To'abaita;
+- mlv: Motlav;
+- mlw: Moloko;
+- mlx: Malfaxal;
+- mlz: Malaynon;
+- mma: Mama;
+- mmb: Momina;
+- mmc: Michoacán Mazahua;
+- mmd: Maonan;
+- mme: Mae;
+- mmf: Mundat;
+- mmg: North Ambrym;
+- mmh: Mehináku;
+- mmi: Musar;
+- mmj: Majhwar;
+- mmk: Mukha-Dora;
+- mml: Man Met;
+- mmm: Maii;
+- mmn: Mamanwa;
+- mmo: Mangga Buang;
+- mmp: Siawi;
+- mmq: Musak;
+- mmr: Western Xiangxi Miao;
+- mmt: Malalamai;
+- mmu: Mmaala;
+- mmv: Miriti;
+- mmw: Emae;
+- mmx: Madak;
+- mmy: Migaama;
+- mmz: Mabaale;
+- mna: Mbula;
+- mnb: Muna;
+- mnc: Manchu;
+- mnd: Mondé;
+- mne: Naba;
+- mnf: Mundani;
+- mng: Eastern Mnong;
+- mnh: Mono (Democratic Republic of Congo);
+- mni: Manipuri;
+- mnj: Munji;
+- mnk: Mandinka;
+- mnl: Tiale;
+- mnm: Mapena;
+- mnn: Southern Mnong;
+- mnp: Min Bei Chinese;
+- mnq: Minriq;
+- mnr: Mono (USA);
+- mns: Mansi;
+- mnu: Mer;
+- mnv: Rennell-Bellona;
+- mnw: Mon;
+- mnx: Manikion;
+- mny: Manyawa;
+- mnz: Moni;
+- moa: Mwan;
+- moc: Mocoví;
+- mod: Mobilian;
+- moe: Montagnais;
+- mog: Mongondow;
+- moh: Mohawk;
+- moi: Mboi;
+- moj: Monzombo;
+- mok: Morori;
+- mom: Mangue;
+- mon: Mongolian;
+- moo: Monom;
+- mop: Mopán Maya;
+- moq: Mor (Bomberai Peninsula);
+- mor: Moro;
+- mos: Mossi;
+- mot: Barí;
+- mou: Mogum;
+- mov: Mohave;
+- mow: Moi (Congo);
+- mox: Molima;
+- moy: Shekkacho;
+- moz: Mukulu;
+- mpa: Mpoto;
+- mpb: Mullukmulluk;
+- mpc: Mangarayi;
+- mpd: Machinere;
+- mpe: Majang;
+- mpg: Marba;
+- mph: Maung;
+- mpi: Mpade;
+- mpj: Martu Wangka;
+- mpk: Mbara (Chad);
+- mpl: Middle Watut;
+- mpm: Yosondúa Mixtec;
+- mpn: Mindiri;
+- mpo: Miu;
+- mpp: Migabac;
+- mpq: Matís;
+- mpr: Vangunu;
+- mps: Dadibi;
+- mpt: Mian;
+- mpu: Makuráp;
+- mpv: Mungkip;
+- mpw: Mapidian;
+- mpx: Misima-Panaeati;
+- mpy: Mapia;
+- mpz: Mpi;
+- mqa: Maba (Indonesia);
+- mqb: Mbuko;
+- mqc: Mangole;
+- mqe: Matepi;
+- mqf: Momuna;
+- mqg: Kota Bangun Kutai Malay;
+- mqh: Tlazoyaltepec Mixtec;
+- mqi: Mariri;
+- mqj: Mamasa;
+- mqk: Rajah Kabunsuwan Manobo;
+- mql: Mbelime;
+- mqm: South Marquesan;
+- mqn: Moronene;
+- mqo: Modole;
+- mqp: Manipa;
+- mqq: Minokok;
+- mqr: Mander;
+- mqs: West Makian;
+- mqt: Mok;
+- mqu: Mandari;
+- mqv: Mosimo;
+- mqw: Murupi;
+- mqx: Mamuju;
+- mqy: Manggarai;
+- mqz: Pano;
+- mra: Mlabri;
+- mrb: Marino;
+- mrc: Maricopa;
+- mrd: Western Magar;
+- mre: Martha's Vineyard Sign Language;
+- mrf: Elseng;
+- mrg: Mising;
+- mrh: Mara Chin;
+- mri: Maori;
+- mrj: Western Mari;
+- mrk: Hmwaveke;
+- mrl: Mortlockese;
+- mrm: Merlav;
+- mrn: Cheke Holo;
+- mro: Mru;
+- mrp: Morouas;
+- mrq: North Marquesan;
+- mrr: Maria (India);
+- mrs: Maragus;
+- mrt: Marghi Central;
+- mru: Mono (Cameroon);
+- mrv: Mangareva;
+- mrw: Maranao;
+- mrx: Maremgi;
+- mry: Mandaya;
+- mrz: Marind;
+- msa: Malay (macrolanguage);
+- msb: Masbatenyo;
+- msc: Sankaran Maninka;
+- msd: Yucatec Maya Sign Language;
+- mse: Musey;
+- msf: Mekwei;
+- msg: Moraid;
+- msh: Masikoro Malagasy;
+- msi: Sabah Malay;
+- msj: Ma (Democratic Republic of Congo);
+- msk: Mansaka;
+- msl: Molof;
+- msm: Agusan Manobo;
+- msn: Vurës;
+- mso: Mombum;
+- msp: Maritsauá;
+- msq: Caac;
+- msr: Mongolian Sign Language;
+- mss: West Masela;
+- msu: Musom;
+- msv: Maslam;
+- msw: Mansoanka;
+- msx: Moresada;
+- msy: Aruamu;
+- msz: Momare;
+- mta: Cotabato Manobo;
+- mtb: Anyin Morofo;
+- mtc: Munit;
+- mtd: Mualang;
+- mte: Mono (Solomon Islands);
+- mtf: Murik (Papua New Guinea);
+- mtg: Una;
+- mth: Munggui;
+- mti: Maiwa (Papua New Guinea);
+- mtj: Moskona;
+- mtk: Mbe';
+- mtl: Montol;
+- mtm: Mator;
+- mtn: Matagalpa;
+- mto: Totontepec Mixe;
+- mtp: Wichí Lhamtés Nocten;
+- mtq: Muong;
+- mtr: Mewari;
+- mts: Yora;
+- mtt: Mota;
+- mtu: Tututepec Mixtec;
+- mtv: Asaro'o;
+- mtw: Southern Binukidnon;
+- mtx: Tidaá Mixtec;
+- mty: Nabi;
+- mua: Mundang;
+- mub: Mubi;
+- muc: Ajumbu;
+- mud: Mednyj Aleut;
+- mue: Media Lengua;
+- mug: Musgu;
+- muh: Mündü;
+- mui: Musi;
+- muj: Mabire;
+- muk: Mugom;
+- mul: Multiple languages;
+- mum: Maiwala;
+- muo: Nyong;
+- mup: Malvi;
+- muq: Eastern Xiangxi Miao;
+- mur: Murle;
+- mus: Creek;
+- mut: Western Muria;
+- muu: Yaaku;
+- muv: Muthuvan;
+- mux: Bo-Ung;
+- muy: Muyang;
+- muz: Mursi;
+- mva: Manam;
+- mvb: Mattole;
+- mvd: Mamboru;
+- mve: Marwari (Pakistan);
+- mvf: Peripheral Mongolian;
+- mvg: Yucuañe Mixtec;
+- mvh: Mulgi;
+- mvi: Miyako;
+- mvk: Mekmek;
+- mvl: Mbara (Australia);
+- mvm: Muya;
+- mvn: Minaveha;
+- mvo: Marovo;
+- mvp: Duri;
+- mvq: Moere;
+- mvr: Marau;
+- mvs: Massep;
+- mvt: Mpotovoro;
+- mvu: Marfa;
+- mvv: Tagal Murut;
+- mvw: Machinga;
+- mvx: Meoswar;
+- mvy: Indus Kohistani;
+- mvz: Mesqan;
+- mwa: Mwatebu;
+- mwb: Juwal;
+- mwc: Are;
+- mwe: Mwera (Chimwera);
+- mwf: Murrinh-Patha;
+- mwg: Aiklep;
+- mwh: Mouk-Aria;
+- mwi: Labo;
+- mwj: Maligo;
+- mwk: Kita Maninkakan;
+- mwl: Mirandese;
+- mwm: Sar;
+- mwn: Nyamwanga;
+- mwo: Central Maewo;
+- mwp: Kala Lagaw Ya;
+- mwq: Mün Chin;
+- mwr: Marwari;
+- mws: Mwimbi-Muthambi;
+- mwt: Moken;
+- mwu: Mittu;
+- mwv: Mentawai;
+- mww: Hmong Daw;
+- mwx: Mediak;
+- mwy: Mosiro;
+- mwz: Moingi;
+- mxa: Northwest Oaxaca Mixtec;
+- mxb: Tezoatlán Mixtec;
+- mxc: Manyika;
+- mxd: Modang;
+- mxe: Mele-Fila;
+- mxf: Malgbe;
+- mxg: Mbangala;
+- mxh: Mvuba;
+- mxi: Mozarabic;
+- mxj: Miju-Mishmi;
+- mxk: Monumbo;
+- mxl: Maxi Gbe;
+- mxm: Meramera;
+- mxn: Moi (Indonesia);
+- mxo: Mbowe;
+- mxp: Tlahuitoltepec Mixe;
+- mxq: Juquila Mixe;
+- mxr: Murik (Malaysia);
+- mxs: Huitepec Mixtec;
+- mxt: Jamiltepec Mixtec;
+- mxu: Mada (Cameroon);
+- mxv: Metlatónoc Mixtec;
+- mxw: Namo;
+- mxx: Mahou;
+- mxy: Southeastern Nochixtlán Mixtec;
+- mxz: Central Masela;
+- mya: Burmese;
+- myb: Mbay;
+- myc: Mayeka;
+- myd: Maramba;
+- mye: Myene;
+- myf: Bambassi;
+- myg: Manta;
+- myh: Makah;
+- myi: Mina (India);
+- myj: Mangayat;
+- myk: Mamara Senoufo;
+- myl: Moma;
+- mym: Me'en;
+- myo: Anfillo;
+- myp: Pirahã;
+- myr: Muniche;
+- mys: Mesmes;
+- myu: Mundurukú;
+- myv: Erzya;
+- myw: Muyuw;
+- myx: Masaaba;
+- myy: Macuna;
+- myz: Classical Mandaic;
+- mza: Santa María Zacatepec Mixtec;
+- mzb: Tumzabt;
+- mzc: Madagascar Sign Language;
+- mzd: Malimba;
+- mze: Morawa;
+- mzg: Monastic Sign Language;
+- mzh: Wichí Lhamtés Güisnay;
+- mzi: Ixcatlán Mazatec;
+- mzj: Manya;
+- mzk: Nigeria Mambila;
+- mzl: Mazatlán Mixe;
+- mzm: Mumuye;
+- mzn: Mazanderani;
+- mzo: Matipuhy;
+- mzp: Movima;
+- mzq: Mori Atas;
+- mzr: Marúbo;
+- mzs: Macanese;
+- mzt: Mintil;
+- mzu: Inapang;
+- mzv: Manza;
+- mzw: Deg;
+- mzx: Mawayana;
+- mzy: Mozambican Sign Language;
+- mzz: Maiadomu;
+- naa: Namla;
+- nab: Southern Nambikuára;
+- nac: Narak;
+- nad: Nijadali;
+- nae: Naka'ela;
+- naf: Nabak;
+- nag: Naga Pidgin;
+- naj: Nalu;
+- nak: Nakanai;
+- nal: Nalik;
+- nam: Ngan'gityemerri;
+- nan: Min Nan Chinese;
+- nao: Naaba;
+- nap: Neapolitan;
+- naq: Nama (Namibia);
+- nar: Iguta;
+- nas: Naasioi;
+- nat: Hungworo;
+- nau: Nauru;
+- nav: Navajo;
+- naw: Nawuri;
+- nax: Nakwi;
+- nay: Narrinyeri;
+- naz: Coatepec Nahuatl;
+- nba: Nyemba;
+- nbb: Ndoe;
+- nbc: Chang Naga;
+- nbd: Ngbinda;
+- nbe: Konyak Naga;
+- nbg: Nagarchal;
+- nbh: Ngamo;
+- nbi: Mao Naga;
+- nbj: Ngarinman;
+- nbk: Nake;
+- nbl: South Ndebele;
+- nbm: Ngbaka Ma'bo;
+- nbn: Kuri;
+- nbo: Nkukoli;
+- nbp: Nnam;
+- nbq: Nggem;
+- nbr: Numana-Nunku-Gbantu-Numbu;
+- nbs: Namibian Sign Language;
+- nbt: Na;
+- nbu: Rongmei Naga;
+- nbv: Ngamambo;
+- nbw: Southern Ngbandi;
+- nby: Ningera;
+- nca: Iyo;
+- ncb: Central Nicobarese;
+- ncc: Ponam;
+- ncd: Nachering;
+- nce: Yale;
+- ncf: Notsi;
+- ncg: Nisga'a;
+- nch: Central Huasteca Nahuatl;
+- nci: Classical Nahuatl;
+- ncj: Northern Puebla Nahuatl;
+- nck: Nakara;
+- ncl: Michoacán Nahuatl;
+- ncm: Nambo;
+- ncn: Nauna;
+- nco: Sibe;
+- ncp: Ndaktup;
+- ncr: Ncane;
+- ncs: Nicaraguan Sign Language;
+- nct: Chothe Naga;
+- ncu: Chumburung;
+- ncx: Central Puebla Nahuatl;
+- ncz: Natchez;
+- nda: Ndasa;
+- ndb: Kenswei Nsei;
+- ndc: Ndau;
+- ndd: Nde-Nsele-Nta;
+- nde: North Ndebele;
+- ndf: Nadruvian;
+- ndg: Ndengereko;
+- ndh: Ndali;
+- ndi: Samba Leko;
+- ndj: Ndamba;
+- ndk: Ndaka;
+- ndl: Ndolo;
+- ndm: Ndam;
+- ndn: Ngundi;
+- ndo: Ndonga;
+- ndp: Ndo;
+- ndq: Ndombe;
+- ndr: Ndoola;
+- nds: Low German;
+- ndt: Ndunga;
+- ndu: Dugun;
+- ndv: Ndut;
+- ndw: Ndobo;
+- ndx: Nduga;
+- ndy: Lutos;
+- ndz: Ndogo;
+- nea: Eastern Ngad'a;
+- neb: Toura (Côte d'Ivoire);
+- nec: Nedebang;
+- ned: Nde-Gbite;
+- nee: Nêlêmwa-Nixumwak;
+- nef: Nefamese;
+- neg: Negidal;
+- neh: Nyenkha;
+- nei: Neo-Hittite;
+- nej: Neko;
+- nek: Neku;
+- nem: Nemi;
+- nen: Nengone;
+- neo: Ná-Meo;
+- nep: Nepali (macrolanguage);
+- neq: North Central Mixe;
+- ner: Yahadian;
+- nes: Bhoti Kinnauri;
+- net: Nete;
+- neu: Neo;
+- nev: Nyaheun;
+- new: Newari;
+- nex: Neme;
+- ney: Neyo;
+- nez: Nez Perce;
+- nfa: Dhao;
+- nfd: Ahwai;
+- nfl: Ayiwo;
+- nfr: Nafaanra;
+- nfu: Mfumte;
+- nga: Ngbaka;
+- ngb: Northern Ngbandi;
+- ngc: Ngombe (Democratic Republic of Congo);
+- ngd: Ngando (Central African Republic);
+- nge: Ngemba;
+- ngg: Ngbaka Manza;
+- ngh: N/u;
+- ngi: Ngizim;
+- ngj: Ngie;
+- ngk: Dalabon;
+- ngl: Lomwe;
+- ngm: Ngatik Men's Creole;
+- ngn: Ngwo;
+- ngo: Ngoni;
+- ngp: Ngulu;
+- ngq: Ngurimi;
+- ngr: Engdewu;
+- ngs: Gvoko;
+- ngt: Ngeq;
+- ngu: Guerrero Nahuatl;
+- ngv: Nagumi;
+- ngw: Ngwaba;
+- ngx: Nggwahyi;
+- ngy: Tibea;
+- ngz: Ngungwel;
+- nha: Nhanda;
+- nhb: Beng;
+- nhc: Tabasco Nahuatl;
+- nhd: Chiripá;
+- nhe: Eastern Huasteca Nahuatl;
+- nhf: Nhuwala;
+- nhg: Tetelcingo Nahuatl;
+- nhh: Nahari;
+- nhi: Zacatlán-Ahuacatlán-Tepetzintla Nahuatl;
+- nhk: Isthmus-Cosoleacaque Nahuatl;
+- nhm: Morelos Nahuatl;
+- nhn: Central Nahuatl;
+- nho: Takuu;
+- nhp: Isthmus-Pajapan Nahuatl;
+- nhq: Huaxcaleca Nahuatl;
+- nhr: Naro;
+- nht: Ometepec Nahuatl;
+- nhu: Noone;
+- nhv: Temascaltepec Nahuatl;
+- nhw: Western Huasteca Nahuatl;
+- nhx: Isthmus-Mecayapan Nahuatl;
+- nhy: Northern Oaxaca Nahuatl;
+- nhz: Santa María La Alta Nahuatl;
+- nia: Nias;
+- nib: Nakame;
+- nid: Ngandi;
+- nie: Niellim;
+- nif: Nek;
+- nig: Ngalakan;
+- nih: Nyiha (Tanzania);
+- nii: Nii;
+- nij: Ngaju;
+- nik: Southern Nicobarese;
+- nil: Nila;
+- nim: Nilamba;
+- nin: Ninzo;
+- nio: Nganasan;
+- niq: Nandi;
+- nir: Nimboran;
+- nis: Nimi;
+- nit: Southeastern Kolami;
+- niu: Niuean;
+- niv: Gilyak;
+- niw: Nimo;
+- nix: Hema;
+- niy: Ngiti;
+- niz: Ningil;
+- nja: Nzanyi;
+- njb: Nocte Naga;
+- njd: Ndonde Hamba;
+- njh: Lotha Naga;
+- nji: Gudanji;
+- njj: Njen;
+- njl: Njalgulgule;
+- njm: Angami Naga;
+- njn: Liangmai Naga;
+- njo: Ao Naga;
+- njr: Njerep;
+- njs: Nisa;
+- njt: Ndyuka-Trio Pidgin;
+- nju: Ngadjunmaya;
+- njx: Kunyi;
+- njy: Njyem;
+- njz: Nyishi;
+- nka: Nkoya;
+- nkb: Khoibu Naga;
+- nkc: Nkongho;
+- nkd: Koireng;
+- nke: Duke;
+- nkf: Inpui Naga;
+- nkg: Nekgini;
+- nkh: Khezha Naga;
+- nki: Thangal Naga;
+- nkj: Nakai;
+- nkk: Nokuku;
+- nkm: Namat;
+- nkn: Nkangala;
+- nko: Nkonya;
+- nkp: Niuatoputapu;
+- nkq: Nkami;
+- nkr: Nukuoro;
+- nks: North Asmat;
+- nkt: Nyika (Tanzania);
+- nku: Bouna Kulango;
+- nkv: Nyika (Malawi and Zambia);
+- nkw: Nkutu;
+- nkx: Nkoroo;
+- nkz: Nkari;
+- nla: Ngombale;
+- nlc: Nalca;
+- nld: Dutch;
+- nle: East Nyala;
+- nlg: Gela;
+- nli: Grangali;
+- nlj: Nyali;
+- nlk: Ninia Yali;
+- nll: Nihali;
+- nlo: Ngul;
+- nlq: Lao Naga;
+- nlu: Nchumbulu;
+- nlv: Orizaba Nahuatl;
+- nlw: Walangama;
+- nlx: Nahali;
+- nly: Nyamal;
+- nlz: Nalögo;
+- nma: Maram Naga;
+- nmb: Big Nambas;
+- nmc: Ngam;
+- nmd: Ndumu;
+- nme: Mzieme Naga;
+- nmf: Tangkhul Naga (India);
+- nmg: Kwasio;
+- nmh: Monsang Naga;
+- nmi: Nyam;
+- nmj: Ngombe (Central African Republic);
+- nmk: Namakura;
+- nml: Ndemli;
+- nmm: Manangba;
+- nmn: !Xóõ;
+- nmo: Moyon Naga;
+- nmp: Nimanbur;
+- nmq: Nambya;
+- nmr: Nimbari;
+- nms: Letemboi;
+- nmt: Namonuito;
+- nmu: Northeast Maidu;
+- nmv: Ngamini;
+- nmw: Nimoa;
+- nmx: Nama (Papua New Guinea);
+- nmy: Namuyi;
+- nmz: Nawdm;
+- nna: Nyangumarta;
+- nnb: Nande;
+- nnc: Nancere;
+- nnd: West Ambae;
+- nne: Ngandyera;
+- nnf: Ngaing;
+- nng: Maring Naga;
+- nnh: Ngiemboon;
+- nni: North Nuaulu;
+- nnj: Nyangatom;
+- nnk: Nankina;
+- nnl: Northern Rengma Naga;
+- nnm: Namia;
+- nnn: Ngete;
+- nno: Norwegian Nynorsk;
+- nnp: Wancho Naga;
+- nnq: Ngindo;
+- nnr: Narungga;
+- nns: Ningye;
+- nnt: Nanticoke;
+- nnu: Dwang;
+- nnv: Nugunu (Australia);
+- nnw: Southern Nuni;
+- nnx: Ngong;
+- nny: Nyangga;
+- nnz: Nda'nda';
+- noa: Woun Meu;
+- nob: Norwegian Bokmål;
+- noc: Nuk;
+- nod: Northern Thai;
+- noe: Nimadi;
+- nof: Nomane;
+- nog: Nogai;
+- noh: Nomu;
+- noi: Noiri;
+- noj: Nonuya;
+- nok: Nooksack;
+- nol: Nomlaki;
+- nom: Nocamán;
+- non: Old Norse;
+- nop: Numanggang;
+- noq: Ngongo;
+- nor: Norwegian;
+- nos: Eastern Nisu;
+- not: Nomatsiguenga;
+- nou: Ewage-Notu;
+- nov: Novial;
+- now: Nyambo;
+- noy: Noy;
+- noz: Nayi;
+- npa: Nar Phu;
+- npb: Nupbikha;
+- npg: Ponyo-Gongwang Naga;
+- nph: Phom Naga;
+- npi: Nepali (individual language);
+- npl: Southeastern Puebla Nahuatl;
+- npn: Mondropolon;
+- npo: Pochuri Naga;
+- nps: Nipsan;
+- npu: Puimei Naga;
+- npy: Napu;
+- nqg: Southern Nago;
+- nqk: Kura Ede Nago;
+- nqm: Ndom;
+- nqn: Nen;
+- nqo: N'Ko;
+- nqq: Kyan-Karyaw Naga;
+- nqy: Akyaung Ari Naga;
+- nra: Ngom;
+- nrb: Nara;
+- nrc: Noric;
+- nre: Southern Rengma Naga;
+- nrg: Narango;
+- nri: Chokri Naga;
+- nrk: Ngarla;
+- nrl: Ngarluma;
+- nrm: Narom;
+- nrn: Norn;
+- nrp: North Picene;
+- nrr: Norra;
+- nrt: Northern Kalapuya;
+- nru: Narua;
+- nrx: Ngurmbur;
+- nrz: Lala;
+- nsa: Sangtam Naga;
+- nsc: Nshi;
+- nsd: Southern Nisu;
+- nse: Nsenga;
+- nsf: Northwestern Nisu;
+- nsg: Ngasa;
+- nsh: Ngoshie;
+- nsi: Nigerian Sign Language;
+- nsk: Naskapi;
+- nsl: Norwegian Sign Language;
+- nsm: Sumi Naga;
+- nsn: Nehan;
+- nso: Pedi;
+- nsp: Nepalese Sign Language;
+- nsq: Northern Sierra Miwok;
+- nsr: Maritime Sign Language;
+- nss: Nali;
+- nst: Tase Naga;
+- nsu: Sierra Negra Nahuatl;
+- nsv: Southwestern Nisu;
+- nsw: Navut;
+- nsx: Nsongo;
+- nsy: Nasal;
+- nsz: Nisenan;
+- nte: Nathembo;
+- ntg: Ngantangarra;
+- nti: Natioro;
+- ntj: Ngaanyatjarra;
+- ntk: Ikoma-Nata-Isenye;
+- ntm: Nateni;
+- nto: Ntomba;
+- ntp: Northern Tepehuan;
+- ntr: Delo;
+- nts: Natagaimas;
+- ntu: Natügu;
+- ntw: Nottoway;
+- ntx: Tangkhul Naga (Myanmar);
+- nty: Mantsi;
+- ntz: Natanzi;
+- nua: Yuanga;
+- nuc: Nukuini;
+- nud: Ngala;
+- nue: Ngundu;
+- nuf: Nusu;
+- nug: Nungali;
+- nuh: Ndunda;
+- nui: Ngumbi;
+- nuj: Nyole;
+- nuk: Nuu-chah-nulth;
+- nul: Nusa Laut;
+- num: Niuafo'ou;
+- nun: Anong;
+- nuo: Nguôn;
+- nup: Nupe-Nupe-Tako;
+- nuq: Nukumanu;
+- nur: Nukuria;
+- nus: Nuer;
+- nut: Nung (Viet Nam);
+- nuu: Ngbundu;
+- nuv: Northern Nuni;
+- nuw: Nguluwan;
+- nux: Mehek;
+- nuy: Nunggubuyu;
+- nuz: Tlamacazapa Nahuatl;
+- nvh: Nasarian;
+- nvm: Namiae;
+- nvo: Nyokon;
+- nwa: Nawathinehena;
+- nwb: Nyabwa;
+- nwc: Classical Newari;
+- nwe: Ngwe;
+- nwg: Ngayawung;
+- nwi: Southwest Tanna;
+- nwm: Nyamusa-Molo;
+- nwo: Nauo;
+- nwr: Nawaru;
+- nwx: Middle Newar;
+- nwy: Nottoway-Meherrin;
+- nxa: Nauete;
+- nxd: Ngando (Democratic Republic of Congo);
+- nxe: Nage;
+- nxg: Ngad'a;
+- nxi: Nindi;
+- nxk: Koki Naga;
+- nxl: South Nuaulu;
+- nxm: Numidian;
+- nxn: Ngawun;
+- nxq: Naxi;
+- nxr: Ninggerum;
+- nxu: Narau;
+- nxx: Nafri;
+- nya: Nyanja;
+- nyb: Nyangbo;
+- nyc: Nyanga-li;
+- nyd: Nyore;
+- nye: Nyengo;
+- nyf: Giryama;
+- nyg: Nyindu;
+- nyh: Nyigina;
+- nyi: Ama (Sudan);
+- nyj: Nyanga;
+- nyk: Nyaneka;
+- nyl: Nyeu;
+- nym: Nyamwezi;
+- nyn: Nyankole;
+- nyo: Nyoro;
+- nyp: Nyang'i;
+- nyq: Nayini;
+- nyr: Nyiha (Malawi);
+- nys: Nyunga;
+- nyt: Nyawaygi;
+- nyu: Nyungwe;
+- nyv: Nyulnyul;
+- nyw: Nyaw;
+- nyx: Nganyaywana;
+- nyy: Nyakyusa-Ngonde;
+- nza: Tigon Mbembe;
+- nzb: Njebi;
+- nzi: Nzima;
+- nzk: Nzakara;
+- nzm: Zeme Naga;
+- nzs: New Zealand Sign Language;
+- nzu: Teke-Nzikou;
+- nzy: Nzakambay;
+- nzz: Nanga Dama Dogon;
+- oaa: Orok;
+- oac: Oroch;
+- oar: Old Aramaic (up to 700 BCE);
+- oav: Old Avar;
+- obi: Obispeño;
+- obk: Southern Bontok;
+- obl: Oblo;
+- obm: Moabite;
+- obo: Obo Manobo;
+- obr: Old Burmese;
+- obt: Old Breton;
+- obu: Obulom;
+- oca: Ocaina;
+- och: Old Chinese;
+- oci: Occitan (post 1500);
+- oco: Old Cornish;
+- ocu: Atzingo Matlatzinca;
+- oda: Odut;
+- odk: Od;
+- odt: Old Dutch;
+- odu: Odual;
+- ofo: Ofo;
+- ofs: Old Frisian;
+- ofu: Efutop;
+- ogb: Ogbia;
+- ogc: Ogbah;
+- oge: Old Georgian;
+- ogg: Ogbogolo;
+- ogo: Khana;
+- ogu: Ogbronuagum;
+- oht: Old Hittite;
+- ohu: Old Hungarian;
+- oia: Oirata;
+- oin: Inebu One;
+- ojb: Northwestern Ojibwa;
+- ojc: Central Ojibwa;
+- ojg: Eastern Ojibwa;
+- oji: Ojibwa;
+- ojp: Old Japanese;
+- ojs: Severn Ojibwa;
+- ojv: Ontong Java;
+- ojw: Western Ojibwa;
+- oka: Okanagan;
+- okb: Okobo;
+- okd: Okodia;
+- oke: Okpe (Southwestern Edo);
+- okg: Koko Babangk;
+- okh: Koresh-e Rostam;
+- oki: Okiek;
+- okj: Oko-Juwoi;
+- okk: Kwamtim One;
+- okl: Old Kentish Sign Language;
+- okm: Middle Korean (10th-16th cent.);
+- okn: Oki-No-Erabu;
+- oko: Old Korean (3rd-9th cent.);
+- okr: Kirike;
+- oks: Oko-Eni-Osayen;
+- oku: Oku;
+- okv: Orokaiva;
+- okx: Okpe (Northwestern Edo);
+- ola: Walungge;
+- old: Mochi;
+- ole: Olekha;
+- olk: Olkol;
+- olm: Oloma;
+- olo: Livvi;
+- olr: Olrat;
+- olt: Old Lithuanian;
+- oma: Omaha-Ponca;
+- omb: East Ambae;
+- omc: Mochica;
+- ome: Omejes;
+- omg: Omagua;
+- omi: Omi;
+- omk: Omok;
+- oml: Ombo;
+- omn: Minoan;
+- omo: Utarmbung;
+- omp: Old Manipuri;
+- omr: Old Marathi;
+- omt: Omotik;
+- omu: Omurano;
+- omw: South Tairora;
+- omx: Old Mon;
+- ona: Ona;
+- onb: Lingao;
+- one: Oneida;
+- ong: Olo;
+- oni: Onin;
+- onj: Onjob;
+- onk: Kabore One;
+- onn: Onobasulu;
+- ono: Onondaga;
+- onp: Sartang;
+- onr: Northern One;
+- ons: Ono;
+- ont: Ontenu;
+- onu: Unua;
+- onw: Old Nubian;
+- onx: Onin Based Pidgin;
+- ood: Tohono O'odham;
+- oog: Ong;
+- oon: Önge;
+- oor: Oorlams;
+- oos: Old Ossetic;
+- opa: Okpamheri;
+- opk: Kopkaka;
+- opm: Oksapmin;
+- opo: Opao;
+- opt: Opata;
+- opy: Ofayé;
+- ora: Oroha;
+- orc: Orma;
+- ore: Orejón;
+- org: Oring;
+- orh: Oroqen;
+- ori: Oriya (macrolanguage);
+- orm: Oromo;
+- orn: Orang Kanaq;
+- oro: Orokolo;
+- orr: Oruma;
+- ors: Orang Seletar;
+- ort: Adivasi Oriya;
+- oru: Ormuri;
+- orv: Old Russian;
+- orw: Oro Win;
+- orx: Oro;
+- ory: Oriya (individual language);
+- orz: Ormu;
+- osa: Osage;
+- osc: Oscan;
+- osi: Osing;
+- oso: Ososo;
+- osp: Old Spanish;
+- oss: Ossetian;
+- ost: Osatu;
+- osu: Southern One;
+- osx: Old Saxon;
+- ota: Ottoman Turkish (1500-1928);
+- otb: Old Tibetan;
+- otd: Ot Danum;
+- ote: Mezquital Otomi;
+- oti: Oti;
+- otk: Old Turkish;
+- otl: Tilapa Otomi;
+- otm: Eastern Highland Otomi;
+- otn: Tenango Otomi;
+- otq: Querétaro Otomi;
+- otr: Otoro;
+- ots: Estado de México Otomi;
+- ott: Temoaya Otomi;
+- otu: Otuke;
+- otw: Ottawa;
+- otx: Texcatepec Otomi;
+- oty: Old Tamil;
+- otz: Ixtenco Otomi;
+- oua: Tagargrent;
+- oub: Glio-Oubi;
+- oue: Oune;
+- oui: Old Uighur;
+- oum: Ouma;
+- oun: !O!ung;
+- owi: Owiniga;
+- owl: Old Welsh;
+- oyb: Oy;
+- oyd: Oyda;
+- oym: Wayampi;
+- oyy: Oya'oya;
+- ozm: Koonzime;
+- pab: Parecís;
+- pac: Pacoh;
+- pad: Paumarí;
+- pae: Pagibete;
+- paf: Paranawát;
+- pag: Pangasinan;
+- pah: Tenharim;
+- pai: Pe;
+- pak: Parakanã;
+- pal: Pahlavi;
+- pam: Pampanga;
+- pan: Panjabi;
+- pao: Northern Paiute;
+- pap: Papiamento;
+- paq: Parya;
+- par: Panamint;
+- pas: Papasena;
+- pat: Papitalai;
+- pau: Palauan;
+- pav: Pakaásnovos;
+- paw: Pawnee;
+- pax: Pankararé;
+- pay: Pech;
+- paz: Pankararú;
+- pbb: Páez;
+- pbc: Patamona;
+- pbe: Mezontla Popoloca;
+- pbf: Coyotepec Popoloca;
+- pbg: Paraujano;
+- pbh: E'ñapa Woromaipu;
+- pbi: Parkwa;
+- pbl: Mak (Nigeria);
+- pbn: Kpasam;
+- pbo: Papel;
+- pbp: Badyara;
+- pbr: Pangwa;
+- pbs: Central Pame;
+- pbt: Southern Pashto;
+- pbu: Northern Pashto;
+- pbv: Pnar;
+- pby: Pyu;
+- pca: Santa Inés Ahuatempan Popoloca;
+- pcb: Pear;
+- pcc: Bouyei;
+- pcd: Picard;
+- pce: Ruching Palaung;
+- pcf: Paliyan;
+- pcg: Paniya;
+- pch: Pardhan;
+- pci: Duruwa;
+- pcj: Parenga;
+- pck: Paite Chin;
+- pcl: Pardhi;
+- pcm: Nigerian Pidgin;
+- pcn: Piti;
+- pcp: Pacahuara;
+- pcw: Pyapun;
+- pda: Anam;
+- pdc: Pennsylvania German;
+- pdi: Pa Di;
+- pdn: Podena;
+- pdo: Padoe;
+- pdt: Plautdietsch;
+- pdu: Kayan;
+- pea: Peranakan Indonesian;
+- peb: Eastern Pomo;
+- ped: Mala (Papua New Guinea);
+- pee: Taje;
+- pef: Northeastern Pomo;
+- peg: Pengo;
+- peh: Bonan;
+- pei: Chichimeca-Jonaz;
+- pej: Northern Pomo;
+- pek: Penchal;
+- pel: Pekal;
+- pem: Phende;
+- peo: Old Persian (ca. 600-400 B.C.);
+- pep: Kunja;
+- peq: Southern Pomo;
+- pes: Iranian Persian;
+- pev: Pémono;
+- pex: Petats;
+- pey: Petjo;
+- pez: Eastern Penan;
+- pfa: Pááfang;
+- pfe: Peere;
+- pfl: Pfaelzisch;
+- pga: Sudanese Creole Arabic;
+- pgg: Pangwali;
+- pgi: Pagi;
+- pgk: Rerep;
+- pgl: Primitive Irish;
+- pgn: Paelignian;
+- pgs: Pangseng;
+- pgu: Pagu;
+- pha: Pa-Hng;
+- phd: Phudagi;
+- phg: Phuong;
+- phh: Phukha;
+- phk: Phake;
+- phl: Phalura;
+- phm: Phimbi;
+- phn: Phoenician;
+- pho: Phunoi;
+- phq: Phana';
+- phr: Pahari-Potwari;
+- pht: Phu Thai;
+- phu: Phuan;
+- phv: Pahlavani;
+- phw: Phangduwali;
+- pia: Pima Bajo;
+- pib: Yine;
+- pic: Pinji;
+- pid: Piaroa;
+- pie: Piro;
+- pif: Pingelapese;
+- pig: Pisabo;
+- pih: Pitcairn-Norfolk;
+- pii: Pini;
+- pij: Pijao;
+- pil: Yom;
+- pim: Powhatan;
+- pin: Piame;
+- pio: Piapoco;
+- pip: Pero;
+- pir: Piratapuyo;
+- pis: Pijin;
+- pit: Pitta Pitta;
+- piu: Pintupi-Luritja;
+- piv: Pileni;
+- piw: Pimbwe;
+- pix: Piu;
+- piy: Piya-Kwonci;
+- piz: Pije;
+- pjt: Pitjantjatjara;
+- pka: Ardhamāgadhī Prākrit;
+- pkb: Pokomo;
+- pkc: Paekche;
+- pkg: Pak-Tong;
+- pkh: Pankhu;
+- pkn: Pakanha;
+- pko: Pökoot;
+- pkp: Pukapuka;
+- pkr: Attapady Kurumba;
+- pks: Pakistan Sign Language;
+- pkt: Maleng;
+- pku: Paku;
+- pla: Miani;
+- plb: Polonombauk;
+- plc: Central Palawano;
+- pld: Polari;
+- ple: Palu'e;
+- plg: Pilagá;
+- plh: Paulohi;
+- pli: Pali;
+- plj: Polci;
+- plk: Kohistani Shina;
+- pll: Shwe Palaung;
+- pln: Palenquero;
+- plo: Oluta Popoluca;
+- plp: Palpa;
+- plq: Palaic;
+- plr: Palaka Senoufo;
+- pls: San Marcos Tlalcoyalco Popoloca;
+- plt: Plateau Malagasy;
+- plu: Palikúr;
+- plv: Southwest Palawano;
+- plw: Brooke's Point Palawano;
+- ply: Bolyu;
+- plz: Paluan;
+- pma: Paama;
+- pmb: Pambia;
+- pmc: Palumata;
+- pmd: Pallanganmiddang;
+- pme: Pwaamei;
+- pmf: Pamona;
+- pmh: Māhārāṣṭri Prākrit;
+- pmi: Northern Pumi;
+- pmj: Southern Pumi;
+- pmk: Pamlico;
+- pml: Lingua Franca;
+- pmm: Pomo;
+- pmn: Pam;
+- pmo: Pom;
+- pmq: Northern Pame;
+- pmr: Paynamar;
+- pms: Piemontese;
+- pmt: Tuamotuan;
+- pmu: Mirpur Panjabi;
+- pmw: Plains Miwok;
+- pmx: Poumei Naga;
+- pmy: Papuan Malay;
+- pmz: Southern Pame;
+- pna: Punan Bah-Biau;
+- pnb: Western Panjabi;
+- pnc: Pannei;
+- pne: Western Penan;
+- png: Pongu;
+- pnh: Penrhyn;
+- pni: Aoheng;
+- pnj: Pinjarup;
+- pnk: Paunaka;
+- pnl: Paleni;
+- pnm: Punan Batu 1;
+- pnn: Pinai-Hagahai;
+- pno: Panobo;
+- pnp: Pancana;
+- pnq: Pana (Burkina Faso);
+- pnr: Panim;
+- pns: Ponosakan;
+- pnt: Pontic;
+- pnu: Jiongnai Bunu;
+- pnv: Pinigura;
+- pnw: Panytyima;
+- pnx: Phong-Kniang;
+- pny: Pinyin;
+- pnz: Pana (Central African Republic);
+- poc: Poqomam;
+- pod: Ponares;
+- poe: San Juan Atzingo Popoloca;
+- pof: Poke;
+- pog: Potiguára;
+- poh: Poqomchi';
+- poi: Highland Popoluca;
+- pok: Pokangá;
+- pol: Polish;
+- pom: Southeastern Pomo;
+- pon: Pohnpeian;
+- poo: Central Pomo;
+- pop: Pwapwâ;
+- poq: Texistepec Popoluca;
+- por: Portuguese;
+- pos: Sayula Popoluca;
+- pot: Potawatomi;
+- pov: Upper Guinea Crioulo;
+- pow: San Felipe Otlaltepec Popoloca;
+- pox: Polabian;
+- poy: Pogolo;
+- ppa: Pao;
+- ppe: Papi;
+- ppi: Paipai;
+- ppk: Uma;
+- ppl: Pipil;
+- ppm: Papuma;
+- ppn: Papapana;
+- ppo: Folopa;
+- ppp: Pelende;
+- ppq: Pei;
+- pps: San Luís Temalacayuca Popoloca;
+- ppt: Pare;
+- ppu: Papora;
+- pqa: Pa'a;
+- pqm: Malecite-Passamaquoddy;
+- prb: Lua';
+- prc: Parachi;
+- prd: Parsi-Dari;
+- pre: Principense;
+- prf: Paranan;
+- prg: Prussian;
+- prh: Porohanon;
+- pri: Paicî;
+- prk: Parauk;
+- prl: Peruvian Sign Language;
+- prm: Kibiri;
+- prn: Prasuni;
+- pro: Old Provençal (to 1500);
+- prp: Parsi;
+- prq: Ashéninka Perené;
+- prr: Puri;
+- prs: Dari;
+- prt: Phai;
+- pru: Puragi;
+- prw: Parawen;
+- prx: Purik;
+- pry: Pray 3;
+- prz: Providencia Sign Language;
+- psa: Asue Awyu;
+- psc: Persian Sign Language;
+- psd: Plains Indian Sign Language;
+- pse: Central Malay;
+- psg: Penang Sign Language;
+- psh: Southwest Pashayi;
+- psi: Southeast Pashayi;
+- psl: Puerto Rican Sign Language;
+- psm: Pauserna;
+- psn: Panasuan;
+- pso: Polish Sign Language;
+- psp: Philippine Sign Language;
+- psq: Pasi;
+- psr: Portuguese Sign Language;
+- pss: Kaulong;
+- pst: Central Pashto;
+- psu: Sauraseni Prākrit;
+- psw: Port Sandwich;
+- psy: Piscataway;
+- pta: Pai Tavytera;
+- pth: Pataxó Hã-Ha-Hãe;
+- pti: Pintiini;
+- ptn: Patani;
+- pto: Zo'é;
+- ptp: Patep;
+- ptq: Pattapu;
+- ptr: Piamatsina;
+- ptt: Enrekang;
+- ptu: Bambam;
+- ptv: Port Vato;
+- ptw: Pentlatch;
+- pty: Pathiya;
+- pua: Western Highland Purepecha;
+- pub: Purum;
+- puc: Punan Merap;
+- pud: Punan Aput;
+- pue: Puelche;
+- puf: Punan Merah;
+- pug: Phuie;
+- pui: Puinave;
+- puj: Punan Tubu;
+- puk: Pu Ko;
+- pum: Puma;
+- puo: Puoc;
+- pup: Pulabu;
+- puq: Puquina;
+- pur: Puruborá;
+- pus: Pushto;
+- put: Putoh;
+- puu: Punu;
+- puw: Puluwatese;
+- pux: Puare;
+- puy: Purisimeño;
+- pwa: Pawaia;
+- pwb: Panawa;
+- pwg: Gapapaiwa;
+- pwi: Patwin;
+- pwm: Molbog;
+- pwn: Paiwan;
+- pwo: Pwo Western Karen;
+- pwr: Powari;
+- pww: Pwo Northern Karen;
+- pxm: Quetzaltepec Mixe;
+- pye: Pye Krumen;
+- pym: Fyam;
+- pyn: Poyanáwa;
+- pys: Paraguayan Sign Language;
+- pyu: Puyuma;
+- pyx: Pyu (Myanmar);
+- pyy: Pyen;
+- pzn: Para Naga;
+- qua: Quapaw;
+- qub: Huallaga Huánuco Quechua;
+- quc: K'iche';
+- qud: Calderón Highland Quichua;
+- que: Quechua;
+- quf: Lambayeque Quechua;
+- qug: Chimborazo Highland Quichua;
+- quh: South Bolivian Quechua;
+- qui: Quileute;
+- quk: Chachapoyas Quechua;
+- qul: North Bolivian Quechua;
+- qum: Sipacapense;
+- qun: Quinault;
+- qup: Southern Pastaza Quechua;
+- quq: Quinqui;
+- qur: Yanahuanca Pasco Quechua;
+- qus: Santiago del Estero Quichua;
+- quv: Sacapulteco;
+- quw: Tena Lowland Quichua;
+- qux: Yauyos Quechua;
+- quy: Ayacucho Quechua;
+- quz: Cusco Quechua;
+- qva: Ambo-Pasco Quechua;
+- qvc: Cajamarca Quechua;
+- qve: Eastern Apurímac Quechua;
+- qvh: Huamalíes-Dos de Mayo Huánuco Quechua;
+- qvi: Imbabura Highland Quichua;
+- qvj: Loja Highland Quichua;
+- qvl: Cajatambo North Lima Quechua;
+- qvm: Margos-Yarowilca-Lauricocha Quechua;
+- qvn: North Junín Quechua;
+- qvo: Napo Lowland Quechua;
+- qvp: Pacaraos Quechua;
+- qvs: San Martín Quechua;
+- qvw: Huaylla Wanca Quechua;
+- qvy: Queyu;
+- qvz: Northern Pastaza Quichua;
+- qwa: Corongo Ancash Quechua;
+- qwc: Classical Quechua;
+- qwh: Huaylas Ancash Quechua;
+- qwm: Kuman (Russia);
+- qws: Sihuas Ancash Quechua;
+- qwt: Kwalhioqua-Tlatskanai;
+- qxa: Chiquián Ancash Quechua;
+- qxc: Chincha Quechua;
+- qxh: Panao Huánuco Quechua;
+- qxl: Salasaca Highland Quichua;
+- qxn: Northern Conchucos Ancash Quechua;
+- qxo: Southern Conchucos Ancash Quechua;
+- qxp: Puno Quechua;
+- qxq: Qashqa'i;
+- qxr: Cañar Highland Quichua;
+- qxs: Southern Qiang;
+- qxt: Santa Ana de Tusi Pasco Quechua;
+- qxu: Arequipa-La Unión Quechua;
+- qxw: Jauja Wanca Quechua;
+- qya: Quenya;
+- qyp: Quiripi;
+- raa: Dungmali;
+- rab: Camling;
+- rac: Rasawa;
+- rad: Rade;
+- raf: Western Meohang;
+- rag: Logooli;
+- rah: Rabha;
+- rai: Ramoaaina;
+- raj: Rajasthani;
+- rak: Tulu-Bohuai;
+- ral: Ralte;
+- ram: Canela;
+- ran: Riantana;
+- rao: Rao;
+- rap: Rapanui;
+- raq: Saam;
+- rar: Rarotongan;
+- ras: Tegali;
+- rat: Razajerdi;
+- rau: Raute;
+- rav: Sampang;
+- raw: Rawang;
+- rax: Rang;
+- ray: Rapa;
+- raz: Rahambuu;
+- rbb: Rumai Palaung;
+- rbk: Northern Bontok;
+- rbl: Miraya Bikol;
+- rbp: Barababaraba;
+- rcf: Réunion Creole French;
+- rdb: Rudbari;
+- rea: Rerau;
+- reb: Rembong;
+- ree: Rejang Kayan;
+- reg: Kara (Tanzania);
+- rei: Reli;
+- rej: Rejang;
+- rel: Rendille;
+- rem: Remo;
+- ren: Rengao;
+- rer: Rer Bare;
+- res: Reshe;
+- ret: Retta;
+- rey: Reyesano;
+- rga: Roria;
+- rge: Romano-Greek;
+- rgk: Rangkas;
+- rgn: Romagnol;
+- rgr: Resígaro;
+- rgs: Southern Roglai;
+- rgu: Ringgou;
+- rhg: Rohingya;
+- rhp: Yahang;
+- ria: Riang (India);
+- rie: Rien;
+- rif: Tarifit;
+- ril: Riang (Myanmar);
+- rim: Nyaturu;
+- rin: Nungu;
+- rir: Ribun;
+- rit: Ritarungo;
+- riu: Riung;
+- rjg: Rajong;
+- rji: Raji;
+- rjs: Rajbanshi;
+- rka: Kraol;
+- rkb: Rikbaktsa;
+- rkh: Rakahanga-Manihiki;
+- rki: Rakhine;
+- rkm: Marka;
+- rkt: Rangpuri;
+- rkw: Arakwal;
+- rma: Rama;
+- rmb: Rembarunga;
+- rmc: Carpathian Romani;
+- rmd: Traveller Danish;
+- rme: Angloromani;
+- rmf: Kalo Finnish Romani;
+- rmg: Traveller Norwegian;
+- rmh: Murkim;
+- rmi: Lomavren;
+- rmk: Romkun;
+- rml: Baltic Romani;
+- rmm: Roma;
+- rmn: Balkan Romani;
+- rmo: Sinte Romani;
+- rmp: Rempi;
+- rmq: Caló;
+- rms: Romanian Sign Language;
+- rmt: Domari;
+- rmu: Tavringer Romani;
+- rmv: Romanova;
+- rmw: Welsh Romani;
+- rmx: Romam;
+- rmy: Vlax Romani;
+- rmz: Marma;
+- rna: Runa;
+- rnd: Ruund;
+- rng: Ronga;
+- rnl: Ranglong;
+- rnn: Roon;
+- rnp: Rongpo;
+- rnr: Nari Nari;
+- rnw: Rungwa;
+- rob: Tae';
+- roc: Cacgia Roglai;
+- rod: Rogo;
+- roe: Ronji;
+- rof: Rombo;
+- rog: Northern Roglai;
+- roh: Romansh;
+- rol: Romblomanon;
+- rom: Romany;
+- ron: Romanian;
+- roo: Rotokas;
+- rop: Kriol;
+- ror: Rongga;
+- rou: Runga;
+- row: Dela-Oenale;
+- rpn: Repanbitip;
+- rpt: Rapting;
+- rri: Ririo;
+- rro: Waima;
+- rrt: Arritinngithigh;
+- rsb: Romano-Serbian;
+- rsi: Rennellese Sign Language;
+- rsl: Russian Sign Language;
+- rtc: Rungtu Chin;
+- rth: Ratahan;
+- rtm: Rotuman;
+- rtw: Rathawi;
+- rub: Gungu;
+- ruc: Ruuli;
+- rue: Rusyn;
+- ruf: Luguru;
+- rug: Roviana;
+- ruh: Ruga;
+- rui: Rufiji;
+- ruk: Che;
+- run: Rundi;
+- ruo: Istro Romanian;
+- rup: Macedo-Romanian;
+- ruq: Megleno Romanian;
+- rus: Russian;
+- rut: Rutul;
+- ruu: Lanas Lobu;
+- ruy: Mala (Nigeria);
+- ruz: Ruma;
+- rwa: Rawo;
+- rwk: Rwa;
+- rwm: Amba (Uganda);
+- rwo: Rawa;
+- rwr: Marwari (India);
+- rxd: Ngardi;
+- rxw: Karuwali;
+- ryn: Northern Amami-Oshima;
+- rys: Yaeyama;
+- ryu: Central Okinawan;
+- saa: Saba;
+- sab: Buglere;
+- sac: Meskwaki;
+- sad: Sandawe;
+- sae: Sabanê;
+- saf: Safaliba;
+- sag: Sango;
+- sah: Yakut;
+- saj: Sahu;
+- sak: Sake;
+- sam: Samaritan Aramaic;
+- san: Sanskrit;
+- sao: Sause;
+- saq: Samburu;
+- sar: Saraveca;
+- sas: Sasak;
+- sat: Santali;
+- sau: Saleman;
+- sav: Saafi-Saafi;
+- saw: Sawi;
+- sax: Sa;
+- say: Saya;
+- saz: Saurashtra;
+- sba: Ngambay;
+- sbb: Simbo;
+- sbc: Kele (Papua New Guinea);
+- sbd: Southern Samo;
+- sbe: Saliba;
+- sbf: Shabo;
+- sbg: Seget;
+- sbh: Sori-Harengan;
+- sbi: Seti;
+- sbj: Surbakhal;
+- sbk: Safwa;
+- sbl: Botolan Sambal;
+- sbm: Sagala;
+- sbn: Sindhi Bhil;
+- sbo: Sabüm;
+- sbp: Sangu (Tanzania);
+- sbq: Sileibi;
+- sbr: Sembakung Murut;
+- sbs: Subiya;
+- sbt: Kimki;
+- sbu: Stod Bhoti;
+- sbv: Sabine;
+- sbw: Simba;
+- sbx: Seberuang;
+- sby: Soli;
+- sbz: Sara Kaba;
+- scb: Chut;
+- sce: Dongxiang;
+- scf: San Miguel Creole French;
+- scg: Sanggau;
+- sch: Sakachep;
+- sci: Sri Lankan Creole Malay;
+- sck: Sadri;
+- scl: Shina;
+- scn: Sicilian;
+- sco: Scots;
+- scp: Helambu Sherpa;
+- scq: Sa'och;
+- scs: North Slavey;
+- scu: Shumcho;
+- scv: Sheni;
+- scw: Sha;
+- scx: Sicel;
+- sda: Toraja-Sa'dan;
+- sdb: Shabak;
+- sdc: Sassarese Sardinian;
+- sde: Surubu;
+- sdf: Sarli;
+- sdg: Savi;
+- sdh: Southern Kurdish;
+- sdj: Suundi;
+- sdk: Sos Kundi;
+- sdl: Saudi Arabian Sign Language;
+- sdm: Semandang;
+- sdn: Gallurese Sardinian;
+- sdo: Bukar-Sadung Bidayuh;
+- sdp: Sherdukpen;
+- sdr: Oraon Sadri;
+- sds: Sened;
+- sdt: Shuadit;
+- sdu: Sarudu;
+- sdx: Sibu Melanau;
+- sdz: Sallands;
+- sea: Semai;
+- seb: Shempire Senoufo;
+- sec: Sechelt;
+- sed: Sedang;
+- see: Seneca;
+- sef: Cebaara Senoufo;
+- seg: Segeju;
+- seh: Sena;
+- sei: Seri;
+- sej: Sene;
+- sek: Sekani;
+- sel: Selkup;
+- sen: Nanerigé Sénoufo;
+- seo: Suarmin;
+- sep: Sìcìté Sénoufo;
+- seq: Senara Sénoufo;
+- ser: Serrano;
+- ses: Koyraboro Senni Songhai;
+- set: Sentani;
+- seu: Serui-Laut;
+- sev: Nyarafolo Senoufo;
+- sew: Sewa Bay;
+- sey: Secoya;
+- sez: Senthang Chin;
+- sfb: Langue des signes de Belgique Francophone;
+- sfe: Eastern Subanen;
+- sfm: Small Flowery Miao;
+- sfs: South African Sign Language;
+- sfw: Sehwi;
+- sga: Old Irish (to 900);
+- sgb: Mag-antsi Ayta;
+- sgc: Kipsigis;
+- sgd: Surigaonon;
+- sge: Segai;
+- sgg: Swiss-German Sign Language;
+- sgh: Shughni;
+- sgi: Suga;
+- sgj: Surgujia;
+- sgk: Sangkong;
+- sgm: Singa;
+- sgo: Songa;
+- sgp: Singpho;
+- sgr: Sangisari;
+- sgs: Samogitian;
+- sgt: Brokpake;
+- sgu: Salas;
+- sgw: Sebat Bet Gurage;
+- sgx: Sierra Leone Sign Language;
+- sgy: Sanglechi;
+- sgz: Sursurunga;
+- sha: Shall-Zwall;
+- shb: Ninam;
+- shc: Sonde;
+- shd: Kundal Shahi;
+- she: Sheko;
+- shg: Shua;
+- shh: Shoshoni;
+- shi: Tachelhit;
+- shj: Shatt;
+- shk: Shilluk;
+- shl: Shendu;
+- shm: Shahrudi;
+- shn: Shan;
+- sho: Shanga;
+- shp: Shipibo-Conibo;
+- shq: Sala;
+- shr: Shi;
+- shs: Shuswap;
+- sht: Shasta;
+- shu: Chadian Arabic;
+- shv: Shehri;
+- shw: Shwai;
+- shx: She;
+- shy: Tachawit;
+- shz: Syenara Senoufo;
+- sia: Akkala Sami;
+- sib: Sebop;
+- sid: Sidamo;
+- sie: Simaa;
+- sif: Siamou;
+- sig: Paasaal;
+- sih: Zire;
+- sii: Shom Peng;
+- sij: Numbami;
+- sik: Sikiana;
+- sil: Tumulung Sisaala;
+- sim: Mende (Papua New Guinea);
+- sin: Sinhala;
+- sip: Sikkimese;
+- siq: Sonia;
+- sir: Siri;
+- sis: Siuslaw;
+- siu: Sinagen;
+- siv: Sumariup;
+- siw: Siwai;
+- six: Sumau;
+- siy: Sivandi;
+- siz: Siwi;
+- sja: Epena;
+- sjb: Sajau Basap;
+- sjd: Kildin Sami;
+- sje: Pite Sami;
+- sjg: Assangori;
+- sjk: Kemi Sami;
+- sjl: Sajalong;
+- sjm: Mapun;
+- sjn: Sindarin;
+- sjo: Xibe;
+- sjp: Surjapuri;
+- sjr: Siar-Lak;
+- sjs: Senhaja De Srair;
+- sjt: Ter Sami;
+- sju: Ume Sami;
+- sjw: Shawnee;
+- ska: Skagit;
+- skb: Saek;
+- skc: Ma Manda;
+- skd: Southern Sierra Miwok;
+- ske: Seke (Vanuatu);
+- skf: Sakirabiá;
+- skg: Sakalava Malagasy;
+- skh: Sikule;
+- ski: Sika;
+- skj: Seke (Nepal);
+- skk: Sok;
+- skm: Kutong;
+- skn: Kolibugan Subanon;
+- sko: Seko Tengah;
+- skp: Sekapan;
+- skq: Sininkere;
+- skr: Seraiki;
+- sks: Maia;
+- skt: Sakata;
+- sku: Sakao;
+- skv: Skou;
+- skw: Skepi Creole Dutch;
+- skx: Seko Padang;
+- sky: Sikaiana;
+- skz: Sekar;
+- slc: Sáliba;
+- sld: Sissala;
+- sle: Sholaga;
+- slf: Swiss-Italian Sign Language;
+- slg: Selungai Murut;
+- slh: Southern Puget Sound Salish;
+- sli: Lower Silesian;
+- slj: Salumá;
+- slk: Slovak;
+- sll: Salt-Yui;
+- slm: Pangutaran Sama;
+- sln: Salinan;
+- slp: Lamaholot;
+- slq: Salchuq;
+- slr: Salar;
+- sls: Singapore Sign Language;
+- slt: Sila;
+- slu: Selaru;
+- slv: Slovenian;
+- slw: Sialum;
+- slx: Salampasu;
+- sly: Selayar;
+- slz: Ma'ya;
+- sma: Southern Sami;
+- smb: Simbari;
+- smc: Som;
+- smd: Sama;
+- sme: Northern Sami;
+- smf: Auwe;
+- smg: Simbali;
+- smh: Samei;
+- smj: Lule Sami;
+- smk: Bolinao;
+- sml: Central Sama;
+- smm: Musasa;
+- smn: Inari Sami;
+- smo: Samoan;
+- smp: Samaritan;
+- smq: Samo;
+- smr: Simeulue;
+- sms: Skolt Sami;
+- smt: Simte;
+- smu: Somray;
+- smv: Samvedi;
+- smw: Sumbawa;
+- smx: Samba;
+- smy: Semnani;
+- smz: Simeku;
+- sna: Shona;
+- snb: Sebuyau;
+- snc: Sinaugoro;
+- snd: Sindhi;
+- sne: Bau Bidayuh;
+- snf: Noon;
+- sng: Sanga (Democratic Republic of Congo);
+- snh: Shinabo;
+- sni: Sensi;
+- snj: Riverain Sango;
+- snk: Soninke;
+- snl: Sangil;
+- snm: Southern Ma'di;
+- snn: Siona;
+- sno: Snohomish;
+- snp: Siane;
+- snq: Sangu (Gabon);
+- snr: Sihan;
+- sns: South West Bay;
+- snu: Senggi;
+- snv: Sa'ban;
+- snw: Selee;
+- snx: Sam;
+- sny: Saniyo-Hiyewe;
+- snz: Sinsauru;
+- soa: Thai Song;
+- sob: Sobei;
+- soc: So (Democratic Republic of Congo);
+- sod: Songoora;
+- soe: Songomeno;
+- sog: Sogdian;
+- soh: Aka;
+- soi: Sonha;
+- soj: Soi;
+- sok: Sokoro;
+- sol: Solos;
+- som: Somali;
+- soo: Songo;
+- sop: Songe;
+- soq: Kanasi;
+- sor: Somrai;
+- sos: Seeku;
+- sot: Southern Sotho;
+- sou: Southern Thai;
+- sov: Sonsorol;
+- sow: Sowanda;
+- sox: Swo;
+- soy: Miyobe;
+- soz: Temi;
+- spa: Spanish;
+- spb: Sepa (Indonesia);
+- spc: Sapé;
+- spd: Saep;
+- spe: Sepa (Papua New Guinea);
+- spg: Sian;
+- spi: Saponi;
+- spk: Sengo;
+- spl: Selepet;
+- spm: Akukem;
+- spn: Sanapaná;
+- spo: Spokane;
+- spp: Supyire Senoufo;
+- spq: Loreto-Ucayali Spanish;
+- spr: Saparua;
+- sps: Saposa;
+- spt: Spiti Bhoti;
+- spu: Sapuan;
+- spv: Sambalpuri;
+- spx: South Picene;
+- spy: Sabaot;
+- sqa: Shama-Sambuga;
+- sqh: Shau;
+- sqi: Albanian;
+- sqk: Albanian Sign Language;
+- sqm: Suma;
+- sqn: Susquehannock;
+- sqo: Sorkhei;
+- sqq: Sou;
+- sqr: Siculo Arabic;
+- sqs: Sri Lankan Sign Language;
+- sqt: Soqotri;
+- squ: Squamish;
+- sra: Saruga;
+- srb: Sora;
+- src: Logudorese Sardinian;
+- srd: Sardinian;
+- sre: Sara;
+- srf: Nafi;
+- srg: Sulod;
+- srh: Sarikoli;
+- sri: Siriano;
+- srk: Serudung Murut;
+- srl: Isirawa;
+- srm: Saramaccan;
+- srn: Sranan Tongo;
+- sro: Campidanese Sardinian;
+- srp: Serbian;
+- srq: Sirionó;
+- srr: Serer;
+- srs: Sarsi;
+- srt: Sauri;
+- sru: Suruí;
+- srv: Southern Sorsoganon;
+- srw: Serua;
+- srx: Sirmauri;
+- sry: Sera;
+- srz: Shahmirzadi;
+- ssb: Southern Sama;
+- ssc: Suba-Simbiti;
+- ssd: Siroi;
+- sse: Balangingi;
+- ssf: Thao;
+- ssg: Seimat;
+- ssh: Shihhi Arabic;
+- ssi: Sansi;
+- ssj: Sausi;
+- ssk: Sunam;
+- ssl: Western Sisaala;
+- ssm: Semnam;
+- ssn: Waata;
+- sso: Sissano;
+- ssp: Spanish Sign Language;
+- ssq: So'a;
+- ssr: Swiss-French Sign Language;
+- sss: Sô;
+- sst: Sinasina;
+- ssu: Susuami;
+- ssv: Shark Bay;
+- ssw: Swati;
+- ssx: Samberigi;
+- ssy: Saho;
+- ssz: Sengseng;
+- sta: Settla;
+- stb: Northern Subanen;
+- std: Sentinel;
+- ste: Liana-Seti;
+- stf: Seta;
+- stg: Trieng;
+- sth: Shelta;
+- sti: Bulo Stieng;
+- stj: Matya Samo;
+- stk: Arammba;
+- stl: Stellingwerfs;
+- stm: Setaman;
+- stn: Owa;
+- sto: Stoney;
+- stp: Southeastern Tepehuan;
+- stq: Saterfriesisch;
+- str: Straits Salish;
+- sts: Shumashti;
+- stt: Budeh Stieng;
+- stu: Samtao;
+- stv: Silt'e;
+- stw: Satawalese;
+- sty: Siberian Tatar;
+- sua: Sulka;
+- sub: Suku;
+- suc: Western Subanon;
+- sue: Suena;
+- sug: Suganga;
+- sui: Suki;
+- suj: Shubi;
+- suk: Sukuma;
+- sun: Sundanese;
+- suq: Suri;
+- sur: Mwaghavul;
+- sus: Susu;
+- sut: Subtiaba;
+- suv: Puroik;
+- suw: Sumbwa;
+- sux: Sumerian;
+- suy: Suyá;
+- suz: Sunwar;
+- sva: Svan;
+- svb: Ulau-Suain;
+- svc: Vincentian Creole English;
+- sve: Serili;
+- svk: Slovakian Sign Language;
+- svm: Slavomolisano;
+- svr: Savara;
+- svs: Savosavo;
+- svx: Skalvian;
+- swa: Swahili (macrolanguage);
+- swb: Maore Comorian;
+- swc: Congo Swahili;
+- swe: Swedish;
+- swf: Sere;
+- swg: Swabian;
+- swh: Swahili (individual language);
+- swi: Sui;
+- swj: Sira;
+- swk: Malawi Sena;
+- swl: Swedish Sign Language;
+- swm: Samosa;
+- swn: Sawknah;
+- swo: Shanenawa;
+- swp: Suau;
+- swq: Sharwa;
+- swr: Saweru;
+- sws: Seluwasan;
+- swt: Sawila;
+- swu: Suwawa;
+- swv: Shekhawati;
+- sww: Sowa;
+- swx: Suruahá;
+- swy: Sarua;
+- sxb: Suba;
+- sxc: Sicanian;
+- sxe: Sighu;
+- sxg: Shixing;
+- sxk: Southern Kalapuya;
+- sxl: Selian;
+- sxm: Samre;
+- sxn: Sangir;
+- sxo: Sorothaptic;
+- sxr: Saaroa;
+- sxs: Sasaru;
+- sxu: Upper Saxon;
+- sxw: Saxwe Gbe;
+- sya: Siang;
+- syb: Central Subanen;
+- syc: Classical Syriac;
+- syi: Seki;
+- syk: Sukur;
+- syl: Sylheti;
+- sym: Maya Samo;
+- syn: Senaya;
+- syo: Suoy;
+- syr: Syriac;
+- sys: Sinyar;
+- syw: Kagate;
+- syy: Al-Sayyid Bedouin Sign Language;
+- sza: Semelai;
+- szb: Ngalum;
+- szc: Semaq Beri;
+- szd: Seru;
+- sze: Seze;
+- szg: Sengele;
+- szl: Silesian;
+- szn: Sula;
+- szp: Suabo;
+- szv: Isu (Fako Division);
+- szw: Sawai;
+- taa: Lower Tanana;
+- tab: Tabassaran;
+- tac: Lowland Tarahumara;
+- tad: Tause;
+- tae: Tariana;
+- taf: Tapirapé;
+- tag: Tagoi;
+- tah: Tahitian;
+- taj: Eastern Tamang;
+- tak: Tala;
+- tal: Tal;
+- tam: Tamil;
+- tan: Tangale;
+- tao: Yami;
+- tap: Taabwa;
+- taq: Tamasheq;
+- tar: Central Tarahumara;
+- tas: Tay Boi;
+- tat: Tatar;
+- tau: Upper Tanana;
+- tav: Tatuyo;
+- taw: Tai;
+- tax: Tamki;
+- tay: Atayal;
+- taz: Tocho;
+- tba: Aikanã;
+- tbb: Tapeba;
+- tbc: Takia;
+- tbd: Kaki Ae;
+- tbe: Tanimbili;
+- tbf: Mandara;
+- tbg: North Tairora;
+- tbh: Thurawal;
+- tbi: Gaam;
+- tbj: Tiang;
+- tbk: Calamian Tagbanwa;
+- tbl: Tboli;
+- tbm: Tagbu;
+- tbn: Barro Negro Tunebo;
+- tbo: Tawala;
+- tbp: Taworta;
+- tbr: Tumtum;
+- tbs: Tanguat;
+- tbt: Tembo (Kitembo);
+- tbu: Tubar;
+- tbv: Tobo;
+- tbw: Tagbanwa;
+- tbx: Kapin;
+- tby: Tabaru;
+- tbz: Ditammari;
+- tca: Ticuna;
+- tcb: Tanacross;
+- tcc: Datooga;
+- tcd: Tafi;
+- tce: Southern Tutchone;
+- tcf: Malinaltepec Me'phaa;
+- tcg: Tamagario;
+- tch: Turks And Caicos Creole English;
+- tci: Wára;
+- tck: Tchitchege;
+- tcl: Taman (Myanmar);
+- tcm: Tanahmerah;
+- tcn: Tichurong;
+- tco: Taungyo;
+- tcp: Tawr Chin;
+- tcq: Kaiy;
+- tcs: Torres Strait Creole;
+- tct: T'en;
+- tcu: Southeastern Tarahumara;
+- tcw: Tecpatlán Totonac;
+- tcx: Toda;
+- tcy: Tulu;
+- tcz: Thado Chin;
+- tda: Tagdal;
+- tdb: Panchpargania;
+- tdc: Emberá-Tadó;
+- tdd: Tai Nüa;
+- tde: Tiranige Diga Dogon;
+- tdf: Talieng;
+- tdg: Western Tamang;
+- tdh: Thulung;
+- tdi: Tomadino;
+- tdj: Tajio;
+- tdk: Tambas;
+- tdl: Sur;
+- tdn: Tondano;
+- tdo: Teme;
+- tdq: Tita;
+- tdr: Todrah;
+- tds: Doutai;
+- tdt: Tetun Dili;
+- tdu: Tempasuk Dusun;
+- tdv: Toro;
+- tdx: Tandroy-Mahafaly Malagasy;
+- tdy: Tadyawan;
+- tea: Temiar;
+- teb: Tetete;
+- tec: Terik;
+- ted: Tepo Krumen;
+- tee: Huehuetla Tepehua;
+- tef: Teressa;
+- teg: Teke-Tege;
+- teh: Tehuelche;
+- tei: Torricelli;
+- tek: Ibali Teke;
+- tel: Telugu;
+- tem: Timne;
+- ten: Tama (Colombia);
+- teo: Teso;
+- tep: Tepecano;
+- teq: Temein;
+- ter: Tereno;
+- tes: Tengger;
+- tet: Tetum;
+- teu: Soo;
+- tev: Teor;
+- tew: Tewa (USA);
+- tex: Tennet;
+- tey: Tulishi;
+- tfi: Tofin Gbe;
+- tfn: Tanaina;
+- tfo: Tefaro;
+- tfr: Teribe;
+- tft: Ternate;
+- tga: Sagalla;
+- tgb: Tobilung;
+- tgc: Tigak;
+- tgd: Ciwogai;
+- tge: Eastern Gorkha Tamang;
+- tgf: Chalikha;
+- tgh: Tobagonian Creole English;
+- tgi: Lawunuia;
+- tgj: Tagin;
+- tgk: Tajik;
+- tgl: Tagalog;
+- tgn: Tandaganon;
+- tgo: Sudest;
+- tgp: Tangoa;
+- tgq: Tring;
+- tgr: Tareng;
+- tgs: Nume;
+- tgt: Central Tagbanwa;
+- tgu: Tanggu;
+- tgv: Tingui-Boto;
+- tgw: Tagwana Senoufo;
+- tgx: Tagish;
+- tgy: Togoyo;
+- tgz: Tagalaka;
+- tha: Thai;
+- thc: Tai Hang Tong;
+- thd: Thayore;
+- the: Chitwania Tharu;
+- thf: Thangmi;
+- thh: Northern Tarahumara;
+- thi: Tai Long;
+- thk: Tharaka;
+- thl: Dangaura Tharu;
+- thm: Aheu;
+- thn: Thachanadan;
+- thp: Thompson;
+- thq: Kochila Tharu;
+- thr: Rana Tharu;
+- ths: Thakali;
+- tht: Tahltan;
+- thu: Thuri;
+- thv: Tahaggart Tamahaq;
+- thw: Thudam;
+- thx: The;
+- thy: Tha;
+- thz: Tayart Tamajeq;
+- tia: Tidikelt Tamazight;
+- tic: Tira;
+- tid: Tidong;
+- tif: Tifal;
+- tig: Tigre;
+- tih: Timugon Murut;
+- tii: Tiene;
+- tij: Tilung;
+- tik: Tikar;
+- til: Tillamook;
+- tim: Timbe;
+- tin: Tindi;
+- tio: Teop;
+- tip: Trimuris;
+- tiq: Tiéfo;
+- tir: Tigrinya;
+- tis: Masadiit Itneg;
+- tit: Tinigua;
+- tiu: Adasen;
+- tiv: Tiv;
+- tiw: Tiwi;
+- tix: Southern Tiwa;
+- tiy: Tiruray;
+- tiz: Tai Hongjin;
+- tja: Tajuasohn;
+- tjg: Tunjung;
+- tji: Northern Tujia;
+- tjl: Tai Laing;
+- tjm: Timucua;
+- tjn: Tonjon;
+- tjo: Temacine Tamazight;
+- tjs: Southern Tujia;
+- tju: Tjurruru;
+- tjw: Djabwurrung;
+- tka: Truká;
+- tkb: Buksa;
+- tkd: Tukudede;
+- tke: Takwane;
+- tkf: Tukumanféd;
+- tkg: Tesaka Malagasy;
+- tkl: Tokelau;
+- tkm: Takelma;
+- tkn: Toku-No-Shima;
+- tkp: Tikopia;
+- tkq: Tee;
+- tkr: Tsakhur;
+- tks: Takestani;
+- tkt: Kathoriya Tharu;
+- tku: Upper Necaxa Totonac;
+- tkv: Mur Pano;
+- tkw: Teanu;
+- tkx: Tangko;
+- tkz: Takua;
+- tla: Southwestern Tepehuan;
+- tlb: Tobelo;
+- tlc: Yecuatla Totonac;
+- tld: Talaud;
+- tlf: Telefol;
+- tlg: Tofanma;
+- tlh: Klingon;
+- tli: Tlingit;
+- tlj: Talinga-Bwisi;
+- tlk: Taloki;
+- tll: Tetela;
+- tlm: Tolomako;
+- tln: Talondo';
+- tlo: Talodi;
+- tlp: Filomena Mata-Coahuitlán Totonac;
+- tlq: Tai Loi;
+- tlr: Talise;
+- tls: Tambotalo;
+- tlt: Teluti;
+- tlu: Tulehu;
+- tlv: Taliabu;
+- tlx: Khehek;
+- tly: Talysh;
+- tma: Tama (Chad);
+- tmb: Katbol;
+- tmc: Tumak;
+- tmd: Haruai;
+- tme: Tremembé;
+- tmf: Toba-Maskoy;
+- tmg: Ternateño;
+- tmh: Tamashek;
+- tmi: Tutuba;
+- tmj: Samarokena;
+- tmk: Northwestern Tamang;
+- tml: Tamnim Citak;
+- tmm: Tai Thanh;
+- tmn: Taman (Indonesia);
+- tmo: Temoq;
+- tmp: Tai Mène;
+- tmq: Tumleo;
+- tmr: Jewish Babylonian Aramaic (ca. 200-1200 CE);
+- tms: Tima;
+- tmt: Tasmate;
+- tmu: Iau;
+- tmv: Tembo (Motembo);
+- tmw: Temuan;
+- tmy: Tami;
+- tmz: Tamanaku;
+- tna: Tacana;
+- tnb: Western Tunebo;
+- tnc: Tanimuca-Retuarã;
+- tnd: Angosturas Tunebo;
+- tne: Tinoc Kallahan;
+- tng: Tobanga;
+- tnh: Maiani;
+- tni: Tandia;
+- tnk: Kwamera;
+- tnl: Lenakel;
+- tnm: Tabla;
+- tnn: North Tanna;
+- tno: Toromono;
+- tnp: Whitesands;
+- tnq: Taino;
+- tnr: Ménik;
+- tns: Tenis;
+- tnt: Tontemboan;
+- tnu: Tay Khang;
+- tnv: Tangchangya;
+- tnw: Tonsawang;
+- tnx: Tanema;
+- tny: Tongwe;
+- tnz: Tonga (Thailand);
+- tob: Toba;
+- toc: Coyutla Totonac;
+- tod: Toma;
+- toe: Tomedes;
+- tof: Gizrra;
+- tog: Tonga (Nyasa);
+- toh: Gitonga;
+- toi: Tonga (Zambia);
+- toj: Tojolabal;
+- tol: Tolowa;
+- tom: Tombulu;
+- ton: Tonga (Tonga Islands);
+- too: Xicotepec De Juárez Totonac;
+- top: Papantla Totonac;
+- toq: Toposa;
+- tor: Togbo-Vara Banda;
+- tos: Highland Totonac;
+- tou: Tho;
+- tov: Upper Taromi;
+- tow: Jemez;
+- tox: Tobian;
+- toy: Topoiyo;
+- toz: To;
+- tpa: Taupota;
+- tpc: Azoyú Me'phaa;
+- tpe: Tippera;
+- tpf: Tarpia;
+- tpg: Kula;
+- tpi: Tok Pisin;
+- tpj: Tapieté;
+- tpk: Tupinikin;
+- tpl: Tlacoapa Me'phaa;
+- tpm: Tampulma;
+- tpn: Tupinambá;
+- tpo: Tai Pao;
+- tpp: Pisaflores Tepehua;
+- tpq: Tukpa;
+- tpr: Tuparí;
+- tpt: Tlachichilco Tepehua;
+- tpu: Tampuan;
+- tpv: Tanapag;
+- tpw: Tupí;
+- tpx: Acatepec Me'phaa;
+- tpy: Trumai;
+- tpz: Tinputz;
+- tqb: Tembé;
+- tql: Lehali;
+- tqm: Turumsa;
+- tqn: Tenino;
+- tqo: Toaripi;
+- tqp: Tomoip;
+- tqq: Tunni;
+- tqr: Torona;
+- tqt: Western Totonac;
+- tqu: Touo;
+- tqw: Tonkawa;
+- tra: Tirahi;
+- trb: Terebu;
+- trc: Copala Triqui;
+- trd: Turi;
+- tre: East Tarangan;
+- trf: Trinidadian Creole English;
+- trg: Lishán Didán;
+- trh: Turaka;
+- tri: Trió;
+- trj: Toram;
+- trl: Traveller Scottish;
+- trm: Tregami;
+- trn: Trinitario;
+- tro: Tarao Naga;
+- trp: Kok Borok;
+- trq: San Martín Itunyoso Triqui;
+- trr: Taushiro;
+- trs: Chicahuaxtla Triqui;
+- trt: Tunggare;
+- tru: Turoyo;
+- trv: Taroko;
+- trw: Torwali;
+- trx: Tringgus-Sembaan Bidayuh;
+- try: Turung;
+- trz: Torá;
+- tsa: Tsaangi;
+- tsb: Tsamai;
+- tsc: Tswa;
+- tsd: Tsakonian;
+- tse: Tunisian Sign Language;
+- tsf: Southwestern Tamang;
+- tsg: Tausug;
+- tsh: Tsuvan;
+- tsi: Tsimshian;
+- tsj: Tshangla;
+- tsk: Tseku;
+- tsl: Ts'ün-Lao;
+- tsm: Turkish Sign Language;
+- tsn: Tswana;
+- tso: Tsonga;
+- tsp: Northern Toussian;
+- tsq: Thai Sign Language;
+- tsr: Akei;
+- tss: Taiwan Sign Language;
+- tst: Tondi Songway Kiini;
+- tsu: Tsou;
+- tsv: Tsogo;
+- tsw: Tsishingini;
+- tsx: Mubami;
+- tsy: Tebul Sign Language;
+- tsz: Purepecha;
+- tta: Tutelo;
+- ttb: Gaa;
+- ttc: Tektiteko;
+- ttd: Tauade;
+- tte: Bwanabwana;
+- ttf: Tuotomb;
+- ttg: Tutong;
+- tth: Upper Ta'oih;
+- tti: Tobati;
+- ttj: Tooro;
+- ttk: Totoro;
+- ttl: Totela;
+- ttm: Northern Tutchone;
+- ttn: Towei;
+- tto: Lower Ta'oih;
+- ttp: Tombelala;
+- ttq: Tawallammat Tamajaq;
+- ttr: Tera;
+- tts: Northeastern Thai;
+- ttt: Muslim Tat;
+- ttu: Torau;
+- ttv: Titan;
+- ttw: Long Wat;
+- tty: Sikaritai;
+- ttz: Tsum;
+- tua: Wiarumus;
+- tub: Tübatulabal;
+- tuc: Mutu;
+- tud: Tuxá;
+- tue: Tuyuca;
+- tuf: Central Tunebo;
+- tug: Tunia;
+- tuh: Taulil;
+- tui: Tupuri;
+- tuj: Tugutil;
+- tuk: Turkmen;
+- tul: Tula;
+- tum: Tumbuka;
+- tun: Tunica;
+- tuo: Tucano;
+- tuq: Tedaga;
+- tur: Turkish;
+- tus: Tuscarora;
+- tuu: Tututni;
+- tuv: Turkana;
+- tux: Tuxináwa;
+- tuy: Tugen;
+- tuz: Turka;
+- tva: Vaghua;
+- tvd: Tsuvadi;
+- tve: Te'un;
+- tvk: Southeast Ambrym;
+- tvl: Tuvalu;
+- tvm: Tela-Masbuar;
+- tvn: Tavoyan;
+- tvo: Tidore;
+- tvs: Taveta;
+- tvt: Tutsa Naga;
+- tvu: Tunen;
+- tvw: Sedoa;
+- tvy: Timor Pidgin;
+- twa: Twana;
+- twb: Western Tawbuid;
+- twc: Teshenawa;
+- twd: Twents;
+- twe: Tewa (Indonesia);
+- twf: Northern Tiwa;
+- twg: Tereweng;
+- twh: Tai Dón;
+- twi: Twi;
+- twl: Tawara;
+- twm: Tawang Monpa;
+- twn: Twendi;
+- two: Tswapong;
+- twp: Ere;
+- twq: Tasawaq;
+- twr: Southwestern Tarahumara;
+- twt: Turiwára;
+- twu: Termanu;
+- tww: Tuwari;
+- twx: Tewe;
+- twy: Tawoyan;
+- txa: Tombonuo;
+- txb: Tokharian B;
+- txc: Tsetsaut;
+- txe: Totoli;
+- txg: Tangut;
+- txh: Thracian;
+- txi: Ikpeng;
+- txm: Tomini;
+- txn: West Tarangan;
+- txo: Toto;
+- txq: Tii;
+- txr: Tartessian;
+- txs: Tonsea;
+- txt: Citak;
+- txu: Kayapó;
+- txx: Tatana;
+- txy: Tanosy Malagasy;
+- tya: Tauya;
+- tye: Kyanga;
+- tyh: O'du;
+- tyi: Teke-Tsaayi;
+- tyj: Tai Do;
+- tyl: Thu Lao;
+- tyn: Kombai;
+- typ: Thaypan;
+- tyr: Tai Daeng;
+- tys: Tày Sa Pa;
+- tyt: Tày Tac;
+- tyu: Kua;
+- tyv: Tuvinian;
+- tyx: Teke-Tyee;
+- tyz: Tày;
+- tza: Tanzanian Sign Language;
+- tzh: Tzeltal;
+- tzj: Tz'utujil;
+- tzl: Talossan;
+- tzm: Central Atlas Tamazight;
+- tzn: Tugun;
+- tzo: Tzotzil;
+- tzx: Tabriak;
+- uam: Uamué;
+- uan: Kuan;
+- uar: Tairuma;
+- uba: Ubang;
+- ubi: Ubi;
+- ubl: Buhi'non Bikol;
+- ubr: Ubir;
+- ubu: Umbu-Ungu;
+- uby: Ubykh;
+- uda: Uda;
+- ude: Udihe;
+- udg: Muduga;
+- udi: Udi;
+- udj: Ujir;
+- udl: Wuzlam;
+- udm: Udmurt;
+- udu: Uduk;
+- ues: Kioko;
+- ufi: Ufim;
+- uga: Ugaritic;
+- ugb: Kuku-Ugbanh;
+- uge: Ughele;
+- ugn: Ugandan Sign Language;
+- ugo: Ugong;
+- ugy: Uruguayan Sign Language;
+- uha: Uhami;
+- uhn: Damal;
+- uig: Uighur;
+- uis: Uisai;
+- uiv: Iyive;
+- uji: Tanjijili;
+- uka: Kaburi;
+- ukg: Ukuriguma;
+- ukh: Ukhwejo;
+- ukl: Ukrainian Sign Language;
+- ukp: Ukpe-Bayobiri;
+- ukq: Ukwa;
+- ukr: Ukrainian;
+- uks: Urubú-Kaapor Sign Language;
+- uku: Ukue;
+- ukw: Ukwuani-Aboh-Ndoni;
+- uky: Kuuk-Yak;
+- ula: Fungwa;
+- ulb: Ulukwumi;
+- ulc: Ulch;
+- ule: Lule;
+- ulf: Usku;
+- uli: Ulithian;
+- ulk: Meriam;
+- ull: Ullatan;
+- ulm: Ulumanda';
+- uln: Unserdeutsch;
+- ulu: Uma' Lung;
+- ulw: Ulwa;
+- uma: Umatilla;
+- umb: Umbundu;
+- umc: Marrucinian;
+- umd: Umbindhamu;
+- umg: Umbuygamu;
+- umi: Ukit;
+- umm: Umon;
+- umn: Makyan Naga;
+- umo: Umotína;
+- ump: Umpila;
+- umr: Umbugarla;
+- ums: Pendau;
+- umu: Munsee;
+- una: North Watut;
+- und: Undetermined;
+- une: Uneme;
+- ung: Ngarinyin;
+- unk: Enawené-Nawé;
+- unm: Unami;
+- unn: Kurnai;
+- unr: Mundari;
+- unu: Unubahe;
+- unx: Munda;
+- unz: Unde Kaili;
+- uok: Uokha;
+- upi: Umeda;
+- upv: Uripiv-Wala-Rano-Atchin;
+- ura: Urarina;
+- urb: Urubú-Kaapor;
+- urc: Urningangg;
+- urd: Urdu;
+- ure: Uru;
+- urf: Uradhi;
+- urg: Urigina;
+- urh: Urhobo;
+- uri: Urim;
+- urk: Urak Lawoi';
+- url: Urali;
+- urm: Urapmin;
+- urn: Uruangnirin;
+- uro: Ura (Papua New Guinea);
+- urp: Uru-Pa-In;
+- urr: Lehalurup;
+- urt: Urat;
+- uru: Urumi;
+- urv: Uruava;
+- urw: Sop;
+- urx: Urimo;
+- ury: Orya;
+- urz: Uru-Eu-Wau-Wau;
+- usa: Usarufa;
+- ush: Ushojo;
+- usi: Usui;
+- usk: Usaghade;
+- usp: Uspanteco;
+- usu: Uya;
+- uta: Otank;
+- ute: Ute-Southern Paiute;
+- utp: Amba (Solomon Islands);
+- utr: Etulo;
+- utu: Utu;
+- uum: Urum;
+- uun: Kulon-Pazeh;
+- uur: Ura (Vanuatu);
+- uuu: U;
+- uve: West Uvean;
+- uvh: Uri;
+- uvl: Lote;
+- uwa: Kuku-Uwanh;
+- uya: Doko-Uyanga;
+- uzb: Uzbek;
+- uzn: Northern Uzbek;
+- uzs: Southern Uzbek;
+- vaa: Vaagri Booli;
+- vae: Vale;
+- vaf: Vafsi;
+- vag: Vagla;
+- vah: Varhadi-Nagpuri;
+- vai: Vai;
+- vaj: Vasekela Bushman;
+- val: Vehes;
+- vam: Vanimo;
+- van: Valman;
+- vao: Vao;
+- vap: Vaiphei;
+- var: Huarijio;
+- vas: Vasavi;
+- vau: Vanuma;
+- vav: Varli;
+- vay: Wayu;
+- vbb: Southeast Babar;
+- vbk: Southwestern Bontok;
+- vec: Venetian;
+- ved: Veddah;
+- vel: Veluws;
+- vem: Vemgo-Mabas;
+- ven: Venda;
+- veo: Ventureño;
+- vep: Veps;
+- ver: Mom Jango;
+- vgr: Vaghri;
+- vgt: Vlaamse Gebarentaal;
+- vic: Virgin Islands Creole English;
+- vid: Vidunda;
+- vie: Vietnamese;
+- vif: Vili;
+- vig: Viemo;
+- vil: Vilela;
+- vin: Vinza;
+- vis: Vishavan;
+- vit: Viti;
+- viv: Iduna;
+- vka: Kariyarra;
+- vki: Ija-Zuba;
+- vkj: Kujarge;
+- vkk: Kaur;
+- vkl: Kulisusu;
+- vkm: Kamakan;
+- vko: Kodeoha;
+- vkp: Korlai Creole Portuguese;
+- vkt: Tenggarong Kutai Malay;
+- vku: Kurrama;
+- vlp: Valpei;
+- vls: Vlaams;
+- vma: Martuyhunira;
+- vmb: Barbaram;
+- vmc: Juxtlahuaca Mixtec;
+- vmd: Mudu Koraga;
+- vme: East Masela;
+- vmf: Mainfränkisch;
+- vmg: Lungalunga;
+- vmh: Maraghei;
+- vmi: Miwa;
+- vmj: Ixtayutla Mixtec;
+- vmk: Makhuwa-Shirima;
+- vml: Malgana;
+- vmm: Mitlatongo Mixtec;
+- vmp: Soyaltepec Mazatec;
+- vmq: Soyaltepec Mixtec;
+- vmr: Marenje;
+- vms: Moksela;
+- vmu: Muluridyi;
+- vmv: Valley Maidu;
+- vmw: Makhuwa;
+- vmx: Tamazola Mixtec;
+- vmy: Ayautla Mazatec;
+- vmz: Mazatlán Mazatec;
+- vnk: Vano;
+- vnm: Vinmavis;
+- vnp: Vunapu;
+- vol: Volapük;
+- vor: Voro;
+- vot: Votic;
+- vra: Vera'a;
+- vro: Võro;
+- vrs: Varisi;
+- vrt: Burmbar;
+- vsi: Moldova Sign Language;
+- vsl: Venezuelan Sign Language;
+- vsv: Valencian Sign Language;
+- vto: Vitou;
+- vum: Vumbu;
+- vun: Vunjo;
+- vut: Vute;
+- vwa: Awa (China);
+- waa: Walla Walla;
+- wab: Wab;
+- wac: Wasco-Wishram;
+- wad: Wandamen;
+- wae: Walser;
+- waf: Wakoná;
+- wag: Wa'ema;
+- wah: Watubela;
+- wai: Wares;
+- waj: Waffa;
+- wal: Wolaytta;
+- wam: Wampanoag;
+- wan: Wan;
+- wao: Wappo;
+- wap: Wapishana;
+- waq: Wageman;
+- war: Waray (Philippines);
+- was: Washo;
+- wat: Kaninuwa;
+- wau: Waurá;
+- wav: Waka;
+- waw: Waiwai;
+- wax: Watam;
+- way: Wayana;
+- waz: Wampur;
+- wba: Warao;
+- wbb: Wabo;
+- wbe: Waritai;
+- wbf: Wara;
+- wbh: Wanda;
+- wbi: Vwanji;
+- wbj: Alagwa;
+- wbk: Waigali;
+- wbl: Wakhi;
+- wbm: Wa;
+- wbp: Warlpiri;
+- wbq: Waddar;
+- wbr: Wagdi;
+- wbt: Wanman;
+- wbv: Wajarri;
+- wbw: Woi;
+- wca: Yanomámi;
+- wci: Waci Gbe;
+- wdd: Wandji;
+- wdg: Wadaginam;
+- wdj: Wadjiginy;
+- wdk: Wadikali;
+- wdu: Wadjigu;
+- wdy: Wadjabangayi;
+- wea: Wewaw;
+- wec: Wè Western;
+- wed: Wedau;
+- weg: Wergaia;
+- weh: Weh;
+- wei: Kiunum;
+- wem: Weme Gbe;
+- weo: Wemale;
+- wep: Westphalien;
+- wer: Weri;
+- wes: Cameroon Pidgin;
+- wet: Perai;
+- weu: Rawngtu Chin;
+- wew: Wejewa;
+- wfg: Yafi;
+- wga: Wagaya;
+- wgb: Wagawaga;
+- wgg: Wangganguru;
+- wgi: Wahgi;
+- wgo: Waigeo;
+- wgu: Wirangu;
+- wgy: Warrgamay;
+- wha: Manusela;
+- whg: North Wahgi;
+- whk: Wahau Kenyah;
+- whu: Wahau Kayan;
+- wib: Southern Toussian;
+- wic: Wichita;
+- wie: Wik-Epa;
+- wif: Wik-Keyangan;
+- wig: Wik-Ngathana;
+- wih: Wik-Me'anha;
+- wii: Minidien;
+- wij: Wik-Iiyanh;
+- wik: Wikalkan;
+- wil: Wilawila;
+- wim: Wik-Mungkan;
+- win: Ho-Chunk;
+- wir: Wiraféd;
+- wiu: Wiru;
+- wiv: Vitu;
+- wiy: Wiyot;
+- wja: Waja;
+- wji: Warji;
+- wka: Kw'adza;
+- wkb: Kumbaran;
+- wkd: Wakde;
+- wkl: Kalanadi;
+- wku: Kunduvadi;
+- wkw: Wakawaka;
+- wky: Wangkayutyuru;
+- wla: Walio;
+- wlc: Mwali Comorian;
+- wle: Wolane;
+- wlg: Kunbarlang;
+- wli: Waioli;
+- wlk: Wailaki;
+- wll: Wali (Sudan);
+- wlm: Middle Welsh;
+- wln: Walloon;
+- wlo: Wolio;
+- wlr: Wailapa;
+- wls: Wallisian;
+- wlu: Wuliwuli;
+- wlv: Wichí Lhamtés Vejoz;
+- wlw: Walak;
+- wlx: Wali (Ghana);
+- wly: Waling;
+- wma: Mawa (Nigeria);
+- wmb: Wambaya;
+- wmc: Wamas;
+- wmd: Mamaindé;
+- wme: Wambule;
+- wmh: Waima'a;
+- wmi: Wamin;
+- wmm: Maiwa (Indonesia);
+- wmn: Waamwang;
+- wmo: Wom (Papua New Guinea);
+- wms: Wambon;
+- wmt: Walmajarri;
+- wmw: Mwani;
+- wmx: Womo;
+- wnb: Wanambre;
+- wnc: Wantoat;
+- wnd: Wandarang;
+- wne: Waneci;
+- wng: Wanggom;
+- wni: Ndzwani Comorian;
+- wnk: Wanukaka;
+- wnm: Wanggamala;
+- wnn: Wunumara;
+- wno: Wano;
+- wnp: Wanap;
+- wnu: Usan;
+- wnw: Wintu;
+- wny: Wanyi;
+- woa: Tyaraity;
+- wob: Wè Northern;
+- woc: Wogeo;
+- wod: Wolani;
+- woe: Woleaian;
+- wof: Gambian Wolof;
+- wog: Wogamusin;
+- woi: Kamang;
+- wok: Longto;
+- wol: Wolof;
+- wom: Wom (Nigeria);
+- won: Wongo;
+- woo: Manombai;
+- wor: Woria;
+- wos: Hanga Hundi;
+- wow: Wawonii;
+- woy: Weyto;
+- wpc: Maco;
+- wra: Warapu;
+- wrb: Warluwara;
+- wrd: Warduji;
+- wrg: Warungu;
+- wrh: Wiradhuri;
+- wri: Wariyangga;
+- wrk: Garrwa;
+- wrl: Warlmanpa;
+- wrm: Warumungu;
+- wrn: Warnang;
+- wro: Worrorra;
+- wrp: Waropen;
+- wrr: Wardaman;
+- wrs: Waris;
+- wru: Waru;
+- wrv: Waruna;
+- wrw: Gugu Warra;
+- wrx: Wae Rana;
+- wry: Merwari;
+- wrz: Waray (Australia);
+- wsa: Warembori;
+- wsi: Wusi;
+- wsk: Waskia;
+- wsr: Owenia;
+- wss: Wasa;
+- wsu: Wasu;
+- wsv: Wotapuri-Katarqalai;
+- wtf: Watiwa;
+- wth: Wathawurrung;
+- wti: Berta;
+- wtk: Watakataui;
+- wtm: Mewati;
+- wtw: Wotu;
+- wua: Wikngenchera;
+- wub: Wunambal;
+- wud: Wudu;
+- wuh: Wutunhua;
+- wul: Silimo;
+- wum: Wumbvu;
+- wun: Bungu;
+- wur: Wurrugu;
+- wut: Wutung;
+- wuu: Wu Chinese;
+- wuv: Wuvulu-Aua;
+- wux: Wulna;
+- wuy: Wauyai;
+- wwa: Waama;
+- wwb: Wakabunga;
+- wwo: Wetamut;
+- wwr: Warrwa;
+- www: Wawa;
+- wxa: Waxianghua;
+- wxw: Wardandi;
+- wya: Wyandot;
+- wyb: Wangaaybuwan-Ngiyambaa;
+- wyi: Woiwurrung;
+- wym: Wymysorys;
+- wyr: Wayoró;
+- wyy: Western Fijian;
+- xaa: Andalusian Arabic;
+- xab: Sambe;
+- xac: Kachari;
+- xad: Adai;
+- xae: Aequian;
+- xag: Aghwan;
+- xai: Kaimbé;
+- xaj: Ararandewára;
+- xal: Kalmyk;
+- xam: /Xam;
+- xan: Xamtanga;
+- xao: Khao;
+- xap: Apalachee;
+- xaq: Aquitanian;
+- xar: Karami;
+- xas: Kamas;
+- xat: Katawixi;
+- xau: Kauwera;
+- xav: Xavánte;
+- xaw: Kawaiisu;
+- xay: Kayan Mahakam;
+- xba: Kamba (Brazil);
+- xbb: Lower Burdekin;
+- xbc: Bactrian;
+- xbd: Bindal;
+- xbe: Bigambal;
+- xbg: Bunganditj;
+- xbi: Kombio;
+- xbj: Birrpayi;
+- xbm: Middle Breton;
+- xbn: Kenaboi;
+- xbo: Bolgarian;
+- xbp: Bibbulman;
+- xbr: Kambera;
+- xbw: Kambiwá;
+- xbx: Kabixí;
+- xby: Batyala;
+- xcb: Cumbric;
+- xcc: Camunic;
+- xce: Celtiberian;
+- xcg: Cisalpine Gaulish;
+- xch: Chemakum;
+- xcl: Classical Armenian;
+- xcm: Comecrudo;
+- xcn: Cotoname;
+- xco: Chorasmian;
+- xcr: Carian;
+- xct: Classical Tibetan;
+- xcu: Curonian;
+- xcv: Chuvantsy;
+- xcw: Coahuilteco;
+- xcy: Cayuse;
+- xda: Darkinyung;
+- xdc: Dacian;
+- xdk: Dharuk;
+- xdm: Edomite;
+- xdy: Malayic Dayak;
+- xeb: Eblan;
+- xed: Hdi;
+- xeg: //Xegwi;
+- xel: Kelo;
+- xem: Kembayan;
+- xep: Epi-Olmec;
+- xer: Xerénte;
+- xes: Kesawai;
+- xet: Xetá;
+- xeu: Keoru-Ahia;
+- xfa: Faliscan;
+- xga: Galatian;
+- xgb: Gbin;
+- xgd: Gudang;
+- xgf: Gabrielino-Fernandeño;
+- xgg: Goreng;
+- xgi: Garingbal;
+- xgl: Galindan;
+- xgm: Dharumbal;
+- xgr: Garza;
+- xgu: Unggumi;
+- xgw: Guwa;
+- xha: Harami;
+- xhc: Hunnic;
+- xhd: Hadrami;
+- xhe: Khetrani;
+- xho: Xhosa;
+- xhr: Hernican;
+- xht: Hattic;
+- xhu: Hurrian;
+- xhv: Khua;
+- xib: Iberian;
+- xii: Xiri;
+- xil: Illyrian;
+- xin: Xinca;
+- xip: Xipináwa;
+- xir: Xiriâna;
+- xis: Kisan;
+- xiv: Indus Valley Language;
+- xiy: Xipaya;
+- xjb: Minjungbal;
+- xjt: Jaitmatang;
+- xka: Kalkoti;
+- xkb: Northern Nago;
+- xkc: Kho'ini;
+- xkd: Mendalam Kayan;
+- xke: Kereho;
+- xkf: Khengkha;
+- xkg: Kagoro;
+- xkh: Karahawyana;
+- xki: Kenyan Sign Language;
+- xkj: Kajali;
+- xkk: Kaco';
+- xkl: Mainstream Kenyah;
+- xkn: Kayan River Kayan;
+- xko: Kiorr;
+- xkp: Kabatei;
+- xkq: Koroni;
+- xkr: Xakriabá;
+- xks: Kumbewaha;
+- xkt: Kantosi;
+- xku: Kaamba;
+- xkv: Kgalagadi;
+- xkw: Kembra;
+- xkx: Karore;
+- xky: Uma' Lasan;
+- xkz: Kurtokha;
+- xla: Kamula;
+- xlb: Loup B;
+- xlc: Lycian;
+- xld: Lydian;
+- xle: Lemnian;
+- xlg: Ligurian (Ancient);
+- xli: Liburnian;
+- xln: Alanic;
+- xlo: Loup A;
+- xlp: Lepontic;
+- xls: Lusitanian;
+- xlu: Cuneiform Luwian;
+- xly: Elymian;
+- xma: Mushungulu;
+- xmb: Mbonga;
+- xmc: Makhuwa-Marrevone;
+- xmd: Mbudum;
+- xme: Median;
+- xmf: Mingrelian;
+- xmg: Mengaka;
+- xmh: Kuku-Muminh;
+- xmj: Majera;
+- xmk: Ancient Macedonian;
+- xml: Malaysian Sign Language;
+- xmm: Manado Malay;
+- xmn: Manichaean Middle Persian;
+- xmo: Morerebi;
+- xmp: Kuku-Mu'inh;
+- xmq: Kuku-Mangk;
+- xmr: Meroitic;
+- xms: Moroccan Sign Language;
+- xmt: Matbat;
+- xmu: Kamu;
+- xmv: Antankarana Malagasy;
+- xmw: Tsimihety Malagasy;
+- xmx: Maden;
+- xmy: Mayaguduna;
+- xmz: Mori Bawah;
+- xna: Ancient North Arabian;
+- xnb: Kanakanabu;
+- xng: Middle Mongolian;
+- xnh: Kuanhua;
+- xni: Ngarigu;
+- xnk: Nganakarti;
+- xnn: Northern Kankanay;
+- xno: Anglo-Norman;
+- xnr: Kangri;
+- xns: Kanashi;
+- xnt: Narragansett;
+- xnu: Nukunul;
+- xny: Nyiyaparli;
+- xnz: Kenzi;
+- xoc: O'chi'chi';
+- xod: Kokoda;
+- xog: Soga;
+- xoi: Kominimung;
+- xok: Xokleng;
+- xom: Komo (Sudan);
+- xon: Konkomba;
+- xoo: Xukurú;
+- xop: Kopar;
+- xor: Korubo;
+- xow: Kowaki;
+- xpa: Pirriya;
+- xpc: Pecheneg;
+- xpe: Liberia Kpelle;
+- xpg: Phrygian;
+- xpi: Pictish;
+- xpj: Mpalitjanh;
+- xpk: Kulina Pano;
+- xpm: Pumpokol;
+- xpn: Kapinawá;
+- xpo: Pochutec;
+- xpp: Puyo-Paekche;
+- xpq: Mohegan-Pequot;
+- xpr: Parthian;
+- xps: Pisidian;
+- xpt: Punthamara;
+- xpu: Punic;
+- xpy: Puyo;
+- xqa: Karakhanid;
+- xqt: Qatabanian;
+- xra: Krahô;
+- xrb: Eastern Karaboro;
+- xrd: Gundungurra;
+- xre: Kreye;
+- xrg: Minang;
+- xri: Krikati-Timbira;
+- xrm: Armazic;
+- xrn: Arin;
+- xrq: Karranga;
+- xrr: Raetic;
+- xrt: Aranama-Tamique;
+- xru: Marriammu;
+- xrw: Karawa;
+- xsa: Sabaean;
+- xsb: Sambal;
+- xsc: Scythian;
+- xsd: Sidetic;
+- xse: Sempan;
+- xsh: Shamang;
+- xsi: Sio;
+- xsj: Subi;
+- xsl: South Slavey;
+- xsm: Kasem;
+- xsn: Sanga (Nigeria);
+- xso: Solano;
+- xsp: Silopi;
+- xsq: Makhuwa-Saka;
+- xsr: Sherpa;
+- xss: Assan;
+- xsu: Sanumá;
+- xsv: Sudovian;
+- xsy: Saisiyat;
+- xta: Alcozauca Mixtec;
+- xtb: Chazumba Mixtec;
+- xtc: Katcha-Kadugli-Miri;
+- xtd: Diuxi-Tilantongo Mixtec;
+- xte: Ketengban;
+- xtg: Transalpine Gaulish;
+- xth: Yitha Yitha;
+- xti: Sinicahua Mixtec;
+- xtj: San Juan Teita Mixtec;
+- xtl: Tijaltepec Mixtec;
+- xtm: Magdalena Peñasco Mixtec;
+- xtn: Northern Tlaxiaco Mixtec;
+- xto: Tokharian A;
+- xtp: San Miguel Piedras Mixtec;
+- xtq: Tumshuqese;
+- xtr: Early Tripuri;
+- xts: Sindihui Mixtec;
+- xtt: Tacahua Mixtec;
+- xtu: Cuyamecalco Mixtec;
+- xtv: Thawa;
+- xtw: Tawandê;
+- xty: Yoloxochitl Mixtec;
+- xtz: Tasmanian;
+- xua: Alu Kurumba;
+- xub: Betta Kurumba;
+- xud: Umiida;
+- xug: Kunigami;
+- xuj: Jennu Kurumba;
+- xul: Ngunawal;
+- xum: Umbrian;
+- xun: Unggaranggu;
+- xuo: Kuo;
+- xup: Upper Umpqua;
+- xur: Urartian;
+- xut: Kuthant;
+- xuu: Kxoe;
+- xve: Venetic;
+- xvi: Kamviri;
+- xvn: Vandalic;
+- xvo: Volscian;
+- xvs: Vestinian;
+- xwa: Kwaza;
+- xwc: Woccon;
+- xwd: Wadi Wadi;
+- xwe: Xwela Gbe;
+- xwg: Kwegu;
+- xwj: Wajuk;
+- xwk: Wangkumara;
+- xwl: Western Xwla Gbe;
+- xwo: Written Oirat;
+- xwr: Kwerba Mamberamo;
+- xwt: Wotjobaluk;
+- xww: Wemba Wemba;
+- xxb: Boro (Ghana);
+- xxk: Ke'o;
+- xxm: Minkin;
+- xxr: Koropó;
+- xxt: Tambora;
+- xya: Yaygir;
+- xyb: Yandjibara;
+- xyj: Mayi-Yapi;
+- xyk: Mayi-Kulan;
+- xyl: Yalakalore;
+- xyt: Mayi-Thakurti;
+- xyy: Yorta Yorta;
+- xzh: Zhang-Zhung;
+- xzm: Zemgalian;
+- xzp: Ancient Zapotec;
+- yaa: Yaminahua;
+- yab: Yuhup;
+- yac: Pass Valley Yali;
+- yad: Yagua;
+- yae: Pumé;
+- yaf: Yaka (Democratic Republic of Congo);
+- yag: Yámana;
+- yah: Yazgulyam;
+- yai: Yagnobi;
+- yaj: Banda-Yangere;
+- yak: Yakama;
+- yal: Yalunka;
+- yam: Yamba;
+- yan: Mayangna;
+- yao: Yao;
+- yap: Yapese;
+- yaq: Yaqui;
+- yar: Yabarana;
+- yas: Nugunu (Cameroon);
+- yat: Yambeta;
+- yau: Yuwana;
+- yav: Yangben;
+- yaw: Yawalapití;
+- yax: Yauma;
+- yay: Agwagwune;
+- yaz: Lokaa;
+- yba: Yala;
+- ybb: Yemba;
+- ybe: West Yugur;
+- ybh: Yakha;
+- ybi: Yamphu;
+- ybj: Hasha;
+- ybk: Bokha;
+- ybl: Yukuben;
+- ybm: Yaben;
+- ybn: Yabaâna;
+- ybo: Yabong;
+- ybx: Yawiyo;
+- yby: Yaweyuha;
+- ych: Chesu;
+- ycl: Lolopo;
+- ycn: Yucuna;
+- ycp: Chepya;
+- yda: Yanda;
+- ydd: Eastern Yiddish;
+- yde: Yangum Dey;
+- ydg: Yidgha;
+- ydk: Yoidik;
+- yds: Yiddish Sign Language;
+- yea: Ravula;
+- yec: Yeniche;
+- yee: Yimas;
+- yei: Yeni;
+- yej: Yevanic;
+- yel: Yela;
+- yer: Tarok;
+- yes: Nyankpa;
+- yet: Yetfa;
+- yeu: Yerukula;
+- yev: Yapunda;
+- yey: Yeyi;
+- yga: Malyangapa;
+- ygi: Yiningayi;
+- ygl: Yangum Gel;
+- ygm: Yagomi;
+- ygp: Gepo;
+- ygr: Yagaria;
+- ygs: Yolŋu Sign Language;
+- ygu: Yugul;
+- ygw: Yagwoia;
+- yha: Baha Buyang;
+- yhd: Judeo-Iraqi Arabic;
+- yhl: Hlepho Phowa;
+- yia: Yinggarda;
+- yid: Yiddish;
+- yif: Ache;
+- yig: Wusa Nasu;
+- yih: Western Yiddish;
+- yii: Yidiny;
+- yij: Yindjibarndi;
+- yik: Dongshanba Lalo;
+- yil: Yindjilandji;
+- yim: Yimchungru Naga;
+- yin: Yinchia;
+- yip: Pholo;
+- yiq: Miqie;
+- yir: North Awyu;
+- yis: Yis;
+- yit: Eastern Lalu;
+- yiu: Awu;
+- yiv: Northern Nisu;
+- yix: Axi Yi;
+- yiz: Azhe;
+- yka: Yakan;
+- ykg: Northern Yukaghir;
+- yki: Yoke;
+- ykk: Yakaikeke;
+- ykl: Khlula;
+- ykm: Kap;
+- ykn: Kua-nsi;
+- yko: Yasa;
+- ykr: Yekora;
+- ykt: Kathu;
+- yku: Kuamasi;
+- yky: Yakoma;
+- yla: Yaul;
+- ylb: Yaleba;
+- yle: Yele;
+- ylg: Yelogu;
+- yli: Angguruk Yali;
+- yll: Yil;
+- ylm: Limi;
+- yln: Langnian Buyang;
+- ylo: Naluo Yi;
+- ylr: Yalarnnga;
+- ylu: Aribwaung;
+- yly: Nyâlayu;
+- ymb: Yambes;
+- ymc: Southern Muji;
+- ymd: Muda;
+- yme: Yameo;
+- ymg: Yamongeri;
+- ymh: Mili;
+- ymi: Moji;
+- ymk: Makwe;
+- yml: Iamalele;
+- ymm: Maay;
+- ymn: Yamna;
+- ymo: Yangum Mon;
+- ymp: Yamap;
+- ymq: Qila Muji;
+- ymr: Malasar;
+- yms: Mysian;
+- ymt: Mator-Taygi-Karagas;
+- ymx: Northern Muji;
+- ymz: Muzi;
+- yna: Aluo;
+- ynd: Yandruwandha;
+- yne: Lang'e;
+- yng: Yango;
+- ynh: Yangho;
+- ynk: Naukan Yupik;
+- ynl: Yangulam;
+- ynn: Yana;
+- yno: Yong;
+- ynq: Yendang;
+- yns: Yansi;
+- ynu: Yahuna;
+- yob: Yoba;
+- yog: Yogad;
+- yoi: Yonaguni;
+- yok: Yokuts;
+- yol: Yola;
+- yom: Yombe;
+- yon: Yongkom;
+- yor: Yoruba;
+- yot: Yotti;
+- yox: Yoron;
+- yoy: Yoy;
+- ypa: Phala;
+- ypb: Labo Phowa;
+- ypg: Phola;
+- yph: Phupha;
+- ypm: Phuma;
+- ypn: Ani Phowa;
+- ypo: Alo Phola;
+- ypp: Phupa;
+- ypz: Phuza;
+- yra: Yerakai;
+- yrb: Yareba;
+- yre: Yaouré;
+- yri: Yarí;
+- yrk: Nenets;
+- yrl: Nhengatu;
+- yrm: Yirrk-Mel;
+- yrn: Yerong;
+- yrs: Yarsun;
+- yrw: Yarawata;
+- yry: Yarluyandi;
+- ysc: Yassic;
+- ysd: Samatao;
+- ysg: Sonaga;
+- ysl: Yugoslavian Sign Language;
+- ysn: Sani;
+- yso: Nisi (China);
+- ysp: Southern Lolopo;
+- ysr: Sirenik Yupik;
+- yss: Yessan-Mayo;
+- ysy: Sanie;
+- yta: Talu;
+- ytl: Tanglang;
+- ytp: Thopho;
+- ytw: Yout Wam;
+- yty: Yatay;
+- yua: Yucateco;
+- yub: Yugambal;
+- yuc: Yuchi;
+- yud: Judeo-Tripolitanian Arabic;
+- yue: Yue Chinese;
+- yuf: Havasupai-Walapai-Yavapai;
+- yug: Yug;
+- yui: Yurutí;
+- yuj: Karkar-Yuri;
+- yuk: Yuki;
+- yul: Yulu;
+- yum: Quechan;
+- yun: Bena (Nigeria);
+- yup: Yukpa;
+- yuq: Yuqui;
+- yur: Yurok;
+- yut: Yopno;
+- yuw: Yau (Morobe Province);
+- yux: Southern Yukaghir;
+- yuy: East Yugur;
+- yuz: Yuracare;
+- yva: Yawa;
+- yvt: Yavitero;
+- ywa: Kalou;
+- ywg: Yinhawangka;
+- ywl: Western Lalu;
+- ywn: Yawanawa;
+- ywq: Wuding-Luquan Yi;
+- ywr: Yawuru;
+- ywt: Xishanba Lalo;
+- ywu: Wumeng Nasu;
+- yww: Yawarawarga;
+- yxa: Mayawali;
+- yxg: Yagara;
+- yxl: Yardliyawarra;
+- yxm: Yinwum;
+- yxu: Yuyu;
+- yxy: Yabula Yabula;
+- yyr: Yir Yoront;
+- yyu: Yau (Sandaun Province);
+- yyz: Ayizi;
+- yzg: E'ma Buyang;
+- yzk: Zokhuo;
+- zaa: Sierra de Juárez Zapotec;
+- zab: San Juan Guelavía Zapotec;
+- zac: Ocotlán Zapotec;
+- zad: Cajonos Zapotec;
+- zae: Yareni Zapotec;
+- zaf: Ayoquesco Zapotec;
+- zag: Zaghawa;
+- zah: Zangwal;
+- zai: Isthmus Zapotec;
+- zaj: Zaramo;
+- zak: Zanaki;
+- zal: Zauzou;
+- zam: Miahuatlán Zapotec;
+- zao: Ozolotepec Zapotec;
+- zap: Zapotec;
+- zaq: Aloápam Zapotec;
+- zar: Rincón Zapotec;
+- zas: Santo Domingo Albarradas Zapotec;
+- zat: Tabaa Zapotec;
+- zau: Zangskari;
+- zav: Yatzachi Zapotec;
+- zaw: Mitla Zapotec;
+- zax: Xadani Zapotec;
+- zay: Zayse-Zergulla;
+- zaz: Zari;
+- zbc: Central Berawan;
+- zbe: East Berawan;
+- zbl: Blissymbols;
+- zbt: Batui;
+- zbw: West Berawan;
+- zca: Coatecas Altas Zapotec;
+- zch: Central Hongshuihe Zhuang;
+- zdj: Ngazidja Comorian;
+- zea: Zeeuws;
+- zeg: Zenag;
+- zeh: Eastern Hongshuihe Zhuang;
+- zen: Zenaga;
+- zga: Kinga;
+- zgb: Guibei Zhuang;
+- zgh: Standard Moroccan Tamazight;
+- zgm: Minz Zhuang;
+- zgn: Guibian Zhuang;
+- zgr: Magori;
+- zha: Zhuang;
+- zhb: Zhaba;
+- zhd: Dai Zhuang;
+- zhi: Zhire;
+- zhn: Nong Zhuang;
+- zho: Chinese;
+- zhw: Zhoa;
+- zia: Zia;
+- zib: Zimbabwe Sign Language;
+- zik: Zimakani;
+- zil: Zialo;
+- zim: Mesme;
+- zin: Zinza;
+- zir: Ziriya;
+- ziw: Zigula;
+- ziz: Zizilivakan;
+- zka: Kaimbulawa;
+- zkb: Koibal;
+- zkd: Kadu;
+- zkg: Koguryo;
+- zkh: Khorezmian;
+- zkk: Karankawa;
+- zkn: Kanan;
+- zko: Kott;
+- zkp: São Paulo Kaingáng;
+- zkr: Zakhring;
+- zkt: Kitan;
+- zku: Kaurna;
+- zkv: Krevinian;
+- zkz: Khazar;
+- zlj: Liujiang Zhuang;
+- zlm: Malay (individual language);
+- zln: Lianshan Zhuang;
+- zlq: Liuqian Zhuang;
+- zma: Manda (Australia);
+- zmb: Zimba;
+- zmc: Margany;
+- zmd: Maridan;
+- zme: Mangerr;
+- zmf: Mfinu;
+- zmg: Marti Ke;
+- zmh: Makolkol;
+- zmi: Negeri Sembilan Malay;
+- zmj: Maridjabin;
+- zmk: Mandandanyi;
+- zml: Madngele;
+- zmm: Marimanindji;
+- zmn: Mbangwe;
+- zmo: Molo;
+- zmp: Mpuono;
+- zmq: Mituku;
+- zmr: Maranunggu;
+- zms: Mbesa;
+- zmt: Maringarr;
+- zmu: Muruwari;
+- zmv: Mbariman-Gudhinma;
+- zmw: Mbo (Democratic Republic of Congo);
+- zmx: Bomitaba;
+- zmy: Mariyedi;
+- zmz: Mbandja;
+- zna: Zan Gula;
+- zne: Zande (individual language);
+- zng: Mang;
+- znk: Manangkari;
+- zns: Mangas;
+- zoc: Copainalá Zoque;
+- zoh: Chimalapa Zoque;
+- zom: Zou;
+- zoo: Asunción Mixtepec Zapotec;
+- zoq: Tabasco Zoque;
+- zor: Rayón Zoque;
+- zos: Francisco León Zoque;
+- zpa: Lachiguiri Zapotec;
+- zpb: Yautepec Zapotec;
+- zpc: Choapan Zapotec;
+- zpd: Southeastern Ixtlán Zapotec;
+- zpe: Petapa Zapotec;
+- zpf: San Pedro Quiatoni Zapotec;
+- zpg: Guevea De Humboldt Zapotec;
+- zph: Totomachapan Zapotec;
+- zpi: Santa María Quiegolani Zapotec;
+- zpj: Quiavicuzas Zapotec;
+- zpk: Tlacolulita Zapotec;
+- zpl: Lachixío Zapotec;
+- zpm: Mixtepec Zapotec;
+- zpn: Santa Inés Yatzechi Zapotec;
+- zpo: Amatlán Zapotec;
+- zpp: El Alto Zapotec;
+- zpq: Zoogocho Zapotec;
+- zpr: Santiago Xanica Zapotec;
+- zps: Coatlán Zapotec;
+- zpt: San Vicente Coatlán Zapotec;
+- zpu: Yalálag Zapotec;
+- zpv: Chichicapan Zapotec;
+- zpw: Zaniza Zapotec;
+- zpx: San Baltazar Loxicha Zapotec;
+- zpy: Mazaltepec Zapotec;
+- zpz: Texmelucan Zapotec;
+- zqe: Qiubei Zhuang;
+- zra: Kara (Korea);
+- zrg: Mirgan;
+- zrn: Zerenkel;
+- zro: Záparo;
+- zrp: Zarphatic;
+- zrs: Mairasi;
+- zsa: Sarasira;
+- zsk: Kaskean;
+- zsl: Zambian Sign Language;
+- zsm: Standard Malay;
+- zsr: Southern Rincon Zapotec;
+- zsu: Sukurum;
+- zte: Elotepec Zapotec;
+- ztg: Xanaguía Zapotec;
+- ztl: Lapaguía-Guivini Zapotec;
+- ztm: San Agustín Mixtepec Zapotec;
+- ztn: Santa Catarina Albarradas Zapotec;
+- ztp: Loxicha Zapotec;
+- ztq: Quioquitani-Quierí Zapotec;
+- zts: Tilquiapan Zapotec;
+- ztt: Tejalapan Zapotec;
+- ztu: Güilá Zapotec;
+- ztx: Zaachila Zapotec;
+- zty: Yatee Zapotec;
+- zua: Zeem;
+- zuh: Tokano;
+- zul: Zulu;
+- zum: Kumzari;
+- zun: Zuni;
+- zuy: Zumaya;
+- zwa: Zay;
+- zxx: No linguistic content;
+- zyb: Yongbei Zhuang;
+- zyg: Yang Zhuang;
+- zyj: Youjiang Zhuang;
+- zyn: Yongnan Zhuang;
+- zyp: Zyphe Chin;
+- zza: Zaza;
+- zzj: Zuojiang Zhuang.
