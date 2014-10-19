@@ -13,20 +13,20 @@
     "name",
     "information"
   ],
-  "author": "Titus Wormer <tituswormer@gmail.com>",
   "dependencies": {
     "datamap-interface": "^0.2.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wooorm/iso-639-3.git"
+  },
+  "author": "Titus Wormer <tituswormer@gmail.com>",
   "devDependencies": {
     "eslint": "^0.8.0",
     "istanbul": "^0.3.0",
     "jscs": "^1.5.0",
     "mocha": "^1.20.0",
     "plain-text-data-to-json": "^0.1.1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/wooorm/iso-639-3.git"
   },
   "scripts": {
     "test": "node_modules/.bin/_mocha --reporter spec --check-leaks -u exports test.js",
