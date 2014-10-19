@@ -7,9 +7,9 @@ bower_components/
 components/
 coverage/
 node_modules/
-spec/
 build-data.js
 build-support.js
+test.js
 bower.json
 component.json
 History.md
