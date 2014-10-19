@@ -4,7 +4,7 @@ var fs,
     languages;
 
 fs = require('fs');
-languages = require('./').all();
+languages = require('../').all();
 
 fs.writeFileSync('Supported-codes.md',
     'Supported Codes\n' +
