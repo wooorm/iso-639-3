@@ -41,7 +41,7 @@ See [the **datamap-interface** API](https://github.com/wooorm/datamap-interface)
 
 ## Support
 
-See [Supported-codes.md](Supported-codes.md).
+See [Support.md](Support.md).
 
 ## License
 
