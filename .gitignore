@@ -1,6 +1,9 @@
-node_modules
 .DS_Store
-coverage
 *.log
-data/iso-639-3.zip
-data/iso-639-3.txt
+*.zip
+*.txt
+bower_components/
+build/
+components/
+coverage/
+node_modules/
