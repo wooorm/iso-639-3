@@ -1,36 +1,41 @@
 'use strict';
 
+/**
+ * Dependencies.
+ */
+
 var fs,
     textToJSON;
 
 fs = require('fs');
 textToJSON = require('plain-text-data-to-json');
 
-var input;
-
-input = fs.readFileSync('data/iso-639-3.txt', 'utf8');
+/**
+ * Data.
+ */
 
 var data;
 
-data = textToJSON(input, {
+data = textToJSON(fs.readFileSync('data/iso-639-3.txt', 'utf8'), {
     'comment': false,
     'delimiter': null,
     'forgiving': 'fix'
 });
 
-var dictionary,
-    scopeMap,
-    typeMap;
+/**
+ * Constants.
+ */
 
-dictionary = {};
+var SCOPE,
+    TYPE;
 
-scopeMap = {
+SCOPE = {
     'I': 'individual',
     'M': 'macrolanguage',
     'S': 'special'
 };
 
-typeMap = {
+TYPE = {
     'A': 'ancient',
     'C': 'constructed',
     'E': 'extinct',
@@ -38,6 +43,14 @@ typeMap = {
     'L': 'living',
     'S': 'special'
 };
+
+/**
+ * Parse.
+ */
+
+var dictionary;
+
+dictionary = {};
 
 data.forEach(function (line) {
     var code;
@@ -53,11 +66,15 @@ data.forEach(function (line) {
         'iso6392B': line[0] || null,
         'iso6392T': line[1] || null,
         'iso6391': line[2] || null,
-        'scope': scopeMap[line[3]],
-        'type': typeMap[line[4]],
+        'scope': SCOPE[line[3]],
+        'type': TYPE[line[4]],
         'name': line[5] || null,
         'comment': line[6] || null
     };
 });
+
+/**
+ * Write.
+ */
 
 fs.writeFileSync('data/iso-639-3.json', JSON.stringify(dictionary, 0, 2));
