@@ -1,6 +1,6 @@
 # iso-639-3 [![Build Status](https://img.shields.io/travis/wooorm/iso-639-3.svg?style=flat)](https://travis-ci.org/wooorm/iso-639-3) [![Coverage Status](https://img.shields.io/coveralls/wooorm/iso-639-3.svg?style=flat)](https://coveralls.io/r/wooorm/iso-639-3?branch=master)
 
-ISO-639-3 codes in an accessible format, all 7879 of 'em.
+[ISO-639-3](http://www-01.sil.org/iso639%2D3/) codes in an accessible format, all 7879 of 'em.
 
 ## Installation
 
@@ -29,9 +29,6 @@ iso6393.get('eng');
 
 iso6393.has('unicorn'); // false
 
-iso6393.remove('eng');
-iso6393.get('eng'); // null
-
 iso6393.all(); // A huge array with 7879 objects.
 ```
 
@@ -45,4 +42,4 @@ See [Support.md](Support.md).
 
 ## License
 
-MIT © Titus Wormer
+MIT © [Titus Wormer](http://wooorm.com)
