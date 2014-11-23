@@ -1,4 +1,17 @@
 
+n.n.n / 2014-11-23
+==================
+
+ * Refactor `script/build-support.js`
+ * Refactor `script/build-data.js`
+ * Refactor `Readme.md`
+ * Add `.eslintrc`
+ * Refactor to disallow space after object keys
+ * Refactor npm script targets in `package.json`
+ * Add flat badges to `Readme.md`
+ * Fix incorrect executive rights on `test.js`
+ * Update eslint, mocha
+
 0.1.0 / 2014-10-19
 ==================
 
