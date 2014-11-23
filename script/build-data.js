@@ -13,9 +13,9 @@ input = fs.readFileSync('data/iso-639-3.txt', 'utf8');
 var data;
 
 data = textToJSON(input, {
-    'comment' : false,
-    'delimiter' : null,
-    'forgiving' : 'fix'
+    'comment': false,
+    'delimiter': null,
+    'forgiving': 'fix'
 });
 
 var dictionary,
@@ -25,18 +25,18 @@ var dictionary,
 dictionary = {};
 
 scopeMap = {
-    'I' : 'individual',
-    'M' : 'macrolanguage',
-    'S' : 'special'
+    'I': 'individual',
+    'M': 'macrolanguage',
+    'S': 'special'
 };
 
 typeMap = {
-    'A' : 'ancient',
-    'C' : 'constructed',
-    'E' : 'extinct',
-    'H' : 'historical',
-    'L' : 'living',
-    'S' : 'special'
+    'A': 'ancient',
+    'C': 'constructed',
+    'E': 'extinct',
+    'H': 'historical',
+    'L': 'living',
+    'S': 'special'
 };
 
 data.forEach(function (line) {
@@ -50,13 +50,13 @@ data.forEach(function (line) {
     }
 
     dictionary[code] = {
-        'iso6392B' : line[0] || null,
-        'iso6392T' : line[1] || null,
-        'iso6391' : line[2] || null,
-        'scope' : scopeMap[line[3]],
-        'type' : typeMap[line[4]],
-        'name' : line[5] || null,
-        'comment' : line[6] || null
+        'iso6392B': line[0] || null,
+        'iso6392T': line[1] || null,
+        'iso6391': line[2] || null,
+        'scope': scopeMap[line[3]],
+        'type': typeMap[line[4]],
+        'name': line[5] || null,
+        'comment': line[6] || null
     };
 });
 
