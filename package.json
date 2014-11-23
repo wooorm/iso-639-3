@@ -31,17 +31,19 @@
   "scripts": {
     "test": "node_modules/.bin/_mocha --reporter spec --check-leaks -u exports test.js",
     "test-travis": "node_modules/.bin/istanbul cover node_modules/.bin/_mocha --report lcovonly -- --reporter spec --check-leaks -u exports test.js",
-    "lint": "npm run lint-api && npm run lint-test && npm run lint-style",
+    "coverage": "node_modules/.bin/istanbul cover node_modules/.bin/_mocha -- -- test.js",
     "lint-api": "node_modules/.bin/eslint index.js script/build-data.js script/build-support.js --env node --env browser --rule 'quotes: [2, single]'",
     "lint-test": "node_modules/.bin/eslint test.js --env node --env mocha --rule 'quotes: [2, single]'",
+    "lint-script": "node_modules/.bin/eslint script/build-data.js script/build-support.js --env node --rule 'quotes: [2, single]'",
     "lint-style": "node_modules/.bin/jscs index.js script/build-data.js script/build-support.js test.js --reporter=inline",
+    "lint": "npm run lint-api && npm run lint-test && npm run lint-script && npm run lint-style",
+    "make": "npm run lint && npm run coverage",
     "scrape-data": "curl --connect-timeout 15 --max-time 20 -L http://www-01.sil.org/iso639%2D3/iso-639-3_Code_Tables_20140320.zip -o data/iso-639-3.zip || exit 0",
     "unzip-data": "unzip -o -d data data/iso-639-3.zip || exit 0",
     "clean-data": "mv data/iso-639-3_Code_Tables_20140320/iso-639-3_20140320.tab data/iso-639-3.txt && rm -rf data/iso-639-3_Code_Tables_20140320 || exit 0",
     "build-data": "node script/build-data.js",
     "build-support": "node script/build-support.js",
-    "coverage": "node_modules/.bin/istanbul cover node_modules/.bin/_mocha -- -- test.js",
-    "prepublish": "npm run scrape-data && npm run unzip-data && npm run clean-data && npm run build-data && npm run build-support",
-    "make": "npm run lint && npm run coverage"
+    "build": "npm run scrape-data && npm run unzip-data && npm run clean-data && npm run build-data && npm run build-support",
+    "prepublish": "npm run build"
   }
 }
