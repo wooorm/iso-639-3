@@ -14,7 +14,7 @@
     "information"
   ],
   "dependencies": {
-    "datamap-interface": "^0.2.0"
+    "datamap-interface": "^0.3.0"
   },
   "repository": {
     "type": "git",
