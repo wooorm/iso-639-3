@@ -1,6 +1,6 @@
 'use strict';
 
-/**
+/*
  * Dependencies.
  */
 
@@ -10,7 +10,7 @@ var iso6393,
 iso6393 = require('./');
 assert = require('assert');
 
-/**
+/*
  * Tests.
  */
 

@@ -1,6 +1,6 @@
 'use strict';
 
-/**
+/*
  * Dependencies.
  */
 
@@ -10,7 +10,7 @@ var fs,
 fs = require('fs');
 iso6393 = require('../');
 
-/**
+/*
  * Write.
  */
 
@@ -19,7 +19,7 @@ fs.writeFileSync('Support.md',
     '=================\n' +
     '\n' +
 
-    /**
+    /*
      * A nice table is too long: GitHub won't be able
      * to render it, so we create a boring list.
      */

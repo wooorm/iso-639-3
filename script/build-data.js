@@ -1,6 +1,6 @@
 'use strict';
 
-/**
+/*
  * Dependencies.
  */
 
@@ -10,7 +10,7 @@ var fs,
 fs = require('fs');
 textToJSON = require('plain-text-data-to-json');
 
-/**
+/*
  * Data.
  */
 
@@ -22,7 +22,7 @@ data = textToJSON(fs.readFileSync('data/iso-639-3.txt', 'utf8'), {
     'forgiving': 'fix'
 });
 
-/**
+/*
  * Constants.
  */
 
@@ -44,7 +44,7 @@ TYPE = {
     'S': 'special'
 };
 
-/**
+/*
  * Parse.
  */
 
@@ -73,7 +73,7 @@ data.forEach(function (line) {
     };
 });
 
-/**
+/*
  * Write.
  */
 
