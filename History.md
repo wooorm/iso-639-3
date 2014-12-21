@@ -1,4 +1,15 @@
 
+n.n.n / 2014-12-21
+==================
+
+  * Refactor to adhere to strict jsdoc style
+  * Add jscs-jsdoc configuration to `.jscs.json`
+  * Add jscs-jsdoc as a dev-dependency
+  * Refactor npm scripts for changes in npm
+  * Fix incorrect executive rights on `script/`
+  * Update datamap-interface
+  * Update eslint
+
 0.1.1 / 2014-11-23
 ==================
 
