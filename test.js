@@ -1,85 +1,42 @@
-'use strict';
-
-/*
- * Dependencies.
+/**
+ * @author Titus Wormer
+ * @copyright 2016 Titus Wormer
+ * @license MIT
+ * @module iso-639-3
+ * @fileoverview Test suite for `iso-639-3`.
  */
 
-var iso6393,
-    assert;
+'use strict';
 
-iso6393 = require('./');
-assert = require('assert');
+/* eslint-env node */
+
+/*
+ * Module dependencies.
+ */
+
+var test = require('tape');
+var iso6393 = require('./index.js');
 
 /*
  * Tests.
  */
 
-describe('iso6393.get(property)', function () {
-    it('should return the value of an item in the database', function () {
-        var result;
+test('iso6393', function (t) {
+    t.plan(8);
 
-        result = iso6393.get('eng');
+    t.ok(Array.isArray(iso6393), 'should be an `array`');
 
-        assert(typeof result === 'object');
+    iso6393.forEach(function (language) {
+        if (language.iso6393 !== 'eng') {
+            return;
+        }
 
-        assert(result.iso6392B === 'eng');
-        assert(result.iso6392T === 'eng');
-        assert(result.iso6391 === 'en');
-        assert(result.scope === 'individual');
-        assert(result.type === 'living');
-        assert(result.name === 'English');
-        assert(result.comment === null);
-    });
-
-    it('should return null if am item is not in the database', function () {
-        assert(iso6393.get('zzz') === null);
-    });
-});
-
-describe('iso6393.has(property)', function () {
-    it('should return if an item is in the database', function () {
-        assert(iso6393.has('eng') === true);
-        assert(iso6393.has('unicorn') === false);
-    });
-
-    it('should not fail on prototpe extending', function () {
-        /* eslint-disable no-extend-native */
-        Object.prototype.unicorn = 'mammal';
-
-        assert(!iso6393.has('unicorn'));
-
-        delete Object.prototype.unicorn;
-        /* eslint-enable no-extend-native */
-    });
-
-    it('should not fail on native properties', function () {
-        assert(!iso6393.has('toString'));
-        assert(!iso6393.has('constructor'));
-        assert(!iso6393.has('hasOwnProperty'));
-    });
-});
-
-describe('iso6393.all()', function () {
-    var all;
-
-    all = iso6393.all();
-
-    it('should return an object', function () {
-        assert(typeof all === 'object');
-    });
-
-    it('should return all values in the datamap', function () {
-        assert(Object.keys(all).length === 7879);
-
-        assert('eng' in all);
-        assert('nld' in all);
-    });
-
-    it('should be immutable', function () {
-        all.unicorn = 'mammal';
-
-        assert(!iso6393.has('unicorn'));
-
-        assert(!('unicorn' in iso6393.all()));
+        t.equal(language.iso6393, 'eng', 'should have a 639-3 code');
+        t.equal(language.iso6392B, 'eng', 'should have a 639-2B code');
+        t.equal(language.iso6392T, 'eng', 'should have a 639-2T code');
+        t.equal(language.iso6391, 'en', 'should have a 639-1 code');
+        t.equal(language.scope, 'individual', 'should have a scope');
+        t.equal(language.type, 'living', 'should have a type');
+        t.equal(language.name, 'English', 'should have a name');
     });
 });

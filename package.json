@@ -13,40 +13,49 @@
     "name",
     "information"
   ],
-  "dependencies": {
-    "datamap-interface": "^0.3.0"
-  },
+  "dependencies": {},
+  "files": [
+    "index.js",
+    "index.json"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/wooorm/iso-639-3.git"
   },
-  "author": "Titus Wormer <tituswormer@gmail.com>",
+  "bugs": "https://github.com/wooorm/iso-639-3/issues",
+  "author": "Titus Wormer <tituswormer@gmail.com> (http://wooorm.com)",
+  "contributors": [
+    "Titus Wormer <tituswormer@gmail.com> (http://wooorm.com)"
+  ],
   "devDependencies": {
-    "eslint": "^0.10.0",
-    "istanbul": "^0.3.0",
-    "jscs": "^1.0.0",
-    "jscs-jsdoc": "^0.3.0",
-    "mocha": "^2.0.0",
-    "plain-text-data-to-json": "^0.1.1"
+    "browserify": "^13.0.0",
+    "concat-stream": "^1.5.1",
+    "d3-dsv": "^0.3.0",
+    "eslint": "^2.0.0",
+    "esmangle": "^1.0.1",
+    "istanbul": "^0.4.0",
+    "jscs": "^2.0.0",
+    "jscs-jsdoc": "^1.0.0",
+    "remark": "^4.0.0",
+    "remark-comment-config": "^3.0.0",
+    "remark-github": "^4.0.1",
+    "remark-lint": "^3.0.0",
+    "remark-usage": "^3.0.0",
+    "remark-validate-links": "^3.0.0",
+    "tape": "^4.4.0",
+    "unzip": "^0.1.11"
   },
   "scripts": {
-    "test": "_mocha --check-leaks test.js",
-    "test-travis": "istanbul cover _mocha --report lcovonly -- --check-leaks test.js",
-    "coverage": "istanbul cover _mocha -- -- test.js",
-    "lint-api": "eslint index.js",
-    "lint-test": "eslint --env mocha test.js",
-    "lint-script": "eslint script/build-data.js script/build-support.js",
-    "lint-style": "jscs --reporter inline index.js test.js script/build-data.js script/build-support.js",
-    "lint": "npm run lint-api && npm run lint-test && npm run lint-script && npm run lint-style",
-    "make": "npm run lint && npm run coverage",
-    "scrape": "curl --connect-timeout 15 --max-time 20 -L http://www-01.sil.org/iso639%2D3/iso-639-3_Code_Tables_20140320.zip -o data/iso-639-3.zip || exit 0",
-    "postscrape": "unzip -o -d data data/iso-639-3.zip || exit 0",
-    "preclean": "npm run scrape",
-    "clean": "mv data/iso-639-3_Code_Tables_20140320/iso-639-3_20140320.tab data/iso-639-3.txt || exit 0",
-    "postclean": "rm -rf data/iso-639-3_Code_Tables_20140320 || exit 0",
-    "prebuild": "npm run clean",
-    "build": "node script/build-data.js",
-    "postbuild": "node script/build-support.js",
-    "prepublish": "npm run build"
+    "build-crawl": "./script/build.js",
+    "build-md": "remark . --quiet --frail",
+    "build-bundle": "browserify index.js --bare -s iso6393 > iso-639-3.js",
+    "build-mangle": "esmangle iso-639-3.js > iso-639-3.min.js",
+    "build": "npm run build-crawl && npm run build-md && npm run build-bundle && npm run build-mangle",
+    "lint-api": "eslint .",
+    "lint-style": "jscs --reporter inline .",
+    "lint": "npm run lint-api && npm run lint-style",
+    "test-api": "node test.js",
+    "test-coverage": "istanbul cover test.js",
+    "test": "npm run build && npm run lint && npm run test-coverage"
   }
 }

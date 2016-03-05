@@ -1,23 +1,17 @@
+/**
+ * @author Titus Wormer
+ * @copyright 2016 Titus Wormer
+ * @license MIT
+ * @module iso-639-3
+ * @fileoverview ISO-639-3 codes in an accessible format.
+ */
+
 'use strict';
 
-/*
- * Dependencies.
- */
-
-var Interface;
-
-Interface = require('datamap-interface');
+/* eslint-env commonjs */
 
 /*
- * Data.
+ * Expose.
  */
 
-var data;
-
-data = require('./data/iso-639-3.json');
-
-/*
- * Expose iso-639-3.
- */
-
-module.exports = new Interface(data);
+module.exports = require('./index.json');
