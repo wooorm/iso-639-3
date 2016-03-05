@@ -64,7 +64,7 @@ Inspecting some values yields:
 And the `length` computes to:
 
 ```js
-7879
+7847
 ```
 
 ## API

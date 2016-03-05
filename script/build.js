@@ -26,7 +26,7 @@ var dsv = require('d3-dsv');
  * Constants.
  */
 
-var ID = '20140320';
+var ID = '20160115';
 var INPUT = 'http://www-01.sil.org/iso639-3/' +
     'iso-639-3_Code_Tables_' + ID + '.zip';
 var ENTRY = 'iso-639-3_' + ID + '.tab';
@@ -68,7 +68,8 @@ http.request(INPUT, function (response) {
                     'name': language.Ref_Name || null,
                     'type': TYPES[language.Language_Type],
                     'scope': SCOPES[language.Scope],
-                    'iso6393': language.Id,
+                    'iso6393': language['﻿Id'], // There’s a `<U+FEFF>`
+                    // in there, I don’t know why, but meh.
                     'iso6392B': language.Part2B || null,
                     'iso6392T': language.Part2T || null,
                     'iso6391': language.Part1 || null
