@@ -7,3 +7,19 @@ node_js:
 - '5.0'
 sudo: false
 after_script: npm install codecov.io && cat ./coverage/lcov.info | codecov
+deploy:
+  - provider: npm
+    email: tituswormer@gmail.com
+    api_key:
+      secure: Jk0cE6N87EGTx1RZLmxlJsS9WmQdxMuHseLGbLMkDyklvQTw3KDE3la/sONhCcAebYjBBa6FldijhBkN2L9KJVfqWJwxzZ0mTKIYSSDv/XnHbFRcsDyP8Qn+5aR5wgTE645Y+3DJ2fLaLc3r0nRj6scebe/QbZEDxPMuwC4I/cM=
+    on:
+      tags: true
+      node: '5.0'
+  - provider: releases
+    api_key:
+      secure: UIHkjZ8tEfdqtDvw6LnWJ4pHT7AZ3yJE3ui7Y50O4pziLv5P484SBHKSmrtwmvFvEpvNiTicDsclBWEYfhDgqBSg0SGo4HSdU+XJdsodOZB2MDRiAi2fJUXVC9h8U2CDd3HG/uNbh3WFA4VDUu9RRvNzC1Xc8oVJxTGyd0SrUXU=
+    file:
+      - "iso-639-3.js"
+      - "iso-639-3.min.js"
+    on:
+      tags: true
