@@ -1,4 +1,4 @@
-# iso-639-3 [![Build Status][build-badge]][build-page] [![Coverage Status][coverage-badge]][coverage-page]
+# iso-639-3 [![Build Status][build-badge]][build-page]
 
 [ISO 639-3][iso] codes in an accessible format, all of them.
 
@@ -10,20 +10,17 @@
 npm install iso-639-3
 ```
 
-**iso-639-3** is also available as an AMD, CommonJS, and globals
-module, [uncompressed and compressed][releases].
-
 ## Usage
-
-Dependencies:
 
 ```javascript
 var iso6393 = require('iso-639-3');
+
+var subset = iso6393.slice(1820, 1825));
 ```
 
-Inspecting some values yields:
+Yields:
 
-```js
+```javascript
 [ { name: 'Ende',
     type: 'living',
     scope: 'individual',
@@ -61,12 +58,6 @@ Inspecting some values yields:
     iso6391: null } ]
 ```
 
-And the `length` computes to:
-
-```js
-7847
-```
-
 ## API
 
 ### `iso6393`
@@ -91,23 +82,18 @@ And the `length` computes to:
 *   `'living'`
     — Still spoken languages, for example,
     `Zacatlán-Ahuacatlán-Tepetzintla Nahuatl` (`nhi`);
-
 *   `'historical'`
     — Distinct from any modern languages that are descended from it, for
     example, `Old Frisian` (`ofs`);
-
 *   `'extinct'`
     — Language which went extinct  in recent time, for example,
     `Barababaraba` (`rbp`);
-
 *   `'ancient'`
     — Language which went extinct in ancient times, for example,
     `Gothic` (`got`);
-
 *   `'constructed'`
     — Artificial languages (but not programming languages), for example,
     `Esperanto` (`epo`);
-
 *   `'special'`
     — Non-language codes, for example, `Undetermined` (`und`).
 
@@ -117,11 +103,9 @@ And the `length` computes to:
 
 *   `'special'`
     — Non-language codes, for example, `Undetermined` (`und`);
-
 *   `'macrolanguage'`
     — One-to-many grouping of languages, because older ISO 639s,
     included them, for example, `Arabic` (`ara`);
-
 *   `'language'`
     — Normal, single language, for example, `English` (`eng`).
 
@@ -135,13 +119,7 @@ And the `length` computes to:
 
 [build-page]: https://travis-ci.org/wooorm/iso-639-3
 
-[coverage-badge]: https://img.shields.io/codecov/c/github/wooorm/iso-639-3.svg
-
-[coverage-page]: https://codecov.io/github/wooorm/iso-639-3?branch=master
-
 [npm]: https://docs.npmjs.com/cli/install
-
-[releases]: https://github.com/wooorm/iso-639-3/releases
 
 [license]: LICENSE
 

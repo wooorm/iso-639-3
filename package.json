@@ -13,49 +13,46 @@
     "name",
     "information"
   ],
-  "dependencies": {},
-  "files": [
-    "index.js",
-    "index.json"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/wooorm/iso-639-3.git"
-  },
+  "repository": "https://github.com/wooorm/iso-639-3",
   "bugs": "https://github.com/wooorm/iso-639-3/issues",
   "author": "Titus Wormer <tituswormer@gmail.com> (http://wooorm.com)",
   "contributors": [
     "Titus Wormer <tituswormer@gmail.com> (http://wooorm.com)"
   ],
+  "main": "index.json",
+  "files": [
+    "index.json"
+  ],
+  "dependencies": {},
   "devDependencies": {
     "browserify": "^13.0.0",
     "concat-stream": "^1.5.1",
-    "d3-dsv": "^0.3.0",
-    "eslint": "^2.0.0",
+    "d3-dsv": "^1.0.0",
     "esmangle": "^1.0.1",
-    "istanbul": "^0.4.0",
-    "jscs": "^2.0.0",
-    "jscs-jsdoc": "^1.0.0",
-    "remark": "^4.0.0",
-    "remark-comment-config": "^3.0.0",
-    "remark-github": "^4.0.1",
-    "remark-lint": "^3.0.0",
-    "remark-usage": "^3.0.0",
-    "remark-validate-links": "^3.0.0",
+    "remark-cli": "^2.0.0",
+    "remark-preset-wooorm": "^1.0.0",
     "tape": "^4.4.0",
-    "unzip": "^0.1.11"
+    "unzip": "^0.1.11",
+    "xo": "^0.17.0"
   },
   "scripts": {
-    "build-crawl": "./script/build.js",
+    "build-crawl": "node script/build.js",
     "build-md": "remark . --quiet --frail",
-    "build-bundle": "browserify index.js --bare -s iso6393 > iso-639-3.js",
+    "build-bundle": "browserify index.json --bare -s iso6393 > iso-639-3.js",
     "build-mangle": "esmangle iso-639-3.js > iso-639-3.min.js",
     "build": "npm run build-crawl && npm run build-md && npm run build-bundle && npm run build-mangle",
-    "lint-api": "eslint .",
-    "lint-style": "jscs --reporter inline .",
-    "lint": "npm run lint-api && npm run lint-style",
+    "lint": "xo",
     "test-api": "node test.js",
-    "test-coverage": "istanbul cover test.js",
-    "test": "npm run build && npm run lint && npm run test-coverage"
+    "test": "npm run build && npm run lint && npm run test-api"
+  },
+  "xo": {
+    "space": true,
+    "ignores": [
+      "iso-639-3.js"
+    ]
+  },
+  "remarkConfig": {
+    "output": true,
+    "presets": "wooorm"
   }
 }
