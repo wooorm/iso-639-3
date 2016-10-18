@@ -13,7 +13,7 @@ var ID = '20160115';
 var INPUT = 'http://www-01.sil.org/iso639-3/' +
     'iso-639-3_Code_Tables_' + ID + '.zip';
 var ENTRY = 'iso-639-3_' + ID + '.tab';
-var OUTPUT = path.join(__dirname, '..', 'index.json');
+var OUTPUT = path.join(__dirname, 'index.json');
 
 /* Constants. */
 var SCOPES = {
