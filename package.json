@@ -33,7 +33,7 @@
     "remark-preset-wooorm": "^2.0.0",
     "tape": "^4.4.0",
     "unzip": "^0.1.11",
-    "xo": "^0.17.0"
+    "xo": "^0.18.0"
   },
   "scripts": {
     "build-crawl": "node build",
