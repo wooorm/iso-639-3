@@ -1,6 +1,6 @@
 'use strict';
 
-/* dependencies. */
+/* Dependencies. */
 var test = require('tape');
 var iso6393 = require('./');
 
