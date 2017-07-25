@@ -1,6 +1,5 @@
 'use strict';
 
-/* Dependencies. */
 var fs = require('fs');
 var path = require('path');
 var http = require('http');
@@ -8,14 +7,12 @@ var concat = require('concat-stream');
 var unzip = require('unzip');
 var dsv = require('d3-dsv');
 
-/* Constants. */
 var ID = '20160115';
 var INPUT = 'http://www-01.sil.org/iso639-3/' +
     'iso-639-3_Code_Tables_' + ID + '.zip';
 var ENTRY = 'iso-639-3_' + ID + '.tab';
 var OUTPUT = path.join(__dirname, 'index.json');
 
-/* Constants. */
 var SCOPES = {
   I: 'individual',
   M: 'macrolanguage',
@@ -31,7 +28,6 @@ var TYPES = {
   S: 'special'
 };
 
-/* Core. */
 http.request(INPUT, function (response) {
   response.pipe(new unzip.Parse()).on('entry', function (entry) {
     if (path.basename(entry.path) !== ENTRY) {

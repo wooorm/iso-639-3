@@ -1,10 +1,8 @@
 'use strict';
 
-/* Dependencies. */
 var test = require('tape');
 var iso6393 = require('./');
 
-/* Tests. */
 test('iso6393', function (t) {
   t.plan(8);
 
