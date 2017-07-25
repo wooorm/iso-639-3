@@ -13,7 +13,7 @@ deploy:
       node: '8.0'
   - provider: releases
     api_key:
-      secure: UIHkjZ8tEfdqtDvw6LnWJ4pHT7AZ3yJE3ui7Y50O4pziLv5P484SBHKSmrtwmvFvEpvNiTicDsclBWEYfhDgqBSg0SGo4HSdU+XJdsodOZB2MDRiAi2fJUXVC9h8U2CDd3HG/uNbh3WFA4VDUu9RRvNzC1Xc8oVJxTGyd0SrUXU=
+      secure: N6t0w23UfILK5uqsAfrwQXYBCmS/M0X2gmRHgzGqBwt9hxFUIXN+A/W9gnG28Eqnh5/v2wcpdRMqSzKQz4UlqZd943+rLhXxxwWTArl5S31/au84971q5QH74fBr4sHlYK6PX0YBcRtHc6iTgETt+FqrJ+rCQFpuW7301y2rqo0=
     file:
       - "iso-639-3.js"
       - "iso-639-3.min.js"
