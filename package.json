@@ -13,7 +13,7 @@
     "name",
     "information"
   ],
-  "repository": "https://github.com/wooorm/iso-639-3",
+  "repository": "wooorm/iso-639-3",
   "bugs": "https://github.com/wooorm/iso-639-3/issues",
   "author": "Titus Wormer <tituswormer@gmail.com> (http://wooorm.com)",
   "contributors": [
@@ -53,6 +53,8 @@
     ]
   },
   "remarkConfig": {
-    "plugins": ["preset-wooorm"]
+    "plugins": [
+      "preset-wooorm"
+    ]
   }
 }
