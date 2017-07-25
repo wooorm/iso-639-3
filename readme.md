@@ -15,7 +15,7 @@ npm install iso-639-3
 ```javascript
 var iso6393 = require('iso-639-3');
 
-var subset = iso6393.slice(1820, 1825));
+console.log(iso6393.slice(1820, 1825));
 ```
 
 Yields:
@@ -68,46 +68,77 @@ Yields:
 
 `Object`:
 
-*   `name` (`string`) — Language name;
-*   `type` ([`Type`][type]) — Language type;
-*   `type` ([`Scope`][scope]) — Language scope;
-*   `iso6392B` (`string?`) — Bibliographic ISO 639-2 code, if available;
-*   `iso6392T` (`string?`) — Terminological ISO 639-2 code, if available;
-*   `iso6391` (`string?`) — ISO 639-1 code, if available.
+###### `name`
+
+Language name (`string`).
+
+###### `type`
+
+Language type ([`Type`][type]).
+
+###### `type`
+
+Language scope ([`Scope`][scope])
+
+###### `iso6392B`
+
+Bibliographic ISO 639-2 code, if available (`string?`).
+
+###### `iso6392T`
+
+Terminological ISO 639-2 code, if available (`string?`).
+
+###### `iso6391`
+
+ISO 639-1 code, if available (`string?`).
 
 ## `Type`
 
 `string`, one of the following:
 
-*   `'living'`
-    — Still spoken languages, for example,
-    `Zacatlán-Ahuacatlán-Tepetzintla Nahuatl` (`nhi`);
-*   `'historical'`
-    — Distinct from any modern languages that are descended from it, for
-    example, `Old Frisian` (`ofs`);
-*   `'extinct'`
-    — Language which went extinct  in recent time, for example,
-    `Barababaraba` (`rbp`);
-*   `'ancient'`
-    — Language which went extinct in ancient times, for example,
-    `Gothic` (`got`);
-*   `'constructed'`
-    — Artificial languages (but not programming languages), for example,
-    `Esperanto` (`epo`);
-*   `'special'`
-    — Non-language codes, for example, `Undetermined` (`und`).
+###### `'living'`
+
+Still spoken languages (example: `nhi` for `Zacatlán-Ahuacatlán-Tepetzintla
+Nahuatl`).
+
+###### `'historical'`
+
+Distinct from any modern languages that are descended from it (example: `ofs`
+for `Old Frisian`).
+
+###### `'extinct'`
+
+Language that went extinct in recent time (example: `rbp` for `Barababaraba`).
+
+###### `'ancient'`
+
+Language that went extinct in ancient times (example: `got` for `Gothic`).
+
+###### `'constructed'`
+
+Artificial languages, but not programming languages (example: `epo` for
+`Esperanto`).
+
+###### `'special'`
+
+Non-language codes (example: `und` for `Undetermined`).
 
 ## `Scope`
 
 `string`, one of the following:
 
-*   `'special'`
-    — Non-language codes, for example, `Undetermined` (`und`);
-*   `'macrolanguage'`
-    — One-to-many grouping of languages, because older ISO 639s,
-    included them, for example, `Arabic` (`ara`);
-*   `'language'`
-    — Normal, single language, for example, `English` (`eng`).
+###### `'special'`
+
+Non-language codes (example: `und` for `Undetermined`).
+
+###### `'macrolanguage'`
+
+One-to-many grouping of languages, because older ISO 639s included them
+(example: `ara` for `Arabic`).
+
+###### `'language'`
+
+Normal, single language (example: `eng` for `English`).
 
 ## License
 
