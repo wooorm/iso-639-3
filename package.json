@@ -25,6 +25,7 @@
   ],
   "dependencies": {},
   "devDependencies": {
+    "bail": "^1.0.2",
     "browserify": "^14.0.0",
     "concat-stream": "^1.5.1",
     "d3-dsv": "^1.0.0",
