@@ -4,19 +4,12 @@ node_js:
 - '8.0'
 sudo: false
 deploy:
-  - provider: npm
-    email: tituswormer@gmail.com
-    api_key:
-      secure: Jk0cE6N87EGTx1RZLmxlJsS9WmQdxMuHseLGbLMkDyklvQTw3KDE3la/sONhCcAebYjBBa6FldijhBkN2L9KJVfqWJwxzZ0mTKIYSSDv/XnHbFRcsDyP8Qn+5aR5wgTE645Y+3DJ2fLaLc3r0nRj6scebe/QbZEDxPMuwC4I/cM=
-    on:
-      tags: true
-      node: '8.0'
-  - provider: releases
-    api_key:
-      secure: N6t0w23UfILK5uqsAfrwQXYBCmS/M0X2gmRHgzGqBwt9hxFUIXN+A/W9gnG28Eqnh5/v2wcpdRMqSzKQz4UlqZd943+rLhXxxwWTArl5S31/au84971q5QH74fBr4sHlYK6PX0YBcRtHc6iTgETt+FqrJ+rCQFpuW7301y2rqo0=
-    file:
-      - "iso-639-3.js"
-      - "iso-639-3.min.js"
-    on:
-      tags: true
-      node: '8.0'
+  provider: releases
+  api_key:
+    secure: N6t0w23UfILK5uqsAfrwQXYBCmS/M0X2gmRHgzGqBwt9hxFUIXN+A/W9gnG28Eqnh5/v2wcpdRMqSzKQz4UlqZd943+rLhXxxwWTArl5S31/au84971q5QH74fBr4sHlYK6PX0YBcRtHc6iTgETt+FqrJ+rCQFpuW7301y2rqo0=
+  file:
+    - "iso-639-3.js"
+    - "iso-639-3.min.js"
+  on:
+    tags: true
+    node: '8.0'
