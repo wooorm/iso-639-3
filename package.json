@@ -44,7 +44,7 @@
     "build-mangle": "esmangle iso-639-3.js > iso-639-3.min.js",
     "build": "npm run build-bundle && npm run build-mangle",
     "test-api": "node test",
-    "test": "npm run generate && npm run format && npm run build && npm run test-api"
+    "test": "npm run format && npm run build && npm run test-api"
   },
   "prettier": {
     "tabWidth": 2,
