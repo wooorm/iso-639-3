@@ -3,3 +3,4 @@
 node_modules/
 iso-639-3.js
 iso-639-3.min.js
+yarn.lock
