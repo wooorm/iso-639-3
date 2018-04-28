@@ -13,9 +13,9 @@ npm install iso-639-3
 ## Usage
 
 ```javascript
-var iso6393 = require('iso-639-3');
+var iso6393 = require('iso-639-3')
 
-console.log(iso6393.slice(1820, 1825));
+console.log(iso6393.slice(1822, 1827))
 ```
 
 Yields:

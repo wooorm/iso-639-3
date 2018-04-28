@@ -30,6 +30,7 @@
     "concat-stream": "^1.5.1",
     "d3-dsv": "^1.0.0",
     "esmangle": "^1.0.1",
+    "prettier": "^1.12.1",
     "remark-cli": "^5.0.0",
     "remark-preset-wooorm": "^4.0.0",
     "tape": "^4.4.0",
@@ -37,17 +38,24 @@
     "xo": "^0.20.0"
   },
   "scripts": {
-    "build-crawl": "node build",
-    "build-md": "remark . -qfo",
+    "generate": "node build",
+    "format": "remark . -qfo && prettier --write '**/*.js' && xo --fix",
     "build-bundle": "browserify index.json --bare -s iso6393 > iso-639-3.js",
     "build-mangle": "esmangle iso-639-3.js > iso-639-3.min.js",
-    "build": "npm run build-crawl && npm run build-md && npm run build-bundle && npm run build-mangle",
-    "lint": "xo",
-    "test-api": "node test.js",
-    "test": "npm run build && npm run lint && npm run test-api"
+    "build": "npm run build-bundle && npm run build-mangle",
+    "test-api": "node test",
+    "test": "npm run generate && npm run format && npm run build && npm run test-api"
+  },
+  "prettier": {
+    "tabWidth": 2,
+    "useTabs": false,
+    "singleQuote": true,
+    "bracketSpacing": false,
+    "semi": false,
+    "trailingComma": "none"
   },
   "xo": {
-    "space": true,
+    "prettier": true,
     "esnext": false,
     "rules": {
       "no-var": "off",
