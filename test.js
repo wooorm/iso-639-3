@@ -1,7 +1,7 @@
 'use strict';
 
 var test = require('tape');
-var iso6393 = require('./');
+var iso6393 = require('.');
 
 test('iso6393', function (t) {
   t.plan(8);
