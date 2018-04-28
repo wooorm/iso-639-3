@@ -2,11 +2,13 @@
 
 var fs = require('fs');
 var path = require('path');
-var http = require('http');
+var https = require('https');
 var concat = require('concat-stream');
 var unzip = require('unzip');
 var dsv = require('d3-dsv');
 var bail = require('bail');
+
+var found;
 
 var SCOPES = {
   I: 'individual',
@@ -23,9 +25,17 @@ var TYPES = {
   S: 'special'
 };
 
-http
-  .request('http://www-01.sil.org/iso639-3/iso-639-3_Code_Tables_20160115.zip', onrequest)
+https
+  .request('https://iso639-3.sil.org/sites/iso639-3/files/downloads/iso-639-3_Code_Tables_20180123.zip', onrequest)
   .end();
+
+process.on('exit', onexit);
+
+function onexit() {
+  if (!found) {
+    throw new Error('Could not find expected file');
+  }
+}
 
 function onrequest(response) {
   response
@@ -34,7 +44,8 @@ function onrequest(response) {
 }
 
 function onentry(entry) {
-  if (path.basename(entry.path) === 'iso-639-3_20160115.tab') {
+  if (path.basename(entry.path) === 'iso-639-3_20180123.tab') {
+    found = true;
     entry.pipe(concat(onconcat));
   } else {
     entry.autodrain();
@@ -42,7 +53,7 @@ function onentry(entry) {
 }
 
 function onconcat(body) {
-  var data = dsv.tsvParse(body.toString()).map(function (language) {
+  var data = dsv.tsvParse(String(body)).map(function (language) {
     return {
       name: language.Ref_Name || null,
       type: TYPES[language.Language_Type],
