@@ -168,7 +168,7 @@ Normal, single language (example: `eng` for `English`).
 
 [author]: https://wooorm.com
 
-[iso]: http://www-01.sil.org/iso639-3
+[iso]: https://iso639-3.sil.org
 
 [type]: #type
 

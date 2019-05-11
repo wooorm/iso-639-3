@@ -4,19 +4,19 @@ var fs = require('fs')
 var path = require('path')
 var https = require('https')
 var concat = require('concat-stream')
-var unzip = require('unzip')
+var yauzl = require('yauzl')
 var dsv = require('d3-dsv')
 var bail = require('bail')
 
-var found
+var found = false
 
-var SCOPES = {
+var scopes = {
   I: 'individual',
   M: 'macrolanguage',
   S: 'special'
 }
 
-var TYPES = {
+var types = {
   A: 'ancient',
   C: 'constructed',
   E: 'extinct',
@@ -25,31 +25,60 @@ var TYPES = {
   S: 'special'
 }
 
+// Note:
+// You can find download links here:
+// <https://iso639-3.sil.org/code_tables/download_tables>
+// Just get the complete code tables in UTF-8.
+
 https
   .request(
-    'https://iso639-3.sil.org/sites/iso639-3/files/downloads/iso-639-3_Code_Tables_20180123.zip',
+    'https://iso639-3.sil.org/sites/iso639-3/files/downloads/iso-639-3_Code_Tables_20190408.zip',
     onrequest
   )
   .end()
 
-process.on('exit', onexit)
+function onrequest(res) {
+  res
+    .pipe(fs.createWriteStream('archive.zip'))
+    .on('close', onclose)
+    .on('error', bail)
+}
 
-function onexit() {
-  if (!found) {
-    throw new Error('Could not find expected file')
+function onclose() {
+  yauzl.open('archive.zip', {lazyEntries: true}, onopen)
+}
+
+function onopen(err, archive) {
+  bail(err)
+
+  read()
+
+  archive.on('entry', onentry)
+  archive.on('end', onend)
+
+  function onentry(entry) {
+    if (path.basename(entry.fileName) !== 'iso-639-3_20190408.tab') {
+      return read()
+    }
+
+    found = true
+    archive.openReadStream(entry, onreadstream)
+  }
+
+  function onreadstream(err, rs) {
+    bail(err)
+    rs.pipe(concat(onconcat)).on('error', bail)
+    rs.on('end', read)
+  }
+
+  function read() {
+    archive.readEntry()
   }
 }
 
-function onrequest(response) {
-  response.pipe(new unzip.Parse()).on('entry', onentry)
-}
-
-function onentry(entry) {
-  if (path.basename(entry.path) === 'iso-639-3_20180123.tab') {
-    found = true
-    entry.pipe(concat(onconcat))
-  } else {
-    entry.autodrain()
+function onend() {
+  if (!found) {
+    throw new Error('File not found')
   }
 }
 
@@ -59,15 +88,14 @@ function onconcat(body) {
   fs.writeFile('index.json', JSON.stringify(data, 0, 2) + '\n', bail)
 }
 
-function mapper(language) {
+function mapper(d) {
   return {
-    name: language.Ref_Name || null,
-    type: TYPES[language.Language_Type],
-    scope: SCOPES[language.Scope],
-    iso6393: language['﻿Id'], // There’s a `<U+FEFF>`
-    // in there, I don’t know why, but meh.
-    iso6392B: language.Part2B || null,
-    iso6392T: language.Part2T || null,
-    iso6391: language.Part1 || null
+    name: d.Ref_Name || null,
+    type: types[d.d_Type],
+    scope: scopes[d.Scope],
+    iso6393: d.Id,
+    iso6392B: d.Part2B || null,
+    iso6392T: d.Part2T || null,
+    iso6391: d.Part1 || null
   }
 }

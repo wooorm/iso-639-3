@@ -1,6 +1,7 @@
 .DS_Store
 *.log
 node_modules/
+archive.zip
 iso-639-3.js
 iso-639-3.min.js
 yarn.lock

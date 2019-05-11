@@ -34,14 +34,14 @@
     "remark-preset-wooorm": "^4.0.0",
     "tape": "^4.4.0",
     "tinyify": "^2.5.0",
-    "unzip": "^0.1.11",
-    "xo": "^0.24.0"
+    "xo": "^0.24.0",
+    "yauzl": "^2.10.0"
   },
   "scripts": {
     "generate": "node build",
     "format": "remark . -qfo && prettier --write \"**/*.js\" && xo --fix",
-    "build-bundle": "browserify . -s iso6393 -o iso-639-3.js",
-    "build-mangle": "browserify . -s iso6393 -p tinyify -o iso-639-3.min.js",
+    "build-bundle": "browserify index.json -s iso6393 -o iso-639-3.js",
+    "build-mangle": "browserify index.json -s iso6393 -p tinyify -o iso-639-3.min.js",
     "build": "npm run build-bundle && npm run build-mangle",
     "test-api": "node test",
     "test": "npm run format && npm run build && npm run test-api"
