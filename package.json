@@ -57,10 +57,6 @@
   "xo": {
     "prettier": true,
     "esnext": false,
-    "rules": {
-      "no-var": "off",
-      "prefer-arrow-callback": "off"
-    },
     "ignores": [
       "iso-639-3.js"
     ]
