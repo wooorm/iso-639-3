@@ -1,15 +1,15 @@
 language: node_js
 node_js:
-- lts/boron
-- node
+  - lts/dubnium
+  - node
 sudo: false
 deploy:
   provider: releases
   skip_cleanup: true
   api_key:
-    secure: N6t0w23UfILK5uqsAfrwQXYBCmS/M0X2gmRHgzGqBwt9hxFUIXN+A/W9gnG28Eqnh5/v2wcpdRMqSzKQz4UlqZd943+rLhXxxwWTArl5S31/au84971q5QH74fBr4sHlYK6PX0YBcRtHc6iTgETt+FqrJ+rCQFpuW7301y2rqo0=
+    secure: o2O2AaWavDR0Klp/C2ereVGbVAzhOhU58bRtwW+6pLV49Y9CRS9fYOxssA0A2N8TeJ4XnH7n+rOUtG2G9+l5d++ui5zfAsulaq710Cpi42MIh5ZJVo7EJJ25d0oDKO4QSENBUExjwFPBfdxeJCs9X6TxfGq5Xz7l8HVlCbJDIKY=
   file:
-    - "iso-639-3.js"
-    - "iso-639-3.min.js"
+    - 'iso-639-3.js'
+    - 'iso-639-3.min.js'
   on:
     tags: true
