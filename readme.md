@@ -1,4 +1,8 @@
-# iso-639-3 [![Build Status][build-badge]][build-page]
+# iso-639-3
+
+[![Build][build-badge]][build]
+[![Downloads][downloads-badge]][downloads]
+[![Size][size-badge]][size]
 
 [ISO 639-3][iso] codes in an accessible format, all of them.
 
@@ -148,7 +152,15 @@ Normal, single language (example: `eng` for `English`).
 
 [build-badge]: https://img.shields.io/travis/wooorm/iso-639-3.svg
 
-[build-page]: https://travis-ci.org/wooorm/iso-639-3
+[build]: https://travis-ci.org/wooorm/iso-639-3
+
+[downloads-badge]: https://img.shields.io/npm/dm/iso-639-3.svg
+
+[downloads]: https://www.npmjs.com/package/iso-639-3
+
+[size-badge]: https://img.shields.io/bundlephobia/minzip/iso-639-3.svg
+
+[size]: https://bundlephobia.com/result?p=iso-639-3
 
 [npm]: https://docs.npmjs.com/cli/install
 
