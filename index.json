@@ -1611,15 +1611,6 @@
     "iso6391": null
   },
   {
-    "name": "Nataoran Amis",
-    "type": "living",
-    "scope": "individual",
-    "iso6393": "ais",
-    "iso6392B": null,
-    "iso6392T": null,
-    "iso6391": null
-  },
-  {
     "name": "Arikem",
     "type": "extinct",
     "scope": "individual",
@@ -3343,15 +3334,6 @@
     "type": "living",
     "scope": "individual",
     "iso6393": "asc",
-    "iso6392B": null,
-    "iso6392T": null,
-    "iso6391": null
-  },
-  {
-    "name": "Asas",
-    "type": "living",
-    "scope": "individual",
-    "iso6393": "asd",
     "iso6392B": null,
     "iso6392T": null,
     "iso6391": null
@@ -5130,7 +5112,7 @@
     "iso6391": null
   },
   {
-    "name": "Bunaba",
+    "name": "Bunuba",
     "type": "living",
     "scope": "individual",
     "iso6393": "bck",
@@ -10008,7 +9990,7 @@
     "iso6391": null
   },
   {
-    "name": "Bidyara",
+    "name": "Bidjara",
     "type": "living",
     "scope": "individual",
     "iso6393": "bym",
@@ -11025,6 +11007,15 @@
     "iso6391": null
   },
   {
+    "name": "Ekai Chin",
+    "type": "living",
+    "scope": "individual",
+    "iso6393": "cey",
+    "iso6392B": null,
+    "iso6392T": null,
+    "iso6391": null
+  },
+  {
     "name": "Dijim-Bwilim",
     "type": "living",
     "scope": "individual",
@@ -11161,7 +11152,7 @@
   },
   {
     "name": "Chinook",
-    "type": "living",
+    "type": "extinct",
     "scope": "individual",
     "iso6393": "chh",
     "iso6392B": null,
@@ -12790,7 +12781,7 @@
   },
   {
     "name": "Chetco",
-    "type": "living",
+    "type": "extinct",
     "scope": "individual",
     "iso6393": "ctc",
     "iso6392B": null,
@@ -14337,15 +14328,6 @@
     "iso6391": null
   },
   {
-    "name": "Dirari",
-    "type": "extinct",
-    "scope": "individual",
-    "iso6393": "dit",
-    "iso6392B": null,
-    "iso6392T": null,
-    "iso6391": null
-  },
-  {
     "name": "Diriku",
     "type": "living",
     "scope": "individual",
@@ -14490,7 +14472,7 @@
     "iso6391": null
   },
   {
-    "name": "Djauan",
+    "name": "Jawoyn",
     "type": "living",
     "scope": "individual",
     "iso6393": "djn",
@@ -14836,6 +14818,15 @@
     "type": "living",
     "scope": "individual",
     "iso6393": "dnn",
+    "iso6392B": null,
+    "iso6392T": null,
+    "iso6391": null
+  },
+  {
+    "name": "Ndrulo",
+    "type": "living",
+    "scope": "individual",
+    "iso6393": "dno",
     "iso6392B": null,
     "iso6392T": null,
     "iso6391": null
@@ -15462,15 +15453,6 @@
     "iso6391": null
   },
   {
-    "name": "Hun-Saare",
-    "type": "living",
-    "scope": "individual",
-    "iso6393": "dud",
-    "iso6392B": null,
-    "iso6392T": null,
-    "iso6391": null
-  },
-  {
     "name": "Umiray Dumaget Agta",
     "type": "living",
     "scope": "individual",
@@ -15714,6 +15696,15 @@
     "iso6391": null
   },
   {
+    "name": "Dewas Rai",
+    "type": "living",
+    "scope": "individual",
+    "iso6393": "dwz",
+    "iso6392B": null,
+    "iso6392T": null,
+    "iso6391": null
+  },
+  {
     "name": "Dyan",
     "type": "living",
     "scope": "individual",
@@ -15795,7 +15786,7 @@
     "iso6391": null
   },
   {
-    "name": "Dyaabugay",
+    "name": "Djabugay",
     "type": "living",
     "scope": "individual",
     "iso6393": "dyy",
@@ -16363,7 +16354,7 @@
   },
   {
     "name": "Epigraphic Mayan",
-    "type": "extinct",
+    "type": "ancient",
     "scope": "individual",
     "iso6393": "emy",
     "iso6392B": null,
@@ -17515,7 +17506,7 @@
   },
   {
     "name": "Frankish",
-    "type": "extinct",
+    "type": "historical",
     "scope": "individual",
     "iso6393": "frk",
     "iso6392B": null,
@@ -18045,7 +18036,7 @@
     "iso6391": null
   },
   {
-    "name": "Karadjeri",
+    "name": "Karajarri",
     "type": "living",
     "scope": "individual",
     "iso6393": "gbd",
@@ -18702,7 +18693,7 @@
     "iso6391": null
   },
   {
-    "name": "Guragone",
+    "name": "Gurr-goni",
     "type": "living",
     "scope": "individual",
     "iso6393": "gge",
@@ -18775,7 +18766,7 @@
   },
   {
     "name": "Hiberno-Scottish Gaelic",
-    "type": "extinct",
+    "type": "historical",
     "scope": "individual",
     "iso6393": "ghc",
     "iso6392B": null,
@@ -18864,7 +18855,7 @@
     "iso6391": null
   },
   {
-    "name": "Kitja",
+    "name": "Kija",
     "type": "living",
     "scope": "individual",
     "iso6393": "gia",
@@ -19503,7 +19494,7 @@
     "iso6391": null
   },
   {
-    "name": "||Gana",
+    "name": "ǁGana",
     "type": "living",
     "scope": "individual",
     "iso6393": "gnk",
@@ -20223,7 +20214,7 @@
     "iso6391": null
   },
   {
-    "name": "Gurinji",
+    "name": "Gurindji",
     "type": "living",
     "scope": "individual",
     "iso6393": "gue",
@@ -20592,7 +20583,7 @@
     "iso6391": null
   },
   {
-    "name": "|Gwi",
+    "name": "ǀGwi",
     "type": "living",
     "scope": "individual",
     "iso6393": "gwj",
@@ -21222,7 +21213,7 @@
     "iso6391": "hz"
   },
   {
-    "name": "Hai||om",
+    "name": "Haiǁom",
     "type": "living",
     "scope": "individual",
     "iso6393": "hgm",
@@ -21610,7 +21601,7 @@
   },
   {
     "name": "Maek",
-    "type": "extinct",
+    "type": "ancient",
     "scope": "individual",
     "iso6393": "hmk",
     "iso6392B": null,
@@ -21771,7 +21762,7 @@
     "iso6391": null
   },
   {
-    "name": "||Ani",
+    "name": "ǁAni",
     "type": "living",
     "scope": "individual",
     "iso6393": "hnh",
@@ -22239,7 +22230,7 @@
     "iso6391": null
   },
   {
-    "name": "‡Hua",
+    "name": "ǂHua",
     "type": "living",
     "scope": "individual",
     "iso6393": "huc",
@@ -24606,7 +24597,7 @@
     "iso6391": null
   },
   {
-    "name": "Djingili",
+    "name": "Jingulu",
     "type": "living",
     "scope": "individual",
     "iso6393": "jig",
@@ -27765,7 +27756,7 @@
     "iso6391": null
   },
   {
-    "name": "Guguyimidjir",
+    "name": "Guugu Yimidhirr",
     "type": "living",
     "scope": "individual",
     "iso6393": "kky",
@@ -29790,7 +29781,7 @@
     "iso6391": null
   },
   {
-    "name": "Ju|’hoan",
+    "name": "Juǀʼhoan",
     "type": "living",
     "scope": "individual",
     "iso6393": "ktz",
@@ -31374,15 +31365,6 @@
     "iso6391": null
   },
   {
-    "name": "Lui",
-    "type": "extinct",
-    "scope": "individual",
-    "iso6393": "lba",
-    "iso6392B": null,
-    "iso6392T": null,
-    "iso6391": null
-  },
-  {
     "name": "Label",
     "type": "living",
     "scope": "individual",
@@ -31473,7 +31455,7 @@
     "iso6391": null
   },
   {
-    "name": "Lamet",
+    "name": "Rmeet",
     "type": "living",
     "scope": "individual",
     "iso6393": "lbn",
@@ -31563,7 +31545,7 @@
     "iso6391": null
   },
   {
-    "name": "Lamu-Lamu",
+    "name": "Lamalama",
     "type": "extinct",
     "scope": "individual",
     "iso6393": "lby",
@@ -32823,15 +32805,6 @@
     "iso6391": null
   },
   {
-    "name": "Khlor",
-    "type": "living",
-    "scope": "individual",
-    "iso6393": "llo",
-    "iso6392B": null,
-    "iso6392T": null,
-    "iso6391": null
-  },
-  {
     "name": "North Efate",
     "type": "living",
     "scope": "individual",
@@ -33678,6 +33651,15 @@
     "iso6391": null
   },
   {
+    "name": "Tibetan Sign Language",
+    "type": "living",
+    "scope": "individual",
+    "iso6393": "lsn",
+    "iso6392B": null,
+    "iso6392T": null,
+    "iso6391": null
+  },
+  {
     "name": "Laos Sign Language",
     "type": "living",
     "scope": "individual",
@@ -33718,6 +33700,15 @@
     "type": "living",
     "scope": "individual",
     "iso6393": "lst",
+    "iso6392B": null,
+    "iso6392T": null,
+    "iso6391": null
+  },
+  {
+    "name": "Sivia Sign Language",
+    "type": "living",
+    "scope": "individual",
+    "iso6393": "lsv",
     "iso6392B": null,
     "iso6392T": null,
     "iso6391": null
@@ -33877,7 +33868,7 @@
   },
   {
     "name": "Luiseno",
-    "type": "living",
+    "type": "extinct",
     "scope": "individual",
     "iso6393": "lui",
     "iso6392B": "lui",
@@ -34033,6 +34024,15 @@
     "type": "living",
     "scope": "individual",
     "iso6393": "lva",
+    "iso6392B": null,
+    "iso6392T": null,
+    "iso6391": null
+  },
+  {
+    "name": "Lavi",
+    "type": "living",
+    "scope": "individual",
+    "iso6393": "lvi",
     "iso6392B": null,
     "iso6392T": null,
     "iso6391": null
@@ -35127,7 +35127,7 @@
     "iso6391": null
   },
   {
-    "name": "Mara",
+    "name": "Marra",
     "type": "living",
     "scope": "individual",
     "iso6393": "mec",
@@ -35235,7 +35235,7 @@
     "iso6391": null
   },
   {
-    "name": "Miriwung",
+    "name": "Miriwoong",
     "type": "living",
     "scope": "individual",
     "iso6393": "mep",
@@ -35478,7 +35478,7 @@
     "iso6391": null
   },
   {
-    "name": "Marithiel",
+    "name": "Marrithiyel",
     "type": "living",
     "scope": "individual",
     "iso6393": "mfr",
@@ -37539,7 +37539,7 @@
     "iso6391": null
   },
   {
-    "name": "Mullukmulluk",
+    "name": "Malak Malak",
     "type": "living",
     "scope": "individual",
     "iso6393": "mpb",
@@ -37548,7 +37548,7 @@
     "iso6391": null
   },
   {
-    "name": "Mangarayi",
+    "name": "Mangarrayi",
     "type": "living",
     "scope": "individual",
     "iso6393": "mpc",
@@ -39276,13 +39276,6 @@
     "iso6391": null
   },
   {
-    "name": null,
-    "iso6393": "",
-    "iso6392B": null,
-    "iso6392T": null,
-    "iso6391": null
-  },
-  {
     "name": "Moingi",
     "type": "living",
     "scope": "individual",
@@ -39365,7 +39358,7 @@
   },
   {
     "name": "Mozarabic",
-    "type": "extinct",
+    "type": "historical",
     "scope": "individual",
     "iso6393": "mxi",
     "iso6392B": null,
@@ -39553,15 +39546,6 @@
     "iso6391": null
   },
   {
-    "name": "Maramba",
-    "type": "living",
-    "scope": "individual",
-    "iso6393": "myd",
-    "iso6392B": null,
-    "iso6392T": null,
-    "iso6391": null
-  },
-  {
     "name": "Myene",
     "type": "living",
     "scope": "individual",
@@ -39593,15 +39577,6 @@
     "type": "living",
     "scope": "individual",
     "iso6393": "myh",
-    "iso6392B": null,
-    "iso6392T": null,
-    "iso6391": null
-  },
-  {
-    "name": "Mina (India)",
-    "type": "living",
-    "scope": "individual",
-    "iso6393": "myi",
     "iso6392B": null,
     "iso6392T": null,
     "iso6391": null
@@ -40147,7 +40122,7 @@
     "iso6391": null
   },
   {
-    "name": "Narrinyeri",
+    "name": "Ngarrindjeri",
     "type": "extinct",
     "scope": "individual",
     "iso6393": "nay",
@@ -40237,7 +40212,7 @@
     "iso6391": null
   },
   {
-    "name": "Ngarinman",
+    "name": "Ngarinyman",
     "type": "living",
     "scope": "individual",
     "iso6393": "nbj",
@@ -40309,7 +40284,7 @@
     "iso6391": null
   },
   {
-    "name": "Numana-Nunku-Gbantu-Numbu",
+    "name": "Numana",
     "type": "living",
     "scope": "individual",
     "iso6393": "nbr",
@@ -40462,7 +40437,7 @@
     "iso6391": null
   },
   {
-    "name": "Nakara",
+    "name": "Na-kara",
     "type": "living",
     "scope": "individual",
     "iso6393": "nck",
@@ -40616,7 +40591,7 @@
   },
   {
     "name": "Nadruvian",
-    "type": "extinct",
+    "type": "historical",
     "scope": "individual",
     "iso6393": "ndf",
     "iso6392B": null,
@@ -41128,7 +41103,7 @@
     "iso6391": null
   },
   {
-    "name": "N/u",
+    "name": "Nǁng",
     "type": "living",
     "scope": "individual",
     "iso6393": "ngh",
@@ -41551,7 +41526,7 @@
     "iso6391": null
   },
   {
-    "name": "Ngalakan",
+    "name": "Ngalakgan",
     "type": "extinct",
     "scope": "individual",
     "iso6393": "nig",
@@ -42370,7 +42345,7 @@
     "iso6391": null
   },
   {
-    "name": "!Xóõ",
+    "name": "ǃXóõ",
     "type": "living",
     "scope": "individual",
     "iso6393": "nmn",
@@ -42644,15 +42619,6 @@
     "type": "extinct",
     "scope": "individual",
     "iso6393": "nnr",
-    "iso6392B": null,
-    "iso6392T": null,
-    "iso6391": null
-  },
-  {
-    "name": "Ningye",
-    "type": "living",
-    "scope": "individual",
-    "iso6393": "nns",
     "iso6392B": null,
     "iso6392T": null,
     "iso6391": null
@@ -44152,7 +44118,7 @@
     "iso6391": null
   },
   {
-    "name": "Nyigina",
+    "name": "Nyikina",
     "type": "living",
     "scope": "individual",
     "iso6393": "nyh",
@@ -44251,7 +44217,7 @@
     "iso6391": null
   },
   {
-    "name": "Nyunga",
+    "name": "Nyungar",
     "type": "living",
     "scope": "individual",
     "iso6393": "nys",
@@ -47186,7 +47152,7 @@
   },
   {
     "name": "Paekche",
-    "type": "extinct",
+    "type": "ancient",
     "scope": "individual",
     "iso6393": "pkc",
     "iso6392B": null,
@@ -47698,6 +47664,15 @@
     "iso6391": null
   },
   {
+    "name": "Mpinda",
+    "type": "living",
+    "scope": "individual",
+    "iso6393": "pnd",
+    "iso6392B": null,
+    "iso6392T": null,
+    "iso6391": null
+  },
+  {
     "name": "Western Penan",
     "type": "living",
     "scope": "individual",
@@ -47851,7 +47826,7 @@
     "iso6391": null
   },
   {
-    "name": "Panytyima",
+    "name": "Banyjima",
     "type": "living",
     "scope": "individual",
     "iso6393": "pnw",
@@ -47978,7 +47953,7 @@
   },
   {
     "name": "Central Pomo",
-    "type": "living",
+    "type": "extinct",
     "scope": "individual",
     "iso6393": "poo",
     "iso6392B": null,
@@ -48571,7 +48546,7 @@
     "iso6391": null
   },
   {
-    "name": "Pintiini",
+    "name": "Pindiini",
     "type": "living",
     "scope": "individual",
     "iso6393": "pti",
@@ -50029,7 +50004,7 @@
     "iso6391": null
   },
   {
-    "name": "Riang (Myanmar)",
+    "name": "Riang Lang",
     "type": "living",
     "scope": "individual",
     "iso6393": "ril",
@@ -50065,7 +50040,7 @@
     "iso6391": null
   },
   {
-    "name": "Ritarungo",
+    "name": "Ritharrngu",
     "type": "living",
     "scope": "individual",
     "iso6393": "rit",
@@ -50182,7 +50157,7 @@
     "iso6391": null
   },
   {
-    "name": "Rembarunga",
+    "name": "Rembarrnga",
     "type": "living",
     "scope": "individual",
     "iso6393": "rmb",
@@ -53611,7 +53586,7 @@
     "iso6391": null
   },
   {
-    "name": "Sinsauru",
+    "name": "Kou",
     "type": "living",
     "scope": "individual",
     "iso6393": "snz",
@@ -54395,7 +54370,7 @@
   },
   {
     "name": "Thao",
-    "type": "living",
+    "type": "extinct",
     "scope": "individual",
     "iso6393": "ssf",
     "iso6392B": null,
@@ -55016,7 +54991,7 @@
   },
   {
     "name": "Skalvian",
-    "type": "extinct",
+    "type": "historical",
     "scope": "individual",
     "iso6393": "svx",
     "iso6392B": null,
@@ -55591,6 +55566,15 @@
     "iso6391": null
   },
   {
+    "name": "Sakizaya",
+    "type": "living",
+    "scope": "individual",
+    "iso6393": "szy",
+    "iso6392B": null,
+    "iso6392T": null,
+    "iso6391": null
+  },
+  {
     "name": "Lower Tanana",
     "type": "living",
     "scope": "individual",
@@ -55879,7 +55863,7 @@
     "iso6391": null
   },
   {
-    "name": "Thurawal",
+    "name": "Dharawal",
     "type": "extinct",
     "scope": "individual",
     "iso6393": "tbh",
@@ -56941,7 +56925,7 @@
     "iso6391": "th"
   },
   {
-    "name": "Thayore",
+    "name": "Kuuk Thaayorre",
     "type": "living",
     "scope": "individual",
     "iso6393": "thd",
@@ -57346,6 +57330,15 @@
     "iso6391": null
   },
   {
+    "name": "Tjungundji",
+    "type": "living",
+    "scope": "individual",
+    "iso6393": "tjj",
+    "iso6392B": null,
+    "iso6392T": null,
+    "iso6391": null
+  },
+  {
     "name": "Tai Laing",
     "type": "living",
     "scope": "individual",
@@ -57377,6 +57370,15 @@
     "type": "living",
     "scope": "individual",
     "iso6393": "tjo",
+    "iso6392B": null,
+    "iso6392T": null,
+    "iso6391": null
+  },
+  {
+    "name": "Tjupany",
+    "type": "living",
+    "scope": "individual",
+    "iso6393": "tjp",
     "iso6392B": null,
     "iso6392T": null,
     "iso6391": null
@@ -58283,7 +58285,7 @@
   },
   {
     "name": "Tolowa",
-    "type": "living",
+    "type": "extinct",
     "scope": "individual",
     "iso6393": "tol",
     "iso6392B": null,
@@ -59390,7 +59392,7 @@
   },
   {
     "name": "Tübatulabal",
-    "type": "living",
+    "type": "extinct",
     "scope": "individual",
     "iso6393": "tub",
     "iso6392B": null,
@@ -59498,7 +59500,7 @@
   },
   {
     "name": "Tunica",
-    "type": "extinct",
+    "type": "living",
     "scope": "individual",
     "iso6393": "tun",
     "iso6392B": null,
@@ -59690,6 +59692,15 @@
     "type": "living",
     "scope": "individual",
     "iso6393": "tvw",
+    "iso6392B": null,
+    "iso6392T": null,
+    "iso6391": null
+  },
+  {
+    "name": "Taivoan",
+    "type": "extinct",
+    "scope": "individual",
+    "iso6393": "tvx",
     "iso6392B": null,
     "iso6392T": null,
     "iso6391": null
@@ -60703,7 +60714,7 @@
     "iso6391": null
   },
   {
-    "name": "Meriam",
+    "name": "Meriam Mir",
     "type": "living",
     "scope": "individual",
     "iso6393": "ulk",
@@ -60793,7 +60804,7 @@
     "iso6391": null
   },
   {
-    "name": "Umbuygamu",
+    "name": "Morrobalama",
     "type": "extinct",
     "scope": "individual",
     "iso6393": "umg",
@@ -61243,6 +61254,15 @@
     "iso6391": null
   },
   {
+    "name": "us-Saare",
+    "type": "living",
+    "scope": "individual",
+    "iso6393": "uss",
+    "iso6392B": null,
+    "iso6392T": null,
+    "iso6391": null
+  },
+  {
     "name": "Uya",
     "type": "living",
     "scope": "individual",
@@ -61265,6 +61285,15 @@
     "type": "living",
     "scope": "individual",
     "iso6393": "ute",
+    "iso6392B": null,
+    "iso6392T": null,
+    "iso6391": null
+  },
+  {
+    "name": "ut-Hun",
+    "type": "living",
+    "scope": "individual",
+    "iso6393": "uth",
     "iso6392B": null,
     "iso6392T": null,
     "iso6391": null
@@ -62252,7 +62281,7 @@
   },
   {
     "name": "Wasco-Wishram",
-    "type": "living",
+    "type": "extinct",
     "scope": "individual",
     "iso6393": "wac",
     "iso6392B": null,
@@ -62368,7 +62397,7 @@
     "iso6391": null
   },
   {
-    "name": "Wageman",
+    "name": "Wagiman",
     "type": "living",
     "scope": "individual",
     "iso6393": "waq",
@@ -62584,7 +62613,7 @@
     "iso6391": null
   },
   {
-    "name": "Wanman",
+    "name": "Warnman",
     "type": "living",
     "scope": "individual",
     "iso6393": "wbt",
@@ -62836,7 +62865,7 @@
     "iso6391": null
   },
   {
-    "name": "Wangganguru",
+    "name": "Wangkangurru",
     "type": "extinct",
     "scope": "individual",
     "iso6393": "wgg",
@@ -62927,7 +62956,7 @@
   },
   {
     "name": "Wichita",
-    "type": "living",
+    "type": "extinct",
     "scope": "individual",
     "iso6393": "wic",
     "iso6392B": null,
@@ -62953,7 +62982,7 @@
     "iso6391": null
   },
   {
-    "name": "Wik-Ngathana",
+    "name": "Wik Ngathan",
     "type": "living",
     "scope": "individual",
     "iso6393": "wig",
@@ -63110,6 +63139,15 @@
     "type": "living",
     "scope": "individual",
     "iso6393": "wkl",
+    "iso6392B": null,
+    "iso6392T": null,
+    "iso6391": null
+  },
+  {
+    "name": "Keerray-Woorroong",
+    "type": "living",
+    "scope": "individual",
+    "iso6393": "wkr",
     "iso6392B": null,
     "iso6392T": null,
     "iso6391": null
@@ -63547,7 +63585,7 @@
     "iso6391": null
   },
   {
-    "name": "Tyaraity",
+    "name": "Kuwema",
     "type": "living",
     "scope": "individual",
     "iso6393": "woa",
@@ -63718,7 +63756,7 @@
     "iso6391": null
   },
   {
-    "name": "Warluwara",
+    "name": "Waluwarra",
     "type": "extinct",
     "scope": "individual",
     "iso6393": "wrb",
@@ -63745,7 +63783,7 @@
     "iso6391": null
   },
   {
-    "name": "Wiradhuri",
+    "name": "Wiradjuri",
     "type": "extinct",
     "scope": "individual",
     "iso6393": "wrh",
@@ -64295,7 +64333,7 @@
   },
   {
     "name": "Aghwan",
-    "type": "extinct",
+    "type": "ancient",
     "scope": "individual",
     "iso6393": "xag",
     "iso6392B": null,
@@ -64339,7 +64377,7 @@
     "iso6391": null
   },
   {
-    "name": "/Xam",
+    "name": "ǀXam",
     "type": "extinct",
     "scope": "individual",
     "iso6393": "xam",
@@ -64529,7 +64567,7 @@
   },
   {
     "name": "Bolgarian",
-    "type": "extinct",
+    "type": "historical",
     "scope": "individual",
     "iso6393": "xbo",
     "iso6392B": null,
@@ -64564,7 +64602,7 @@
     "iso6391": null
   },
   {
-    "name": "Batyala",
+    "name": "Batjala",
     "type": "living",
     "scope": "individual",
     "iso6393": "xby",
@@ -64574,7 +64612,7 @@
   },
   {
     "name": "Cumbric",
-    "type": "extinct",
+    "type": "historical",
     "scope": "individual",
     "iso6393": "xcb",
     "iso6392B": null,
@@ -64673,7 +64711,7 @@
   },
   {
     "name": "Curonian",
-    "type": "extinct",
+    "type": "historical",
     "scope": "individual",
     "iso6393": "xcu",
     "iso6392B": null,
@@ -64780,7 +64818,7 @@
     "iso6391": null
   },
   {
-    "name": "//Xegwi",
+    "name": "ǁXegwi",
     "type": "extinct",
     "scope": "individual",
     "iso6393": "xeg",
@@ -64916,7 +64954,7 @@
   },
   {
     "name": "Galindan",
-    "type": "extinct",
+    "type": "historical",
     "scope": "individual",
     "iso6393": "xgl",
     "iso6392B": null,
@@ -64970,7 +65008,7 @@
   },
   {
     "name": "Hunnic",
-    "type": "extinct",
+    "type": "ancient",
     "scope": "individual",
     "iso6393": "xhc",
     "iso6392B": null,
@@ -65527,7 +65565,7 @@
     "iso6391": null
   },
   {
-    "name": "Kuku-Muminh",
+    "name": "Kugu-Muminh",
     "type": "living",
     "scope": "individual",
     "iso6393": "xmh",
@@ -65924,7 +65962,7 @@
   },
   {
     "name": "Pecheneg",
-    "type": "extinct",
+    "type": "historical",
     "scope": "individual",
     "iso6393": "xpc",
     "iso6392B": null,
@@ -65951,7 +65989,7 @@
   },
   {
     "name": "Pictish",
-    "type": "extinct",
+    "type": "historical",
     "scope": "individual",
     "iso6393": "xpi",
     "iso6392B": null,
@@ -66005,7 +66043,7 @@
   },
   {
     "name": "Puyo-Paekche",
-    "type": "extinct",
+    "type": "ancient",
     "scope": "individual",
     "iso6393": "xpp",
     "iso6392B": null,
@@ -66032,7 +66070,7 @@
   },
   {
     "name": "Pisidian",
-    "type": "extinct",
+    "type": "ancient",
     "scope": "individual",
     "iso6393": "xps",
     "iso6392B": null,
@@ -66059,7 +66097,7 @@
   },
   {
     "name": "Puyo",
-    "type": "extinct",
+    "type": "ancient",
     "scope": "individual",
     "iso6393": "xpy",
     "iso6392B": null,
@@ -66140,7 +66178,7 @@
   },
   {
     "name": "Armazic",
-    "type": "extinct",
+    "type": "ancient",
     "scope": "individual",
     "iso6393": "xrm",
     "iso6392B": null,
@@ -66260,6 +66298,15 @@
     "type": "living",
     "scope": "individual",
     "iso6393": "xsi",
+    "iso6392B": null,
+    "iso6392T": null,
+    "iso6391": null
+  },
+  {
+    "name": "Subi",
+    "type": "living",
+    "scope": "individual",
+    "iso6393": "xsj",
     "iso6392B": null,
     "iso6392T": null,
     "iso6391": null
@@ -67723,7 +67770,7 @@
     "iso6391": null
   },
   {
-    "name": "Yinchia",
+    "name": "Riang Lai",
     "type": "living",
     "scope": "individual",
     "iso6393": "yin",
@@ -68840,7 +68887,7 @@
   },
   {
     "name": "Yurok",
-    "type": "living",
+    "type": "extinct",
     "scope": "individual",
     "iso6393": "yur",
     "iso6392B": null,
@@ -69650,7 +69697,7 @@
   },
   {
     "name": "Koguryo",
-    "type": "extinct",
+    "type": "ancient",
     "scope": "individual",
     "iso6393": "zkg",
     "iso6392B": null,
@@ -69659,7 +69706,7 @@
   },
   {
     "name": "Khorezmian",
-    "type": "extinct",
+    "type": "historical",
     "scope": "individual",
     "iso6393": "zkh",
     "iso6392B": null,
@@ -69713,7 +69760,7 @@
   },
   {
     "name": "Kitan",
-    "type": "extinct",
+    "type": "historical",
     "scope": "individual",
     "iso6393": "zkt",
     "iso6392B": null,
@@ -69722,7 +69769,7 @@
   },
   {
     "name": "Kaurna",
-    "type": "extinct",
+    "type": "living",
     "scope": "individual",
     "iso6393": "zku",
     "iso6392B": null,
@@ -69740,7 +69787,7 @@
   },
   {
     "name": "Khazar",
-    "type": "extinct",
+    "type": "historical",
     "scope": "individual",
     "iso6393": "zkz",
     "iso6392B": null,
@@ -69883,7 +69930,7 @@
     "iso6391": null
   },
   {
-    "name": "Madngele",
+    "name": "Matngala",
     "type": "extinct",
     "scope": "individual",
     "iso6393": "zml",
@@ -70370,7 +70417,7 @@
   },
   {
     "name": "Kara (Korea)",
-    "type": "extinct",
+    "type": "ancient",
     "scope": "individual",
     "iso6393": "zra",
     "iso6392B": null,
