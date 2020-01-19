@@ -71,11 +71,13 @@ Yields:
 
 ### `Language`
 
+Object with the following properties:
+
 *   `name` (`string`) — Language name
 *   `type` (`string`) — Language type ([`Type`][type])
 *   `scope` (`string`) — Language scope ([`Scope`][scope])
 *   `iso6393` (`string`) — ISO 639-3 code
-*   `iso6392B` (`string`) — Bibliographic ISO 639-2 code
+*   `iso6392B` (`string?`) — Bibliographic ISO 639-2 code
 *   `iso6392T` (`string?`) — Terminologic ISO 639-2 code
 *   `iso6391` (`string?`) — ISO 639-1 code
 
