@@ -91,7 +91,7 @@ function onconcat(body) {
 function mapper(d) {
   return {
     name: d.Ref_Name || null,
-    type: types[d.d_Type],
+    type: types[d.Language_Type],
     scope: scopes[d.Scope],
     iso6393: d.Id,
     iso6392B: d.Part2B || null,
