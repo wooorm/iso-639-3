@@ -90,12 +90,12 @@ function onconcat(body) {
 
 function mapper(d) {
   return {
-    name: d.Ref_Name || null,
+    name: d.Ref_Name || undefined,
     type: types[d.Language_Type],
     scope: scopes[d.Scope],
     iso6393: d.Id,
-    iso6392B: d.Part2B || null,
-    iso6392T: d.Part2T || null,
-    iso6391: d.Part1 || null
+    iso6392B: d.Part2B || undefined,
+    iso6392T: d.Part2T || undefined,
+    iso6391: d.Part1 || undefined
   }
 }
