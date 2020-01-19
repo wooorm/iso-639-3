@@ -6,6 +6,15 @@
 
 [ISO 639-3][iso] codes in an accessible format, all of them.
 
+Also includes pre-built indexes to map from 639-3 codes to other codes:
+
+*   [`iso-639-3/to-1`][to-1]
+    — Map ISO 639-3 codes to ISO 639-1 codes
+*   [`iso-639-3/to-2b`][to-2b]
+    — Map ISO 639-3 codes to bibliographic ISO 639-2 codes
+*   [`iso-639-3/to-2t`][to-2t]
+    — Map ISO 639-3 codes to terminologic ISO 639-2 codes
+
 ## Install
 
 [npm][]:
@@ -131,3 +140,9 @@ Yields:
 [type]: #type
 
 [scope]: #scope
+
+[to-1]: to-1.json
+
+[to-2b]: to-2b.json
+
+[to-2t]: to-2t.json

@@ -83,12 +83,33 @@ function onend() {
 }
 
 function onconcat(body) {
-  var data = dsv.tsvParse(String(body)).map(mapper)
+  var data = dsv.tsvParse(String(body)).map(map)
+  var toB = {}
+  var toT = {}
+  var to1 = {}
 
-  fs.writeFile('index.json', JSON.stringify(data, 0, 2) + '\n', bail)
+  data.forEach(d => {
+    var id = d.iso6393
+    var b = d.iso6392B
+    var t = d.iso6392T
+    var i = d.iso6391
+
+    if (b) toB[id] = b
+    if (t) toT[id] = t
+    if (i) to1[id] = i
+  })
+
+  write('index', data)
+  write('to-1', to1)
+  write('to-2b', toB)
+  write('to-2t', toT)
+
+  function write(name, data) {
+    fs.writeFile(name + '.json', JSON.stringify(data, null, 2) + '\n', bail)
+  }
 }
 
-function mapper(d) {
+function map(d) {
   var name = d.Ref_Name
   var id = d.Id
   var type = types[d.Language_Type]

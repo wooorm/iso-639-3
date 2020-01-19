@@ -25,7 +25,10 @@
   ],
   "main": "index.json",
   "files": [
-    "index.json"
+    "index.json",
+    "to-1.json",
+    "to-2b.json",
+    "to-2t.json"
   ],
   "dependencies": {},
   "devDependencies": {
