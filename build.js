@@ -89,11 +89,32 @@ function onconcat(body) {
 }
 
 function mapper(d) {
+  var name = d.Ref_Name
+  var id = d.Id
+  var type = types[d.Language_Type]
+  var scope = scopes[d.Scope]
+
+  if (!name) {
+    console.error('Cannot handle language w/o name', d)
+  }
+
+  if (!type) {
+    console.error('Cannot handle language w/o type', d)
+  }
+
+  if (!scope) {
+    console.error('Cannot handle language w/o scope', d)
+  }
+
+  if (!id) {
+    console.error('Cannot handle language w/o scope', d)
+  }
+
   return {
-    name: d.Ref_Name || undefined,
-    type: types[d.Language_Type],
-    scope: scopes[d.Scope],
-    iso6393: d.Id,
+    name: name,
+    type: type,
+    scope: scope,
+    iso6393: id,
     iso6392B: d.Part2B || undefined,
     iso6392T: d.Part2T || undefined,
     iso6391: d.Part1 || undefined
