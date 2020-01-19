@@ -15,6 +15,10 @@
   ],
   "repository": "wooorm/iso-639-3",
   "bugs": "https://github.com/wooorm/iso-639-3/issues",
+  "funding": {
+     "type": "github",
+     "url": "https://github.com/sponsors/wooorm"
+  },
   "author": "Titus Wormer <tituswormer@gmail.com> (https://wooorm.com)",
   "contributors": [
     "Titus Wormer <tituswormer@gmail.com> (https://wooorm.com)"
