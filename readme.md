@@ -6,143 +6,99 @@
 
 [ISO 639-3][iso] codes in an accessible format, all of them.
 
-## Installation
+## Install
 
 [npm][]:
 
-```bash
+```sh
 npm install iso-639-3
 ```
 
-## Usage
+## Use
 
-```javascript
+```js
 var iso6393 = require('iso-639-3')
 
-console.log(iso6393.slice(1822, 1827))
+console.log(iso6393.slice(1820, 1830))
 ```
 
 Yields:
 
-```javascript
-[ { name: 'Ende',
-    type: 'living',
-    scope: 'individual',
-    iso6393: 'end',
-    iso6392B: null,
-    iso6392T: null,
-    iso6391: null },
-  { name: 'Forest Enets',
-    type: 'living',
-    scope: 'individual',
-    iso6393: 'enf',
-    iso6392B: null,
-    iso6392T: null,
-    iso6391: null },
-  { name: 'English',
+```js
+[
+  {name: 'En', type: 'living', scope: 'individual', iso6393: 'enc'},
+  {name: 'Ende', type: 'living', scope: 'individual', iso6393: 'end'},
+  {name: 'Forest Enets', type: 'living', scope: 'individual', iso6393: 'enf'},
+  {
+    name: 'English',
     type: 'living',
     scope: 'individual',
     iso6393: 'eng',
     iso6392B: 'eng',
     iso6392T: 'eng',
-    iso6391: 'en' },
-  { name: 'Tundra Enets',
-    type: 'living',
+    iso6391: 'en'
+  },
+  {name: 'Tundra Enets', type: 'living', scope: 'individual', iso6393: 'enh'},
+  {name: 'Enlhet', type: 'living', scope: 'individual', iso6393: 'enl'},
+  {
+    name: 'Middle English (1100-1500)',
+    type: 'historical',
     scope: 'individual',
-    iso6393: 'enh',
-    iso6392B: null,
-    iso6392T: null,
-    iso6391: null },
-  { name: 'Enlhet',
-    type: 'living',
-    scope: 'individual',
-    iso6393: 'enl',
-    iso6392B: null,
-    iso6392T: null,
-    iso6391: null } ]
+    iso6393: 'enm',
+    iso6392B: 'enm',
+    iso6392T: 'enm'
+  },
+  {name: 'Engenni', type: 'living', scope: 'individual', iso6393: 'enn'},
+  {name: 'Enggano', type: 'living', scope: 'individual', iso6393: 'eno'},
+  {name: 'Enga', type: 'living', scope: 'individual', iso6393: 'enq'}
+]
 ```
 
 ## API
 
 ### `iso6393`
 
-`Array.<Language>` — List of languages.
+`Array.<Language>` — List of [`Language`][language]s.
 
 ### `Language`
 
-`Object`:
+*   `name` (`string`) — Language name
+*   `type` (`string`) — Language type ([`Type`][type])
+*   `scope` (`string`) — Language scope ([`Scope`][scope])
+*   `iso6393` (`string`) — ISO 639-3 code
+*   `iso6392B` (`string`) — Bibliographic ISO 639-2 code
+*   `iso6392T` (`string?`) — Terminologic ISO 639-2 code
+*   `iso6391` (`string?`) — ISO 639-1 code
 
-###### `name`
-
-Language name (`string`).
-
-###### `type`
-
-Language type ([`Type`][type]).
-
-###### `type`
-
-Language scope ([`Scope`][scope])
-
-###### `iso6392B`
-
-Bibliographic ISO 639-2 code, if available (`string?`).
-
-###### `iso6392T`
-
-Terminological ISO 639-2 code, if available (`string?`).
-
-###### `iso6391`
-
-ISO 639-1 code, if available (`string?`).
-
-## `Type`
+### `Type`
 
 `string`, one of the following:
 
-###### `'living'`
+*   `'living'` — still spoken languages
+    (example: `nhi` for `Zacatlán-Ahuacatlán-Tepetzintla Nahuatl`)
+*   `'historical'` — distinct from any modern languages that are descended from
+    it
+    (example: `ofs` for `Old Frisian`)
+*   `'extinct'` — language that went extinct in recent time
+    (example: `rbp` for `Barababaraba`)
+*   `'ancient'` — language that went extinct in ancient times
+    (example: `got` for `Gothic`)
+*   `'constructed'` — artificial languages, but not programming languages
+    (example: `epo` for `Esperanto`)
+*   `'special'` — non-language codes
+    (example: `und` for `Undetermined`)
 
-Still spoken languages (example: `nhi` for `Zacatlán-Ahuacatlán-Tepetzintla
-Nahuatl`).
-
-###### `'historical'`
-
-Distinct from any modern languages that are descended from it (example: `ofs`
-for `Old Frisian`).
-
-###### `'extinct'`
-
-Language that went extinct in recent time (example: `rbp` for `Barababaraba`).
-
-###### `'ancient'`
-
-Language that went extinct in ancient times (example: `got` for `Gothic`).
-
-###### `'constructed'`
-
-Artificial languages, but not programming languages (example: `epo` for
-`Esperanto`).
-
-###### `'special'`
-
-Non-language codes (example: `und` for `Undetermined`).
-
-## `Scope`
+### `Scope`
 
 `string`, one of the following:
 
-###### `'special'`
-
-Non-language codes (example: `und` for `Undetermined`).
-
-###### `'macrolanguage'`
-
-One-to-many grouping of languages, because older ISO 639s included them
-(example: `ara` for `Arabic`).
-
-###### `'language'`
-
-Normal, single language (example: `eng` for `English`).
+*   `'individual'` — normal, single language
+    (example: `eng` for `English`)
+*   `'macrolanguage'` — one-to-many grouping of languages, because older ISO
+    639s included them
+    (example: `ara` for `Arabic`)
+*   `'special'` — non-language codes
+    (example: `und` for `Undetermined`).
 
 ## License
 
@@ -169,6 +125,8 @@ Normal, single language (example: `eng` for `English`).
 [author]: https://wooorm.com
 
 [iso]: https://iso639-3.sil.org
+
+[language]: #language
 
 [type]: #type
 
