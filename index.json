@@ -33250,6 +33250,15 @@
     "iso6393": "pur"
   },
   {
+    "name": "Pashto",
+    "type": "living",
+    "scope": "macrolanguage",
+    "iso6393": "pus",
+    "iso6392B": "pus",
+    "iso6392T": "pus",
+    "iso6391": "ps"
+  },
+  {
     "name": "Pushto",
     "type": "living",
     "scope": "macrolanguage",
