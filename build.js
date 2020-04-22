@@ -37,8 +37,8 @@ https
   )
   .end()
 
-function onrequest(res) {
-  res
+function onrequest(request) {
+  request
     .pipe(fs.createWriteStream('archive.zip'))
     .on('close', onclose)
     .on('error', bail)
@@ -88,7 +88,7 @@ function onconcat(body) {
   var toT = {}
   var to1 = {}
 
-  data.forEach(d => {
+  data.forEach((d) => {
     var id = d.iso6393
     var b = d.iso6392B
     var t = d.iso6392T
