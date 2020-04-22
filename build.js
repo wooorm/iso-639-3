@@ -8,6 +8,7 @@ var yauzl = require('yauzl')
 var dsv = require('d3-dsv')
 var bail = require('bail')
 
+var other = []
 var found = false
 
 var scopes = {
@@ -32,7 +33,7 @@ var types = {
 
 https
   .request(
-    'https://iso639-3.sil.org/sites/iso639-3/files/downloads/iso-639-3_Code_Tables_20190408.zip',
+    'https://iso639-3.sil.org/sites/iso639-3/files/downloads/iso-639-3_Code_Tables_20200130.zip',
     onrequest
   )
   .end()
@@ -57,7 +58,10 @@ function onopen(err, archive) {
   archive.on('end', onend)
 
   function onentry(entry) {
-    if (path.basename(entry.fileName) !== 'iso-639-3_20190408.tab') {
+    var name = path.basename(entry.fileName)
+
+    if (name !== 'iso-639-3_20200130.tab') {
+      other.push(name)
       return read()
     }
 
@@ -78,7 +82,7 @@ function onopen(err, archive) {
 
 function onend() {
   if (!found) {
-    throw new Error('File not found')
+    throw new Error('File not found, pick one of: `' + other + '`')
   }
 }
 

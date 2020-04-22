@@ -438,7 +438,7 @@
     "iso6392T": "ada"
   },
   {
-    "name": "Adabe",
+    "name": "Atauran",
     "type": "living",
     "scope": "individual",
     "iso6393": "adb"
@@ -1825,12 +1825,6 @@
     "iso6393": "aog"
   },
   {
-    "name": "Arma",
-    "type": "extinct",
-    "scope": "individual",
-    "iso6393": "aoh"
-  },
-  {
     "name": "Anindilyakwa",
     "type": "living",
     "scope": "individual",
@@ -3055,12 +3049,6 @@
     "iso6393": "ayu"
   },
   {
-    "name": "Tayabas Ayta",
-    "type": "extinct",
-    "scope": "individual",
-    "iso6393": "ayy"
-  },
-  {
     "name": "Mai Brat",
     "type": "living",
     "scope": "individual",
@@ -3422,12 +3410,6 @@
     "type": "living",
     "scope": "individual",
     "iso6393": "bby"
-  },
-  {
-    "name": "Babalia Creole Arabic",
-    "type": "living",
-    "scope": "individual",
-    "iso6393": "bbz"
   },
   {
     "name": "Central Bai",
@@ -5389,12 +5371,6 @@
     "iso6393": "bpa"
   },
   {
-    "name": "Barbacoas",
-    "type": "extinct",
-    "scope": "individual",
-    "iso6393": "bpb"
-  },
-  {
     "name": "Banda-Banda",
     "type": "living",
     "scope": "individual",
@@ -5706,7 +5682,7 @@
     "iso6391": "br"
   },
   {
-    "name": "Bera",
+    "name": "Bira",
     "type": "living",
     "scope": "individual",
     "iso6393": "brf"
@@ -7270,12 +7246,6 @@
     "iso6393": "cby"
   },
   {
-    "name": "Cauca",
-    "type": "extinct",
-    "scope": "individual",
-    "iso6393": "cca"
-  },
-  {
     "name": "Chamicuro",
     "type": "living",
     "scope": "individual",
@@ -7358,12 +7328,6 @@
     "type": "living",
     "scope": "individual",
     "iso6393": "cdf"
-  },
-  {
-    "name": "Chamari",
-    "type": "living",
-    "scope": "individual",
-    "iso6393": "cdg"
   },
   {
     "name": "Chambeali",
@@ -7869,6 +7833,12 @@
     "iso6393": "ckl"
   },
   {
+    "name": "Chakavian",
+    "type": "living",
+    "scope": "individual",
+    "iso6393": "ckm"
+  },
+  {
     "name": "Kaang Chin",
     "type": "living",
     "scope": "individual",
@@ -8143,6 +8113,12 @@
     "type": "living",
     "scope": "individual",
     "iso6393": "cno"
+  },
+  {
+    "name": "Northern Ping Chinese",
+    "type": "living",
+    "scope": "individual",
+    "iso6393": "cnp"
   },
   {
     "name": "Montenegrin",
@@ -8646,6 +8622,12 @@
     "type": "living",
     "scope": "individual",
     "iso6393": "cso"
+  },
+  {
+    "name": "Southern Ping Chinese",
+    "type": "living",
+    "scope": "individual",
+    "iso6393": "csp"
   },
   {
     "name": "Croatia Sign Language",
@@ -9543,12 +9525,6 @@
     "iso6393": "dgt"
   },
   {
-    "name": "Degaru",
-    "type": "living",
-    "scope": "individual",
-    "iso6393": "dgu"
-  },
-  {
     "name": "Daungwurrung",
     "type": "extinct",
     "scope": "individual",
@@ -9968,6 +9944,12 @@
     "iso6393": "dme"
   },
   {
+    "name": "Medefaidrin",
+    "type": "extinct",
+    "scope": "individual",
+    "iso6393": "dmf"
+  },
+  {
     "name": "Upper Kinabatangan",
     "type": "living",
     "scope": "individual",
@@ -10324,12 +10306,6 @@
     "iso6393": "drq"
   },
   {
-    "name": "Dororo",
-    "type": "extinct",
-    "scope": "individual",
-    "iso6393": "drr"
-  },
-  {
     "name": "Gedeo",
     "type": "living",
     "scope": "individual",
@@ -10648,6 +10624,12 @@
     "iso6393": "dwa"
   },
   {
+    "name": "Dawik Kui",
+    "type": "living",
+    "scope": "individual",
+    "iso6393": "dwk"
+  },
+  {
     "name": "Dawro",
     "type": "living",
     "scope": "individual",
@@ -10791,6 +10773,12 @@
     "iso6393": "eaa"
   },
   {
+    "name": "Beginci",
+    "type": "living",
+    "scope": "individual",
+    "iso6393": "ebc"
+  },
+  {
     "name": "Ebughu",
     "type": "living",
     "scope": "individual",
@@ -10927,12 +10915,6 @@
     "iso6393": "eka",
     "iso6392B": "eka",
     "iso6392T": "eka"
-  },
-  {
-    "name": "Eastern Karnic",
-    "type": "extinct",
-    "scope": "individual",
-    "iso6393": "ekc"
   },
   {
     "name": "Ekit",
@@ -12648,6 +12630,12 @@
     "iso6393": "ged"
   },
   {
+    "name": "Gerai",
+    "type": "living",
+    "scope": "individual",
+    "iso6393": "gef"
+  },
+  {
     "name": "Gengle",
     "type": "living",
     "scope": "individual",
@@ -13111,12 +13099,6 @@
     "iso6393": "glh"
   },
   {
-    "name": "Guliguli",
-    "type": "extinct",
-    "scope": "individual",
-    "iso6393": "gli"
-  },
-  {
     "name": "Gula Iro",
     "type": "living",
     "scope": "individual",
@@ -13222,6 +13204,12 @@
     "type": "living",
     "scope": "individual",
     "iso6393": "gmn"
+  },
+  {
+    "name": "Mirning",
+    "type": "living",
+    "scope": "individual",
+    "iso6393": "gmr"
   },
   {
     "name": "Gumalu",
@@ -14018,7 +14006,7 @@
     "iso6393": "gwb"
   },
   {
-    "name": "Kalami",
+    "name": "Gawri",
     "type": "living",
     "scope": "individual",
     "iso6393": "gwc"
@@ -14869,6 +14857,12 @@
     "type": "living",
     "scope": "individual",
     "iso6393": "hne"
+  },
+  {
+    "name": "Hungu",
+    "type": "living",
+    "scope": "individual",
+    "iso6393": "hng"
   },
   {
     "name": "ǁAni",
@@ -18710,12 +18704,6 @@
     "iso6393": "kje"
   },
   {
-    "name": "Khalaj",
-    "type": "living",
-    "scope": "individual",
-    "iso6393": "kjf"
-  },
-  {
     "name": "Khmu",
     "type": "living",
     "scope": "individual",
@@ -18926,7 +18914,7 @@
     "iso6393": "kkp"
   },
   {
-    "name": "Kaiku",
+    "name": "Kaeku",
     "type": "living",
     "scope": "individual",
     "iso6393": "kkq"
@@ -19040,7 +19028,7 @@
     "iso6393": "kli"
   },
   {
-    "name": "Turkic Khalaj",
+    "name": "Khalaj",
     "type": "living",
     "scope": "individual",
     "iso6393": "klj"
@@ -20873,12 +20861,6 @@
     "iso6393": "kxk"
   },
   {
-    "name": "Nepali Kurux",
-    "type": "living",
-    "scope": "individual",
-    "iso6393": "kxl"
-  },
-  {
     "name": "Northern Khmer",
     "type": "living",
     "scope": "individual",
@@ -20925,12 +20907,6 @@
     "type": "living",
     "scope": "individual",
     "iso6393": "kxt"
-  },
-  {
-    "name": "Kui (India)",
-    "type": "living",
-    "scope": "individual",
-    "iso6393": "kxu"
   },
   {
     "name": "Kuvi",
@@ -22559,12 +22535,6 @@
     "type": "living",
     "scope": "individual",
     "iso6393": "lmy"
-  },
-  {
-    "name": "Lumbee",
-    "type": "extinct",
-    "scope": "individual",
-    "iso6393": "lmz"
   },
   {
     "name": "Langbashe",
@@ -25500,7 +25470,7 @@
     "iso6393": "mod"
   },
   {
-    "name": "Montagnais",
+    "name": "Innu",
     "type": "living",
     "scope": "individual",
     "iso6393": "moe"
@@ -29496,6 +29466,12 @@
     "iso6393": "nsa"
   },
   {
+    "name": "Lower Nossob",
+    "type": "extinct",
+    "scope": "individual",
+    "iso6393": "nsb"
+  },
+  {
     "name": "Nshi",
     "type": "living",
     "scope": "individual",
@@ -30032,12 +30008,6 @@
     "type": "living",
     "scope": "individual",
     "iso6393": "nxr"
-  },
-  {
-    "name": "Narau",
-    "type": "extinct",
-    "scope": "individual",
-    "iso6393": "nxu"
   },
   {
     "name": "Nafri",
@@ -31831,7 +31801,7 @@
     "iso6393": "pfa"
   },
   {
-    "name": "Peere",
+    "name": "Pere",
     "type": "living",
     "scope": "individual",
     "iso6393": "pfe"
@@ -32296,12 +32266,6 @@
     "type": "living",
     "scope": "individual",
     "iso6393": "plo"
-  },
-  {
-    "name": "Palpa",
-    "type": "living",
-    "scope": "individual",
-    "iso6393": "plp"
   },
   {
     "name": "Palaic",
@@ -35200,12 +35164,6 @@
     "iso6393": "sdl"
   },
   {
-    "name": "Semandang",
-    "type": "living",
-    "scope": "individual",
-    "iso6393": "sdm"
-  },
-  {
     "name": "Gallurese Sardinian",
     "type": "living",
     "scope": "individual",
@@ -35222,6 +35180,12 @@
     "type": "living",
     "scope": "individual",
     "iso6393": "sdp"
+  },
+  {
+    "name": "Semandang",
+    "type": "living",
+    "scope": "individual",
+    "iso6393": "sdq"
   },
   {
     "name": "Oraon Sadri",
@@ -38082,12 +38046,6 @@
     "type": "living",
     "scope": "individual",
     "iso6393": "tba"
-  },
-  {
-    "name": "Tapeba",
-    "type": "extinct",
-    "scope": "individual",
-    "iso6393": "tbb"
   },
   {
     "name": "Takia",
@@ -41334,6 +41292,12 @@
     "iso6393": "ukh"
   },
   {
+    "name": "Kui (India)",
+    "type": "living",
+    "scope": "individual",
+    "iso6393": "uki"
+  },
+  {
     "name": "Muak Sa-aak",
     "type": "living",
     "scope": "individual",
@@ -41377,6 +41341,12 @@
     "type": "living",
     "scope": "individual",
     "iso6393": "uku"
+  },
+  {
+    "name": "Kuku",
+    "type": "living",
+    "scope": "individual",
+    "iso6393": "ukv"
   },
   {
     "name": "Ukwuani-Aboh-Ndoni",
@@ -43124,6 +43094,12 @@
     "iso6393": "wlg"
   },
   {
+    "name": "Welaun",
+    "type": "living",
+    "scope": "individual",
+    "iso6393": "wlh"
+  },
+  {
     "name": "Waioli",
     "type": "living",
     "scope": "individual",
@@ -44845,6 +44821,12 @@
     "iso6393": "xnk"
   },
   {
+    "name": "Ngumbarl",
+    "type": "extinct",
+    "scope": "individual",
+    "iso6393": "xnm"
+  },
+  {
     "name": "Northern Kankanay",
     "type": "living",
     "scope": "individual",
@@ -44965,10 +44947,22 @@
     "iso6393": "xpa"
   },
   {
+    "name": "Northeastern Tasmanian",
+    "type": "extinct",
+    "scope": "individual",
+    "iso6393": "xpb"
+  },
+  {
     "name": "Pecheneg",
     "type": "historical",
     "scope": "individual",
     "iso6393": "xpc"
+  },
+  {
+    "name": "Oyster Bay Tasmanian",
+    "type": "extinct",
+    "scope": "individual",
+    "iso6393": "xpd"
   },
   {
     "name": "Liberia Kpelle",
@@ -44977,10 +44971,22 @@
     "iso6393": "xpe"
   },
   {
+    "name": "Southeast Tasmanian",
+    "type": "extinct",
+    "scope": "individual",
+    "iso6393": "xpf"
+  },
+  {
     "name": "Phrygian",
     "type": "ancient",
     "scope": "individual",
     "iso6393": "xpg"
+  },
+  {
+    "name": "North Midlands Tasmanian",
+    "type": "extinct",
+    "scope": "individual",
+    "iso6393": "xph"
   },
   {
     "name": "Pictish",
@@ -44999,6 +45005,12 @@
     "type": "living",
     "scope": "individual",
     "iso6393": "xpk"
+  },
+  {
+    "name": "Port Sorell Tasmanian",
+    "type": "extinct",
+    "scope": "individual",
+    "iso6393": "xpl"
   },
   {
     "name": "Pumpokol",
@@ -45055,10 +45067,34 @@
     "iso6393": "xpu"
   },
   {
+    "name": "Northern Tasmanian",
+    "type": "extinct",
+    "scope": "individual",
+    "iso6393": "xpv"
+  },
+  {
+    "name": "Northwestern Tasmanian",
+    "type": "extinct",
+    "scope": "individual",
+    "iso6393": "xpw"
+  },
+  {
+    "name": "Southwestern Tasmanian",
+    "type": "extinct",
+    "scope": "individual",
+    "iso6393": "xpx"
+  },
+  {
     "name": "Puyo",
     "type": "ancient",
     "scope": "individual",
     "iso6393": "xpy"
+  },
+  {
+    "name": "Bruny Island Tasmanian",
+    "type": "extinct",
+    "scope": "individual",
+    "iso6393": "xpz"
   },
   {
     "name": "Karakhanid",
@@ -45119,12 +45155,6 @@
     "type": "extinct",
     "scope": "individual",
     "iso6393": "xrn"
-  },
-  {
-    "name": "Karranga",
-    "type": "extinct",
-    "scope": "individual",
-    "iso6393": "xrq"
   },
   {
     "name": "Raetic",
@@ -45395,12 +45425,6 @@
     "type": "living",
     "scope": "individual",
     "iso6393": "xty"
-  },
-  {
-    "name": "Tasmanian",
-    "type": "extinct",
-    "scope": "individual",
-    "iso6393": "xtz"
   },
   {
     "name": "Alu Kurumba",
@@ -47245,6 +47269,12 @@
     "iso6393": "zaz"
   },
   {
+    "name": "Balaibalan",
+    "type": "constructed",
+    "scope": "individual",
+    "iso6393": "zba"
+  },
+  {
     "name": "Central Berawan",
     "type": "living",
     "scope": "individual",
@@ -47441,12 +47471,6 @@
     "type": "living",
     "scope": "individual",
     "iso6393": "zin"
-  },
-  {
-    "name": "Ziriya",
-    "type": "extinct",
-    "scope": "individual",
-    "iso6393": "zir"
   },
   {
     "name": "Zigula",
