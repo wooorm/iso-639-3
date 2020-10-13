@@ -11719,6 +11719,12 @@
     "iso6393": "fie"
   },
   {
+    "name": "Faifi",
+    "type": "living",
+    "scope": "individual",
+    "iso6393": "fif"
+  },
+  {
     "name": "Fijian",
     "type": "living",
     "scope": "individual",
@@ -38898,12 +38904,6 @@
     "type": "living",
     "scope": "individual",
     "iso6393": "thv"
-  },
-  {
-    "name": "Thudam",
-    "type": "living",
-    "scope": "individual",
-    "iso6393": "thw"
   },
   {
     "name": "Tha",

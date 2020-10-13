@@ -30,13 +30,11 @@ var types = {
 // You can find download links here:
 // <https://iso639-3.sil.org/code_tables/download_tables>
 // Just get the complete code tables in UTF-8.
+var url =
+  'https://iso639-3.sil.org/sites/iso639-3/files/downloads/iso-639-3_Code_Tables_20200515.zip'
+var expectedName = 'iso-639-3_20200515.tab'
 
-https
-  .request(
-    'https://iso639-3.sil.org/sites/iso639-3/files/downloads/iso-639-3_Code_Tables_20200130.zip',
-    onrequest
-  )
-  .end()
+https.request(url, onrequest).end()
 
 function onrequest(request) {
   request
@@ -60,7 +58,7 @@ function onopen(err, archive) {
   function onentry(entry) {
     var name = path.basename(entry.fileName)
 
-    if (name !== 'iso-639-3_20200130.tab') {
+    if (name !== expectedName) {
       other.push(name)
       return read()
     }
