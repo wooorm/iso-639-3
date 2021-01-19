@@ -134,9 +134,9 @@ Object with the following properties:
 
 <!-- Definition -->
 
-[build-badge]: https://img.shields.io/travis/wooorm/iso-639-3.svg
+[build-badge]: https://github.com/wooorm/iso-639-3/workflows/main/badge.svg
 
-[build]: https://travis-ci.org/wooorm/iso-639-3
+[build]: https://github.com/wooorm/iso-639-3/actions
 
 [downloads-badge]: https://img.shields.io/npm/dm/iso-639-3.svg
 
