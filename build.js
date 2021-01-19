@@ -47,8 +47,8 @@ function onclose() {
   yauzl.open('archive.zip', {lazyEntries: true}, onopen)
 }
 
-function onopen(err, archive) {
-  bail(err)
+function onopen(error, archive) {
+  bail(error)
 
   read()
 
@@ -67,8 +67,8 @@ function onopen(err, archive) {
     archive.openReadStream(entry, onreadstream)
   }
 
-  function onreadstream(err, rs) {
-    bail(err)
+  function onreadstream(error, rs) {
+    bail(error)
     rs.pipe(concat(onconcat)).on('error', bail)
     rs.on('end', read)
   }

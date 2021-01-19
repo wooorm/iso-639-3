@@ -37,18 +37,18 @@
     "concat-stream": "^2.0.0",
     "d3-dsv": "^2.0.0",
     "prettier": "^2.0.0",
-    "remark-cli": "^9.0.0-alpha.1",
+    "remark-cli": "^9.0.0",
     "remark-preset-wooorm": "^8.0.0",
     "tape": "^5.0.0",
     "tinyify": "^3.0.0",
-    "xo": "^0.33.0",
+    "xo": "^0.37.0",
     "yauzl": "^2.0.0"
   },
   "scripts": {
     "generate": "node build",
     "format": "remark . -qfo && prettier . -w --loglevel warn && xo --fix",
     "build-bundle": "browserify index.json -s iso6393 -o iso-639-3.js",
-    "build-mangle": "browserify index.json -s iso6393 -p tinyify -o iso-639-3.min.js",
+    "build-mangle": "browserify index.json -s iso6393 -o iso-639-3.min.js -p tinyify",
     "build": "npm run build-bundle && npm run build-mangle",
     "test-api": "node test",
     "test": "npm run format && npm run build && npm run test-api"
@@ -65,7 +65,7 @@
     "prettier": true,
     "esnext": false,
     "rules": {
-      "unicorn/no-fn-reference-in-iterator": "off"
+      "unicorn/no-array-callback-reference": "off"
     },
     "ignores": [
       "iso-639-3.js"
