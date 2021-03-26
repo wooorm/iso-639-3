@@ -1,21 +1,16 @@
 # iso-639-3
 
 [![Build][build-badge]][build]
+[![Coverage][coverage-badge]][coverage]
 [![Downloads][downloads-badge]][downloads]
 [![Size][size-badge]][size]
 
 [ISO 639-3][iso] codes in an accessible format, all of them.
 
-Also includes pre-built indexes to map from 639-3 codes to other codes:
-
-*   [`iso-639-3/to-1`][to-1]
-    — Map ISO 639-3 codes to ISO 639-1 codes
-*   [`iso-639-3/to-2b`][to-2b]
-    — Map ISO 639-3 codes to bibliographic ISO 639-2 codes
-*   [`iso-639-3/to-2t`][to-2t]
-    — Map ISO 639-3 codes to terminologic ISO 639-2 codes
-
 ## Install
+
+This package is ESM only: Node 12+ is needed to use it and it must be `import`ed
+instead of `require`d.
 
 [npm][]:
 
@@ -26,7 +21,7 @@ npm install iso-639-3
 ## Use
 
 ```js
-var iso6393 = require('iso-639-3')
+import {iso6393} from 'iso-639-3'
 
 console.log(iso6393.slice(1820, 1830))
 ```
@@ -65,11 +60,15 @@ Yields:
 
 ## API
 
+This package exports the following identifiers: `iso6393`, `iso6393To1`,
+`iso6393To2B`, and `iso6393To2T`.
+There is no default export.
+
 ### `iso6393`
 
-`Array.<Language>` — List of [`Language`][language]s.
+`Language[]` — List of [`Language`][language]s.
 
-### `Language`
+#### `Language`
 
 Object with the following properties:
 
@@ -81,7 +80,7 @@ Object with the following properties:
 *   `iso6392T` (`string?`) — Terminologic ISO 639-2 code
 *   `iso6391` (`string?`) — ISO 639-1 code
 
-### `Type`
+###### `Type`
 
 `string`, one of the following:
 
@@ -99,7 +98,7 @@ Object with the following properties:
 *   `'special'` — non-language codes
     (example: `und` for `Undetermined`)
 
-### `Scope`
+###### `Scope`
 
 `string`, one of the following:
 
@@ -110,6 +109,21 @@ Object with the following properties:
     (example: `ara` for `Arabic`)
 *   `'special'` — non-language codes
     (example: `und` for `Undetermined`).
+
+### `iso6393To1`
+
+`Object.<string, string>` — Object mapping ISO 639-3 code (`eng`) to ISO 639-1
+codes (`en`).
+
+### `iso6393To2B`
+
+`Object.<string, string>` — Object mapping ISO 639-3 code (`eng`) to
+bibliographic ISO 639-2 codes (`eng`).
+
+### `iso6393To2T`
+
+`Object.<string, string>` — Object mapping ISO 639-3 code (`eng`) to
+terminologic ISO 639-2 codes (`eng`).
 
 ## Related
 
@@ -138,6 +152,10 @@ Object with the following properties:
 
 [build]: https://github.com/wooorm/iso-639-3/actions
 
+[coverage-badge]: https://img.shields.io/codecov/c/github/wooorm/iso-639-3.svg
+
+[coverage]: https://codecov.io/github/wooorm/iso-639-3
+
 [downloads-badge]: https://img.shields.io/npm/dm/iso-639-3.svg
 
 [downloads]: https://www.npmjs.com/package/iso-639-3
@@ -159,9 +177,3 @@ Object with the following properties:
 [type]: #type
 
 [scope]: #scope
-
-[to-1]: to-1.json
-
-[to-2b]: to-2b.json
-
-[to-2t]: to-2t.json

@@ -1,12 +1,10 @@
-'use strict'
-
-var fs = require('fs')
-var path = require('path')
-var https = require('https')
-var concat = require('concat-stream')
-var yauzl = require('yauzl')
-var dsv = require('d3-dsv')
-var bail = require('bail')
+import fs from 'fs'
+import path from 'path'
+import https from 'https'
+import concat from 'concat-stream'
+import yauzl from 'yauzl'
+import dsv from 'd3-dsv'
+import {bail} from 'bail'
 
 var other = []
 var found = false
@@ -85,7 +83,7 @@ function onend() {
 }
 
 function onconcat(body) {
-  var data = dsv.tsvParse(String(body)).map(map)
+  var data = dsv.tsvParse(String(body)).map((d) => map(d))
   var toB = {}
   var toT = {}
   var to1 = {}
@@ -99,14 +97,26 @@ function onconcat(body) {
     if (d.iso6391) to1[d.iso6393] = d.iso6391
   }
 
-  write('index', data)
-  write('to-1', to1)
-  write('to-2b', toB)
-  write('to-2t', toT)
-
-  function write(name, data) {
-    fs.writeFile(name + '.json', JSON.stringify(data, null, 2) + '\n', bail)
-  }
+  fs.writeFile(
+    'iso6393.js',
+    'export var iso6393 = ' + JSON.stringify(data, null, 2) + '\n',
+    bail
+  )
+  fs.writeFile(
+    'iso6393-to-1.js',
+    'export var iso6393To1 = ' + JSON.stringify(to1, null, 2) + '\n',
+    bail
+  )
+  fs.writeFile(
+    'iso6393-to-2b.js',
+    'export var iso6393To2B = ' + JSON.stringify(toB, null, 2) + '\n',
+    bail
+  )
+  fs.writeFile(
+    'iso6393-to-2t.js',
+    'export var iso6393To2T = ' + JSON.stringify(toT, null, 2) + '\n',
+    bail
+  )
 }
 
 function map(d) {
@@ -132,9 +142,9 @@ function map(d) {
   }
 
   return {
-    name: name,
-    type: type,
-    scope: scope,
+    name,
+    type,
+    scope,
     iso6393: id,
     iso6392B: d.Part2B || undefined,
     iso6392T: d.Part2T || undefined,
