@@ -89,17 +89,15 @@ function onconcat(body) {
   var toB = {}
   var toT = {}
   var to1 = {}
+  var index = -1
+  var d
 
-  data.forEach((d) => {
-    var id = d.iso6393
-    var b = d.iso6392B
-    var t = d.iso6392T
-    var i = d.iso6391
-
-    if (b) toB[id] = b
-    if (t) toT[id] = t
-    if (i) to1[id] = i
-  })
+  while (++index < data.length) {
+    d = data[index]
+    if (d.iso6392B) toB[d.iso6393] = d.iso6392B
+    if (d.iso6392T) toT[d.iso6393] = d.iso6392T
+    if (d.iso6391) to1[d.iso6393] = d.iso6391
+  }
 
   write('index', data)
   write('to-1', to1)

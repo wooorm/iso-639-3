@@ -4,21 +4,23 @@ var test = require('tape')
 var iso6393 = require('.')
 
 test('iso6393', function (t) {
+  var index = -1
+
   t.plan(8)
 
   t.ok(Array.isArray(iso6393), 'should be an `array`')
 
-  iso6393.forEach(function (language) {
-    if (language.iso6393 !== 'eng') {
-      return
+  while (++index < iso6393.length) {
+    if (iso6393[index].iso6393 !== 'eng') {
+      continue
     }
 
-    t.equal(language.iso6393, 'eng', 'should have a 639-3 code')
-    t.equal(language.iso6392B, 'eng', 'should have a 639-2B code')
-    t.equal(language.iso6392T, 'eng', 'should have a 639-2T code')
-    t.equal(language.iso6391, 'en', 'should have a 639-1 code')
-    t.equal(language.scope, 'individual', 'should have a scope')
-    t.equal(language.type, 'living', 'should have a type')
-    t.equal(language.name, 'English', 'should have a name')
-  })
+    t.equal(iso6393[index].iso6393, 'eng', 'should have a 639-3 code')
+    t.equal(iso6393[index].iso6392B, 'eng', 'should have a 639-2B code')
+    t.equal(iso6393[index].iso6392T, 'eng', 'should have a 639-2T code')
+    t.equal(iso6393[index].iso6391, 'en', 'should have a 639-1 code')
+    t.equal(iso6393[index].scope, 'individual', 'should have a scope')
+    t.equal(iso6393[index].type, 'living', 'should have a type')
+    t.equal(iso6393[index].name, 'English', 'should have a name')
+  }
 })
