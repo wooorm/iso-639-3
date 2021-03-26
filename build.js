@@ -6,6 +6,18 @@ import yauzl from 'yauzl'
 import dsv from 'd3-dsv'
 import {bail} from 'bail'
 
+/**
+ * @typedef {Object} Language
+ * @property {string} name
+ * @property {string} type
+ * @property {string} scope
+ * @property {string} iso6393
+ * @property {string} [iso6392B]
+ * @property {string} [iso6392T]
+ * @property {string} [iso6391]
+ */
+
+/** @type {string[]} */
 var other = []
 var found = false
 
@@ -34,6 +46,9 @@ var expectedName = 'iso-639-3_20200515.tab'
 
 https.request(url, onrequest).end()
 
+/**
+ * @param {import('http').IncomingMessage} request
+ */
 function onrequest(request) {
   request
     .pipe(fs.createWriteStream('archive.zip'))
@@ -45,6 +60,10 @@ function onclose() {
   yauzl.open('archive.zip', {lazyEntries: true}, onopen)
 }
 
+/**
+ * @param {Error?} error
+ * @param {import('yauzl').ZipFile} [archive]
+ */
 function onopen(error, archive) {
   bail(error)
 
@@ -53,6 +72,9 @@ function onopen(error, archive) {
   archive.on('entry', onentry)
   archive.on('end', onend)
 
+  /**
+   * @param {import('yauzl').Entry} entry
+   */
   function onentry(entry) {
     var name = path.basename(entry.fileName)
 
@@ -65,6 +87,10 @@ function onopen(error, archive) {
     archive.openReadStream(entry, onreadstream)
   }
 
+  /**
+   * @param {Error?} error
+   * @param {import('stream').Readable} [rs]
+   */
   function onreadstream(error, rs) {
     bail(error)
     rs.pipe(concat(onconcat)).on('error', bail)
@@ -82,12 +108,22 @@ function onend() {
   }
 }
 
+/**
+ * @param {Buffer} body
+ */
 function onconcat(body) {
-  var data = dsv.tsvParse(String(body)).map((d) => map(d))
+  var data = dsv.tsvParse(String(body)).map(
+    // @ts-ignore
+    (d) => map(d)
+  )
+  /** @type {Object.<string, string>} */
   var toB = {}
+  /** @type {Object.<string, string>} */
   var toT = {}
+  /** @type {Object.<string, string>} */
   var to1 = {}
   var index = -1
+  /** @type {Language} */
   var d
 
   while (++index < data.length) {
@@ -119,10 +155,16 @@ function onconcat(body) {
   )
 }
 
+/**
+ * @param {{Ref_Name: string, Id: string, Language_Type: string, Scope: string, Part2B?: string, Part2T: string, Part1?: string}} d
+ * @returns {Language}
+ */
 function map(d) {
   var name = d.Ref_Name
   var id = d.Id
+  /** @type {string?} */
   var type = types[d.Language_Type]
+  /** @type {string?} */
   var scope = scopes[d.Scope]
 
   if (!name) {
