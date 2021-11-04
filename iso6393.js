@@ -1,4 +1,4 @@
-export var iso6393 = [
+export const iso6393 = [
   {
     name: 'Ghotuo',
     type: 'living',

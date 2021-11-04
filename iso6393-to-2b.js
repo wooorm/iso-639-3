@@ -1,4 +1,4 @@
-export var iso6393To2B = {
+export const iso6393To2B = {
   aar: 'aar',
   abk: 'abk',
   ace: 'ace',

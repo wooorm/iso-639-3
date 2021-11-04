@@ -1,9 +1,9 @@
-import fs from 'fs'
-import path from 'path'
-import https from 'https'
+import fs from 'node:fs'
+import path from 'node:path'
+import https from 'node:https'
 import concat from 'concat-stream'
 import yauzl from 'yauzl'
-import dsv from 'd3-dsv'
+import {tsvParse} from 'd3-dsv'
 import {bail} from 'bail'
 
 /**
@@ -18,16 +18,16 @@ import {bail} from 'bail'
  */
 
 /** @type {string[]} */
-var other = []
-var found = false
+const other = []
+let found = false
 
-var scopes = {
+const scopes = {
   I: 'individual',
   M: 'macrolanguage',
   S: 'special'
 }
 
-var types = {
+const types = {
   A: 'ancient',
   C: 'constructed',
   E: 'extinct',
@@ -40,9 +40,9 @@ var types = {
 // You can find download links here:
 // <https://iso639-3.sil.org/code_tables/download_tables>
 // Just get the complete code tables in UTF-8.
-var url =
+const url =
   'https://iso639-3.sil.org/sites/iso639-3/files/downloads/iso-639-3_Code_Tables_20200515.zip'
-var expectedName = 'iso-639-3_20200515.tab'
+const expectedName = 'iso-639-3_20200515.tab'
 
 https.request(url, onrequest).end()
 
@@ -76,7 +76,7 @@ function onopen(error, archive) {
    * @param {import('yauzl').Entry} entry
    */
   function onentry(entry) {
-    var name = path.basename(entry.fileName)
+    const name = path.basename(entry.fileName)
 
     if (name !== expectedName) {
       other.push(name)
@@ -112,19 +112,19 @@ function onend() {
  * @param {Buffer} body
  */
 function onconcat(body) {
-  var data = dsv.tsvParse(String(body)).map(
+  const data = tsvParse(String(body)).map(
     // @ts-ignore
     (d) => map(d)
   )
   /** @type {Object.<string, string>} */
-  var toB = {}
+  const toB = {}
   /** @type {Object.<string, string>} */
-  var toT = {}
+  const toT = {}
   /** @type {Object.<string, string>} */
-  var to1 = {}
-  var index = -1
+  const to1 = {}
+  let index = -1
   /** @type {Language} */
-  var d
+  let d
 
   while (++index < data.length) {
     d = data[index]
@@ -135,22 +135,22 @@ function onconcat(body) {
 
   fs.writeFile(
     'iso6393.js',
-    'export var iso6393 = ' + JSON.stringify(data, null, 2) + '\n',
+    'export const iso6393 = ' + JSON.stringify(data, null, 2) + '\n',
     bail
   )
   fs.writeFile(
     'iso6393-to-1.js',
-    'export var iso6393To1 = ' + JSON.stringify(to1, null, 2) + '\n',
+    'export const iso6393To1 = ' + JSON.stringify(to1, null, 2) + '\n',
     bail
   )
   fs.writeFile(
     'iso6393-to-2b.js',
-    'export var iso6393To2B = ' + JSON.stringify(toB, null, 2) + '\n',
+    'export const iso6393To2B = ' + JSON.stringify(toB, null, 2) + '\n',
     bail
   )
   fs.writeFile(
     'iso6393-to-2t.js',
-    'export var iso6393To2T = ' + JSON.stringify(toT, null, 2) + '\n',
+    'export const iso6393To2T = ' + JSON.stringify(toT, null, 2) + '\n',
     bail
   )
 }
@@ -160,12 +160,12 @@ function onconcat(body) {
  * @returns {Language}
  */
 function map(d) {
-  var name = d.Ref_Name
-  var id = d.Id
+  const name = d.Ref_Name
+  const id = d.Id
   /** @type {string?} */
-  var type = types[d.Language_Type]
+  const type = types[d.Language_Type]
   /** @type {string?} */
-  var scope = scopes[d.Scope]
+  const scope = scopes[d.Scope]
 
   if (!name) {
     console.error('Cannot handle language w/o name', d)
