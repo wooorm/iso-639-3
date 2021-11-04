@@ -1,11 +1,3 @@
-import fs from 'node:fs'
-import path from 'node:path'
-import https from 'node:https'
-import concat from 'concat-stream'
-import yauzl from 'yauzl'
-import {tsvParse} from 'd3-dsv'
-import {bail} from 'bail'
-
 /**
  * @typedef {Object} Language
  * @property {string} name
@@ -16,6 +8,14 @@ import {bail} from 'bail'
  * @property {string} [iso6392T]
  * @property {string} [iso6391]
  */
+
+import fs from 'node:fs'
+import path from 'node:path'
+import https from 'node:https'
+import concatStream from 'concat-stream'
+import yauzl from 'yauzl'
+import {tsvParse} from 'd3-dsv'
+import {bail} from 'bail'
 
 /** @type {string[]} */
 const other = []
@@ -69,42 +69,41 @@ function onopen(error, archive) {
 
   read()
 
-  archive.on('entry', onentry)
-  archive.on('end', onend)
+  archive.on(
+    'entry',
+    /**
+     * @param {import('yauzl').Entry} entry
+     */ (entry) => {
+      const name = path.basename(entry.fileName)
 
-  /**
-   * @param {import('yauzl').Entry} entry
-   */
-  function onentry(entry) {
-    const name = path.basename(entry.fileName)
+      if (name !== expectedName) {
+        other.push(name)
+        return read()
+      }
 
-    if (name !== expectedName) {
-      other.push(name)
-      return read()
+      found = true
+      archive.openReadStream(
+        entry,
+        /**
+         * @param {Error?} error
+         * @param {import('stream').Readable} [rs]
+         */ (error, rs) => {
+          bail(error)
+          rs.pipe(concatStream(onconcat)).on('error', bail)
+          rs.on('end', read)
+        }
+      )
     }
+  )
 
-    found = true
-    archive.openReadStream(entry, onreadstream)
-  }
-
-  /**
-   * @param {Error?} error
-   * @param {import('stream').Readable} [rs]
-   */
-  function onreadstream(error, rs) {
-    bail(error)
-    rs.pipe(concat(onconcat)).on('error', bail)
-    rs.on('end', read)
-  }
+  archive.on('end', () => {
+    if (!found) {
+      throw new Error('File not found, pick one of: `' + other + '`')
+    }
+  })
 
   function read() {
     archive.readEntry()
-  }
-}
-
-function onend() {
-  if (!found) {
-    throw new Error('File not found, pick one of: `' + other + '`')
   }
 }
 
@@ -113,9 +112,46 @@ function onend() {
  */
 function onconcat(body) {
   const data = tsvParse(String(body)).map(
-    // @ts-ignore
-    (d) => map(d)
+    /**
+     * @param {{Ref_Name: string, Id: string, Language_Type: string, Scope: string, Part2B?: string, Part2T: string, Part1?: string}} d
+     * @returns {Language}
+     */
+    (d) => {
+      const name = d.Ref_Name
+      const id = d.Id
+      /** @type {string?} */
+      const type = types[d.Language_Type]
+      /** @type {string?} */
+      const scope = scopes[d.Scope]
+
+      if (!name) {
+        console.error('Cannot handle language w/o name', d)
+      }
+
+      if (!type) {
+        console.error('Cannot handle language w/o type', d)
+      }
+
+      if (!scope) {
+        console.error('Cannot handle language w/o scope', d)
+      }
+
+      if (!id) {
+        console.error('Cannot handle language w/o scope', d)
+      }
+
+      return {
+        name,
+        type,
+        scope,
+        iso6393: id,
+        iso6392B: d.Part2B || undefined,
+        iso6392T: d.Part2T || undefined,
+        iso6391: d.Part1 || undefined
+      }
+    }
   )
+
   /** @type {Object.<string, string>} */
   const toB = {}
   /** @type {Object.<string, string>} */
@@ -123,11 +159,9 @@ function onconcat(body) {
   /** @type {Object.<string, string>} */
   const to1 = {}
   let index = -1
-  /** @type {Language} */
-  let d
 
   while (++index < data.length) {
-    d = data[index]
+    const d = data[index]
     if (d.iso6392B) toB[d.iso6393] = d.iso6392B
     if (d.iso6392T) toT[d.iso6393] = d.iso6392T
     if (d.iso6391) to1[d.iso6393] = d.iso6391
@@ -153,43 +187,4 @@ function onconcat(body) {
     'export const iso6393To2T = ' + JSON.stringify(toT, null, 2) + '\n',
     bail
   )
-}
-
-/**
- * @param {{Ref_Name: string, Id: string, Language_Type: string, Scope: string, Part2B?: string, Part2T: string, Part1?: string}} d
- * @returns {Language}
- */
-function map(d) {
-  const name = d.Ref_Name
-  const id = d.Id
-  /** @type {string?} */
-  const type = types[d.Language_Type]
-  /** @type {string?} */
-  const scope = scopes[d.Scope]
-
-  if (!name) {
-    console.error('Cannot handle language w/o name', d)
-  }
-
-  if (!type) {
-    console.error('Cannot handle language w/o type', d)
-  }
-
-  if (!scope) {
-    console.error('Cannot handle language w/o scope', d)
-  }
-
-  if (!id) {
-    console.error('Cannot handle language w/o scope', d)
-  }
-
-  return {
-    name,
-    type,
-    scope,
-    iso6393: id,
-    iso6392B: d.Part2B || undefined,
-    iso6392T: d.Part2T || undefined,
-    iso6391: d.Part1 || undefined
-  }
 }
