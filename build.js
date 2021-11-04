@@ -9,6 +9,7 @@
  * @property {string} [iso6391]
  */
 
+import assert from 'node:assert'
 import fs from 'node:fs'
 import path from 'node:path'
 import https from 'node:https'
@@ -21,12 +22,14 @@ import {bail} from 'bail'
 const other = []
 let found = false
 
+/** @type {Record<string, string>} */
 const scopes = {
   I: 'individual',
   M: 'macrolanguage',
   S: 'special'
 }
 
+/** @type {Record<string, string>} */
 const types = {
   A: 'ancient',
   C: 'constructed',
@@ -57,106 +60,82 @@ function onrequest(request) {
 }
 
 function onclose() {
-  yauzl.open('archive.zip', {lazyEntries: true}, onopen)
-}
+  yauzl.open('archive.zip', {lazyEntries: true}, (error, archive) => {
+    bail(error)
+    assert(archive, 'expecter `archive` if w/o error')
 
-/**
- * @param {Error?} error
- * @param {import('yauzl').ZipFile} [archive]
- */
-function onopen(error, archive) {
-  bail(error)
+    read()
 
-  read()
+    archive.on(
+      'entry',
+      /**
+       * @param {import('yauzl').Entry} entry
+       */ (entry) => {
+        const name = path.basename(entry.fileName)
 
-  archive.on(
-    'entry',
-    /**
-     * @param {import('yauzl').Entry} entry
-     */ (entry) => {
-      const name = path.basename(entry.fileName)
+        if (name !== expectedName) {
+          other.push(name)
+          return read()
+        }
 
-      if (name !== expectedName) {
-        other.push(name)
-        return read()
-      }
-
-      found = true
-      archive.openReadStream(
-        entry,
-        /**
-         * @param {Error?} error
-         * @param {import('stream').Readable} [rs]
-         */ (error, rs) => {
+        found = true
+        archive.openReadStream(entry, (error, rs) => {
           bail(error)
+          assert(rs, 'expecter readable stream if w/o error')
           rs.pipe(concatStream(onconcat)).on('error', bail)
           rs.on('end', read)
-        }
-      )
-    }
-  )
+        })
+      }
+    )
 
-  archive.on('end', () => {
-    if (!found) {
-      throw new Error('File not found, pick one of: `' + other + '`')
+    archive.on('end', () => {
+      if (!found) {
+        throw new Error('File not found, pick one of: `' + other + '`')
+      }
+    })
+
+    function read() {
+      assert(archive, 'expecter `archive` if w/o error')
+      archive.readEntry()
     }
   })
-
-  function read() {
-    archive.readEntry()
-  }
 }
 
 /**
  * @param {Buffer} body
  */
 function onconcat(body) {
-  const data = tsvParse(String(body)).map(
-    /**
-     * @param {{Ref_Name: string, Id: string, Language_Type: string, Scope: string, Part2B?: string, Part2T: string, Part1?: string}} d
-     * @returns {Language}
-     */
-    (d) => {
-      const name = d.Ref_Name
-      const id = d.Id
-      /** @type {string?} */
-      const type = types[d.Language_Type]
-      /** @type {string?} */
-      const scope = scopes[d.Scope]
+  const data = tsvParse(String(body)).map((d) => {
+    const name = d.Ref_Name
+    const id = d.Id
+    const languageType = d.Language_Type
+    const languageScope = d.Scope
+    assert(typeof name === 'string', 'expected language w/ names')
+    assert(typeof languageType === 'string', 'expected language w/ types')
+    assert(typeof languageScope === 'string', 'expected language w/ scopes')
+    assert(typeof id === 'string', 'expected language w/ ids')
+    assert(languageType in types, 'expected language w/ types')
+    assert(languageScope in scopes, 'expected language w/ scopes')
 
-      if (!name) {
-        console.error('Cannot handle language w/o name', d)
-      }
-
-      if (!type) {
-        console.error('Cannot handle language w/o type', d)
-      }
-
-      if (!scope) {
-        console.error('Cannot handle language w/o scope', d)
-      }
-
-      if (!id) {
-        console.error('Cannot handle language w/o scope', d)
-      }
-
-      return {
-        name,
-        type,
-        scope,
-        iso6393: id,
-        iso6392B: d.Part2B || undefined,
-        iso6392T: d.Part2T || undefined,
-        iso6391: d.Part1 || undefined
-      }
+    /** @type {Language} */
+    const result = {
+      name,
+      type: types[languageType],
+      scope: scopes[languageScope],
+      iso6393: id,
+      iso6392B: d.Part2B || undefined,
+      iso6392T: d.Part2T || undefined,
+      iso6391: d.Part1 || undefined
     }
-  )
 
-  /** @type {Object.<string, string>} */
+    return result
+  })
+
+  /** @type {Record<string, string>} */
   const toB = {}
-  /** @type {Object.<string, string>} */
+  /** @type {Record<string, string>} */
   const toT = {}
-  /** @type {Object.<string, string>} */
+  /** @type {Record<string, string>} */
   const to1 = {}
   let index = -1
 
@@ -169,22 +148,109 @@ function onconcat(body) {
 
   fs.writeFile(
     'iso6393.js',
-    'export const iso6393 = ' + JSON.stringify(data, null, 2) + '\n',
+    [
+      '/**',
+      " * @typedef {'living'|'historical'|'extinct'|'ancient'|'constructed'|'special'} Type",
+      ' *   Category of a language:',
+      ' *',
+      " *   *   `'living'`",
+      ' *       — currently spoken language',
+      ' *       (example: `nhi` for `Zacatlán-Ahuacatlán-Tepetzintla Nahuatl`)',
+      " *   *   `'historical'`",
+      ' *       — extinct language distinct from modern languages that descended from it',
+      ' *       (example: `ofs` for `Old Frisian`)',
+      " *   *   `'extinct'`",
+      ' *       — language that went extinct recently',
+      ' *       (example: `rbp` for `Barababaraba`)',
+      " *   *   `'ancient'`",
+      ' *       — language that went extinct long ago',
+      ' *       (example: `got` for `Gothic`)',
+      " *   *   `'constructed'`",
+      ' *       — artificial languages, excluding programming languages',
+      ' *       (example: `epo` for `Esperanto`)',
+      " *   *   `'special'`",
+      ' *       — non-language codes',
+      ' *       (example: `und` for `Undetermined`)',
+      ' *',
+      " * @typedef {'individual'|'macrolanguage'|'special'} Scope",
+      ' *   Scope of a language:',
+      ' *',
+      " *   *   `'individual'`",
+      ' *       — normal, single language',
+      ' *       (example: `eng` for `English`)',
+      " *   *   `'macrolanguage'`",
+      ' *       — one-to-many grouping of languages, because older ISO 639s included them',
+      ' *       (example: `ara` for `Arabic`)',
+      " *   *   `'special'`",
+      ' *       — non-language codes',
+      ' *       (example: `und` for `Undetermined`)',
+      ' *',
+      ' * @typedef Language',
+      ' *   Object representing a language.',
+      ' * @property {string} name',
+      " *   Name (example: `'English'`).",
+      ' * @property {Type} type',
+      " *   Type (example: `'living'`).",
+      ' * @property {Scope} scope',
+      " *   Scope (example: `'individual'`)",
+      ' * @property {string} iso6393',
+      ' *   ISO 639-3 code.',
+      ' * @property {string} [iso6392B]',
+      " *   ISO 639-2 (bibliographic) code (example: `'eng'`).",
+      ' * @property {string} [iso6392T]',
+      " *   ISO 639-2 (terminologic) code (example: `'eng'`).",
+      ' * @property {string} [iso6391]',
+      " *   ISO 639-1 code (example: `'en'`).",
+      ' */',
+      '',
+      '/**',
+      ' * List of ISO 639-3 languages.',
+      ' *',
+      ' * @type {Array<Language>}',
+      ' */',
+      '// @ts-expect-error',
+      'export const iso6393 = ' + JSON.stringify(data, null, 2),
+      ''
+    ].join('\n'),
     bail
   )
   fs.writeFile(
     'iso6393-to-1.js',
-    'export const iso6393To1 = ' + JSON.stringify(to1, null, 2) + '\n',
+    [
+      '/**',
+      ' * Map of ISO 639-3 codes to ISO 639-1 codes.',
+      ' *',
+      ' * @type {Record<string, string>}',
+      ' */',
+      'export const iso6393To1 = ' + JSON.stringify(to1, null, 2),
+      ''
+    ].join('\n'),
     bail
   )
   fs.writeFile(
     'iso6393-to-2b.js',
-    'export const iso6393To2B = ' + JSON.stringify(toB, null, 2) + '\n',
+    [
+      '/**',
+      ' * Map of ISO 639-3 codes to bibliographic ISO 639-2 codes.',
+      ' *',
+      ' * @type {Record<string, string>}',
+      ' */',
+      'export const iso6393To2B = ' + JSON.stringify(toB, null, 2),
+      ''
+    ].join('\n'),
     bail
   )
   fs.writeFile(
     'iso6393-to-2t.js',
-    'export const iso6393To2T = ' + JSON.stringify(toT, null, 2) + '\n',
+    [
+      '/**',
+      ' * Map of ISO 639-3 codes to terminologic ISO 639-2 codes.',
+      ' *',
+      ' * @type {Record<string, string>}',
+      ' */',
+      'export const iso6393To2T = ' + JSON.stringify(toT, null, 2),
+      ''
+    ].join('\n'),
     bail
   )
 }

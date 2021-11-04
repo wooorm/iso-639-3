@@ -66,49 +66,63 @@ There is no default export.
 
 ### `iso6393`
 
-`Language[]` — List of [`Language`][language]s.
+List of [`Language`][language]s (`Array<Language>`).
 
 #### `Language`
 
-Object with the following properties:
+Object representing a language:
 
-*   `name` (`string`) — Language name
-*   `type` (`string`) — Language type ([`Type`][type])
-*   `scope` (`string`) — Language scope ([`Scope`][scope])
-*   `iso6393` (`string`) — ISO 639-3 code
-*   `iso6392B` (`string?`) — Bibliographic ISO 639-2 code
-*   `iso6392T` (`string?`) — Terminologic ISO 639-2 code
+*   `name` (`string`)
+    — name (example: `'English'`)
+*   `type` (`string`)
+    — [`Type`][type] (example: `'living'`)
+*   `scope` (`string`)
+    — [`Scope`][scope] (example: `'individual'`)
+*   `iso6393` (`string`)
+    — ISO 639-3 code (example: `'eng'`)
+*   `iso6392B` (`string?`)
+    — ISO 639-2 (bibliographic) code (example: `'eng'`)
+*   `iso6392T` (`string?`)
+    — ISO 639-2 (terminologic) code (example: `'eng'`)
 *   `iso6391` (`string?`) — ISO 639-1 code
+    — ISO 639-1 code (example: `'en'`)
 
 ###### `Type`
 
-`string`, one of the following:
+Category of a language:
 
-*   `'living'` — still spoken languages
+*   `'living'`
+    — currently spoken language
     (example: `nhi` for `Zacatlán-Ahuacatlán-Tepetzintla Nahuatl`)
-*   `'historical'` — distinct from any modern languages that are descended from
-    it
+*   `'historical'`
+    — extinct language distinct from modern languages that descended from it
     (example: `ofs` for `Old Frisian`)
-*   `'extinct'` — language that went extinct in recent time
+*   `'extinct'`
+    — language that went extinct recently
     (example: `rbp` for `Barababaraba`)
-*   `'ancient'` — language that went extinct in ancient times
+*   `'ancient'`
+    — language that went extinct long ago
     (example: `got` for `Gothic`)
-*   `'constructed'` — artificial languages, but not programming languages
+*   `'constructed'`
+    — artificial languages, excluding programming languages
     (example: `epo` for `Esperanto`)
-*   `'special'` — non-language codes
+*   `'special'`
+    — non-language codes
     (example: `und` for `Undetermined`)
 
 ###### `Scope`
 
-`string`, one of the following:
+Scope of a language:
 
-*   `'individual'` — normal, single language
+*   `'individual'`
+    — normal, single language
     (example: `eng` for `English`)
-*   `'macrolanguage'` — one-to-many grouping of languages, because older ISO
-    639s included them
+*   `'macrolanguage'`
+    — one-to-many grouping of languages, because older ISO 639s included them
     (example: `ara` for `Arabic`)
-*   `'special'` — non-language codes
-    (example: `und` for `Undetermined`).
+*   `'special'`
+    — non-language codes
+    (example: `und` for `Undetermined`)
 
 ### `iso6393To1`
 
