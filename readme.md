@@ -39,7 +39,7 @@ in particular.
 ## Install
 
 This package is [ESM only][esm].
-In Node.js (version 12.20+, 14.14+, or 16.0+), install with [npm][]:
+In Node.js (version 14.14+, 16.0+), install with [npm][]:
 
 ```sh
 npm install iso-639-3
@@ -101,8 +101,8 @@ Yields:
 
 ## API
 
-This package exports the following identifiers: `iso6393`, `iso6393To1`,
-`iso6393To2B`, and `iso6393To2T`.
+This package exports the identifier `iso6393`, `iso6393To1`, `iso6393To2B`, and
+`iso6393To2T`.
 There is no default export.
 
 ### `iso6393`
@@ -182,11 +182,12 @@ Map of ISO 639-3 codes to terminologic ISO 639-2 codes
 ## Types
 
 This package is fully typed with [TypeScript][].
+It exports the additional types `Language`, `Scope`, and `Type`.
 
 ## Compatibility
 
 This package is at least compatible with all maintained versions of Node.js.
-As of now, that is Node.js 12.20+, 14.14+, and 16.0+.
+As of now, that is Node.js 14.14+ and 16.0+.
 It also works in Deno and modern browsers.
 
 ## Security
