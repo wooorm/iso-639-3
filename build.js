@@ -9,7 +9,7 @@
  * @property {string} [iso6391]
  */
 
-import assert from 'node:assert'
+import assert from 'node:assert/strict'
 import fs from 'node:fs'
 import path from 'node:path'
 import https from 'node:https'
@@ -104,7 +104,7 @@ function onclose() {
 /**
  * @param {Buffer} body
  */
-function onconcat(body) {
+async function onconcat(body) {
   const data = tsvParse(String(body)).map((d) => {
     const name = d.Ref_Name
     const id = d.Id
@@ -146,7 +146,7 @@ function onconcat(body) {
     if (d.iso6391) to1[d.iso6393] = d.iso6391
   }
 
-  fs.writeFile(
+  await fs.promises.writeFile(
     'iso6393.js',
     [
       '/**',
@@ -211,10 +211,10 @@ function onconcat(body) {
       '// @ts-expect-error',
       'export const iso6393 = ' + JSON.stringify(data, null, 2),
       ''
-    ].join('\n'),
-    bail
+    ].join('\n')
   )
-  fs.writeFile(
+
+  await fs.promises.writeFile(
     'iso6393-to-1.js',
     [
       '/**',
@@ -224,10 +224,10 @@ function onconcat(body) {
       ' */',
       'export const iso6393To1 = ' + JSON.stringify(to1, null, 2),
       ''
-    ].join('\n'),
-    bail
+    ].join('\n')
   )
-  fs.writeFile(
+
+  await fs.promises.writeFile(
     'iso6393-to-2b.js',
     [
       '/**',
@@ -237,10 +237,10 @@ function onconcat(body) {
       ' */',
       'export const iso6393To2B = ' + JSON.stringify(toB, null, 2),
       ''
-    ].join('\n'),
-    bail
+    ].join('\n')
   )
-  fs.writeFile(
+
+  await fs.promises.writeFile(
     'iso6393-to-2t.js',
     [
       '/**',
@@ -250,7 +250,6 @@ function onconcat(body) {
       ' */',
       'export const iso6393To2T = ' + JSON.stringify(toT, null, 2),
       ''
-    ].join('\n'),
-    bail
+    ].join('\n')
   )
 }
