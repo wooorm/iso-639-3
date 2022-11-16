@@ -1,24 +1,19 @@
-import test from 'tape'
+import assert from 'node:assert/strict'
+import test from 'node:test'
 import {iso6393} from './index.js'
 
-test('iso6393', function (t) {
-  let index = -1
+test('iso6393', function () {
+  assert.ok(Array.isArray(iso6393), 'should be an `array`')
 
-  t.plan(8)
+  const eng = iso6393.find((d) => d.iso6393 === 'eng')
 
-  t.ok(Array.isArray(iso6393), 'should be an `array`')
+  assert(eng, 'should contain `eng`')
 
-  while (++index < iso6393.length) {
-    if (iso6393[index].iso6393 !== 'eng') {
-      continue
-    }
-
-    t.equal(iso6393[index].iso6393, 'eng', 'should have a 639-3 code')
-    t.equal(iso6393[index].iso6392B, 'eng', 'should have a 639-2B code')
-    t.equal(iso6393[index].iso6392T, 'eng', 'should have a 639-2T code')
-    t.equal(iso6393[index].iso6391, 'en', 'should have a 639-1 code')
-    t.equal(iso6393[index].scope, 'individual', 'should have a scope')
-    t.equal(iso6393[index].type, 'living', 'should have a type')
-    t.equal(iso6393[index].name, 'English', 'should have a name')
-  }
+  assert.equal(eng.iso6393, 'eng', 'should have a 639-3 code')
+  assert.equal(eng.iso6392B, 'eng', 'should have a 639-2B code')
+  assert.equal(eng.iso6392T, 'eng', 'should have a 639-2T code')
+  assert.equal(eng.iso6391, 'en', 'should have a 639-1 code')
+  assert.equal(eng.scope, 'individual', 'should have a scope')
+  assert.equal(eng.type, 'living', 'should have a type')
+  assert.equal(eng.name, 'English', 'should have a name')
 })
