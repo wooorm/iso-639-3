@@ -4,9 +4,9 @@
  * @property {string} type
  * @property {string} scope
  * @property {string} iso6393
- * @property {string} [iso6392B]
- * @property {string} [iso6392T]
- * @property {string} [iso6391]
+ * @property {string | undefined} iso6392B
+ * @property {string | undefined} iso6392T
+ * @property {string | undefined} iso6391
  */
 
 import assert from 'node:assert/strict'
